@@ -1,8 +1,8 @@
-listPerson, listPlace, listOrg, p, note {
+listPerson, listPlace, listOrg, p, note, bibl {
   display: block
 }
 
-person, place, org, bibl {
+person, place, org {
   display: list-item
 }
 
