@@ -9,3 +9,15 @@ person, place, org, bibl {
 title {
   font-style: italic;
 }
+
+person > persName, place > placeName, org > orgName {
+  display: block;
+  font-size: 120%;
+  font-weight: bolder;
+}
+
+hi[rend=superscript] {
+  vertical-align: super;
+  font-size: smaller;
+  line-height: normal;
+}
