@@ -1,0 +1,11 @@
+listPerson, listPlace, listOrg, p, note {
+  display: block
+}
+
+person, place, org, bibl {
+  display: list-item
+}
+
+title {
+  font-style: italic;
+}
