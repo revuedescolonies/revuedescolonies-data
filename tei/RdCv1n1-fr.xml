@@ -9,7 +9,7 @@
                 <title>Revue des Colonies V.1 N°1</title>
                 <editor>Maria Beliaeva Solomon</editor>
             </titleStmt>
-            <xi:include href="shared/editionStmt.xml"/>
+            <!-- <xi:include href="shared/editionStmt.xml"/> -->
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
@@ -1736,9 +1736,9 @@
                 <p>IMPRIMERIE D'HERHAN, 380, RUE SAINT-DENIS.</p>
             </div>
         </body>
-        <back>
-            <xi:include href="RdCv1n1-notes.xml"/>
-            <xi:include href="entities.xml"/>
-        </back>
+        <!-- <back>
+            <xi:include href="notes/RdCv1n1-notes.xml"/>
+            <xi:include href="shared/entities.xml"/>
+        </back> -->
     </text>
 </TEI>

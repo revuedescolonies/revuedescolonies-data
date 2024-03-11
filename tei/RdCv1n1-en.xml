@@ -123,12 +123,13 @@
                     </epigraph>
                 </div>
                 <div>
-                    <div>
-                        <head rend="bold">Excerpt</head>
-                        <head>FROM THE MINUTES OF THE <orgName>NATIONAL ASSEMBLY</orgName> OF AUGUST
-                            20, 21, 22, 23, 24, 26 AND OCTOBER 1st, 1789.</head>
-                        <head>DECLARATION OF THE RIGHTS OF MAN IN SOCIETY.<ptr target="#n7767"
+                    <head rend="bold">Excerpt</head>
+                    <head>FROM THE MINUTES OF THE <orgName>NATIONAL ASSEMBLY</orgName> OF AUGUST
+                        20, 21, 22, 23, 24, 26 AND OCTOBER 1st, 1789.</head>
+                    <head>DECLARATION OF THE RIGHTS OF MAN IN SOCIETY.<ptr target="#n7767"
                             /></head>
+                    <floatingText><body>
+                        <div>
                         <p>The representatives of the French People, formed into a National
                             Assembly, considering ignorance, forgetfulness or contempt of the rights
                             of man to be the only causes of public misfortunes and the corruption of
@@ -220,7 +221,9 @@
                                 DEMEUNIER, BUREAU DE Pusy, Bishop DE NANCY, FAYDEL, Abbot of EYMAR,
                                 secretaries. </signed>
                         </closer>
-                    </div>
+                        </div>
+
+                    </body></floatingText>
                     <pb n="8" facs="v1n1p8"/>
                     <p>All of the principles of '89 are in this declaration; and, whatever one does,
                         there is in these principles, which the French revolution, by its republican
