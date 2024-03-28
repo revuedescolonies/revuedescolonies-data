@@ -5,7 +5,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>REVUE DES COLONIES.</title>
+            <title>Revue des Colonies N°6.</title>
+            <editor> Apolline Camille Floriane Lagarde </editor>
          </titleStmt>
          <!-- <xi:include href="shared/editionStmt.xml"/> -->
          <publicationStmt>
@@ -17,9 +18,58 @@
       </fileDesc>
    </teiHeader>
    <text>
+      <front>
+         <titlePage>
+            <titlePart type="main">REVUE<lb/>DES<lb/>COLONIES,</titlePart>
+            <titlePart type="sub"><lb/>RECUEIL MENSUEL<lb/> DE LA POLITIQUE, DE L'ADMINISTRATION, DE
+               LA JUSTICE, DE L'INSTRUCTION ET DES MOEURS COLONIALES,</titlePart>
+            <byline><lb/>PAR UNE <orgName ref="#SHC">SOCIÉTÉ D'HOMMES DE COULEUR</orgName>
+               <lb/> DIRIGÉE PAR <persName ref="#CB">C.-A. BISSETTE</persName>.<lb/></byline>
+            <docEdition><lb/>N°6<lb/>Décembre.<lb/>
+               <lb/> PARIS,<lb/> AU BUREAU DE LA REVUE DES COLONIES,</docEdition>
+            <docImprint><lb/>46, RUE NEUVE-SAINT-EUSTACHE <lb/> 1834.</docImprint>
+         </titlePage>
+      </front>
+
       <body>
          <div>
+         <head>REVUE<lb/>DES <lb/>COLONIES</head>
+            <div>
+            <head>DE LA FUSION DES DEUX RACES AUX COLONIES ET DES CAUSES QUI LA RETARDENT.</head>
             
+            <p>La fusion si désirable des deux races aux colonies ne saurait y avoir lieu sérieusement dans l'état peu avancé de leur civilisation. Il est évident que, jusqu'à ce que soient tombés, d'une part, les préjugés de caste, et que, de l'autre, se soit éteint le ressentiment naturel d'une longue oppression, la nécessité seule y réglera les rapports sociaux des hommes de couleur et des blancs. Toutefois, la philosophie et la raison, par l'action incessante de quelques hommes de cœur et de 
+            <choice>
+   <orig>dévoùment</orig>
+   <reg>dévouement</reg>
+            </choice>
+, finiront par démontrer à tous où est le mal et l'erreur, où est la vérité et le remède ; et, dans un espace de temps assurément moins éloigné que ne l'espèrent les tis et que ne le craignent les autres, l'œuvre sera devenue telle ment facile que la seule impulsion toute-puissante et maternelle de la métropole suffira pour la mener à fin. Il est impossible en effet que, quand les justes griefs auront été satisfaits, les 
+<choice>
+<orig>ressentimens</orig>
+<reg>ressentiments</reg>
+</choice>
+ <choice>
+ <sic>appaisés</sic>
+ <corr>apaisés</corr>
+ </choice>
+ , les intérêts nivelés, les oppresseurs désarmés et punis, en un mot les droits proclamés égaux et convenablement protégés par l'autorité publique ; il est impossible, disons-nous, que les populations blanches et noires des colonies ne fraternisent pas et ne s'unissent pas pour exploiter en commun, au plus grand avantage de tous, cette terre, leur commune patrie aujourd'hui, dont une meilleure organisation du travail et le développement du sentiment éminemment social de la fraternité des hommes feront pour eux une patrie aussi chère que libre, industrieuse et prospère. Une fois l'esclavage aboli, tous ces hommes rendus à la liberté, initiés par l'éducation aux lumières et aux sciences d'Europe, si fécondes en résultats heureux, chercheront, n'en doutez point, dans un travail intelligent et libre des sources de prospérité et de bien-être qui peuvent dépasser tous les calculs de la prévoyance humaine. La liberté fera de ces noirs, que leur condition seule fait ce que nous les voyons, de laborieux ouvriers, d'infatigables cultivateurs, des citoyens utiles dans toutes les branches des travaux<pb n="4"/> humains. Que leur manque-t-il ? la liberté et les 
+ <choice>
+ <orig>instrumens</orig>
+ <reg>instruments</reg>
+ </choice>
+  du travail, qu'on finit toujours par acquérir lorsqu'on la possède ; la liberté, première condition de toute société heureuse ; la liberté, qui se corrige elle-même, éclaire ses propres fautes et guérit, comme la lance d'Achille, les blessures qu'elle fait, et qui, avec l'égalité, impose à l'homme la vertu. Là est pour les colonies la source de leurs destinées futures et de prospérités peut-être 
+  <choice>
+  <orig>inouie</orig>
+  <reg>inouïe</reg>
+  </choice>. L'esclave est partout indolent, vicieux et abject ; l'homme libre est actif, vertueux et entreprenant, a dit un célèbre américain, l'un des plus illustres écrivains de notre âge. C'est là tout le secret de l'immobilité des sociétés à esclaves, et de l'immense activité des sociétés fondées sur la mise en pratique des droits de tous. Dans les premières, l'esclave est indolent, vicieux et abject, en effet, et il n'en saurait être autrement : il n'y a pour lui ni honneur ni avantage à être autre chose. L'esclavage est pour lui comme l'enfer du Dante, il a laissé toute espérance en y entrant. Le maître est dur, hautain, cruel et non moins vicieux, aussi par position, outre qu'il est la première et la fatale cause de la dégradation et de tous les vices du premier. Détesté d'ailleurs de celui qu'il exploite sans pitié, sa vie est une appréhension continuelle. Ge n'est pas là un homme libre ; c'est un esclave aussi, coupable puisqu'il est forcément tyran, en lutte perpétuelle avec sa conscience ou avec les nécessités périlleuses de sa situation, éternellement menacé, par conséquent sans sécurité ni véritable liberté. Un tel état social est intolérable, dans ce siècle surtout, où la liberté et l'égalité sont les bases du droit public chez tous les peuples civilisés ; c'est une détestable exception qui ne saurait durer. 
+</p>
+
+<p>
+</p>
+            
+            
+            </div>
+
+
          </div>
       </body>
    </text>
