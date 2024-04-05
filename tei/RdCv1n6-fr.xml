@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
@@ -97,7 +97,12 @@ que la publicité ne peut être, en ceci comme en tout, que salutaire. Le premie
      </choice>
       publics en réunions particulières afin d'écarter les mulâtres. Des rixes s'ensuivent, les jeunes gens de couleur sont repoussés avec brutalité par la force armée, ils sont arrêtés et emprisonnés.</p>
 
-      <p>Des ordonnances locales, qui empêchaient les hommes de couleur, à la <placeName>Martinique</placeName>, de se trouver sur certaines promenades réservées aux blancs, furent abolies par la révolution de juillet. Mais l'aristocratie de cette colonie résista, et les hommes de couleur furent obligés d'en venir aux mains avec elle pour conquérir un pareil droit. N'est-ce pas incroyable ?</p>
+      <p>Des ordonnances locales, qui empêchaient les 
+      hommes de couleur, à la <placeName>Martinique</placeName>, de se trouver 
+      sur certaines promenades réservées aux blancs, furent abolies par la révolution 
+      de juillet. Mais l'aristocratie de cette colonie résista, et les hommes de 
+      couleur furent obligés d'en venir aux mains avec elle pour conquérir un pareil 
+      droit. N'est-ce pas incroyable ?</p>
 
       <p>Malgré les ordonnances qui donnent la qualification de sieur et dame, refusée jusqu'ici aux hommes de couleur dans les actes publics, les autorités ont résisté 
       <choice>
