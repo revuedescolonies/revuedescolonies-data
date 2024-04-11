@@ -5,22 +5,155 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>REVUE DES COLONIES.</title>
+            <title>REVUE DES COLONIES V.1 N°10</title>
+            <editor>Emilie Hautemont</editor>
          </titleStmt>
          <!-- <xi:include href="shared/editionStmt.xml"/> -->
          <publicationStmt>
-            <p/>
+            <p>Public Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p/>
+            <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="fr">
+      <front>
+         <pb n="1" facs="v1n10p1"/>
+         <titlePage>
+            <titlePart type="main">
+               <seg>REVUE</seg><lb/>DES<lb/><seg>COLONIES,</seg>
+            </titlePart>
+            <titlePart type="sub">
+               RECUEIL MENSUEL<ptr target="#n13FA"/><lb/>DE LA
+               POLITIQUE, DE L'ADMINISTRATION, DE LA JUSTICE, DE<lb/>L'INSTRUCTION ET DES MOEURS COLONIALES,
+            </titlePart>
+            <byline>
+               DIRIGÉ PAR 
+               <persName ref="#CB">C.-A. BISSETTE</persName>.
+            </byline>
+            <docEdition>N°10. — Avril.</docEdition>
+            <figure>
+               <graphic url="v2n1-vignette.jpg"/>
+               <figDesc rend="bold">
+                  Ne suis-je pas un homme et votre frère?....
+                  <ptr target="#n6D92"/>
+               </figDesc>
+            </figure>
+            <docImprint>
+               <pubPlace><settlement>PARIS</settlement>,<lb/> AU BUREAU DE LA REVUE DES COLONIES, <lb/>46, RUE NEUVE-SAINT-EUSTACHE
+               </pubPlace> <lb/> 
+               <date>1835</date>.
+            </docImprint>
+         </titlePage>
+      </front>
       <body>
          <div>
+            <pb n="3" facs="v1n10p3"/>
+            <head>REVUE DES COLONIES.</head>
+            <div xml:id="émancipation">
+               <head> DE L'ÉMANCIPATION IMMÉDIATE.</head>
+               <p>
+                  La question de l’émancipation a marché à pas de géant. La libération des noirs est maintenant le vœu de tous les hommes d’état dignes de ce nom. Il n’est pas un esprit sérieux et élevé qui ne comprenne que la nécessité et la politique, non moins que la religion et l’humanité, commandent aujourd’hui cette grande mesure.
+               </p>
+               <p>
+                  Aussi ne s’agit-il pour ainsi dire plus de savoir s’il y aura un 
+                  <bibl type="legal"><foreign>bill</foreign> </bibl> 
+                  d’émancipation, mais quel en sera le mode, quelles en seront les 
+                  <choice>
+                     <sic>disposition</sic>
+                     <corr>dispositions</corr>
+                  </choice>
+                  ; s’il lèvera toutes les difficultés en ne soumettant les esclaves émancipés à aucune des servitudes qui entachent en partie le 
+                  <bibl type="legal"><foreign>bill</foreign> </bibl> 
+                  anglais, et qui sont plutôt, dans celles des colonies britanniques où elles n’ont pas été 
+                  <choice>
+                     <sic>eutièrement</sic>
+                     <corr>entièrement</corr>
+                  </choice>
+                  abolies, une cause de troubles qu’une condition d’ordre et un élément d’organisation, ou si l’on ne brisera que les plus lourds anneaux de la chaîne des esclaves. Là est maintenant porté le débat. C’est un grand pas de fait.
+               </p>
+               <p>
+                  Un mode de libération plein 
+                  <choice>
+                     <orig>d'attermoiemens</orig> 
+                     <reg>d'attermoiements</reg> 
+                  </choice>
+                  et de précautions timides ne nous paraît point conforme à l’esprit et aux besoins du siècle. La libération immédiate et complète des noirs seule placera les colonies dans de véritables conditions sociales : en agissant autrement les choses ne seraient faites qu’à demi. Bon gré 
+                  <choice>
+                     <orig>malgré</orig> 
+                     <reg>mal gré</reg> 
+                  </choice>
+                  , il faudrait arriver à l’accomplissement de l’œuvre ; mais ce ne serait ni sans troubles ni sans convulsions. On s’épargnerait bien des maux et bien des difficultés en se plaçant tout d'abord sur ce terrain de la liberté, où chacun, fort de son droit, est néanmoins sujet de son devoir, et contraint au travail, 
+                  <choice>
+                     <orig>parceque</orig>  
+                     <reg>parce que</reg> 
+                  </choice>
+                  le travail est une des conditions inévitables et suprêmes de la vie sociale.
+               </p>
+               <p>
+                  Voilà ce qu’il faut proclamer bien haut en même temps que l’affranchissement absolu. Point d’entraves, point d’exceptions. Dites hardiment que 
+                  <cit>
+                     <quote><emph>les Hommes naissent libres et égaux en droits,</emph></quote>
+                     <bibl>Déclaration des droits de l'homme et du citoyen</bibl>
+                  </cit>
+                  et en 
+                  <pb n="4" facs="v1n10p4"/>
+                  même temps propagez l’instruction, répandez les lumières; enseignez l’économie sociale aux hommes de toutes races. Qu’importe la race! Dites à quelles conditions est soumise l’existence de l’homme en société ; quelles en sont les charges et quels les avantages ; comment on est libre, comment citoyen ; ce qu’on a droit de demander pour soi, ce qu'on doit à autrui. Expliquez sans réticence ni pusillanime réserve tout ce qu’il faut entendre, tout ce qui est admirablement résumé par ce mot sacré : 
+                  <emph>Liberté!</emph> 
+                  Définissez-le, s’il est mal compris : vous ferez bien ; mais proclamez-le haut et fort, car tout est là.
+               </p>
+            
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+
+
+
+
+
+               
+
+
+
+
+
+               
             
          </div>
-      </body>
+      </front>
    </text>
 </TEI>
