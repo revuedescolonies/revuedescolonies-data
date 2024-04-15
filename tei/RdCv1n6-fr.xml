@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
@@ -97,7 +97,12 @@ que la publicité ne peut être, en ceci comme en tout, que salutaire. Le premie
      </choice>
       publics en réunions particulières afin d'écarter les mulâtres. Des rixes s'ensuivent, les jeunes gens de couleur sont repoussés avec brutalité par la force armée, ils sont arrêtés et emprisonnés.</p>
 
-      <p>Des ordonnances locales, qui empêchaient les hommes de couleur, à la <placeName>Martinique</placeName>, de se trouver sur certaines promenades réservées aux blancs, furent abolies par la révolution de juillet. Mais l'aristocratie de cette colonie résista, et les hommes de couleur furent obligés d'en venir aux mains avec elle pour conquérir un pareil droit. N'est-ce pas incroyable ?</p>
+      <p>Des ordonnances locales, qui empêchaient les 
+      hommes de couleur, à la <placeName>Martinique</placeName>, de se trouver 
+      sur certaines promenades réservées aux blancs, furent abolies par la révolution 
+      de juillet. Mais l'aristocratie de cette colonie résista, et les hommes de 
+      couleur furent obligés d'en venir aux mains avec elle pour conquérir un pareil 
+      droit. N'est-ce pas incroyable ?</p>
 
       <p>Malgré les ordonnances qui donnent la qualification de sieur et dame, refusée jusqu'ici aux hommes de couleur dans les actes publics, les autorités ont résisté 
       <choice>
@@ -194,7 +199,7 @@ ouvre des écoles pour les classes opprimées : les directeurs envoyés de <plac
 
        <p>Les esclaves des anciens exerçaient les arts libéraux et pouvaient se livrer au commerce ; ils étaient secrétaires, commis, architectes et auteurs. <persName>Aleman</persName>, <persName>Épictète</persName>, <persName>Ésope</persName>, <persName>Phèdre</persName> et <persName>Térence</persName> n'ont point vu leur génie étouffé par le despotisme de leurs maîtres. Malheur à l'esclave qui, dans les colonies, saurait seulement lire et écrire ! toutes sortes de soupçons planeraient sur lui sans cesse : on redouterait des correspondances, des révélations de sa part ; la mort ou un cachot perpétuel seraient sa seule perspective.</p>
 
-       <p>Chez les Athéniens et chez les Égyptiens, les magistrats recevaient les plaintes des esclaves contre les excès et les fureurs de leurs maîtres ; des temples, comme nous l'avons dit, étaient toujours ouverts, et leur offraient un asile inviolable contre la bruta<pb n="13"/>lité et l'injustice. Dans nos colonies, les noirs sont des hommes frappés de mort civile ; inventoriés comme les bœufs, les chevaux et les 
+       <p>Chez les Athéniens et chez les Égyptiens, les magistrats recevaient les plaintes des esclaves contre les excès et les fureurs de leurs maîtres ; des temples, comme nous l'avons dit, étaient toujours ouverts, et leur offraient un asile inviolable contre la bruta<pb n="11"/>lité et l'injustice. Dans nos colonies, les noirs sont des hommes frappés de mort civile ; inventoriés comme les bœufs, les chevaux et les 
        <choice>
        <orig>instrumens</orig>
        <reg>instruments</reg>
@@ -228,7 +233,7 @@ ouvre des écoles pour les classes opprimées : les directeurs envoyés de <plac
            <orig>instans</orig>
            <reg>instants</reg>
            </choice>
-            de repos et pendant les plus brûlantes chaleurs de la journée. D'ailleurs vos bœufs et vos chevaux sont-ils<pb n="14"/>déchirés à coups de fouet comme vos nègres ? Faites-vous jaillir leur sang avec la même férocité ? Il n'y a pour eux ni cachot étroit et infect, ni <emph>quatre piquets</emph>, ni chaînes, ni colliers de fer armés de pointes, ni tous ces 
+            de repos et pendant les plus brûlantes chaleurs de la journée. D'ailleurs vos bœufs et vos chevaux sont-ils<pb n="12"/>déchirés à coups de fouet comme vos nègres ? Faites-vous jaillir leur sang avec la même férocité ? Il n'y a pour eux ni cachot étroit et infect, ni <emph>quatre piquets</emph>, ni chaînes, ni colliers de fer armés de pointes, ni tous ces 
             <choice>
             <orig>raffinemens</orig>
             <reg>raffinements</reg>
@@ -245,16 +250,111 @@ ouvre des écoles pour les classes opprimées : les directeurs envoyés de <plac
              </choice>
               des champs ; <persName>Pierre-le-Grand</persName> se fit charpentier pour étudier la construction des vaisseaux. Que les partisans de l'esclavage suivent ces illustres exemples ; qu'ils passent en <placeName>Amérique</placeName> ; s'ils y sont, la chose sera plus facile ; et qu'ils partagent pendant quelque temps le sort de ceux qu'ils disent si heureux. Après cet essai, je m'en rapporterai à leurs assertions, s'ils persistent. Je les engage donc à éprouver la mansuétude des commandeurs, la volupté des coups de fouet, la saveur d'une morue infecte, la nudité, les ondées, la misère, les caprices de l'insolence, les fureurs de la brutalité, et puis, s'ils ont des femmes ou des filles, l'inexprimable charme de satisfaire à volonté les fantaisies de leurs tyrans.</p>
               <p>X. TANC,
-ancien magistrat à la <placeName>Guadeloupe</placeName>.<pb n="14"/></p>
+ancien magistrat à la <placeName>Guadeloupe</placeName>.<pb n="13" /></p>
+ </div>
 
-<p></p>
+    <div>
+            <head>DOCUMENT HISTORIQUE.</head>
+            <head>LES TROIS DERNIERS COMPLOTS DE LA GUADELOUPE</head>
+            
+            <p>Au moment où, à la <placeName>Martinique</placeName>, les sanguinaires passions des dominateurs blancs, qui s'intitulent magistrats, viennent de se montrer dans toute leur avidité de vengeance, qu'il nous soit per mis de rappeler l'esprit de prudence, si ce n'est de justice, qui, dans une colonie voisine, a présidé dans l'espace de quelques années au jugement de trois prétendus complots, dans lesquels ont été impliqués d'abord des hommes de couleur, ensuite des esclaves, enfin en dernier lieu des blancs.</p>
+            <p>Raconter l'histoire des trois derniers complots de la <placeName>Guadeloupe</placeName>, c'est faire celle de la plupart de ceux qui ont éclaté dans toutes les colonies. Heureuses celles qui n'ont renfermé dans leur sein que des magistrats et des assesseurs intelligemment impartiaux, comme ceux de la <placeName>Guadeloupe</placeName>, et qui n'ont pas voulu ajouter au ridicule de l'accusation l'atrocité du châtiment !</p>
+            <p>En 1829, onze individus de couleur libres, de la commune de <placeName>Sainte-Anne</placeName>, sont traduits devant la cour d'assises de l'arrondissement de la <placeName>Pointe-à-Pitre</placeName>. Le titre de l'accusation était celui de complot tendant à porter le massacre dans la colonie et à la destruction de la classe blanche !</p>
+            <p>Quel était le crime ? Les faits tels qu'ils ont été révélés par les débats, qui, comme tous ceux de cette nature, présentèrent le spectacle hideux et dégoûtant de faux témoignages, d'arrestations arbitraires, de violation de domiciles, de chartres privées, ordonnées hors le cas de flagrant délit, par l'autorité militaire, vont nous l'apprendre.</p>
+            <p>Une revue des dragons de la milice, qui à cette époque étaient les soldats prétoriens de l'aristocratie créole, parmi lesquels les blancs seuls pouvaient être enrôlés, avait été ordonnée, non sur la place publique du bourg de <placeName>Sainte-Anne</placeName>, qui devait être le lieu de rassemblement, mais sur une habitation où, suivant l'usage, les dragons avaient bu comme des Suisses. Les vapeurs du vin et du tafia combinées ayant échauffé les têtes, le libre parler s'ensuivit,<pb n="14" />et parmi les propos inconsidérés qui résultèrent de l'ivresse, plusieurs fanatiques proposèrent de faire au retour main-basse sur les hommes de couleur, qui depuis quelque temps étaient, disait-on, <emph>devenus bien 
+            <choice>
+            <orig>insolens</orig>
+            <reg>insolents</reg>
+            </choice>
+            .</emph>D'autres ayant fait chorus avec ceux-ci, un dragon, dont la tête était plus froide que celle de ses camarades et qui avait reçu des services de plusieurs personnes de cou leur, accourut à bride abattue à <placeName>Sainte-Anne</placeName> et donne avis de ces dispositions, qu'il n'était pas peut-être dans la pensée de ceux qui les avaient conçues d'exécuter. Les hommes de couleur s'alarment et prennent la résolution de se défendre s'ils sont attaqués. Ils s'arment, non pour être agresseurs, mais afin de pouvoir opposer la force à la violence. Quelques paroles imprudentes sont proférées ; un d'entre eux, récemment sorti d'esclavage, prévient à son tour les blancs de ce qui se passe. Les hommes de couleur sont arrêtés, emprisonnés et accusés de complot...... Ils étaient, ainsi que les blancs, coupables de terreur panique. Ils furent unanimement acquittés.</p>
+            <p>Lorsque, après les glorieuses journées de juillet 1830, l'espérance d'un meilleur avenir pénétra dans tous les esprits, les esclaves aussi révèrent la liberté, ou tout au moins un allégement à leurs souffrances. Des 
+            <choice>
+            <orig>agens</orig>
+            <reg>agents</reg>
+            </choice>
+             provocateurs, profitant de leurs dispositions naturelles à l'insurrection, leur persuadèrent que le gouvernement métropolitain leur avait accordé trois jours de repos dans la semaine, mais que l'aristocratie locale était parvenue à paralyser l'effet de cette concession en empêchant le gouverneur de promulguer l'ordonnance royale. Il fut facile d'exciter les esclaves à quelques expressions de mécontentement, à quelques exclamations d'indépendance. Ce fut là le fondement d'une accusation de com plot. Un procureur-général créole se rencontra qui, dans l'acte d'accusation, chef-d'oeuvre d'ignorance et d'ineptie, fit un crime à quelques esclaves traduits devant la cour d'assises d'avoir appris à lire et à écrire. Il est vrai, comme le dit énergiquement un poète national, que: 
+             
+             <q>On n'instruit pas celui qu'on vent garder esclave.
+               L'alphabet est mortel aux pouvoirs absolus, 
+               Et l'homme veut ses droits sitôt qu'il les a lus.</q> 
+               
+               Dans cette circonstance, comme dans la précédente, la cour<pb n="15" />d'assises ne se laissa pas influencer par les préjugés coloniaux, et il y eut aussi acquittement.</p>
+               <p>Le troisième complot, le croirait-on ? fut l'ouvrage d'un gouverneur. Il est vrai que, bien que majeur, il agit sans discernement, et que dès lors l'opinion publique a dû l'absoudre comme les accusés l'ont été par le verdict du jury.</p>
+               <p>Écoutez, et riez ou plutôt frémissez !</p>
+               <p> Après que des incendies, qui avaient eu lieu à la <placeName>Martinique</placeName> en 1851, eurent donné à la cour d'assises de cette colonie un aliment qu'elle ne dédaigna pas, on trouva à la <placeName>Guadeloupe</placeName> des 
+               <choice>
+               <orig>élémens</orig>
+               <reg>éléments</reg>
+               </choice>
+                combustibles auprès d'une vieille case abandonnée et isolée, à laquelle le feu avait été mis sans qu'il eût fait cependant aucun progrès. D'un autre côté, des hasiers furent brûlés, sans que l'on put savoir si la malveillance ou l'imprudence avaient présidé à cet événement.</p>
+                <p>Le gouverneur de cette colonie rendit alors un arrêté d'après lequel la liberté était promise à tout esclave et une somme de trois mille francs à toute personne de condition libre qui ferait connaître les auteurs des incendies qui éclateraient sur les divers points de la <placeName>Guadeloupe</placeName>. C'était accorder une prime d'encouragement à la délation : elle répondit à l'appel.</p>
+                <p>Le jeune Nelson est accusé d'avoir voulu incendier un atelier de menuiserie, dans lequel il avait travaillé en qualité d'apprenti. Le nègre Jean-Baptiste l'a vu au moment où, accroupi dans un coin du magasin, il battait le briquet pour éclairer des copeaux de bois destinés à l'incendie. La lueur des étincelles a éclairé sa figure et lui a permis d'en discerner les traits. Il s'est avancé sur lui afin de le saisir ; mais au même instant, il a été frappé par une balle qui a traversé les chairs de la cuisse. Il est tombé, et Nelson s'est enfui en ouvrant une des portes du magasin. La détonation de l'arme a été entendue par les voisins : le nègre est gisant sur le parquet, gravement blessé ; les préparatifs du feu existent dans l'angle de l'atelier d'où le coup serait parti. Jean-Baptiste désigne Nelson comme son meurtrier, et il persévère dans cette déclaration jusqu'à sa mort, qui suivit sa blessure. La balle extraite de la plaie était enveloppée de papier, ce papier contenait les trois premières lettres du nom de Nelson. L'accusation paraissait vraisemblable : elle n'était pas vraie. Les débats enseignent que Jean-Baptiste était<pb n="16" />désireux de la liberté ; que depuis la promulgation de l'arrêté du gouverneur, il avait annoncé que très prochainement il ne serait plus esclave ; qu'il avait demandé à plusieurs individus si une balle dans les chairs ferait beaucoup de mal; que les trois lettres écrites sur le papier extrait de la blessure, et qui s'y trouvaient plusieurs fois répétées, étaient celles du mot n'<emph>était</emph> (le jage instructeur n'a vait pas remarqué le trait du <emph>t</emph>, qui cependant était bien marqué); que cette écriture n'était pas de la main de Nelson, qui ne savait même pas lire. Enfin celui-ci justifia d'un alibi. Il fut unanimement acquitté par la cour, qui resta convaincue que Jean-Baptiste s'était blessé lui-même afin d'obtenir sa liberté par un moyen infâme, en vouant Nelson à l'échafaud. Le malheureux porta la peine de son méfait. Vainement avait-il enveloppé de papier la très petite balle avec laquelle il chargea le pistolet, parce que, dans sa pensée brute, elle devait, ainsi dissimulée, faire moins de mal. La Providence voulut que cette balle coupa une artère. Il mourut.</p>
+                <p>Perdu de dettes et tourmenté par ses créanciers, un commis de marine, attaché au service de l'un des 
+                <choice>
+                <orig>bâtimens</orig>
+                <corr>bâtiments</corr>
+                </choice> 
+                de l'état, lit l'arrêté du gouverneur. Cet arrêté est pour lui l'ancre de salut : créer un complot d'incendie et en dénoncer ensuite les auteurs, au nombre de quatre, lui compris, recevoir pour prix de la dénonciation 1,200 francs, telle est son idée fixe. Il en poursuit l'exécution avec une maladroite persévérance.Il loue plusieurs 
+                <choice>
+                <orig>appartemens</orig>
+                <corr>appartements</corr>
+                </choice>
+                 dans 
+                 <choice>
+                 <orig>différens</orig>
+                 <corr>différents</corr>
+                 </choice>
+                  quartiers de la <placeName>Basse-Terre</placeName>, dépose dans ces appartemens des appareils incendiaires, donne à dîner à un matelot du navire sur lequel il est embarqué, à un sous-officier d'artillerie et à un soldat du 58 régiment, ses compatriotes. La réunion a été d'avance signalée à l'autorité, son but a été indiqué : c'est celui de se concerter sur le jour auquel le feu sera mis sur divers points de la ville, placée sous l'impression de l'effroi par l'embrasement de quelques 
+                  <choice>
+                  <orig>fragmens</orig>
+                  <corr>fragments</corr>
+                  </choice>
+                   de la toiture du greffe du tribunal de première instance, situé en face d'un poste d'infanterie, qui dès le premier moment a pu se rendre maître des progrès de la flamme. Les complices imaginaires du délateur, dont on avait altéré la raison par l'abus des liqueurs fortes dont on les avait préalablement gorgés, ne se souviennent de rien ; mais l'éclat du diner, commandé avec ostentation, les a compromis. Les préparatifs combustibles trouvés dans les divers 
+                   <choice>
+                   <orig>logemens</orig>
+                   <corr>logements</corr>
+                   </choice>
+                    du commis de marine servent<pb n="17" />d'auxiliaires à son accusation, dans laquelle il ne craint pas de se comprendre comme le chef repentant du complot, en concluant à ce qu'il lui soit fait application du bénéfice de l'arrêté rémunératoire.</p>
+                    <p>Après trois jours de solennels débats, les juges et les assesseurs ne purent se résoudre à aucune condamnation, pas même à celle du misérable pris en flagrant délit de calomnie et de la plus infâme turpitude.</p>
+                    <p>De tels faits parlent avec éloquence, ils portent avec eux leur enseignement. Là du moins, quelle qu'ait été l'opinion des juges, ils ont reculé devant la monstruosité de l'accusation ; ils n'ont pas osé donner au monde le spectacle hideux de ces scandaleuses con damnations où l'intérêt des juges domine évidemment la cause tout entière. Les juges et les assesseurs de la <placeName>Guadeloupe</placeName> ont fait preuve, en ces trois graves circonstances, de quelque loyauté judiciaire. A la <placeName>Martinique</placeName>, il n'en est pas ainsi ; loin de là. On s'y pique de moins de scrupule : les échafauds s'y dressent avec une merveilleuse facilité, et les oppresseurs y marchent le front levé, toujours escortés du bourreau. Aussi le croyons-nous, bien que les colons de la première de ces îles soient, peut-être au même degré que leurs voisins, imbus des préjugés contre lesquels nous avons levé notre étendard, quand sera venu le jour où le droit et l'usurpation devront régler leurs comptes aux colonies, là du moins la voix du sang d'innombrables martyrs ne s'élèvera pas pour accuser, maudire et appeler le sang !</p></div>
+
+                    <div>
+                    <head>DU MAINTIEN DE CERTAINS JUGES AUX COLONIES.</head>
+
+      <p>C'est un sujet de considération bien triste que le maintien obstiné, comme juges aux colonies, de certains hommes qui ont depuis 
+      <choice>
+      <orig>long-temps</orig>
+      <corr>longtemps</corr>
+      </choice> inscrits leurs noms en lettres de sang dans les annales judiciaires de ces malheureuses contrées. Aussi se demande-t-on par quelle étrange et toute-puissante influence on conserve dans leurs fonctions, en dépit des plus justes griefs et malgré leur amovibilité, ces hommes rétrogrades, dont l'opposition à l'esprit et à la lettre de la législation nouvelle ne prend pas même soin,<pb n="18" />chez la plupart, de se dissimuler. On ne comprend pas que les bureaux de la marine, qui ne sauraient prétexter cause d'ignorance, n'aient pas fait justice depuis 
+      <choice>
+      <orig>long-temps</orig>
+      <corr>longtemps</corr>
+      </choice>
+       des juges prévaricateurs auxquels nous 
+       <choice>
+       <orig>fesons</orig>
+       <corr>faisons</corr>
+       </choice> allusion, et que la majorité de la population des colonies, blanche et de couleur, repousse avec mépris et signale comme l'une des causes les plus actives de la division et des haînes dont le pays est travaillé. De plusieurs côtés, il nous est venu à cet égard plus que des marques d'étonnement ; il nous est venu des assertions, fondées sur des 
+       <choice>
+       <orig>raisonnemens</orig>
+       <corr>raisonnements</corr>
+       </choice>
+        fort plausibles, qui ne tendraient à rien moins qu'à compromettre gravement l'honneur d'hommes haut placés pour exercer l'étrange influence qui maintient, contre toute raison, le pouvoir judiciaire aux mains de quelques hommes notoirement et exclusivement dévoués aux intérêts de la caste oppressive de la race africaine à laquelle nous appartenons, livrant ainsi entièrement à ces hommes les destinées de nombreuses populations.</p>
+        <p>Ces bruits, disons-nous, se répandent et s'accréditent chaque jour davantage dans le public, qui ne saurait évidemment attribuer qu'à des motifs peu honorables cette haute protection sous laquelle s'abritent en quelque sorte nos <emph>maîtres et seigneurs</emph> investis du pouvoir judiciaire aux colonies, pouvoir quasi-souverain, on peut le dire, et à l'aide duquel, en se renfermant dans certaines formalités légales qui échappent à la cassation, on fait pendre et étrangler jusqu'à ce que mort s'en suive ceux qu'on provoque comme ennemis. Dans cet état de choses, il est naturel de penser que les dominateurs ne reculent devant aucune espèce de sacrifices, et c'est là aussi ce qu'on nous assure qui a lieu. Ceux d'entre eux qui possèdent une grande fortune (et on a cite) feraient à propos, selon les bruits en question, un emploi de fonds considérable, à certaines époques, pour ne pas être dépossédés de ce pouvoir judiciaire dont ils sont par-dessus tout jaloux, nous avons dit précédemment pourquoi.</p>
+
+
+                    </div>
 
 
 
 
 
 
-            </div>
+
+
+
+
+            
 
 
          </div>
