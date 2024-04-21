@@ -184,7 +184,7 @@
                <p>
                   Ces forêts produisent une grande quantité de tubercules très variés, qui forment un des articles 
                   <choice>
-                     <orig>improtans</orig> 
+                     <orig>importans</orig> 
                      <reg>importants</reg> 
                   </choice>
                   de la nourriture des 
@@ -325,7 +325,7 @@
                   </choice>
                   de quartiers est une plaie honteuse et une calamité, comme celle des magistrats créoles.
                </p>
-               <closer><persName ref="XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
+               <closer><persName ref="#XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
             </div>
             <div xml:id="blancs">
                <head>DES BLANCS JUGÉS PAS UN BLANC.</head>
@@ -369,7 +369,9 @@
                      <orig>nouveau-venus</orig> 
                      <reg>nouveaux-venus</reg> 
                   </choice> 
-                  surpassent les créoles eux-mêmes en vanité et en préjugés. Ils sont plus durs envers les <emph>esclaves</emph>, habitués qu’ils ont été en Europe à un service plus soigné, et surtout plus actif que celui qu’on obtient des noirs. 
+                  surpassent les créoles eux-mêmes en vanité et en préjugés. Ils sont plus durs envers les <emph>esclaves</emph>, habitués qu’ils ont été en 
+                  <placeName ref="#EUR">Europe</placeName> 
+                  à un service plus soigné, et surtout plus actif que celui qu’on obtient des noirs. 
                   Aussi le <emph>nègre esclave</emph>, dans son état d’abjection et de malheur, accorde aux créoles une préférence marquée dans ses affections, et accueille par des sobriquets de mépris 
                   <emph>ces gens qui lui arrivent de 
                   <placeName>France.</placeName></emph></q>
@@ -401,6 +403,61 @@
                   </choice> 
                   les colons, décidés à tendre leurs mains à celles qui viendront arracher ce pavillon tricolore qu’ils abhorrent.</q>
                </p>
+            </div>
+            <div xml:id="esclaves">
+               <head>DES ESCLAVES.</head>
+               <p> (<emph>Extrait des mêmes mémoires.</emph>)</p>
+               <p>
+                  <q>« Les malheureux <emph>esclaves</emph> souffrent sans qu’aucune chance leur ait été offerte encore de faire arriver leurs 
+                  <choice>
+                     <orig>gémissemens</orig> 
+                     <reg>gémissements</reg> 
+                  </choice>
+                  à ceux qui peuvent améliorer leur sort. Tandis que les tribunes publiques retentissent partout en faveur des opprimés, 
+                  tandis que les animaux eux-mêmes, dans le 
+                  <orgName ref="#PA">parlement anglais</orgName>,
+                  ont trouvé protection contre la brutalité de leurs conducteurs, et que dans les colonies étrangères les législateurs se sont occupés de la condition de leurs nègres esclaves pour les mettre sous la sauvegarde des lois, croirait-on que dans nos possessions seules ils aient été oubliés ! 
+                  Leurs plaintes ne sortant pas du cercle étroit où ils sont enchaînés, il ne leur reste que le désespoir, à moins qu’on ne se dépêche de mettre leur situation un peu en harmonie avec la civilisation actuelle, déjà si fortement opposée au système d’esclavage.</q>
+               </p>
+               <p>
+                 <q>« Aucun registre n’est tenu des naissances et des décès, ce qui ouvre un vaste champ à l’injustice et à la barbarie de certains maîtres. Combien d’esclaves ont péri dans les cachots des habitations ou sous le fouet des commandeurs, sans que jamais l’autorité s’en soit doutée, sans que le 
+                 <orgName>ministère public</orgName> 
+                 ait informé contre les hommes coupables de pareilles cruautés ! Heureux encore ceux qui n’ont pas succombé à des supplices dont on ne devinerait pas l’horreur !</q>
+               </p>
+               <p>
+                  <q>« De temps en temps le nègre agite sa chaîne, expose ses griefs par des chansons, par des placards ; 
+                  quelques <emph>blancs</emph> sont victimes dans les endroits écartés de la campagne ; 
+                  le poison exerce d’épouvantables ravages dans un quartier de l’île, des incendies éclatent. Loin de prêter l’oreille à des douleurs si énergiquement exprimées, les ordonnances locales rivent plus fortement les anneaux de cette
+                  <pb n="12" facs="v1n10p12"/>
+                  chaîne de fer qui déjà menace de se rompre. Dieu veuille que la férocité africaine, poussée à bout par le désespoir, ne réussisse pas à s’armer contre ses oppresseurs, et à obtenir, par la ruine de la colonie entière, par le massacre de la génération blanche, une émancipation qui a déjà reçu sa première sanction dans 
+                  la reconnaissance de <placeName ref="#StD">Saint-Domingue.</placeName></q>
+               </p>
+               <p>
+                  <q>Rien n’égale la sévérité des 
+                  <choice>
+                     <orig>réglemens</orig> 
+                     <reg>réglements</reg> 
+                  </choice>
+                  de police à l’égard des esclaves de ville. Ceux des campagnes sont livrés à l’arbitraire de leurs maîtres, qui peuvent infliger les 
+                  <choice>
+                     <orig>châtimens</orig> 
+                     <reg>châtiments</reg> 
+                  </choice>
+                  les plus durs sous le contrôle d’une autorité administrative. A la vérité, malgré un grand nombre d’ordonnances cruelles et ridicules , les esclaves devaient trouver une protection dans le 
+                  directeur de l’intérieur. <persName ref="#RS">M. de Rosily</persName>, 
+                  à qui ce poste est confié à la <placeName>Martinique</placeName>, 
+                  a vingt-quatre mille francs 
+                  <choice>
+                     <orig>d'appointemens</orig> 
+                     <reg>d'appointement</reg> 
+                  </choice>
+                  annuels , et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis ; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau ; 
+                  il faut voir comment cet administrateur <foreign>dandy</foreign>, 
+                  sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ?</q>
+               </p> 
+
+
+
 
 
 
