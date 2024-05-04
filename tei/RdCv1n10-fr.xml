@@ -156,8 +156,8 @@
                   </choice>
                   et les géreurs comme loi suprême et conservatrice, qu’il faut toujours conduire les nègres par la crainte et par la terreur, les pousse vers les bois pour la moindre faute. Ils savent que leur maître est inexorable; la fuite est donc leur seule ressource ; comment éviter autrement les éclats de ses fureurs? N’attribuons donc qu’à cette excessive sévérité qu’on déploie contre eux cette désertion d’un grand nombre de nègres qui vont peupler les bois. Presque tous se réfugient dans les forêts qui couronnent les montagnes dont la chaîne s’étend de la 
                   <placeName ref="#B-T">Basse-Terre</placeName> jusqu’au 
-                  <placeName ref="#Lam">Lamentin</placeName>, à peu de distance de la
-                  <placeName ref="#PaP">Pointe-à-Pitre</placeName>.
+                  <placeName ref="Lam">Lamentin</placeName>, à peu de distance de la
+                 <placeName ref="#PaP">Pointe-à-Pitre</placeName>.
                   Là se trouvent des camps qui contiennent douze à quinze cents marrons. Le choix du terrain, son assiette, les aspérités qui l’environnent, les ravins qui le baignent, les vallées voisines que les marrons cultivent, tout annonce souvent un camp dressé par un chef habile, qui a tout prévu, tout préparé pour se mettre à l’abri d’une attaque, et avoir des vivres 
                   <choice>
                      <orig>suffisans.</orig>  
@@ -325,7 +325,7 @@
                   </choice>
                   de quartiers est une plaie honteuse et une calamité, comme celle des magistrats créoles.
                </p>
-               <closer><persName ref="#XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
+               <closer><persName ref="XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
             </div>
             <div xml:id="blancs">
                <head>DES BLANCS JUGÉS PAS UN BLANC.</head>
@@ -454,7 +454,25 @@
                   annuels , et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis ; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau ; 
                   il faut voir comment cet administrateur <foreign>dandy</foreign>, 
                   sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ?</q>
-               </p> 
+               </p>
+               <p>
+                  <emph>Vingt-neuf coups de fouet</emph>; 
+                  telle est la conclusion obligée de tous les arrêtés locaux de police ou d’administration concernant les esclaves. Ce châtiment, maximum de la peine correctionnelle, est appliqué à la geôle on en place publique, et malgré sa violence, c’est la punition réservée aux plus petites fautes, le système colonial n’admettant pas qu’un nègre puisse avoir raison contre un blanc. Ni les femmes, ni les vieillards ne sont à l’abri de ce rude supplice. Un sexagénaire ayant par inadvertance coudoyé 
+                  <!-- <persName>le colonel de Sanois - CREATE TAG</persName>,  -->
+                  en passant à côté de ce chef milicien, a été, pour ce simple fait, fouetté en public, 
+                  sur la <placeName ref="#PlB">place dite Bertin</placeName>.
+               </p>
+               <p>
+                  Cet exemple, cité entre mille, prouvera jusqu’à quel point, dans nos colonies, est poussée la rigueur avec laquelle les esclaves sont traités ; le joug y est trop pesant. Il faut des améliorations, ou bien ils briseront la digue qui les retient.
+                  <pb n="13" facs="v1n10p13"/>
+               </p>
+            </div>
+            <div xml:id="GAnse">
+               <head>POURSUITES CONTRE <persName ref="#JHD">MONSIEUR DUPOTET</persName>, 
+               EX-GOUVERNEUR DE <placeName>LA MARTINIQUE</placeName>, 
+               ET CONTRE D’AUTRES AGENS, A L’OCCASION DES ÉVÉNEMENS DE LA <placeName ref="#GdA">GRAND’ ANSE</placeName>.</head>
+
+               
 
 
 
