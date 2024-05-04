@@ -1314,11 +1314,6 @@
         </person>
     </listPerson>
     <listPlace>
-        <place xml:id="PaP">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">La Pointe-à-Pitre</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
-        </place>
         <place xml:id="TRI">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Trinité</placeName>
@@ -1636,6 +1631,18 @@
                 <p>Commune dans la région de Point-à-Pitre (Guadeloupe), site de nombreuses plantations dans les années 1820-1830. Actuellement site du monument "Maison de l'esclavage."</p>
             </note>
         </place>
+        <place xml:id="BOU">
+            <placeName xml:lang="en">Boufarik</placeName>
+            <placeName xml:lang="fr">Boufarick</placeName>
+            <note xml:lang="en" type="Place" resp="#laure">
+                <p>Boufarik (or Boufarick, Bou Farik, Bouffarik) is an Algerian town located southwest of Algiers. The city was colonized by the French in the 1830s: in 1836, several colonization lots were established by Marshal Clauzel. The name came into use in the 1840s as a symbol of colonial success.</p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#laure">
+                <p>
+                    <span lang="FR">Boufarik (orthographes variables : Boufarick, Bou Farik, Bouffarik) est une ville algérienne située au sud-ouest d'Alger. La ville est colonisée par les Français dès les années 1830 : en 1836, plusieurs lots de colonisation sont établis par le maréchal Clauzel. Le nom est utilisé dans les années 1840 comme un symbole de réussite coloniale.  </span>
+                </p>
+            </note>
+        </place>
         <place xml:id="CdS">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Caroline du Sud</placeName>
@@ -1820,11 +1827,6 @@
             <placeName xml:lang="fr">Bordeaux</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
-        <place xml:id="BOU">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">Boufarick</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
-        </place>
         <place xml:id="BOUG">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Bougie</placeName>
@@ -1955,6 +1957,11 @@
         <place xml:id="LH">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Havanne</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
+        <place xml:id="PaP">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">La Pointe-à-Pitre</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="DOM">

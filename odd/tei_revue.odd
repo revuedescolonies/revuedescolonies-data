@@ -385,7 +385,6 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
-                                <valItem mode="add" ident="#PaP"/>
                                 <valItem mode="add" ident="#TRI"/>
                                 <valItem mode="add" ident="#CBE"/>
                                 <valItem mode="add" ident="#Hav"/>
@@ -448,6 +447,7 @@
                                 <valItem mode="add" ident="#STE"/>
                                 <valItem mode="add" ident="#SAB"/>
                                 <valItem mode="add" ident="#Lam"/>
+                                <valItem mode="add" ident="#BOU"/>
                                 <valItem mode="add" ident="#CdS"/>
                                 <valItem mode="add" ident="#Phd"/>
                                 <valItem mode="add" ident="#Lvp"/>
@@ -484,7 +484,6 @@
                                 <valItem mode="add" ident="#BE"/>
                                 <valItem mode="add" ident="#BON"/>
                                 <valItem mode="add" ident="#Bor"/>
-                                <valItem mode="add" ident="#BOU"/>
                                 <valItem mode="add" ident="#BOUG"/>
                                 <valItem mode="add" ident="#BR"/>
                                 <valItem mode="add" ident="#CapM"/>
@@ -511,6 +510,7 @@
                                 <valItem mode="add" ident="#JA"/>
                                 <valItem mode="add" ident="#K"/>
                                 <valItem mode="add" ident="#LH"/>
+                                <valItem mode="add" ident="#PaP"/>
                                 <valItem mode="add" ident="#DOM"/>
                                 <valItem mode="add" ident="#Alg"/>
                                 <valItem mode="add" ident="#ANG"/>
