@@ -446,12 +446,12 @@
                                 <valItem mode="add" ident="#CU"/>
                                 <valItem mode="add" ident="#STE"/>
                                 <valItem mode="add" ident="#SAB"/>
-                                <valItem mode="add" ident="#Lam"/>
                                 <valItem mode="add" ident="#BOU"/>
                                 <valItem mode="add" ident="#CdS"/>
                                 <valItem mode="add" ident="#Phd"/>
                                 <valItem mode="add" ident="#Lvp"/>
                                 <valItem mode="add" ident="#Ec"/>
+                                <valItem mode="add" ident="#Lam"/>
                                 <valItem mode="add" ident="#Nan"/>
                                 <valItem mode="add" ident="#ALL"/>
                                 <valItem mode="add" ident="#ANTE"/>

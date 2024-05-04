@@ -1621,16 +1621,6 @@
             <placeName xml:lang="fr">Saba</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
-        <place xml:id="Lam">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">Lamentin</placeName>
-            <note xml:lang="en" type="Place" resp="#emilie">
-                <p>Commune in the Point-à-Pitre area (Guadeloupe), site of several plantations in the 1820s-1830s. Current site of the "House of Slavery" monument. </p>
-            </note>
-            <note xml:lang="fr" type="Place" resp="#emilie">
-                <p>Commune dans la région de Point-à-Pitre (Guadeloupe), site de nombreuses plantations dans les années 1820-1830. Actuellement site du monument "Maison de l'esclavage."</p>
-            </note>
-        </place>
         <place xml:id="BOU">
             <placeName xml:lang="en">Boufarik</placeName>
             <placeName xml:lang="fr">Boufarick</placeName>
@@ -1658,6 +1648,16 @@
         <place xml:id="Ec">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Ecosse</placeName>
+        </place>
+        <place xml:id="Lam">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Lamentin</placeName>
+            <note xml:lang="en" type="Place" resp="#emilie">
+                <p>Commune in the Point-à-Pitre area (Guadeloupe), site of several plantations in the 1820s-1830s. Current site of the "House of Slavery" monument. </p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#emilie">
+                <p>Commune dans la région de Point-à-Pitre (Guadeloupe), site de nombreuses plantations dans les années 1820-1830. Actuellement site du monument "Maison de l'esclavage."</p>
+            </note>
         </place>
         <place xml:id="Nan">
             <placeName xml:lang="en"/>
