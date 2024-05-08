@@ -59,6 +59,13 @@
                 <bibl>Dubois, Laurent. <title>Avengers of the New World: The Story of the Haitian Revolution</title>.  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
             </note>
         </person>
+        <person xml:id="JHD">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Dupotet, M.</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Gouverneur de Martinique en 1830. Il fit carrière dans la marine et fut nommé enseigne de vaisseau en 1798, capitaine de frégate et chevalier de la légion d'honneur en 1806, contre-amiral en 1828 et vice-amiral en 1841.</p>
+            </note>
+        </person>
         <person xml:id="MtC">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Mont-Choachi</persName>
@@ -82,13 +89,6 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#emilie">
                 <p>Juge abolitionniste nommé à Capesterre (Guadeloupe), proche de Bissette. En plus d'articles dans <title>La Revue des Colonies</title>, il publie en 1832 un livre, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. Il sera ultérieurement muté en Martinique, puis retourne en Guadeloupe.</p>
-            </note>
-        </person>
-        <person xml:id="ATap">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Tappan, M. A</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
             </note>
         </person>
         <person xml:id="CT">
@@ -308,11 +308,6 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Frotté,Le sieur</persName>
             <note xml:lang="en" type="Person" resp="#other">homme de couleur, fils naturel de M. Igout</note>
-        </person>
-        <person xml:id="Bosqu">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
-            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
         </person>
         <person xml:id="AJC">
             <persName xml:lang="en"/>
@@ -877,6 +872,13 @@
             <persName xml:lang="fr">Solvet, M.</persName>
             <note xml:lang="en" type="Person" resp="#other">substitut du procureur du roi près le tribunal civil de Soissons</note>
         </person>
+        <person xml:id="ATap">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Tappan, M. A</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
+            </note>
+        </person>
         <person xml:id="NB">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Napoléon Bonaparte</persName>
@@ -1231,13 +1233,6 @@
                 <p>Links: <ref target="https://fr.wikipedia.org/wiki/Alexandre_de_Laborde">Delaborde</ref></p>
             </note>
         </person>
-        <person xml:id="JHD">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Dupotet, M.</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://fr.wikipedia.org/wiki/Jean_Henri_Joseph_Dupotet">Dupotet, M.</ref></p>
-            </note>
-        </person>
         <person xml:id="EH">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Halgan Emmanuel </persName>
@@ -1312,13 +1307,13 @@
                 <p>Links: <ref target="https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Bories">Bories, Jean-François</ref></p>
             </note>
         </person>
+        <person xml:id="Bosqu">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
+            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
+        </person>
     </listPerson>
     <listPlace>
-        <place xml:id="TRI">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">La Trinité</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
-        </place>
         <place xml:id="CBE">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Le Cap de Bonne-Espérance</placeName>
@@ -1659,6 +1654,14 @@
                 <p>Commune dans la région de Point-à-Pitre (Guadeloupe), site de nombreuses plantations dans les années 1820-1830. Actuellement site du monument "Maison de l'esclavage."</p>
             </note>
         </place>
+        <place xml:id="GUY">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Guyane</placeName>
+        </place>
+        <place xml:id="MAU">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Maurice</placeName>
+        </place>
         <place xml:id="Nan">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Nancy</placeName>
@@ -1962,6 +1965,11 @@
         <place xml:id="PaP">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Pointe-à-Pitre</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
+        <place xml:id="TRI">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">La Trinité</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="DOM">
