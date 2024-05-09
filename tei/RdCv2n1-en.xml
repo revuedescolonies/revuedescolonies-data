@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xml:id="RdCv2n1-en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv2n1-en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,18 +83,12 @@
                   crossed the seas. The debate was still only between them. Of the liberation of
                   slaves, not a clear and distinct word, as if the rights of man had not been
                   proclaimed and the Bastille had not been taken. By whatever names the colonists
-                  used, republican or royalist, none among them was led by the spirit of age<ptr
-                     target="#n17AB"/> to draw from the principles that they claimed for themselves,
+                  used, republican or royalist, none among them was led by the spirit of age<ptr target="#n17AB"/> to draw from the principles that they claimed for themselves,
                   a conclusion favorable to the freedom of the other race; the distinction of color
                   remained, slavery was the holy ark which no one dreamed of touching.</p>
-               <p>However, the counter-revolutionary work advanced, <placeName ref="#ANG"
-                     >England</placeName>, then at the head of the retrograde movement, attacked us
-                  everywhere in the two seas. Mistress of <placeName ref="#MQ"
-                     >Martinique</placeName>, poorly defended by its inhabitants, of whom several,
-                  and of the highest rank, were traitors to the fatherland (1),<ptr target="#n239B"
-                  /> England had vainly tried to conquer several other points, including <placeName
-                     ref="#GP">Guadeloupe</placeName> and <placeName ref="#HT"
-                     >Saint-Domingue</placeName>. Saint-Domingue, however, was seriously threatened.
+               <p>However, the counter-revolutionary work advanced, <placeName ref="#ANG">England</placeName>, then at the head of the retrograde movement, attacked us
+                  everywhere in the two seas. Mistress of <placeName ref="#MQ">Martinique</placeName>, poorly defended by its inhabitants, of whom several,
+                  and of the highest rank, were traitors to the fatherland (1),<ptr target="#n239B"/> England had vainly tried to conquer several other points, including <placeName ref="#GP">Guadeloupe</placeName> and <placeName ref="#HT">Saint-Domingue</placeName>. Saint-Domingue, however, was seriously threatened.
                   At the first news of the danger, the National Convention sent two of its members
                   to organize the defense: they found nothing but dispiritedness.</p>
                <p>In the most perilous circumstances, the commissioners had recourse to a great
@@ -121,12 +111,10 @@
                   from then on the blacks<ptr target="#n4F06"/> were won over to the great cause of
                   the French republic.</p>
                <p> In the meantime, an election was held in Saint-Domingue in which all classes of
-                  the population took part, without distinction of color. <persName ref="#Dfy"
-                     >Dufahy</persName> a man of courage and heart, who had shown in the
+                  the population took part, without distinction of color. <persName ref="#Dfy">Dufahy</persName> a man of courage and heart, who had shown in the
                   administration of his properties at Saint-Domingue an unequivocal sympathy for the
                   oppressed race, was one of the deputies appointed on this occasion.</p>
-               <p>Scarcely had the National Convention learned of the acts of <persName ref="#Plv"
-                     >Polverel</persName> and of <persName ref="#Stx">Sonthonax</persName>, its
+               <p>Scarcely had the National Convention learned of the acts of <persName ref="#Plv">Polverel</persName> and of <persName ref="#Stx">Sonthonax</persName>, its
                   commissioners with regard to everything concerning slaves, that it approved them;
                   their greatness was recognized. And immediately, to the applause of the immortal
                   assembly, was pronounced forthwith, at the request of Dufahy, not only the
@@ -151,8 +139,7 @@
                   state of affairs lasted, not without remarkable progress, until 1802, when
                      <persName ref="#NB">Napoleon</persName>, misled by the fatality of his
                   illiberal ideas, tried to reestablish slavery where the National Convention had
-                  made it disappear. We must see in Mr. Macaulay's excellent book on Haiti <ptr
-                     target="#n8414"/> the curious details of this emancipation, somewhat
+                  made it disappear. We must see in Mr. Macaulay's excellent book on Haiti <ptr target="#n8414"/> the curious details of this emancipation, somewhat
                   improvised, of the black race in the most considerable of our colonial possessions
                   of that period. Mr. Macaulay's work is filled not only with unknown facts about
                   the war of independence in <placeName ref="#HT">Haiti</placeName>, but also with irrefutable evidence against the
@@ -196,8 +183,7 @@
                   of color, are declared free and equal in rights.<ptr target="#n0380"/></p>
                <p>ART. 2.<lb/>They therefore enjoy all family, civil and political rights, in the
                   same way as other French citizens, in accordance with the law.</p>
-               <p>ART. 3.<lb/>The nature and the quota of the wages between the laborers<ptr
-                     target="#n1542"/> and the landowners will be regulated by the government of the
+               <p>ART. 3.<lb/>The nature and the quota of the wages between the laborers<ptr target="#n1542"/> and the landowners will be regulated by the government of the
                      metropole.</p>
                <p>ART. 4<lb/> There will be created, in all the communes of the different French
                   colonies, free schools for the civil and religious instruction of the laborers.
@@ -220,8 +206,7 @@
                   want to grant and that others refuse to the owners of slaves. We have said nothing
                   about it in the law constituting the social state of the colonies, and here is
                   why:</p>
-               <p> Between the master and the slave there can be no question of indemnity.<ptr
-                     target="#n3542"/> If one absolutely wanted to establish one, it would be the
+               <p> Between the master and the slave there can be no question of indemnity.<ptr target="#n3542"/> If one absolutely wanted to establish one, it would be the
                   master who would owe it to the slave, as reparation for the physical and moral
                   violence he has exercised against him.<ptr target="#n678F"/></p>
                <p> The principle of indemnity can only be debated between French society and the
@@ -233,13 +218,11 @@
                   cold cash; and this way of acquiring it strikes more at its principle than the
                   material violence that causes it to be lost, in fact, because this, at least,
                   leaves the right intact. The word indemnity is, accordingly, the one which we have
-                  most carefully banished from a bill of principles on the abolition of slavery.<ptr
-                     target="#n49AF"/></p>
+                  most carefully banished from a bill of principles on the abolition of slavery.<ptr target="#n49AF"/></p>
                <pb n="9" facs="v2n1p9"/>
                <p> This law is therefore not a dispossession, an expropriation, for reasons of
                   public utility; on the contrary, it is the negation of the state of property, to
-                  which it puts an end. It is the reestablishment of rights, a real restoration<ptr
-                     target="#n09EC"/> this time: in this respect, the indemnity would be immoral.
+                  which it puts an end. It is the reestablishment of rights, a real restoration<ptr target="#n09EC"/> this time: in this respect, the indemnity would be immoral.
                   Consider it from a purely material point of view; the colonists would ask France
                   for an indemnity, founded on what? on the actual loss they incur; what is it that
                   they are losing? the purchase price and the fruit of slave labor? Neither; even in
@@ -248,8 +231,7 @@
                   abolished for a long time, and that it would be unreasonable to found the demand
                   for justice upon the violation of the law. Moreover, the purchase price of a slave
                   is nothing more than a kind of import duty paid in order to be able to take
-                  advantage of the labor of the imported <emph>commodity</emph><ptr target="#n07F3"
-                  />. This work is the one and only profit generator of the masters. One should not
+                  advantage of the labor of the imported <emph>commodity</emph><ptr target="#n07F3"/>. This work is the one and only profit generator of the masters. One should not
                   quantify the particular industry of each slave because under this mode it is
                   exerted too narrowly, too restricted; because intelligence, dulled by servitude,
                   and the ignorance which is its necessary consequence, is without force, without

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xml:id="RdCv2n1-fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv2n1-fr">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -29,8 +25,7 @@
             <docEdition>2e année — n.1 — Juillet.</docEdition>
             <figure>
                <graphic url="v2n1-vignette.jpg"/>
-               <figDesc rend="bold">Ne suis-je pas un homme et votre frère ?....<ptr
-                     target="#n6D92"/></figDesc>
+               <figDesc rend="bold">Ne suis-je pas un homme et votre frère ?....<ptr target="#n6D92"/></figDesc>
             </figure>
             <docImprint><pubPlace><settlement>PARIS</settlement>,<lb/> AU BUREAU DE LA REVUE DES COLONIES, <lb/> 28, RUE LOUIS-LE-GRAND</pubPlace>.<lb/> <date>1835</date>.</docImprint>
          </titlePage>
@@ -80,8 +75,7 @@
                   fond des choses, fut tenue autant que possible hors de la discussion par une sorte
                   d'appréhension et d'effroi vague de l'avenir.</p>
                <p> Cependant la révolution française avait marché. Les idées nouvelles répandues par
-                  la presse, propagées par la parole, avaient traversé les mers<ptr target="#n5676"
-                  /> ; les Antilles françaises étaient elles aussi travaillées de l'esprit nouveau.
+                  la presse, propagées par la parole, avaient traversé les mers<ptr target="#n5676"/> ; les Antilles françaises étaient elles aussi travaillées de l'esprit nouveau.
                   En général pourtant, ce n'était guère qu'entre les blancs que s'étaient formés des
                   partis. Aux colonies <pb n="4" facs="v2n1p4"/>comme en France il y avait des révolutionnaires,
                   et des contre révolutionnaires, des partisans de la royauté et des partisans de la
@@ -100,14 +94,11 @@
                   conclusion favorable à la liberté de l'autre race ; la distinction de couleur
                   subsistait, l'esclavage était l'arche sainte à laquelle nul ne songeait à
                   toucher.</p>
-               <p>Cependant l'œuvre contre-révolutionnaire avançait, l'<placeName ref="#ANG"
-                     >England</placeName> alors à la tête du mouvement rétrograde nous attaquait
-                  partout dans les deux mers. Maîtresse de la <placeName ref="#MQ"
-                     >Martinique</placeName>, mal défendue par ses habitans, dont plusieurs, et des
+               <p>Cependant l'œuvre contre-révolutionnaire avançait, l'<placeName ref="#ANG">England</placeName> alors à la tête du mouvement rétrograde nous attaquait
+                  partout dans les deux mers. Maîtresse de la <placeName ref="#MQ">Martinique</placeName>, mal défendue par ses habitans, dont plusieurs, et des
                   plus hauts placés, furent traîtres à la patrie (1)<ptr target="#n239B"/>,
                   l'Angleterre avait vainement essayé de conquérir plusieurs autres points,
-                  notamment la <placeName ref="#GP">Guadeloupe</placeName> et <placeName ref="#HT"
-                     >Saint-Domingue</placeName>. Saint-Domingue toutefois était sérieusement
+                  notamment la <placeName ref="#GP">Guadeloupe</placeName> et <placeName ref="#HT">Saint-Domingue</placeName>. Saint-Domingue toutefois était sérieusement
                   menacée. A la première nouvelle du danger, la Convention nationale y envoya deux
                   de ses membres pour y organiser la défense : ils n'y trouvèrent que la
                   démoralisation.</p>
@@ -131,20 +122,17 @@
                   défense de la colonie, et dès lors les noirs furent acquis à la grande cause de la
                   république française.</p>
                <p> Sur ces entrefaites, se fit à Saint-Domingue une élection à la quelle prirent
-                  part toutes les classes de la population sans distinction de couleur. <persName
-                     ref="#Dfy">Dufahy</persName>, homme de courage et de cœur, qui avait montré
+                  part toutes les classes de la population sans distinction de couleur. <persName ref="#Dfy">Dufahy</persName>, homme de courage et de cœur, qui avait montré
                   dans l'administration de ses propriétés à Saint-Domingue une sympathie non
                   équivoque pour la race opprimée, fut un des députés nommés en cette occasion.</p>
-               <p> A peine la Convention nationale eut-elle connaissance des actes de <persName
-                     ref="#Plv">Polverel</persName> et de <persName ref="#Stx">Sonthonax</persName>,
+               <p> A peine la Convention nationale eut-elle connaissance des actes de <persName ref="#Plv">Polverel</persName> et de <persName ref="#Stx">Sonthonax</persName>,
                   ses commissaires, en ce qui concernait les esclaves, qu'<choice>
                      <sic>elles</sic>
                      <corr>elle</corr>
                   </choice> les approuva ; elle y reconnut son génie. Et sur l'heure, aux
                   applaudissemens de l'immortelle assemblée, fut prononcé séance tenante, sur la
                   demande de Dufahy, non-seulement l'affranchissement de la race noire tout entière,
-                  mais encore sa réintégration dans la grande famille nationale.<ptr target="#nA2CD"
-                  /></p>
+                  mais encore sa réintégration dans la grande famille nationale.<ptr target="#nA2CD"/></p>
                <p> Ainsi se manifesta, au premier appel à l'égard des noirs, l'esprit de justice de
                   la révolution française ; et la réintégration des droits de l'homme entreprise par
                   elle contre tous les obstacles, sembla un moment consommée pour toujours.</p>
@@ -180,8 +168,7 @@
                      <sic>fondemens</sic>
                      <corr>fondements</corr>
                   </choice> de l'état social dont ils jouissent aujourd'hui, état social fort
-                  supérieur à celui de beaucoup de nations européennes prétendues civilisées<ptr
-                     target="#n82F8"/>. Le problème du travail libre aux Antilles fut par là résolu,
+                  supérieur à celui de beaucoup de nations européennes prétendues civilisées<ptr target="#n82F8"/>. Le problème du travail libre aux Antilles fut par là résolu,
                   et aujourd'hui l'exemple des colonies anglaises émancipées a dû convaincre les
                   plus stupides de la fausseté et de l'infamie des assertions des colons contre les
                   noirs.</p>
@@ -247,8 +234,7 @@
                   veulent accorder et que d'autres refusent aux propriétaires d'esclaves. Nous n'en
                   avons rien dit dans la loi constitutive de l'état social des colonies, et voici
                   pourquoi :</p>
-               <p>Entre le maître et l'esclave il ne peut pas être question d'indemnité<ptr
-                     target="#n3542"/>. Si l'on voulait absolument en établir une, ce serait le
+               <p>Entre le maître et l'esclave il ne peut pas être question d'indemnité<ptr target="#n3542"/>. Si l'on voulait absolument en établir une, ce serait le
                   maître qui la devrait à l'esclave, pour réparation de la violence physique et
                   morale qu'il a exercée contre lui<ptr target="#n678F"/>.</p>
                <p>Le principe de l'indemnité ne peut être débattu qu'entre la société française et
