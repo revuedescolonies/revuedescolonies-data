@@ -58,14 +58,14 @@
                </p>
                <p>
                   Aussi ne s’agit-il pour ainsi dire plus de savoir s’il y aura un 
-                  <bibl type="legal"><foreign>bill</foreign></bibl> 
+                  <bibl type="legal"><foreign xml:lang="en">bill</foreign></bibl> 
                   d’émancipation, mais quel en sera le mode, quelles en seront les 
                   <choice>
                      <sic>disposition</sic>
                      <corr>dispositions</corr>
                   </choice>
                   ; s’il lèvera toutes les difficultés en ne soumettant les esclaves émancipés à aucune des servitudes qui entachent en partie le 
-                  <bibl type="legal"><foreign>bill</foreign> </bibl> 
+                  <bibl type="legal"><foreign xml:lang="en">bill</foreign> </bibl> 
                   anglais, et qui sont plutôt, dans celles des colonies britanniques où elles n’ont pas été 
                   <choice>
                      <sic>eutièrement</sic>
@@ -94,8 +94,8 @@
                <p>
                   Voilà ce qu’il faut proclamer bien haut en même temps que l’affranchissement absolu. Point d’entraves, point d’exceptions. Dites hardiment que 
                   <cit>
-                     <quote><emph>les Hommes naissent libres et égaux en droits,</emph></quote>
-                     <bibl>Déclaration des droits de l'homme et du citoyen</bibl>
+                     <quote><emph>les Hommes naissent libres et égaux en droits,</emph></quote> 
+                     <bibl type="legal"><title ref="#DDH"></title></bibl>
                   </cit>
                   et en 
                   <pb n="4" facs="v1n10p4"/>
@@ -105,7 +105,7 @@
                </p>
                <p>
                   Oh ! que nous serions tous plus avancés et plus heureux si, convenant de nos droits, nous en faisions la base respectée de toutes nos relations! Aussi, en même temps que vous promulguerez un 
-                  <foreign>bill</foreign> 
+                  <foreign xml:lang="en">bill</foreign> 
                   de liberté, promulguez aux colonies les vraies notions du juste et de l’injuste, les vrais principes de cette même liberté.
                </p>
                <p>
@@ -126,10 +126,8 @@
                </p>
                <p>
                   <cit>
-                     <quote>La liberté est le pouvoir qui appartient à l’homme d’exercer à son gré toutes ses facultés; elle a la justice pour règle, les droits d’autrui pour limites, la nature pour principe, et la loi pour sauvegarde. La liberté consiste donc à pouvoir faire tout ce qui ne nuit pas à autrui ; ainsi l’exercice des droits naturels de chaque homme n’a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits.</quote>
-                     <bibl type="legal">
-                        <title ref="#DDH"></title>
-                     </bibl>
+                     <quote>La liberté est le pouvoir qui appartient à l’homme d’exercer à son gré toutes ses facultés; elle a la justice pour règle, les droits d’autrui pour limites, la nature pour principe, et la loi pour sauvegarde. La liberté consiste donc à pouvoir faire tout ce qui ne nuit pas à autrui ; ainsi l’exercice des droits naturels de chaque homme n’a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits.</quote> 
+                     <bibl type="legal"><title ref="#DDH"></title></bibl>
                   </cit>
                </p>
                <p>
@@ -179,7 +177,7 @@
                   et toutes les qualités d’un homme supérieur, fait pour en commander d’autres. Il fut pris 
                   en <date>1826</date> 
                   par une patrouille du <placeName>Petit-Bourg</placeName>, 
-                  et mourut dans les cachots de la <placeName>Basse-Terre</placeName>.
+                  et mourut dans les cachots de la <placeName ref="#B-T">Basse-Terre</placeName>.
                </p>
                <p>
                   Ces forêts produisent une grande quantité de tubercules très variés, qui forment un des articles 
@@ -325,158 +323,173 @@
                   </choice>
                   de quartiers est une plaie honteuse et une calamité, comme celle des magistrats créoles.
                </p>
-               <closer><persName ref="XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
+               <closer><persName ref="XT">X. TANC</persName>, ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.</closer>
             </div>
             <div xml:id="blancs">
                <head>DES BLANCS JUGÉS PAS UN BLANC.</head>
-               <p>( <emph>Extrait des mémoires d’une créole de <placeName ref="#MQ">la Martinique</placeName>, publiés en</emph> <date>1831</date>.)</p>
-               <p>
-                  <q>Les <emph>blancs</emph> 
-                  naissent et sont élevés dans les préjugés les plus invétérés qui jamais aient été produits par l’orgueil ou par le hasard de la naissance. 
-                  Ceux d’entre eux qui, en <placeName ref="#FR">France</placeName>, ont reçu une éducation libérale, n’y ont pas 
-                  <choice>
-                     <sic>laisse</sic> 
-                     <corr>laissé</corr> 
-                  </choice>
-                  pour cela ces impressions de leur enfance, qui se réveillent au premier coup de fouet qu’ils entendent lorsqu’ils se trouvent au milieu de leurs esclaves. On voit renaître chez eux alors dans toute leur fougueces préjugés coloniaux dont la civilisation européenne aurait dû les guérir. Tel en est l’empire que les créoles, en toute autre circonstance bons, généreux, hospitaliers, deviennent des tigres contre celui qui élève la voix en faveur des victimes de leurs privilèges. 
-                  Leur haine contre la <emph>classe de couleur</emph> surtout ne connaît aucun frein; elle s’accroît à chaque pas qu’essaient les <emph>hommes de couleur</emph> hors du cercle d’ilotisme où ils sont asservis depuis si long-temps ; 
-                  ce qui n’empêche pas que beaucoup de personnes, nées de <emph>couleur</emph>, ont eu l’adresse de se glisser inaperçues dans la <emph>classe blanche</emph>, si jalouse de la noblesse de sa peau. Ces hommes y sont devenus les ennemis les plus 
-                  <choice>
-                     <orig>ardens</orig> 
-                     <reg>ardents</reg> 
-                  </choice> 
-                  de la race d’où ils sont sortis et qu’ils ont reniée, et se font aisément deviner dans les 
-                  <choice>
-                     <orig>momens</orig> 
-                     <reg>moments</reg> 
-                  </choice> 
-                  de trouble par leurs vociférations et leurs cris de sang.</q>
-               </p>
-               <p>
-                  <q><emph>L’Européen</emph>, arrivant avec ses idées de libéralisme et de philantropie, ne tarde pas ordinairement à être atteint par cet air contagieux qu’il vient respirer dans la terre de l’esclavage. 
-                  S’il est dans les <emph>
-                  <choice>
-                     <orig>puissans</orig> 
-                     <reg>puissants</reg> 
-                  </choice> 
-                  </emph>, des séductions de mille espèces lui font bien vite ou-
+               <p>(<emph>Extrait des mémoires d’une créole de <placeName ref="#MQ">la Martinique</placeName>, publiés en</emph> <date>1831</date>.)</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <p>
+                           Les <emph>blancs</emph> 
+                           naissent et sont élevés dans les préjugés les plus invétérés qui jamais aient été produits par l’orgueil ou par le hasard de la naissance. 
+                           Ceux d’entre eux qui, en <placeName ref="#FR">France</placeName>, ont reçu une éducation libérale, n’y ont pas 
+                           <choice>
+                              <sic>laisse</sic> 
+                              <corr>laissé</corr> 
+                           </choice>
+                           pour cela ces impressions de leur enfance, qui se réveillent au premier coup de fouet qu’ils entendent lorsqu’ils se trouvent au milieu de leurs esclaves. On voit renaître chez eux alors dans toute leur fougueces préjugés coloniaux dont la civilisation européenne aurait dû les guérir. Tel en est l’empire que les créoles, en toute autre circonstance bons, généreux, hospitaliers, deviennent des tigres contre celui qui élève la voix en faveur des victimes de leurs privilèges. 
+                           Leur haine contre la <emph>classe de couleur</emph> surtout ne connaît aucun frein; elle s’accroît à chaque pas qu’essaient les <emph>hommes de couleur</emph> hors du cercle d’ilotisme où ils sont asservis depuis si long-temps ; 
+                           ce qui n’empêche pas que beaucoup de personnes, nées de <emph>couleur</emph>, ont eu l’adresse de se glisser inaperçues dans la <emph>classe blanche</emph>, si jalouse de la noblesse de sa peau. Ces hommes y sont devenus les ennemis les plus 
+                           <choice>
+                              <orig>ardens</orig> 
+                              <reg>ardents</reg> 
+                           </choice> 
+                           de la race d’où ils sont sortis et qu’ils ont reniée, et se font aisément deviner dans les 
+                           <choice>
+                              <orig>momens</orig> 
+                              <reg>moments</reg> 
+                           </choice> 
+                           de trouble par leurs vociférations et leurs cris de sang.
+                        </p>
+                        <p>
+                           <emph>L’Européen</emph>, arrivant avec ses idées de libéralisme et de philantropie, ne tarde pas ordinairement à être atteint par cet air contagieux qu’il vient respirer dans la terre de l’esclavage. 
+                           S’il est dans les <emph>
+                           <choice>
+                              <orig>puissans</orig> 
+                              <reg>puissants</reg> 
+                           </choice> 
+                           </emph>, des séductions de mille espèces lui font bien vite ou-
                   <pb n="10" facs="v1n10p10"/>
-                  blier sa mission pour partager toutes les chimères coloniales; s’il est dans les rangs ordinaires de la société, l’impunité que sa <emph>peau blanche</emph> lui promet le porte immédiatement à user, pour opprimer, du droit qu’il sait en avoir acquis.</q>
-               </p>
-               <p>
-                  <q>« Après quelque séjour dans la colonie ces 
-                  <choice>
-                     <orig>nouveau-venus</orig> 
-                     <reg>nouveaux-venus</reg> 
-                  </choice> 
-                  surpassent les créoles eux-mêmes en vanité et en préjugés. Ils sont plus durs envers les <emph>esclaves</emph>, habitués qu’ils ont été en 
-                  <placeName ref="#EUR">Europe</placeName> 
-                  à un service plus soigné, et surtout plus actif que celui qu’on obtient des noirs. 
-                  Aussi le <emph>nègre esclave</emph>, dans son état d’abjection et de malheur, accorde aux créoles une préférence marquée dans ses affections, et accueille par des sobriquets de mépris 
-                  <emph>ces gens qui lui arrivent de 
-                  <placeName>France.</placeName></emph></q>
-               </p>
-               <p>
-                  <q>« On concevra aisément de quelles persécutions et de quelles injustices les classes opprimées ont pu être rendues victimes, lorsqu’on réfléchira qu’à une distance si éloignée de la métropole, avec si peu et même point de moyens d’y faire arriver des plaintes, dans un pays régi par des ordonnances et des lois aussi imparfaites que celles qui y sont en vigueur, toutes les places, tant dans l’administration que dans l’ordre judiciaire, ont toujours été exclusivement dévolues 
-                  à la <emph>caste privilégiée</emph> ; ajoutez à cela que <emph>l'homme de couleur</emph> libre ne pouvait être avocat, médecin, notaire, etc., enfin fonctionnaire quelconque, malgré sa bonne conduite, son instruction ou sa fortune, acquise par une laborieuse industrie ; 
-                  que le conseil souverain, aujourd’hui <orgName>Cour royale</orgName>, 
-                  n’admettait dans son sein que des créoles, à qui on ne demandait pas les études sévères exigées pour la magistrature : il leur suffisait d’être issus de <emph>planteurs</emph>. 
-                  Quelques modifications ont été apportées depuis peu à ce système, mais sans bénéfice notable pour les justiciables, surtout en matière criminelle. Une réforme complète est le seul remède.</q>
-               </p>
-               <p>
-                  <q>Nulle part, dans les pays de la domination française, 
-                  <date>la révolution de juillet</date>
-                  n’a reçu un accueil plus froid qu’à 
-                  <placeName>la Martinique,</placeName> 
-                  où elle est venue dissiper les illusions dans lesquelles se berçait la plus ridicule des aristocraties ; nulle part le gouvernement actuel n’a de plus grands ennemis que ceux qui là sont en place, principalement dans l’ordre judiciaire. Ils attendent et appellent de tous leurs vœux l’intervention des puissances étrangères, 
-                  qui doit leur ramener la branche proscrite de la famille des<persName>Bourbons</persName>. 
-                  La tranquillité troublée à l’intérieur de <placeName>la France</placeName> est pour eux un sujet de
+                           blier sa mission pour partager toutes les chimères coloniales; s’il est dans les rangs ordinaires de la société, l’impunité que sa <emph>peau blanche</emph> lui promet le porte immédiatement à user, pour opprimer, du droit qu’il sait en avoir acquis.
+                        </p>
+                        <p>
+                           Après quelque séjour dans la colonie ces 
+                           <choice>
+                              <orig>nouveau-venus</orig> 
+                              <reg>nouveaux-venus</reg> 
+                           </choice> 
+                           surpassent les créoles eux-mêmes en vanité et en préjugés. Ils sont plus durs envers les <emph>esclaves</emph>, habitués qu’ils ont été en 
+                           <placeName ref="#EUR">Europe</placeName> 
+                           à un service plus soigné, et surtout plus actif que celui qu’on obtient des noirs. 
+                           Aussi le <emph>nègre esclave</emph>, dans son état d’abjection et de malheur, accorde aux créoles une préférence marquée dans ses affections, et accueille par des sobriquets de mépris 
+                           <emph>ces gens qui lui arrivent de 
+                           <placeName ref="#FR">France.</placeName></emph>
+                        </p>
+                        <p>
+                           On concevra aisément de quelles persécutions et de quelles injustices les classes opprimées ont pu être rendues victimes, lorsqu’on réfléchira qu’à une distance si éloignée de la métropole, avec si peu et même point de moyens d’y faire arriver des plaintes, dans un pays régi par des ordonnances et des lois aussi imparfaites que celles qui y sont en vigueur, toutes les places, tant dans l’administration que dans l’ordre judiciaire, ont toujours été exclusivement dévolues 
+                           à la <emph>caste privilégiée</emph> ; ajoutez à cela que <emph>l'homme de couleur</emph> libre ne pouvait être avocat, médecin, notaire, etc., enfin fonctionnaire quelconque, malgré sa bonne conduite, son instruction ou sa fortune, acquise par une laborieuse industrie ; 
+                           que le conseil souverain, aujourd’hui <orgName>Cour royale</orgName>, 
+                           n’admettait dans son sein que des créoles, à qui on ne demandait pas les études sévères exigées pour la magistrature : il leur suffisait d’être issus de <emph>planteurs</emph>. 
+                           Quelques modifications ont été apportées depuis peu à ce système, mais sans bénéfice notable pour les justiciables, surtout en matière criminelle. Une réforme complète est le seul remède.
+                        </p>
+                        <p>
+                           Nulle part, dans les pays de la domination française, 
+                           <date>la révolution de juillet</date>
+                           n’a reçu un accueil plus froid qu’à 
+                           <placeName ref="#MQ">la Martinique,</placeName> 
+                           où elle est venue dissiper les illusions dans lesquelles se berçait la plus ridicule des aristocraties ; nulle part le gouvernement actuel n’a de plus grands ennemis que ceux qui là sont en place, principalement dans l’ordre judiciaire. Ils attendent et appellent de tous leurs vœux l’intervention des puissances étrangères, 
+                           qui doit leur ramener la branche proscrite de la famille des<persName>Bourbons</persName>. 
+                           La tranquillité troublée à l’intérieur de <placeName>la France</placeName> est pour eux un sujet de
                   <pb n="11" facs="v1n10p11"/>
-                  joie et d’espérance. Dans leurs rêves politiques ils ont déjà dressé leurs plans pour livrer l’île à la première attaque : 
-                  <q><emph>Périssent les colonies plutôt qu’un principe!</emph></q> ont dit les orateurs de la 
-                  <date>révolution de 1789.</date> 
-                  <q><emph>Périsse plutôt <placeName>la France</placeName> que le système colonial</emph></q>, 
-                  <foreign>palladium</foreign> <emph>de nos privilèges!</emph> disent 
-                  <choice>
-                     <orig>aujourdhui</orig> 
-                     <reg>aujourd'hui</reg> 
-                  </choice> 
-                  les colons, décidés à tendre leurs mains à celles qui viendront arracher ce pavillon tricolore qu’ils abhorrent.</q>
-               </p>
+                           joie et d’espérance. Dans leurs rêves politiques ils ont déjà dressé leurs plans pour livrer l’île à la première attaque : 
+                           <q><emph>Périssent les colonies plutôt qu’un principe!</emph></q> ont dit les orateurs de la 
+                           <date>révolution de 1789.</date> 
+                           <q><emph>Périsse plutôt <placeName>la France</placeName> que le système colonial</emph>, palladium <emph>de nos privilèges!</emph></q> disent 
+                           <choice>
+                              <orig>aujourdhui</orig> 
+                              <reg>aujourd'hui</reg> 
+                           </choice> 
+                           les colons, décidés à tendre leurs mains à celles qui viendront arracher ce pavillon tricolore qu’ils abhorrent.
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
             </div>
             <div xml:id="esclaves">
                <head>DES ESCLAVES.</head>
                <p> (<emph>Extrait des mêmes mémoires.</emph>)</p>
-               <p>
-                  <q>« Les malheureux <emph>esclaves</emph> souffrent sans qu’aucune chance leur ait été offerte encore de faire arriver leurs 
-                  <choice>
-                     <orig>gémissemens</orig> 
-                     <reg>gémissements</reg> 
-                  </choice>
-                  à ceux qui peuvent améliorer leur sort. Tandis que les tribunes publiques retentissent partout en faveur des opprimés, 
-                  tandis que les animaux eux-mêmes, dans le 
-                  <orgName ref="#PA">parlement anglais</orgName>,
-                  ont trouvé protection contre la brutalité de leurs conducteurs, et que dans les colonies étrangères les législateurs se sont occupés de la condition de leurs nègres esclaves pour les mettre sous la sauvegarde des lois, croirait-on que dans nos possessions seules ils aient été oubliés ! 
-                  Leurs plaintes ne sortant pas du cercle étroit où ils sont enchaînés, il ne leur reste que le désespoir, à moins qu’on ne se dépêche de mettre leur situation un peu en harmonie avec la civilisation actuelle, déjà si fortement opposée au système d’esclavage.</q>
-               </p>
-               <p>
-                 <q>« Aucun registre n’est tenu des naissances et des décès, ce qui ouvre un vaste champ à l’injustice et à la barbarie de certains maîtres. Combien d’esclaves ont péri dans les cachots des habitations ou sous le fouet des commandeurs, sans que jamais l’autorité s’en soit doutée, sans que le 
-                 <orgName>ministère public</orgName> 
-                 ait informé contre les hommes coupables de pareilles cruautés ! Heureux encore ceux qui n’ont pas succombé à des supplices dont on ne devinerait pas l’horreur !</q>
-               </p>
-               <p>
-                  <q>« De temps en temps le nègre agite sa chaîne, expose ses griefs par des chansons, par des placards ; 
-                  quelques <emph>blancs</emph> sont victimes dans les endroits écartés de la campagne ; 
-                  le poison exerce d’épouvantables ravages dans un quartier de l’île, des incendies éclatent. Loin de prêter l’oreille à des douleurs si énergiquement exprimées, les ordonnances locales rivent plus fortement les anneaux de cette
+               <floatingText>
+                  <body>
+                     <div>
+                        <p>
+                           Les malheureux <emph>esclaves</emph> souffrent sans qu’aucune chance leur ait été offerte encore de faire arriver leurs 
+                           <choice>
+                              <orig>gémissemens</orig> 
+                              <reg>gémissements</reg> 
+                           </choice>
+                           à ceux qui peuvent améliorer leur sort. Tandis que les tribunes publiques retentissent partout en faveur des opprimés, 
+                           tandis que les animaux eux-mêmes, dans le 
+                           <orgName ref="#PA">parlement anglais</orgName>,
+                           ont trouvé protection contre la brutalité de leurs conducteurs, et que dans les colonies étrangères les législateurs se sont occupés de la condition de leurs nègres esclaves pour les mettre sous la sauvegarde des lois, croirait-on que dans nos possessions seules ils aient été oubliés ! 
+                           Leurs plaintes ne sortant pas du cercle étroit où ils sont enchaînés, il ne leur reste que le désespoir, à moins qu’on ne se dépêche de mettre leur situation un peu en harmonie avec la civilisation actuelle, déjà si fortement opposée au système d’esclavage.
+                        </p>
+                        <p>
+                           Aucun registre n’est tenu des naissances et des décès, ce qui ouvre un vaste champ à l’injustice et à la barbarie de certains maîtres. Combien d’esclaves ont péri dans les cachots des habitations ou sous le fouet des commandeurs, sans que jamais l’autorité s’en soit doutée, sans que le 
+                           <orgName>ministère public</orgName> 
+                           ait informé contre les hommes coupables de pareilles cruautés ! Heureux encore ceux qui n’ont pas succombé à des supplices dont on ne devinerait pas l’horreur !
+                        </p>
+                        <p>
+                           De temps en temps le nègre agite sa chaîne, expose ses griefs par des chansons, par des placards ; 
+                           quelques <emph>blancs</emph> sont victimes dans les endroits écartés de la campagne ; 
+                           le poison exerce d’épouvantables ravages dans un quartier de l’île, des incendies éclatent. Loin de prêter l’oreille à des douleurs si énergiquement exprimées, les ordonnances locales rivent plus fortement les anneaux de cette
                   <pb n="12" facs="v1n10p12"/>
-                  chaîne de fer qui déjà menace de se rompre. Dieu veuille que la férocité africaine, poussée à bout par le désespoir, ne réussisse pas à s’armer contre ses oppresseurs, et à obtenir, par la ruine de la colonie entière, par le massacre de la génération blanche, une émancipation qui a déjà reçu sa première sanction dans 
-                  la reconnaissance de <placeName ref="#StD">Saint-Domingue.</placeName></q>
-               </p>
-               <p>
-                  <q>Rien n’égale la sévérité des 
-                  <choice>
-                     <orig>réglemens</orig> 
-                     <reg>réglements</reg> 
-                  </choice>
-                  de police à l’égard des esclaves de ville. Ceux des campagnes sont livrés à l’arbitraire de leurs maîtres, qui peuvent infliger les 
-                  <choice>
-                     <orig>châtimens</orig> 
-                     <reg>châtiments</reg> 
-                  </choice>
-                  les plus durs sous le contrôle d’une autorité administrative. A la vérité, malgré un grand nombre d’ordonnances cruelles et ridicules , les esclaves devaient trouver une protection dans le 
-                  directeur de l’intérieur. <persName ref="#RS">M. de Rosily</persName>, 
-                  à qui ce poste est confié à la <placeName>Martinique</placeName>, 
-                  a vingt-quatre mille francs 
-                  <choice>
-                     <orig>d'appointemens</orig> 
-                     <reg>d'appointement</reg> 
-                  </choice>
-                  annuels , et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis ; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau ; 
-                  il faut voir comment cet administrateur <foreign>dandy</foreign>, 
-                  sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ?</q>
-               </p>
-               <p>
-                  <emph>Vingt-neuf coups de fouet</emph>; 
-                  telle est la conclusion obligée de tous les arrêtés locaux de police ou d’administration concernant les esclaves. Ce châtiment, maximum de la peine correctionnelle, est appliqué à la geôle on en place publique, et malgré sa violence, c’est la punition réservée aux plus petites fautes, le système colonial n’admettant pas qu’un nègre puisse avoir raison contre un blanc. Ni les femmes, ni les vieillards ne sont à l’abri de ce rude supplice. Un sexagénaire ayant par inadvertance coudoyé 
-                  <!-- <persName>le colonel de Sanois - CREATE TAG</persName>,  -->
-                  en passant à côté de ce chef milicien, a été, pour ce simple fait, fouetté en public, 
-                  sur la <placeName ref="#PlB">place dite Bertin</placeName>.
-               </p>
-               <p>
-                  Cet exemple, cité entre mille, prouvera jusqu’à quel point, dans nos colonies, est poussée la rigueur avec laquelle les esclaves sont traités ; le joug y est trop pesant. Il faut des améliorations, ou bien ils briseront la digue qui les retient.
+                           chaîne de fer qui déjà menace de se rompre. Dieu veuille que la férocité africaine, poussée à bout par le désespoir, ne réussisse pas à s’armer contre ses oppresseurs, et à obtenir, par la ruine de la colonie entière, par le massacre de la génération blanche, une émancipation qui a déjà reçu sa première sanction dans 
+                           la reconnaissance de <placeName ref="#StD">Saint-Domingue.</placeName>
+                        </p>
+                        <p>
+                           Rien n’égale la sévérité des 
+                           <choice>
+                              <orig>réglemens</orig> 
+                              <reg>réglements</reg> 
+                           </choice>
+                           de police à l’égard des esclaves de ville. Ceux des campagnes sont livrés à l’arbitraire de leurs maîtres, qui peuvent infliger les 
+                           <choice>
+                              <orig>châtimens</orig> 
+                              <reg>châtiments</reg> 
+                           </choice>
+                           les plus durs sous le contrôle d’une autorité administrative. A la vérité, malgré un grand nombre d’ordonnances cruelles et ridicules , les esclaves devaient trouver une protection dans le 
+                           directeur de l’intérieur. <persName ref="#RS">M. de Rosily</persName>, 
+                           à qui ce poste est confié à la <placeName ref="#MQ">Martinique</placeName>, 
+                           a vingt-quatre mille francs 
+                           <choice>
+                              <orig>d'appointemens</orig> 
+                              <reg>d'appointement</reg> 
+                           </choice>
+                           annuels , et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis ; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau ; 
+                           il faut voir comment cet administrateur <foreign xml:lang="en">dandy</foreign>, 
+                           sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ? 
+                        </p>
+                        <p>
+                           <emph>Vingt-neuf coups de fouet</emph>; 
+                           telle est la conclusion obligée de tous les arrêtés locaux de police ou d’administration concernant les esclaves. Ce châtiment, maximum de la peine correctionnelle, est appliqué à la geôle on en place publique, et malgré sa violence, c’est la punition réservée aux plus petites fautes, le système colonial n’admettant pas qu’un nègre puisse avoir raison contre un blanc. Ni les femmes, ni les vieillards ne sont à l’abri de ce rude supplice. Un sexagénaire ayant par inadvertance coudoyé 
+                           en passant à côté de ce chef milicien, a été, pour ce simple fait, fouetté en public, 
+                           sur la <placeName ref="#PlB">place dite Bertin</placeName>.
+                        </p>
+                        <p>
+                           Cet exemple, cité entre mille, prouvera jusqu’à quel point, dans nos colonies, est poussée la rigueur avec laquelle les esclaves sont traités ; le joug y est trop pesant. Il faut des améliorations, ou bien ils briseront la digue qui les retient.
                   <pb n="13" facs="v1n10p13"/>
-               </p>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
             </div>
             <div xml:id="GAnse">
                <head>POURSUITES CONTRE <persName ref="#JHD">MONSIEUR DUPOTET</persName>, 
-               EX-GOUVERNEUR DE <placeName>LA MARTINIQUE</placeName>, 
+               EX-GOUVERNEUR DE <placeName ref="#MQ">LA MARTINIQUE</placeName>, 
                ET CONTRE D’AUTRES AGENS, A L’OCCASION DES ÉVÉNEMENS DE LA <placeName ref="#GdA">GRAND’ ANSE</placeName>.</head>
                <p>
                   Le premier cri de douleur des victimes de 
-                  <emph><placeName>la Grand’ Anse</placeName></emph> 
+                  <emph><placeName ref="#GdA">la Grand’ Anse</placeName></emph> 
                   s’éleva vers le chef de l’état. Une requête fut présentée 
                   <emph>au <persName ref="#LP">roi</persName> en son conseil</emph> 
-                  au nom de quatorze plaignans, dont chacun avait eu sa grande part dans cette affreuse catastrophe, et qui tous ont été acquittés ou non compris dans les poursuites, sauf 
+                  au nom de quatorze 
+                  <choice>
+                     <orig>plaignans</orig> 
+                     <reg>plaignants</reg> 
+                  </choice>
+                  , dont chacun avait eu sa grande part dans cette affreuse catastrophe, et qui tous ont été acquittés ou non compris dans les poursuites, sauf 
                   <persName>Laboulique</persName> et <persName>Auguste Eugénie</persName>, 
                   ce dernier condamné par contumace; sauf aussi 
                   <persName>Fréjus</persName> et <persName>Lorville</persName>, 
