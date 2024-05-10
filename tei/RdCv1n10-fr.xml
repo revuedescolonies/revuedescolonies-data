@@ -154,7 +154,7 @@
                   </choice>
                   et les géreurs comme loi suprême et conservatrice, qu’il faut toujours conduire les nègres par la crainte et par la terreur, les pousse vers les bois pour la moindre faute. Ils savent que leur maître est inexorable; la fuite est donc leur seule ressource ; comment éviter autrement les éclats de ses fureurs? N’attribuons donc qu’à cette excessive sévérité qu’on déploie contre eux cette désertion d’un grand nombre de nègres qui vont peupler les bois. Presque tous se réfugient dans les forêts qui couronnent les montagnes dont la chaîne s’étend de la 
                   <placeName ref="#B-T">Basse-Terre</placeName> jusqu’au 
-                  <placeName ref="Lam">Lamentin</placeName>, à peu de distance de la
+                  <placeName ref="#Lam">Lamentin</placeName>, à peu de distance de la
                  <placeName ref="#PaP">Pointe-à-Pitre</placeName>.
                   Là se trouvent des camps qui contiennent douze à quinze cents marrons. Le choix du terrain, son assiette, les aspérités qui l’environnent, les ravins qui le baignent, les vallées voisines que les marrons cultivent, tout annonce souvent un camp dressé par un chef habile, qui a tout prévu, tout préparé pour se mettre à l’abri d’une attaque, et avoir des vivres 
                   <choice>
@@ -323,7 +323,7 @@
                   </choice>
                   de quartiers est une plaie honteuse et une calamité, comme celle des magistrats créoles.
                </p>
-               <closer><persName ref="XT">X. TANC</persName>, ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.</closer>
+               <closer><persName ref="#XT">X. TANC</persName>, ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.</closer>
             </div>
             <div xml:id="blancs">
                <head>DES BLANCS JUGÉS PAS UN BLANC.</head>
@@ -509,7 +509,7 @@
                   à révoquer tant de condamnations capitales.
                </p>
                <p>
-                  Aujourd’hui le <orgName ref="CE">conseil d’état</orgName> vient à statuer sur la requête au 
+                  Aujourd’hui le <orgName ref="#CE">conseil d’état</orgName> vient à statuer sur la requête au 
                   <persName ref="#LP">roi</persName> : l’ordonnance royale est ainsi conçue :
                   <floatingText>
                   <body>
@@ -540,15 +540,15 @@
                            devant les tribunaux civils; 
                         </p>
                         <p>
-                           « Notre <orgName ref="CE">conseil d’état</orgName> entendu, 
+                           « Notre <orgName ref="#CE">conseil d’état</orgName> entendu, 
                            nous avons ordonné et ordonnons ce qui suit : 
                         </p>
                         <p>
                            « Art. 1er . Ne sont pas accordées les autorisations demandées par la requête ci-dessus visée, afin de poursuivre soit par la voie civile, soit par la voie criminelle, les personnes dénommées dans ladite requête. 
                         </p>
                         <p>
-                           « Art. 2. Notre <orgName ref="MJ">ministre de la justice</orgName> 
-                           et notre <persName ref="GVD">ministre de la marine</persName> 
+                           « Art. 2. Notre <orgName ref="#MJ">ministre de la justice</orgName> 
+                           et notre <persName ref="#GVD">ministre de la marine</persName> 
                            sont chargés de l’exécution de la présente ordonnance. »
                         </p>
                      </div>
@@ -604,23 +604,23 @@
                   l’ex-gouverneur
              <!--Rechercher quel gouverneur - Martinique?  -->
                   et ses subordonnés. Ce silence, il est permis de le penser, est un hommage rendu au malheur. En effet les faits ont été connus, appréciés; 
-                  <orgName ref="CE">le conseil d’état</orgName> 
+                  <orgName ref="#CE">le conseil d’état</orgName> 
                   ne s’est pas arrêté à de vaines formes de procédure ; la requête et les pièces à l’appui ont été communiquées au 
-                  <persName ref="GVD">ministre de la marine</persName>, 
+                  <persName ref="#GVD">ministre de la marine</persName>, 
                   celui- ci a fait aussi ses communications au gouvernement de 
                   <placeName ref="#MQ">La Martinique</placeName>, 
-                  et <persName ref="ANog">M. le procureur général Nogues</persName> a été consulté.
+                  et <persName ref="#ANog">M. le procureur général Nogues</persName> a été consulté.
                </p>
                <p>
                   Or, il faut savoir que, par une lettre en réponse, sous 
                   la date du <date>21 juillet 1854</date>, 
-                  <persName ref="ANog">ce magistrat</persName>, 
+                  <persName ref="#ANog">ce magistrat</persName>, 
                   parlant de la requête au <persName ref="#LP">roi</persName>, 
                   annonce 
                   <quote>« qu’il ne prendra pas la peine de prouver 
                   <emph>la fausseté</emph>
                   des imputations contenues dans cet écrit; que l’arrêt et l’acte d’accusation démontrent cette fausseté. » </quote>
-                  Et en effet <persName ref="ANog">M. le procureur général</persName> 
+                  Et en effet <persName ref="#ANog">M. le procureur général</persName> 
                   ne démontre rien, il se borne seulement à transmettre l’arrêt et l’acte d’accusation. Ce n’est donc pas le cas d’élever ici une controverse avec lui, nous rappellerons seulement que 
                   <emph>la requête au <persName ref="#LP">roi</persName></emph> 
                   a rarement énoncé un 
@@ -638,6 +638,8 @@
                   n’en articulaient qu’un, et on en avoue deux! Est-ce ainsi que l’arrêt et l’acte d'accusation démontrent les 
                   <emph>faussetés</emph> de la requête au <persName ref="#LP">roi</persName>.
                </p>
+               <p>
+               
 
 
 
