@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-05-09T21:50:01Z. . 
+Schema generated from ODD source 2024-05-10T04:07:18Z. . 
 TEI Edition: P5 Version 4.7.0. Last updated on 16th November 2023, revision e5dd73ed0 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.7.0/ 
   
@@ -6321,7 +6321,7 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#Bstd</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#XT</value>
+                        <value>#ATap</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#CT</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -6402,6 +6402,8 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <value>#VA</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#FRO</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                        <value>#Bosqu</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#AJC</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -6601,8 +6603,6 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#SOL</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#ATap</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#NB</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#Grey</value>
@@ -6671,6 +6671,8 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#RL</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                        <value>#XT</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#JEF</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#JorLa</value>
@@ -6730,8 +6732,6 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <value>#BOI</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#JFB</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#Bosqu</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                      </choice>
                   </oneOrMore>
@@ -6855,6 +6855,8 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                <list>
                   <oneOrMore>
                      <choice>
+                        <value>#TRI</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#CBE</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#Hav</value>
@@ -7110,8 +7112,6 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <value>#LH</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#PaP</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#TRI</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#DOM</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>

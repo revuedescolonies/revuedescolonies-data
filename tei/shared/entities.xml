@@ -80,15 +80,11 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">De Bastard</persName>
         </person>
-        <person xml:id="XT">
+        <person xml:id="ATap">
             <persName xml:lang="en"/>
-            <persName xml:lang="fr">Xavier Tanc</persName>
-            <birth>1800</birth>
-            <note xml:lang="en" type="Person" resp="#emilie">
-                <p>Abolitionist judge nominated to Capesterre (Guadeloupe), close to Bissette. In addition to articles in  <title>La Revue des Colonies</title>, he published an 1832 text, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. He was later transferred to Martinique and then eventually back to Guadeloupe.</p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#emilie">
-                <p>Juge abolitionniste nommé à Capesterre (Guadeloupe), proche de Bissette. En plus d'articles dans <title>La Revue des Colonies</title>, il publie en 1832 un livre, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. Il sera ultérieurement muté en Martinique, puis retourne en Guadeloupe.</p>
+            <persName xml:lang="fr">Tappan, M. A</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
             </note>
         </person>
         <person xml:id="CT">
@@ -308,6 +304,11 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Frotté,Le sieur</persName>
             <note xml:lang="en" type="Person" resp="#other">homme de couleur, fils naturel de M. Igout</note>
+        </person>
+        <person xml:id="Bosqu">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
+            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
         </person>
         <person xml:id="AJC">
             <persName xml:lang="en"/>
@@ -872,13 +873,6 @@
             <persName xml:lang="fr">Solvet, M.</persName>
             <note xml:lang="en" type="Person" resp="#other">substitut du procureur du roi près le tribunal civil de Soissons</note>
         </person>
-        <person xml:id="ATap">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Tappan, M. A</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
-            </note>
-        </person>
         <person xml:id="NB">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Napoléon Bonaparte</persName>
@@ -1121,6 +1115,17 @@
                 <bibl>Françoise Thésée, « La Révolte des esclaves du Carbet à la Martinique (octobre-novembre 1822) », <title>Revue Française d’Histoire d’Outre-Mer</title>, tome 80, n° 301, 4e trimestre 1993, pp. 551-584 [note 54, p. 568]. DOI : <ref target="">https//doi.org/10.3406/outre.1993.3148</ref>.</bibl>
             </note>
         </person>
+        <person xml:id="XT">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Xavier Tanc</persName>
+            <birth>1800</birth>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>Abolitionist judge nominated to Capesterre (Guadeloupe), close to Bissette. In addition to articles in  <title>La Revue des Colonies</title>, he published an 1832 text, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. He was later transferred to Martinique and then eventually back to Guadeloupe. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Juge abolitionniste nommé à Capesterre (Guadeloupe), proche de Bissette. En plus d'articles dans <title>La Revue des Colonies</title>, il publie en 1832 un livre, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. Il sera ultérieurement muté en Martinique, puis retourne en Guadeloupe.</p>
+            </note>
+        </person>
         <person xml:id="JEF">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Jefferson p.39</persName>
@@ -1307,13 +1312,13 @@
                 <p>Links: <ref target="https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Bories">Bories, Jean-François</ref></p>
             </note>
         </person>
-        <person xml:id="Bosqu">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
-            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
-        </person>
     </listPerson>
     <listPlace>
+        <place xml:id="TRI">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">La Trinité</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
         <place xml:id="CBE">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Le Cap de Bonne-Espérance</placeName>
@@ -1969,11 +1974,6 @@
         <place xml:id="PaP">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Pointe-à-Pitre</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
-        </place>
-        <place xml:id="TRI">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">La Trinité</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="DOM">
