@@ -469,12 +469,12 @@
                         </p>
                         <p>
                            Cet exemple, cité entre mille, prouvera jusqu’à quel point, dans nos colonies, est poussée la rigueur avec laquelle les esclaves sont traités ; le joug y est trop pesant. Il faut des améliorations, ou bien ils briseront la digue qui les retient.
-                  <pb n="13" facs="v1n10p13"/>
                         </p>
                      </div>
                   </body>
                </floatingText>
             </div>
+            <pb n="13" facs="v1n10p13"/>
             <div xml:id="GAnse">
                <head>POURSUITES CONTRE <persName ref="#JHD">MONSIEUR DUPOTET</persName>, 
                EX-GOUVERNEUR DE <placeName ref="#MQ">LA MARTINIQUE</placeName>, 
@@ -501,8 +501,146 @@
                   fut envoyée à la <orgName ref="#CDC">cour de cassation</orgName>, 
                   qui rejeta le pourvoi après plusieurs jours de délibéré.
                   <emph>Bonne procédure, détestable procès</emph> ; 
-                  ce fut, nous l’avons dit, la pensée des magistrats qui se crurent avec douleur impuissans à révoquer tant de condamnations capitales.
+                  ce fut, nous l’avons dit, la pensée des magistrats qui se crurent avec douleur 
+                  <choice>
+                     <orig>impuissans</orig> 
+                     <reg>impuissants</reg> 
+                  </choice>
+                  à révoquer tant de condamnations capitales.
                </p>
+               <p>
+                  Aujourd’hui le <orgName ref="CE">conseil d’état</orgName> vient à statuer sur la requête au 
+                  <persName ref="#LP">roi</persName> : l’ordonnance royale est ainsi conçue :
+                  <floatingText>
+                  <body>
+                     <div>
+                        <p>
+                           <persName ref="#LP">« Louis-Philippe</persName>, roi des Français, etc. 
+                        </p>
+                        <p>   
+                           « Vu la requête présentée par, etc. , vu, etc., sur la demande en autorisation de poursuivre à fins criminelles.
+                        </p>
+                        <p>
+                           « Considérant qu’aucune demande en autorisation de poursuivre à fins criminelles ne nous a été adressée par notre 
+                           <roleName>procureur général</roleName> 
+                           près la cour royale de <placeName ref="#MQ">La Martinique</placeName>, 
+                           et que les 
+                           <choice>
+                              <orig>réclamans</orig> 
+                              <reg>réclamants</reg> 
+                           </choice>
+                           ne se sont pas portés parties civiles ; 
+                        </p>
+                        <p>
+                           « Considérant qu’aucune demande n’a été encore portée par les 
+                           <choice>
+                              <orig>réclamans</orig> 
+                              <reg>réclamants</reg> 
+                           </choice>
+                           devant les tribunaux civils; 
+                        </p>
+                        <p>
+                           « Notre <orgName ref="CE">conseil d’état</orgName> entendu, 
+                           nous avons ordonné et ordonnons ce qui suit : 
+                        </p>
+                        <p>
+                           « Art. 1er . Ne sont pas accordées les autorisations demandées par la requête ci-dessus visée, afin de poursuivre soit par la voie civile, soit par la voie criminelle, les personnes dénommées dans ladite requête. 
+                        </p>
+                        <p>
+                           « Art. 2. Notre <orgName ref="MJ">ministre de la justice</orgName> 
+                           et notre <persName ref="GVD">ministre de la marine</persName> 
+                           sont chargés de l’exécution de la présente ordonnance. »
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+               </p>
+               <p>
+                  Cet acte administratif pourrait provoquer bien des réflexions,
+                  <pb n="14" facs="v1n10p14"/>
+                  mais aujourd’hui que nos malheureux 
+                  <choice>
+                     <orig>cliens</orig> 
+                     <reg>clients</reg> 
+                  </choice>
+                  ont succombé dans tous leurs recours ; aujourd’hui que la mort de l’échafaud a été commuée pour eux en la mort lente des bagnes européens, où les 
+                  <choice>
+                     <orig>habitans</orig> 
+                     <reg>habitants</reg> 
+                   </choice>
+                  des tropiques n’ont que deux années à vivre, à quoi bon des plaidoyers posthumes ! Cependant 
+                  l’événement de <placeName ref="#GdA">la Grand’ Anse</placeName> 
+                  n’a pas été un de ces conflits 
+                  <choice>
+                     <orig>sanglans</orig> 
+                     <reg>sanglants</reg> 
+                   </choice>
+                  où des concitoyens 
+                  <choice>
+                     <orig>s’entr’égorgent</orig> 
+                     <reg>s’entre-égorgent</reg> 
+                   </choice>
+                  ; où chacun après avoir enterré ses crimes et ses morts doit garder le silence sur leur tombe. O blancs, pas un de vous n’a péri! Les morts ne sont que d’un côté; nous pourrions réhabiliter leur mémoire; nous ferons seulement quelques observations, commentaire obligé de l’ordonnance qu’on vient de lire.
+               </p>
+               <p>
+                  Le <persName ref="#LP">roi</persName> 
+                  en son conseil n’a statué 
+                  <emph>que par fin de non recevoir</emph>; les 
+                  <choice>
+                     <orig>plaignans</orig> 
+                     <reg>plaignants</reg> 
+                   </choice>
+                  n’ont pas régularisé leur procédure par le dépôt au parquet de 
+                  <placeName ref="#MQ">La Martinique</placeName> 
+                  d’une plainte qu’aurait transmise 
+                  le procureur général ; 
+            <!-- <!Rechercher quel procureur général -->
+                  voilà l’unique motif du rejet de leur demande. Silence absolu quant aux faits énoncés dans la requête, dans cet acte d’accusation énergique, mais calme et modéré que les 
+                  <choice>
+                     <orig>plaignans</orig> 
+                     <reg>plaignants</reg> 
+                   </choice>
+                  ont dressé contre 
+                  l’ex-gouverneur
+             <!--Rechercher quel gouverneur - Martinique?  -->
+                  et ses subordonnés. Ce silence, il est permis de le penser, est un hommage rendu au malheur. En effet les faits ont été connus, appréciés; 
+                  <orgName ref="CE">le conseil d’état</orgName> 
+                  ne s’est pas arrêté à de vaines formes de procédure ; la requête et les pièces à l’appui ont été communiquées au 
+                  <persName ref="GVD">ministre de la marine</persName>, 
+                  celui- ci a fait aussi ses communications au gouvernement de 
+                  <placeName ref="#MQ">La Martinique</placeName>, 
+                  et <persName ref="ANog">M. le procureur général Nogues</persName> a été consulté.
+               </p>
+               <p>
+                  Or, il faut savoir que, par une lettre en réponse, sous 
+                  la date du <date>21 juillet 1854</date>, 
+                  <persName ref="ANog">ce magistrat</persName>, 
+                  parlant de la requête au <persName ref="#LP">roi</persName>, 
+                  annonce 
+                  <quote>« qu’il ne prendra pas la peine de prouver 
+                  <emph>la fausseté</emph>
+                  des imputations contenues dans cet écrit; que l’arrêt et l’acte d’accusation démontrent cette fausseté. » </quote>
+                  Et en effet <persName ref="ANog">M. le procureur général</persName> 
+                  ne démontre rien, il se borne seulement à transmettre l’arrêt et l’acte d’accusation. Ce n’est donc pas le cas d’élever ici une controverse avec lui, nous rappellerons seulement que 
+                  <emph>la requête au <persName ref="#LP">roi</persName></emph> 
+                  a rarement énoncé un 
+                  <emph>fait sans indiquer à côté par son numéro d’ordre la pièce de procédure, ou le Moniteur, ou tel autre document qui en sont la preuve.</emph> 
+                  L’arrêt et l’acte d’accusation devait démontrer la fausseté des imputations alléguées. Eh bien, ne prenons qu’un fait, le meurtre 
+                  du malheureux <persName>Lorville</persName>, 
+                  percé de balles lorsqu’il cherchait à fuir; 
+                  la requête au <persName ref="#LP">roi</persName> l’avait allégué; l'arrêt de renvoi le
+                  <pb n="15" facs="v1n10p15"/>
+                  prouve, page 51 ! Bien mieux, il prouve un second meurtre dans la même circonstance : les 
+                  <choice>
+                     <orig>plaignans</orig> 
+                     <reg>plaignants</reg> 
+                  </choice>
+                  n’en articulaient qu’un, et on en avoue deux! Est-ce ainsi que l’arrêt et l’acte d'accusation démontrent les 
+                  <emph>faussetés</emph> de la requête au <persName ref="#LP">roi</persName>.
+               </p>
+
+
+
             
 
                
