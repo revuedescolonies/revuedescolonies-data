@@ -821,7 +821,7 @@
                </p>
                <p>
                   Tout cela c’est le gouvernement qui l’a voulu jusqu’ici. Qu’on ne s’étonne donc pas si les progrès sont si lents à s’accomplir aux co-
-                  <pb n="18" facs="v1n10p18"/>
+                  <pb n="19" facs="v1n10p19"/>
                   lonies françaises. Rien n’y pousse, que la voix indépendante et libre de quelques hommes; que quelques écrits de 
                   <placeName ref="#FR">la métropole</placeName>
                   qui parviennent à 
@@ -851,6 +851,193 @@
                   <persName ref="#BRO">M. le duc de Broglie</persName> 
                   semble naturellement destiné à l’opérer : il pourrait par là du moins marquer glorieusement son passage.
                </p>
+            </div>
+            <div xml:id="parisien">
+               <head>PARISIEN ESCLAVE A LA MARTINIQUE.</head>
+               <epigraph xml:lang="fr">
+                  <q><emph>« Donner et retenir ne vaut. »</emph></q>
+               </epigraph>
+               <p>
+                  Un enfant né à 
+                  <placeName ref="#Par">Paris</placeName> 
+                  est aujourd’hui esclave à 
+                  <placeName ref="#MQ">la Martinique</placeName>. 
+                  Cet enfant est le jeune 
+                  <persName>Louis</persName> ; 
+            <!--find bio info about Louis?  -->
+                  son acte de naissance est du
+                  <pb n="20" facs="v1n10p20"/>
+                  26 septembre 1830, inscrit sur le registre de l'état civil du premier arrondissement. Le voici : 
+                  <cit>
+                     <quote>« 26 septembre 1830, à midi et demi : Acte de naissance de <persName>Louis</persName>, né rue du Faubourg-St-Honoré, n. 10, le 24 du présent à onze heures du soir, fils de <emph><persName>Rose-Anastasie Édouard</persName></emph>, femme de chambre, demeurant rue de Surène, n. 31, <emph>native de <placeName ref="#StP">St-Pierre (Martinique)</placeName></emph> ; enfant naturel, présenté, etc. Pour copie conforme, <emph>signé</emph> <persName>Lefort.</persName> »</quote> 
+               <!--find bio info about Louis, Rose-Anastasie Édouard, Lefort  -->
+                     <bibl type="legal"></bibl>
+                  </cit>
+               </p>
+               <p>
+                  Nous lisons maintenant dans 
+                  <bibl type="periodical">le journal officiel</bibl> de 
+            <!--Check what journal this would be  -->
+                 <placeName ref="#MQ">la Martinique</placeName> 
+                  la demande d’affranchissement suivante: 
+                  <cit>
+                     <quote>« <emph><persName>Rose-Anastasie Édouard</persName></emph>, dite Nérine, de 28 ans; 
+                     <persName>son fils <emph>Louis</emph>, dit Gaston</persName>, 
+                     <emph>né à <placeName ref="#Par">Paris</placeName>, de 4 ans</emph>; 
+                     <persName>Metive</persName> et <persName>Cartron</persName>,
+               <!--Create name tags?  --> 
+                     <emph>esclaves</emph> du sieur <persName>P.-L. Buée</persName>, 
+               <!--Create name tag?  --> 
+                     propriétaire au <placeName ref="#StP">fonds Canouville, Fort.</placeName> »</quote>
+                  </cit>
+               <!--Create place tag for Fonds Canouville (plantation)  --> 
+               </p>
+               <p>
+                  On n’affranchit que les esclaves : et comme il nous paraît fort peu logique, et très dangereux d’ailleurs d’appliquer la cérémonie de l’affranchissement à des êtres libres,
+                  <quote>Ou par droit de conquête ou par droit de naissance,</quote>
+               <!--Figure out source and formating  --> 
+                  il résulte des 
+                  <choice>
+                     <orig>documens</orig> 
+                     <reg>documents</reg> 
+                  </choice>
+                  <choice>
+                     <orig>précédens</orig> 
+                     <reg>précédents</reg> 
+                  </choice>
+                  que le jeune 
+                  <persName>Louis</persName>
+                  a perdu tous ses droits par le seul fait de son voyage aux colonies. Sans doute on veut lui rendre la liberté, mais nous prétendons qu’on n’a pas le droit de lui rendre ce qu’on n’avait pas le droit de lui ôter. C’est surtout ici une question de principes que nous examinons, et nos observations s’adressent directement aux autorités de la colonie, et spécialement à celles qui sont chargées de veiller à l’état civil des personnes. Messieurs les gouverneurs, procureurs-généraux et autres n’aiment pas à recevoir des leçons de nous : il serait mieux pour eux de ne pas nous mettre dans le cas de leur en donner.
+               </p>
+               <p>
+                  Il existe 
+                  une ancienne loi de la monarchie française, 
+            <!--Tag as bibl and create entry for édit du 3 juillet 1315 --> 
+                  loi plutôt renouvelée que créée par les édits de 
+                  <persName ref="#LX">Louis X</persName> 
+                  en 1314 et 1315 : son principe, d’accord avec l’esprit social moderne qui a son origine dans le christianisme, porte que la terre de 
+                  <placeName ref="#FR">France</placeName> 
+                  ne doit 
+                  <emph>renfermer que des hommes libres</emph>; 
+                  afin, dit l’ordonnance, que 
+                  <emph>la chose soit accordante au nom</emph>. 
+                  L’application de cette loi 
+                  a produit une jurisprudence constante et uniforme depuis les quinzième et seizième siècles, jurisprudence réglementaire elle-même, qui a eu pour résultat de ne point souffrir d’esclaves sur le territoire français, qui a posé comme principe constituant que toute personne qui mettait
+                  <pb n="21" facs="v1n10p21"/>
+                  le pied sur le sol de 
+                  <placeName ref="#FR">France</placeName>, 
+                  soit que le hasard, la violence ou sa seule volonté l’y eussent amenée, et quelle que fût sa condition, était libre par ce seul fait.
+               </p>
+               <p>
+                  Nous n’avons ni le temps ni la volonté de transcrire tous les 
+                  <choice>
+                     <orig>monumens</orig> 
+                     <reg>monuments</reg> 
+                  </choice>
+                  historiques à l’appui de cette opinion. La nouvelle législation est là pour nous dispenser de toute preuve. Le commerce de la traite des noirs est puni d’une peine capitale; de là deux conséquences, la première que 
+                  l’antique loi de la monarchie française 
+            <!--Tag as bibl -->
+                  est loin d’avoir été abrogée, la seconde que nos lois civiles ne peuvent donner aucun effet à des actes que nos lois pénales considèrent à l’égal des plus grands crimes. Qu’on ne croie pas que c’est aux 
+                  lois seules de 1828 
+            <!--Create entry et tag law -->
+                  et de 1831 
+            <!--Create entry et tag law -->
+                  que nous attribuons ces effets; 
+                  le code pénal de 1810 
+            <!--Create entry et tag  -->
+                  et ceux qui l’ont précédé ont tous été conçus de manière à ce que la privation de la liberté avec violence contre une personne quelconque était mise sur la même ligne que le meurtre. 
+                  Les articles 341 
+            <!--Create entry et tag  -->
+                  et 
+                  <choice>
+                     <orig>suivans</orig> 
+                     <reg>suivants</reg> 
+                  </choice>
+                  prononcent les galères perpétuelles contre les auteurs de semblables attentats. Il est impossible, dès lors, qu’en présence de nos lois, un maître qui aurait conduit son esclave en 
+                  <placeName ref="#FR">France</placeName> 
+                  continue à exercer aucun droit sur sa personne; sa possession est finie.
+               </p>
+               <p>
+                  D’accord avec toutes les lois divines et humaines, il faut déclarer que 
+                  <emph><persName>Rose-Anastasie Édouard</persName></emph> 
+                  était libre et domiciliée en 
+                  <placeName ref="#FR">France</placeName> 
+                  lorsqu’elle a donné le jour à 
+                  <persName>Louis, dit Gaston</persName>; 
+                   celui-ci tenait sa liberté du seul fait de sa naissance et de l’état de sa mère. C’est donc par une véritable piraterie qu’on les a réduits en esclavage ; c’est l’acte d’un commerce proscrit, acte que nos lois recherchent et punissent, en quelque lieu qu’il se commette; c’est la traite exercée contre des citoyens français.
+               </p>
+               <p>
+                  Si on n’a pas encore touché à l’ordre exceptionnel qui régit les personnes aux colonies, on n’en a pas moins pris toutes les mesures pour qu’il restât renfermé dans le cercle qui lui fut tracé. Si les colonies sont en quelque sorte hors la loi, comment pourraient-elles arracher aux lois françaises ceux que celles-ci ont pris sous leur protection, à qui elles ont donné le droit de les invoquer partout, à eux et à leur postérité? Que les colons veuillent bien nous dire à quelle génération s’arrêterait leur droit de propriété, et si en transportant aux 
+                  <placeName ref="#ANTE">Antilles</placeName> 
+                  des femmes et des 
+                  <choice>
+                     <orig>enfans</orig> 
+                     <reg>enfants</reg> 
+                  </choice>
+                  libres en 
+                  <placeName ref="#FR">France</placeName>, 
+                  ils s’imaginent rendre la qualité d’objets mobiliers à ceux qui ont
+                  <pb n="22" facs="v1n10p22"/>
+                  vécu sous la protection de la loi française, ou qui sont nés sous son empire? Non, 
+                  <q><emph>donner et retenir ne vaut</emph></q>. 
+                  La loi ne doit pas être une vaine subtilité et fournir elle-même des pièges pour la violer.
+               </p>
+               <p>
+                  Lors donc que 
+                  <persName><emph>Rose-Edouard</emph></persName> 
+                  et <persName>le jeune Louis</persName> 
+                  se sont rendus à 
+                  <placeName ref="#MQ">la Martinique</placeName>, 
+                  <persName>M. l’officier de l’état civil, Toussaint de Montanary</persName>, 
+                  ne devait point les inscrire comme esclaves sur les demandes d’affranchissement, et 
+                  <persName ref="#ANog">M. le procureur-général Nogues</persName> 
+                  aurait dû faire poursuivre cet attentat au droit des gens ; il n’y a pas d’excuse admissible pour ces deux fonctionnaires; l’un et l’autre ont dû voir, par la seule mention de la naissance à 
+                  <placeName ref="#Par">Paris</placeName> 
+                  du <persName>jeune Louis</persName>, 
+                  qu’une violence contre la loi avait été commise, qu’ils ne devaient intervenir que pour la faire réparer et non pour la consacrer ; l’un en présentant à l'affranchissement deux personnes libres; l’autre, qui doit autoriser l’insertion officielle de pareilles demandes, en permettant que celle-ci fût mise au jour. Que fera 
+                  <persName ref="#EH">M. le gouverneur Halgan?</persName> 
+                  Nous espérons que 
+                  <persName ref="#EH">M. le gouverneur</persName> 
+                  ne voudra pas gouverner en laissant outrager les lois qu’il est chargé de faire respecter.
+               </p>
+               <p>
+                  Nous croyons aussi que si 
+                  <persName ref="#GVD">M. ministre de la marine</persName> 
+                  daigne jeter les yeux sur les actes administratifs des autorités coloniales, il comprendra et il fera comprendre à 
+                  <persName>M. Toussaint-Montanary</persName> 
+                  et à <persName ref="#ANog">M. Nogues</persName>  
+                  qu’ils ont fait tout le contraire de ce qu’ils devaient faire, et que demander l’affranchissement de deux personnes libres, c’est reconnaître qu’on a pu légalement leur ôter la liberté; que cela est tout au moins un coupable oubli de leurs devoirs de la part de ces magistrats.
+               </p>
+               <p>
+                  Oui, <persName ref="#GVD">M. le ministre</persName> 
+                  parlera ainsi : 
+                  <q>Car pour être <emph>ministre</emph> on n’en est pas moins homme</q>, 
+                  et on n’est pas absolument obligé d’ignorer les lois du pays dont on dirige les destinées.
+               </p>
+               <p>
+                  Maintenant nous prions tous les lecteurs de vouloir bien considérer quel serait le sens, selon 
+                  MM. Toussaint-Montanary 
+                  et <persName ref="#ANog">Nogues</persName>, 
+                  de l’acte de naissance inscrit sur les registres de l’état civil de 
+                  <placeName ref="#Par">Paris</placeName>. 
+                  Ces mots, 
+                  <quote><emph>enfant naturel, né à Paris, d’une femme de chambre de la <placeName ref="#MQ">Martinique</placeName></emph></quote>, 
+                  signifiraient : enfant venu au monde <emph>la chaîne au cou</emph>, qui a été conçu esclave, produit d’un être sans nom, enfant qui n’existera jamais lui-même comme être intelligent, à moins que
+                  <pb n="23" facs="v1n10p23"/>
+                  l’excessive générosité de son ou de ses maîtres ne lui donne un jour la liberté. Qui croirait que l’innocent registre de l’état civil du premier arrondissement de 
+                  <placeName ref="#Par">Paris</placeName> 
+                  pût contenir l’acte de naissance d’un esclave ! et prêter à cette indigne interprétation !
+               </p>
+            </div>
+
+
+
+
+
+
+ 
+
+
 
 
                   
