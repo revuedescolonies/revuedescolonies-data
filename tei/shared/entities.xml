@@ -2305,15 +2305,20 @@
             <title xml:lang="fr">l'Abolitioniste</title>
             <note xml:lang="en" type="Publication" resp="#other">revue trimestrielle</note>
         </bibl>
-        <bibl xml:id="JdH" type="periodical">
-            <title xml:lang="en"/>
-            <title xml:lang="fr">Le Journal du Havre</title>
-            <note xml:lang="en" type="Publication" resp="#other"/>
-        </bibl>
         <bibl xml:id="LC" type="periodical">
             <title xml:lang="en"/>
             <title xml:lang="fr">Le Cernéen</title>
             <note xml:lang="en" type="Publication" resp="#other"/>
+        </bibl>
+        <bibl xml:id="JdH" type="periodical">
+            <title xml:lang="en"/>
+            <title xml:lang="fr">Le Journal du Havre</title>
+            <note xml:lang="en" type="Publication" resp="#laure">
+                <p>In the 19th century,<emph> <title>Le Journal du Havre</title> </emph> was a regional but influential periodical. Since 1750 (until 1939) and with variations of its title, this daily newspaper was published in the port city of Le Havre, which was a place of departure for the French West Indies and among the first French ports. It plays a fairly important role under the Monarchie de Juillet (1830-1848): its articles regarding the colonies were cited in other national newspapers. The journalists defended slavery and the interests of planters.</p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#laure">
+                <p><title>Le Journal du Havre</title>  est un périodique régional, mais influent, durant tout le dix-neuvième siècle. Il paraît dans la ville portuaire du Havre, lieu de départ pour les territoires antillais et parmi les premiers ports français, depuis 1750 (jusqu'en 1939) avec des variations de titre. Quotidien assez important sous la Monarchie de Juillet (1830-1848), ses articles sur les colonies sont repris dans d'autres journaux nationaux : la rédaction y défend le maintien de l'esclavage et les intérêts des grands propriétaires coloniaux. </p>
+            </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">
             <title xml:lang="en"/>
