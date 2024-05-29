@@ -2320,6 +2320,26 @@
                 <p><title>Le Journal du Havre</title>  est un périodique régional, mais influent, durant tout le dix-neuvième siècle. Il paraît dans la ville portuaire du Havre, lieu de départ pour les territoires antillais et parmi les premiers ports français, depuis 1750 (jusqu'en 1939) avec des variations de titre. Quotidien assez important sous la Monarchie de Juillet (1830-1848), ses articles sur les colonies sont repris dans d'autres journaux nationaux : la rédaction y défend le maintien de l'esclavage et les intérêts des grands propriétaires coloniaux. </p>
             </note>
         </bibl>
+        <bibl xml:id="Ed1315" type="legal">
+            <title xml:lang="en">Edict of July 3, 1315</title>
+            <title xml:lang="fr">Édit du 3 juillet 1315</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>The July 3, 1315 edict, promulgated by Louis X, abolished serfdom and decreed the emancipation of slaves in France. </p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>L'édit du 3 juillet 1315, promu par Louis X, abolit le servage et décrète l'affranchissement des esclaves en France. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="Mar" type="monograph">
+            <title xml:lang="en"/>
+            <title xml:lang="fr">Marie</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p><title><emph>Marie or Slavery in the United States</emph></title>, Gustave de Beaumont novel published in 1835. Beaumont uses a sentimental love sotry to denounce the American "one drop rule;" his text was a major success. </p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p><title><emph>Marie ou l'esclavage aux États-Unis</emph></title>, roman de Gustave de Beaumont publié en 1835. Beaumont dénonce au travers d'une histoire d'amour sentimentale la "one drop rule" américaine; le texte rencontre un grand succès. </p>
+            </note>
+        </bibl>
         <bibl xml:id="RC" type="periodical">
             <title xml:lang="en"/>
             <title xml:lang="fr">Revue Coloniale</title>
