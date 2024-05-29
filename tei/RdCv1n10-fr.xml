@@ -911,17 +911,16 @@
                </p>
                <p>
                   Il existe 
-                  une ancienne loi de la monarchie française, 
-            <!--Tag as bibl and create entry for édit du 3 juillet 1315 --> 
+                  <bibl type="legal"><title ref="#Ed1315">une ancienne loi de la monarchie française</title></bibl>, 
                   loi plutôt renouvelée que créée par les édits de 
                   <persName ref="#LX">Louis X</persName> 
                   en 1314 et 1315 : son principe, d’accord avec l’esprit social moderne qui a son origine dans le christianisme, porte que la terre de 
                   <placeName ref="#FR">France</placeName> 
                   ne doit 
                   <emph>renfermer que des hommes libres</emph>; 
-                  afin, dit l’ordonnance, que 
+                  afin, dit <bibl type="legal"><title ref="#Ed1315">l’ordonnance</title></bibl>, que 
                   <emph>la chose soit accordante au nom</emph>. 
-                  L’application de cette loi 
+                  L’application de <bibl type="legal"><title ref="#Ed1315">cette loi</title></bibl> 
                   a produit une jurisprudence constante et uniforme depuis les quinzième et seizième siècles, jurisprudence réglementaire elle-même, qui a eu pour résultat de ne point souffrir d’esclaves sur le territoire français, qui a posé comme principe constituant que toute personne qui mettait
                   <pb n="21" facs="v1n10p21"/>
                   le pied sur le sol de 
