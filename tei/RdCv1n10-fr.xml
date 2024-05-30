@@ -934,8 +934,7 @@
                      <reg>monuments</reg> 
                   </choice>
                   historiques à l’appui de cette opinion. La nouvelle législation est là pour nous dispenser de toute preuve. Le commerce de la traite des noirs est puni d’une peine capitale; de là deux conséquences, la première que 
-                  l’antique loi de la monarchie française 
-            <!--Tag as bibl -->
+                  L’application de <bibl type="legal"><title ref="#Ed1315">l’antique loi</title></bibl> de la monarchie française 
                   est loin d’avoir été abrogée, la seconde que nos lois civiles ne peuvent donner aucun effet à des actes que nos lois pénales considèrent à l’égal des plus grands crimes. Qu’on ne croie pas que c’est aux 
                   lois seules de 1828 
             <!--Create entry et tag law -->
@@ -1035,8 +1034,7 @@
                </p>
                <p>
                   Nous nous plaisons à signaler ce beau mouvement de la libéralité française qui chaque jour acquiert un degré nouveau d’intensité et d’énergie. Tous s’empressent d’y prendre part. Ainsi, tandis que des livres de haute portée se publient sur la question avec un succès tel que deux éditions de 
-                  <emph>Marie</emph> (1) 
-            <!--Create bibl ref and tag --> 
+                  <emph><bibl type="monogr"><title ref="#Mar">Marie</title></bibl></emph> (1) 
                   ont été enlevées en quelques jours, le théâtre, la peinture, tous les arts semblent vouloir venir en aide à la bonne cause. 
                   La <emph>Traite des Noirs</emph>, remarquable tableau de 
             <!--How to do a painting ref? Create tag --> 
@@ -1075,6 +1073,83 @@
                   Pour nous, nous nous réjouissons dans notre cœur de ce concours actif des intelligences et de la bonne volonté de tous, comme devant singulièrement hâter les destinées nouvelles de notre pays, et nous en consignons avec plaisir ici notre sincère et patriotique gratitude.
                </p>
             </div>
+            <div xml:id ="SAE">
+               <head>FRANCE.</head>
+               <head>SOCIÉTÉ FRANÇAISE POUR L'ABOLITION DE L'ESCLAVAGE.</head>
+               <p>
+                  <emph>Rapport de 
+                  <persName ref="#GdL">M. de la Rochefoucauld-Liancourt</persName> 
+                  sur les travaux de la 
+                  <orgName ref="#SMC">Société de la morale chrétienne</orgName>, 
+                  concernant la prohibition de la traite, l’affranchissement et l’émancipation des noirs.</emph>
+               </p>
+               <p>
+                  MESSIEURS,
+               </p>
+               <p> 
+                  <q>« Quelques hommes de bien, pénétrés de cette évidente vérité que la morale chrétienne est le code le plus admirable de préceptes de religion, de justice, de raison, d’ordre public, se sont réunis en société pour en seconder l’exécution et l’étendue à toutes les relations sociales. »</q> 
+                  Telle fut l’origine de 
+                  <orgName ref="#SMC">la Société de la Morale Chrétienne</orgName>.
+               </p>
+               <pb n="26" facs="v1n10p26"/>
+               <p>
+                  En conséquence, le premier principe fondamental de 
+                  <orgName ref="#SMC">la Société</orgName> 
+                  fut que : 
+                  <q>«Rien de ce qui peut intéresser le bonheur des hommes ne serait étranger à ses travaux. »</q>
+               </p>
+               <p>
+                  C’est à ce titre, messieurs, qu’une voix se fit entendre en faveur des noirs dans le sein de 
+                  <orgName ref="#SMC">la Société</orgName>  
+                  à la séance du 8 avril 1822, et cette voix fut celle de 
+                  <persName ref="#ALSH">M. le baron de Staël</persName>, 
+                  qui s’unissant à 
+                  <persName ref="#JTP">M. Joseph Price</persName>, 
+                  de la 
+                  <orgName ref="#SA">Société des Amis</orgName>, 
+                  demanda qu’un comité fût formé à l’effet de veiller à l’exécution des lois prohibitives de la traite. L’opinion publique avait été vivement frappée dix jours auparavant par le discours que 
+                  <persName ref="#BRO">M. le duc de Broglie</persName> 
+                  avait prononcé le 28 mars 
+                  à <orgName ref="#CP">la Chambre des pairs</orgName>, 
+                  pour réclamer une répression efficace de la traite, et 
+                  <orgName ref="#SMC">la Société de la Morale Chrétienne</orgName>  
+                  déclara que c’était un trafic réprouvé par tous les 
+                  <choice>
+                     <orig>sentimens</orig> 
+                     <reg>sentiments</reg> 
+                  </choice>
+                  de l’humanité, ainsi que par les principes du christianisme.
+               </p>
+               <p>
+                  <persName ref="#ALSH">M. de Staël</persName> 
+                  rédigea le règlement du comité, qui tendit principalement à surveiller l’exécution des lois qui prohibaient la traite, à encourager toutes les publications en faveur de son entière abolition, et à correspondre avec les sociétés étrangères dans le même but. Bientôt après 
+                  <orgName ref="#SMC">la Société</orgName> 
+                  annonça qu’elle décernerait un prix de 1,000 fr. au meilleur ouvrage publié sur ce sujet. On se souvient aussi que 
+                  <persName ref="#ALSH">M. de Staël</persName> 
+                  fit exprès le voyage de 
+                  <placeName ref="#Nts">Nantes</placeName> 
+                  pour reconnaître les contraventions qui se commettaient sans cesse dans cette ville. Il examina les vaisseaux négriers, il prit des dessins de leur construction, et prouva au gouvernement et au public que ces vaisseaux avaient des dimensions particulières qui annonçaient assez l’emploi auxquel ils étaient destinés. Il démontra en même temps, combien par le fait seul de cette construction, un grand nombre de noirs devaient périr dans les transports ; enfin il rapporta et déposa sur la table de la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName>, 
+                  les fers, les tenailles et colliers, instrumens de torture avec lesquels on les enchaînait, et qu’on fabriquait en 
+                  <placeName ref="#FR">France</placeName> 
+                  en même temps qu’on y construisait les vaisseaux, malgré les lois qui prohibaient cet infâme commerce. 
+                  <orgName ref="#SMC">La Société de la Morale Chrétienne</orgName> 
+                  fit imprimer et répandre, en grand nombre d’exemplaires, 
+                  <bibl type="monogr"><title ref="#Frtn">le rapport</title></bibl> de 
+                  <persName ref="#ALSH">M. Staël</persName>, 
+                  et établit dans ses salles une exposition publique des fers qu’il avait apportés afin d’exciter au plus haut degré l’indignation des hommes de bien. Il est, messieurs, dans ces premiers travaux de 
+                  <orgName ref="#SMC">la Société</orgName>  
+                  quelque chose qui doit, à ce qu’il me semble, exciter aussi votre sollicitude.
+                  <pb n="27" facs="v1n10p27"/>
+                  C’est le soin qu’elle a pris constamment de surveiller l’exécution des lois qui prohibent la traite, et de constater sans cesse les contraventions, les 
+                  <choice>
+                     <orig>jugemens</orig> 
+                     <reg>jugements</reg> 
+                  </choice>
+                  et les condamnations. Elle flétrit ainsi publiquement, chaque jour, cet affreux trafic et ceux qui s’y livrent. Je crois que vous devez concourir avec elle à les poursuivre, et qu’il existe encore des contraventions assez fréquentes pour rendre utiles vos efforts réunis.
+               </p>
+
+
 
 
 
