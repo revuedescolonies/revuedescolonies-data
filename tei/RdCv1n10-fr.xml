@@ -936,11 +936,10 @@
                   <bibl type="legal"><title ref="#O1828">lois seules de 1828</title></bibl> 
                   et de <bibl type="legal"><title ref="#L1831">1831</title></bibl> 
                   que nous attribuons ces effets; 
-                  le code pénal de 1810 
-            <!--Create entry et tag  -->
+                  <bibl type="legal"><title ref="#CPen">le code pénal de 1810</title></bibl> 
                   et ceux qui l’ont précédé ont tous été conçus de manière à ce que la privation de la liberté avec violence contre une personne quelconque était mise sur la même ligne que le meurtre. 
-                  Les articles 341 
-            <!--Create entry et tag  -->
+                  <bibl type="legal"><title ref="#CPen">Les articles 341</title></bibl> 
+            <!--Not worth a full entry but maybe a bibliographic note/note within the 1810 code?  -->
                   et 
                   <choice>
                      <orig>suivans</orig> 
@@ -1033,7 +1032,7 @@
                   ont été enlevées en quelques jours, le théâtre, la peinture, tous les arts semblent vouloir venir en aide à la bonne cause. 
                   La <emph>Traite des Noirs</emph>, remarquable tableau de 
             <!--How to do a painting ref? Create tag --> 
-                  <persName>M. Biard</persName>, 
+                  <persName ref="#FAB">M. Biard</persName>, 
                   excite au salon de cette année une sympathie non équivoque et qui se renouvelle incessamment pour ces malheureuses victimes de la cupidité. Le même sujet va être exposé au théâtre sous quelques jours avec son hideux cortège de chaînes et de carcans. Les organes les plus estimés de la presse ne font pas non plus défaut à cette noble cause. Indépendamment de nos grands journaux politiques, nos publications populaires à bon marché, ces répertoires de science et d’instruction, tirés à cent cinquante 
             <!--Comment encoder les notes de bas de page? Demander -->
                   <pb n="24" facs="v1n10p24"/>
@@ -1143,6 +1142,163 @@
                   </choice>
                   et les condamnations. Elle flétrit ainsi publiquement, chaque jour, cet affreux trafic et ceux qui s’y livrent. Je crois que vous devez concourir avec elle à les poursuivre, et qu’il existe encore des contraventions assez fréquentes pour rendre utiles vos efforts réunis.
                </p>
+               <p>
+                  Toutefois vous devez remarquer que la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  ’osa s’occuper, dans les premiers temps, que de la répression de la traite des noirs, et que le vœu même de l’abolition de l’esclavage ne fut pas exprimé.
+               </p>
+               <p>
+                  Ce fut un acte de prudence; et qu’il me soit permis de le justifier, en vous en rappelant un semblable. Lorsqu’en 
+                  1807 
+                        <!--Tag for Slave Trade Act? -->      
+                  <persName ref="#WW">Wilberforce</persName> 
+                  sollicitait vivement au 
+                  <orgName ref="#PB">parlement d’Angleterre</orgName> 
+                  l’abolition de la traite, 
+                  <persName ref="#HP">lord Percy</persName> 
+                  se leva et proposa de donner sur-le-champ et gratuitement la liberté à tous les esclaves des colonies. Ce fut 
+                  <persName ref="#WW">Wilberforce</persName>  
+                  qui se hâta de s’y opposer vivement, afin d’éprouver moins d’opposition au premier acte d’humanité qu’il sollicitait déjà depuis vingt années.
+               </p>
+               <p>
+                  De même la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  ne parla d’abord que de la traite, et ce fut sans même oser en prononcer le nom qu’elle fit les premiers efforts en faveur de l’abolition de l’esclavage. 
+               </p>
+               <p>
+                  Un de ses membres, 
+                  <persName ref="#JMG">M. le baron de Gérando</persName>, 
+                  essaya d'étendre un peu la limite qui aurait été prudemment fixée aux travaux du comité. Il demanda qu’indépendamment de la traite le comité s’occupât aussi de l’amélioration morale des noirs, en encourageant l’éducation de leurs 
+                  <choice>
+                     <orig>enfans</orig>
+                     <reg>enfants</reg>
+                  </choice>
+                  , et en les mettant à portée de profiter des nouvelles méthodes d’instruction élémentaire qui excitaient alors, par leurs ingénieux 
+                  <choice>
+                     <orig>perfectionnemens</orig>
+                     <reg>perfectionnements</reg>
+                  </choice>
+                  , l’attention et l’intérêt publics.
+               </p>
+               <p>
+                  Ne croyez pas, messieurs, que ce fut là seulement de la part de 
+                  <persName ref="#JMG">M. de Gérando</persName> 
+                  un de ces actes de philanthropie qui ont été si nombreux dans sa vie ; ce fut aussi un acte politique. Vous savez que le principal argument de l’opinion contraire à l’émancipation des noirs est leur ignorance et leur défaut d’éducation. Instruire les enfans, les éclairer, leur apprendre les principes de la morale et la connaissance de la vertu, c’est les rendre aux yeux de tous aptes à la liberté et capables d’entrer dans l’état social ; et lors-
+                  <pb n="28" facs="v1n10p28"/>
+                  qu’aujourd’hui nous voyons encore les conseils administratifs de nos colonies s’opposer constamment à la propagation des lumières parmi les noirs, nous pensons qu’il serait urgent d’appeler de nouveau l’attention du gouvernement, celle des chambres et celle du public, sur la nécessité d’accorder des fonds pour l’instruction élémentaire dans nos colonies, comme nous en accordons dans les provinces continentales.
+               </p>
+               <p>
+                  Tels furent les premiers actes par lesquels la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName>
+                  essayait d’arriver à la question même de l’esclavage, et lorsqu’elle y parvint ce fut comme à une simple recherche historique, en publiant, sans en faire aucune application positive, les anciennes autorités qui pouvaient lui prêter aide dans sa sainte mission. Je crains, messieurs, d’abuser de vos 
+                  <choice>
+                     <orig>momens</orig>
+                     <reg>moments</reg>
+                  </choice>
+                  , et je dois pourtant rendre compte, ainsi que vous me l’avez ordonné, de ses actes et de ses travaux. Je dois vous retracer en peu de mots quelles furent les heureuses citations d’un de ses membres.
+               </p>
+               <q>
+               <p>
+                  « L’Evangile, a-t-il dit, qui donne à l’homme et surtout à l’homme opprimé, le secret consolant de sa destination dans une vie future, lui révéla celui de sa dignité dans la vie présente. Les anciennes formules dressées pour les actes d’affranchissement portent que c’est en considération de Dieu que l’esclave est rappelé à la liberté, 
+                  <foreign><emph>pro divinitatis intuitu</emph></foreign>. 
+                  Souvent des chrétiens pieux et zélés achetaient des esclaves pour les affranchir. Ce fut par un motif de religion que, dans le sixième siècle, 
+                  Mathilde, reine de France, 
+                  prohiba l’usage de vendre les hommes. Une loi des Visigoths d’Espagne, promulguée dans le septième siècle, défend de mutiler les esclaves, parcequ’ils sont à l’image de Dieu, 
+                  <foreign><emph>ne imaginis Dei plasticatione adulterent</emph></foreign>. 
+                  Des conciles, des pontifes romains, la Propagande, la Sorbonne, des auteurs recommandables décidèrent en diverses occasions et en divers temps que la religion condamne l’esclavage et le trafic de l’espèce humaine. Au douzième siècle, 
+                  Alexandre III 
+            <!--Tag "ancient"/medieval names? -->      
+                  écrivait au 
+                  roi de Valence : 
+                  <q>La nature a créé tous les hommes libres, et, par leur condition naturelle, aucun d’eux n’a été soumis à la servitude.</q> 
+                  Depuis la découverte de 
+                  <placeName ref="#ADS">l’Amérique</placeName>, 
+                  Léon X et Paul III 
+                  proscrivirent, au nom de la religion, l’esclavage qu’on y établissait. 
+                  Paul III 
+                  s’exprimait en ces termes : 
+                  <q>« L’amour du Très-Haut envers le genre humain ne permet pas que les Indiens ni les autres peuples, non encore admis aux lumières
+                  <pb n="29" facs="v1n10p29"/>
+                  de la foi, soient privés de leur liberté ou de leurs biens; au contraire, ils doivent en jouir et en user librement et licitement, et n’être point réduits en servitude. Notre autorité apostolique déclare que c’est par la prédication, et par l’exemple d’une vie sainte, qu’il faut les amener à croire en Jésus-Christ.»</q> 
+               </p>
+               <p>
+                  <orgName ref="#SMC">La Société de la Morale Chrétienne</orgName> 
+                  fit connaître aussi tous les écrits modernes publiés en faveur de cette cause. En même temps qu’elle avait décerné un prix de 1,000 fr. au meilleur mémoire sur l’abolition de la traite, elle appelait l’attention de tous les philanthropes français sur quinze cents pétitions présentées au 
+                  <orgName ref="#PB">Parlement</orgName> 
+                  et signées par un million et demi de citoyens anglais contre l’esclavage; et à ce sujet, messieurs, qu’il me soit permis de rappeler une prédiction faite dans le sein de 
+                  <orgName ref="#SMC">la Société</orgName>. 
+                  <q>« On détruira, disait-on, le mal par degrés ; on commencera par améliorer la condition des noirs par des 
+                  <choice>
+                     <orig>réglemens</orig> 
+                     <reg>réglements</reg> 
+                  </choice>
+                  salutaires. D’autres mesures suivront ce premier pas, et dans dix ou douze années cet affreux système sera détruit de fond en comble.»</q> 
+               </p>
+               <p>
+                  Il n’y eut jamais assurément une prédiction mieux réalisée, puisque c’est le 
+                  1 er août de la onzième année, 
+            <!--Double check rule for tagging events -->  
+                  après que cette parole a été dite, que l’esclavage a été aboli dans les possessions anglaises.
+               </p>
+               <p>
+                  L’histoire de 
+                  <orgName ref="#SMC">la Société de la Morale Chrétienne</orgName>, 
+                  pendant ces onze années, ne serait pas sans intérêt ; mais, de peur d’abuser de votre attention, je citerai un très petit nombre de faits. 
+               </p>
+               <p>
+                  Je rappellerai avant tout le soin qu’elle prit de publier chaque jour les actes d’humanité qui avaient lieu dans les pays étrangers. Une société s’était formée en 
+                  <placeName ref="#ANG">Angleterre</placeName>; 
+                  elle avait pris pour titre: 
+                  <emph><orgName ref="#SA-E">Société pour l’adoucissement et l’abolition graduelle de l’esclavage</orgName></emph>. 
+               <!--Double check what org SA-E is supposed to be, that it is in fact the British Anti-Slavery Society-->  
+                  Vous voyez avec quelle prudence elle se constituait; elle eut soin de déclarer que les noirs, après avoir gémi sans espoir sous un long esclavage qui avait comprimé et affaibli leurs facultés intellectuelles, ne sauraient, pour leur bien même, être appelés à jouir immédiatement des privilèges de la liberté ; 
+                  <orgName ref="#SMC">la Société de la Morale Chrétienne</orgName>, 
+                  adoptant cette opinion, ajoutait en leur faveur ces seuls mots : 
+                  <q>« La philanthropie comme la prudence conseillent de les préparer progressivement à cette transition, en leur enseignant par degrés les vertus et les connaissances qui les rendront capables de remplir un jour leurs devoirs d’hommes et de citoyens. »</q> 
+                  C’était là, messieurs, tout ce que l’on osait dire alors ; mais on s’étonnait sur-
+                  <pb n="30" facs="v1n10p30"/>
+                  tout que ce fût à 
+                  <placeName ref="#Lvp">Liverpool</placeName> 
+                  que cette 
+                  <orgName ref="#SA-E">société</orgName> 
+                  s’établit, dans cette 
+                  <placeName ref="#Lvp">ville</placeName>  
+                  autrefois la capitale de la traite; à 
+                  <placeName ref="#Lvp">Liverpool</placeName>, 
+                  dont les 
+                  <choice>
+                     <orig>négocians</orig> 
+                     <reg>négociants</reg> 
+                  </choice> 
+                  et les armateurs ont lutté jusqu’au dernier moment contre la sainte cause de l’abolition. On peut se souvenir, disait un de nos collègues 
+                  <q>« qu’il semblait autrefois, à entendre leur langage, à en croire les pétitions dont ils assiégaient le 
+                  <orgName ref="#PB">parlement britannique</orgName>, 
+                  que leur marine serait détruite, leurs fortunes anéanties, leur ville abandonnée, si la traite et l’esclavage étaient un jour prohibés. Eh bien ! La sainte cause de la justice et de l’humanité a triomphé ; quel a été alors le sort de 
+                  <placeName ref="#Lvp">Liverpool</placeName>! 
+                  Un commerce légitime a remplacé sans secousse un trafic d’iniquité, les capitaux se sont doublés, plus des deux tiers des propriétés de 
+                  <placeName ref="#JA">la Jamaïque</placeName> 
+                  se trouvent aujourd’hui hypothéquées à des 
+                  <choice>
+                     <orig>négocians</orig> 
+                     <reg>négociants</reg> 
+                  </choice> 
+                  de <placeName ref="#Lvp">Liverpool</placeName>; 
+                  la population s’y est accrue dans une progression rapide, tous les genres de richesse et de prospérité s’y sont réunis, et aujourd’hui 
+                  <placeName ref="#Lvp">Liverpool</placeName> 
+                  offre au monde un éclatant exemple de cette grande vérité, que jamais les intérêts de l’homme, même ici-bas, ne peuvent être en contradiction avec les 
+                  <choice>
+                     <orig>commandemens</orig> 
+                     <reg>commandements</reg> 
+                  </choice>
+                  immuables de l’Etre Suprême. »</q>
+               </p>
+               </q>
+
+
+
+
+
+
 
 
 
