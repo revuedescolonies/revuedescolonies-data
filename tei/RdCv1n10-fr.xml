@@ -601,8 +601,7 @@
                      <reg>plaignants</reg> 
                    </choice>
                   ont dressé contre 
-                  l’ex-gouverneur
-             <!--Rechercher quel gouverneur - Martinique?  -->
+                  <persName ref="#JHD">l’ex-gouverneur</persName> 
                   et ses subordonnés. Ce silence, il est permis de le penser, est un hommage rendu au malheur. En effet les faits ont été connus, appréciés; 
                   <orgName ref="#CE">le conseil d’état</orgName> 
                   ne s’est pas arrêté à de vaines formes de procédure ; la requête et les pièces à l’appui ont été communiquées au 
@@ -649,8 +648,7 @@
                   envoie une pièce pour prouver cette 
                   <emph>fausseté</emph> ; 
                   sa pièce est un extrait d’un arrêt de la 
-                  cour royale, 
-               <!-- Tag or not? -->
+                  <orgName ref="#CR">cour royale</orgName>, 
                   qui renvoie le 
                   <persName>sieur Lasserre</persName> 
                   de la plainte portée contre lui, 
@@ -726,8 +724,7 @@
                <head>DU GOUVERNEMENT ANGLAIS ET DU GOUVERNEMENT FRANÇAIS DANS LA QUESTION DES COLONIES.</head> 
                <p>
                   <quote>« Les nouvelles reçues des gouverneurs de nos colonies ainsi que les actes adoptés en exécution de la 
-                  loi d’abolition de l’esclavage 
-             <!-- Tag or not? -->     
+                  <bibl type="legal"><title ref="#SAA">loi d’abolition de l’esclavage</title></bibl>  
                   vous seront communiquées. C’est avec une vive satisfaction que j’ai vu les législatures coloniales concourir généralement à l'exécution de cette importante mesure, et, malgré les embarras inséparables d’un tel acte, je n’ai nulle raison de modifier mon ardent espoir d’une issue favorable. » </quote>
                </p>
                <p>
@@ -758,8 +755,7 @@
                   le <persName ref="#BRO">président</persName> 
                   de la <orgName ref="#SAE">société pour l’abolition de l’esclavage</orgName> 
                   est en même temps président du 
-                  <orgName>conseil des ministres</orgName>.
-            <!--create tag?  -->
+                  <orgName ref="#CMi">conseil des ministres</orgName>.
                </p>
                <p>
                   Mais en ne considérant que le passé, ou plutôt le présent, quelque doive être l’avenir, nous ne voyons dans ce qu’a fait jusqu’ici le gouvernement relativement à nos colonies, et dans la conduite de ses 
@@ -810,7 +806,7 @@
                   des vues sociales, libérales et élevées, on n’exige d’eux que l’observation silencieuse de certains devoirs en quelque sorte matériels; le maintien du 
                   <emph>statu quo</emph>, 
                   voilà le seul but auquel ils doivent tendre. Que si l’esprit de Dieu les tourmente en faveur des esclaves, il faut qu’ils l’étouffent en eux, sous peine de destitution. Au contraire, s’ils sont naturellement portés à la défense des prérogatives des colons, tout leur rit, la vie leur devient douce et commode; on les choie ; ce sont d’honnêtes gens qui trouvent une franche et solide amitié chez les colons privilégiés ; ils s’y allient; ils deviennent à leur tour propriétaires d’esclaves, et trouvent alors que 
-                  <quote>tout est pour le mieux dans le meilleur des mondes possibles.</quote> 
+                  <quote>tout est pour le mieux dans le meilleur des mondes possibles.</quote>
                <!--tag/relate to Leibniz?  -->
                   C’est bien. N’étant astreints par le gouvernement à aucun devoir, n’ayant nul but à atteindre, ils prennent patiemment l’existence sociale telle qu’elle est ; le gouvernement ne leur a rien prescrit, que de ne pas choquer messieurs de l’aristocratie; ils n’ont garde d’en user autrement. Aussi tous ces hommes d’Europe sont-ils, dans cette position, tout 
                   <choice>
@@ -888,9 +884,10 @@
                <!--Create name tags?  --> 
                      <emph>esclaves</emph> du sieur <persName>P.-L. Buée</persName>, 
                <!--Create name tag?  --> 
-                     propriétaire au <placeName ref="#StP">fonds Canouville, Fort.</placeName> »</quote>
+                     propriétaire au 
+                     <placeName ref="#StP">fonds Canouville, Fort.</placeName> »</quote>
                   </cit>
-               <!--Create place tag for Fonds Canouville (plantation)  --> 
+               <!--Create place tag for Fonds Canouville (plantation)?  --> 
                </p>
                <p>
                   On n’affranchit que les esclaves : et comme il nous paraît fort peu logique, et très dangereux d’ailleurs d’appliquer la cérémonie de l’affranchissement à des êtres libres,
@@ -936,10 +933,8 @@
                   historiques à l’appui de cette opinion. La nouvelle législation est là pour nous dispenser de toute preuve. Le commerce de la traite des noirs est puni d’une peine capitale; de là deux conséquences, la première que 
                   L’application de <bibl type="legal"><title ref="#Ed1315">l’antique loi</title></bibl> de la monarchie française 
                   est loin d’avoir été abrogée, la seconde que nos lois civiles ne peuvent donner aucun effet à des actes que nos lois pénales considèrent à l’égal des plus grands crimes. Qu’on ne croie pas que c’est aux 
-                  lois seules de 1828 
-            <!--Create entry et tag law -->
-                  et de 1831 
-            <!--Create entry et tag law -->
+                  <bibl type="legal"><title ref="#O1828">lois seules de 1828</title></bibl> 
+                  et de <bibl type="legal"><title ref="#L1831">1831</title></bibl> 
                   que nous attribuons ces effets; 
                   le code pénal de 1810 
             <!--Create entry et tag  -->
@@ -1046,7 +1041,7 @@
                   <bibl type ="periodical"><emph>le Magasin Pittoresque</emph></bibl>, 
                   <bibl type ="periodical"><emph>le Musée des Familles</emph></bibl>, 
                   <bibl type ="periodical"><emph>la Mosaïque</emph></bibl>, 
-            <!--Create tags -->
+            <!--Create tags? -->
                   ont vivement manifesté leur horreur pour l’esclavage, leurs vœux pour l’émancipation, dans des articles fort remarquables accompagnés de gravures sur bois d’une grande vérité, et prêté ainsi le secours de leur immense publicité aux philanthropes qui poursuivent la régénération des colonies. Tout marche, tout se presse et tend à ce grand but.
                </p>
                <p>
