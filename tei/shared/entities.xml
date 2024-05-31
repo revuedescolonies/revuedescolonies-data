@@ -80,6 +80,27 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">De Bastard</persName>
         </person>
+        <person xml:id="ALSH">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Auguste-Louis de Staël-Holstein</persName>
+            <birth>1790</birth>
+            <death>1827</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Homme de lettres engagé contre la traite/au sein de la Société de la Morale Chrétienne, fils de Mme. de Staël. </p>
+            </note>
+        </person>
+        <person xml:id="JTP">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Joseph Tregelles Price</persName>
+            <birth>1784</birth>
+            <death>1854</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>English Quaker and abolitionist, cofounder of the Society for Christian Morals. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Quaker et abolitionniste anglais ayant participé à la fondation de la Société de la Morale Chrétienne. </p>
+            </note>
+        </person>
         <person xml:id="ATap">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Tappan, M. A</persName>
@@ -1671,6 +1692,16 @@
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Métropole (Fr)</placeName>
         </place>
+        <place xml:id="Nts">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Nantes</placeName>
+            <note xml:lang="en" type="Place" resp="#emilie">
+                <p>In the 18th century, Nantes was France's primary slave trade port, responsible for the deportation of 550 to 600 thousand enslaved people. </p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#emilie">
+                <p>Au 18ème siècle, Nantes est le premier port de la traite esclavagiste en France, responsable de la déportation d'entre 550 et 600 000 personnes réduites en esclavage.  </p>
+            </note>
+        </place>
         <place xml:id="Nan">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Nancy</placeName>
@@ -2114,6 +2145,26 @@
             <orgName xml:lang="en"/>
             <orgName xml:lang="fr">la Société</orgName>
         </org>
+        <org xml:id="CP">
+            <orgName xml:lang="en">Chamber of Peers</orgName>
+            <orgName xml:lang="fr">Chambre des Pairs</orgName>
+            <note xml:lang="en" type="Organization" resp="#emilie">
+                <p>Upper house of the French parliament during the July monarchy. </p>
+            </note>
+            <note xml:lang="fr" type="Organization" resp="#emilie">
+                <p>Chambre haute du parlement français sous la monarchie de Juillet. </p>
+            </note>
+        </org>
+        <org xml:id="SA">
+            <orgName xml:lang="en">Society of Friends</orgName>
+            <orgName xml:lang="fr">Société des Amis</orgName>
+            <note xml:lang="en" type="Organization" resp="#emilie">
+                <p>The religious group Society of Friends, or Quakers, was highly active in abolitionist causes in the UK and US.</p>
+            </note>
+            <note xml:lang="fr" type="Organization" resp="#emilie">
+                <p>Le mouvement religieux de la Société des Amis, ou "Quakers," est très impliqué dans la cause abolitionniste en Angleterre et aux États-Unis. </p>
+            </note>
+        </org>
         <org xml:id="AN">
             <orgName xml:lang="en"/>
             <orgName xml:lang="fr">Assemblée Nationale</orgName>
@@ -2338,6 +2389,16 @@
             </note>
             <note xml:lang="fr" type="Publication" resp="#emilie">
                 <p><title><emph>Marie ou l'esclavage aux États-Unis</emph></title>, roman de Gustave de Beaumont publié en 1835. Beaumont dénonce au travers d'une histoire d'amour sentimentale la "one drop rule" américaine; le texte rencontre un grand succès. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="Frtn" type="monogr">
+            <title xml:lang="en"/>
+            <title xml:lang="fr">Faits relatifs à la traite des noirs</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>1826 report by Auguste de Staël on behalf of the Société de la Morale Chrétienne, denoucning the salve trade in Nantes. The text's echo helped bring about the criminalization of the slave trade in 1827. </p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>Rapport d'Auguste de Staël (1826) pour le compte de la Société de la Morale Chrétienne, dénoncant la traite esclavagiste à Nantes. L'écho du texte aide à entraîner criminalisation de la traite en 1827. </p>
             </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">

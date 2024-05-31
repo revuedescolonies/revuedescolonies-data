@@ -121,6 +121,8 @@
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
                                 <valItem mode="add" ident="#Soc"/>
+                                <valItem mode="add" ident="#CP"/>
+                                <valItem mode="add" ident="#SA"/>
                                 <valItem mode="add" ident="#AN"/>
                                 <valItem mode="add" ident="#GN"/>
                                 <valItem mode="add" ident="#MJ"/>
@@ -171,6 +173,8 @@
                                 <valItem mode="add" ident="#JHD"/>
                                 <valItem mode="add" ident="#MtC"/>
                                 <valItem mode="add" ident="#Bstd"/>
+                                <valItem mode="add" ident="#ALSH"/>
+                                <valItem mode="add" ident="#JTP"/>
                                 <valItem mode="add" ident="#ATap"/>
                                 <valItem mode="add" ident="#CT"/>
                                 <valItem mode="add" ident="#ATO"/>
@@ -455,6 +459,7 @@
                                 <valItem mode="add" ident="#GUY"/>
                                 <valItem mode="add" ident="#MAU"/>
                                 <valItem mode="add" ident="#METFR"/>
+                                <valItem mode="add" ident="#Nts"/>
                                 <valItem mode="add" ident="#Nan"/>
                                 <valItem mode="add" ident="#ALL"/>
                                 <valItem mode="add" ident="#ANTE"/>
@@ -543,6 +548,7 @@
                                 <valItem mode="add" ident="#JdH"/>
                                 <valItem mode="add" ident="#Ed1315"/>
                                 <valItem mode="add" ident="#Mar"/>
+                                <valItem mode="add" ident="#Frtn"/>
                                 <valItem mode="add" ident="#RC"/>
                                 <valItem mode="add" ident="#MU"/>
                             </valList>
