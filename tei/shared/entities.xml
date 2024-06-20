@@ -7,6 +7,42 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
+        <person xml:id="FAB">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">François-Auguste Biard</persName>
+            <birth>1799</birth>
+            <death>1882</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>19th century painter who portrayed the slave trade in several paintings and was particularly appreciated by Schœlcher. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Peintre du 19ème siècle qui représente la traite esclavagiste dans plusieurs tableaux et fût particulièrement apprecié par Schœlcher. </p>
+            </note>
+        </person>
+        <person xml:id="HP">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Hugh Percy</persName>
+            <birth>1785</birth>
+            <death>1847</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>Member of the English Parliament, participated in debates on abolition of the slave trade in 1807. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Membre du Parlement Anglais ayant participé aux débats autour de l'abolition de la traite en 1807. </p>
+            </note>
+        </person>
+        <person xml:id="JMG">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Joseph-Marie de Gérando</persName>
+            <birth>1772</birth>
+            <death>1842</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>Precursor of anthropology as an academic field, one of the founders of the French Society for the Abolition of Slavery. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Précurseur de l'anthropologie comme domaine d'études, l'un des fondateurs de la Société française pour l'abolition de l'esclavage. </p>
+            </note>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Alexandre Dumas</persName>
@@ -480,13 +516,6 @@
             <persName xml:lang="fr">de Jabrun, Monsieur</persName>
             <note xml:lang="en" type="Person" resp="#other">planteur guadeloupeen, conseiller colonial</note>
         </person>
-        <person xml:id="WW">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Wiliam Wilbeforce</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/William_Wilberforce">Wiliam Wilbeforce</ref></p>
-            </note>
-        </person>
         <person xml:id="CIC">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Cicéron, Monsieur</persName>
@@ -588,6 +617,13 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Clavier, Antoine</persName>
             <note xml:lang="en" type="Person" resp="#abel">homme de couleur reçu docteur-médecin à la Faculté de médecine de Paris. Frère de Jean-Pierre Eugène Clavier. Il s'établit à Sainte-Lucie après son mariage dans les années 1830.</note>
+        </person>
+        <person xml:id="WW">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Wiliam Wilberforce</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Homme politique, meneur en Angleterre du mouvement abolitionniste</p>
+            </note>
         </person>
         <person xml:id="EC">
             <persName xml:lang="en"/>
@@ -955,13 +991,6 @@
             <persName xml:lang="fr">Baudin, Monsieur p. 34</persName>
             <note xml:lang="en" type="Person" resp="#other">propriétaire martiniquais</note>
         </person>
-        <person xml:id="BEO">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Ben-Omar, Mustapha</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <ref target="https://www.google.com/books/edition/Algeria_Collection_of_166_books_pamphlet/JSM7AQAAMAAJ?hl=en&amp;gbpv=1&amp;dq=Mustapha+Ben+Omar+bey&amp;pg=RA6-PA63&amp;printsec=frontcover">bey de la province de Tittery </ref>
-            </note>
-        </person>
         <person xml:id="Be-Z">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Ben-Zegri p.36</persName>
@@ -1145,6 +1174,16 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#emilie">
                 <p>Juge abolitionniste nommé à Capesterre (Guadeloupe), proche de Bissette. En plus d'articles dans <title>La Revue des Colonies</title>, il publie en 1832 un livre, <title>De l'esclavage aux colonies françaises, et spécialement à la Guadeloupe</title>. Il sera ultérieurement muté en Martinique, puis retourne en Guadeloupe.</p>
+            </note>
+        </person>
+        <person xml:id="BEO">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Ben-Omar, Mustapha</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>During the French colonization of Algeria, maréchal Clauzel installed Mustapha Ben-Omar, grand-son of a bey, in Medeah, making him the new bey of Tittery, a province located South of Algiers. Mustapha Ben-Omar received the Légion d'honneur in 1833. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#other">
+                <p>Pendant la conquête française de l'Algérie, le maréchal Clauzel installe Mustapha ben Omar, lui-même petit-fils d'un bey (chef), à Médéah afin qu'il devienne <ref target="https://www.google.com/books/edition/Algeria_Collection_of_166_books_pamphlet/JSM7AQAAMAAJ?hl=en&amp;gbpv=1&amp;dq=Mustapha+Ben+Omar+bey&amp;pg=RA6-PA63&amp;printsec=frontcover">bey de la province de Tittery </ref>, province du sud d'Alger. Mustapha Ben-Omar reçoit la Légion d'honneur en 1833. </p>
             </note>
         </person>
         <person xml:id="JEF">
@@ -2165,6 +2204,15 @@
                 <p>Le mouvement religieux de la Société des Amis, ou "Quakers," est très impliqué dans la cause abolitionniste en Angleterre et aux États-Unis. </p>
             </note>
         </org>
+        <org xml:id="CR">
+            <orgName xml:lang="en"/>
+            <orgName xml:lang="fr">Cour Royale</orgName>
+        </org>
+        <org xml:id="CMi">
+            <orgName xml:lang="en">Council of Ministers</orgName>
+            <orgName xml:lang="fr">Conseil des Ministres</orgName>
+            <note xml:lang="fr" type="Organization"/>
+        </org>
         <org xml:id="AN">
             <orgName xml:lang="en"/>
             <orgName xml:lang="fr">Assemblée Nationale</orgName>
@@ -2314,6 +2362,16 @@
         </org>
     </listOrg>
     <listBibl>
+        <bibl xml:id="CPen" type="legal">
+            <title xml:lang="en">1810 Penal Code</title>
+            <title xml:lang="fr">Code Pénal de 1810</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>Penal code implemented by Napoleon in 1810. It notoriusly reinstated and extended life and death sentences.</p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>Code pénal promulgué par Napoléon en 1810.</p>
+            </note>
+        </bibl>
         <bibl xml:id="C30" type="legal">
             <title xml:lang="en"/>
             <title xml:lang="fr">La Charte de 1830 (constitution de la monarchie de Juillet)</title>
@@ -2399,6 +2457,36 @@
             </note>
             <note xml:lang="fr" type="Publication" resp="#emilie">
                 <p>Rapport d'Auguste de Staël (1826) pour le compte de la Société de la Morale Chrétienne, dénoncant la traite esclavagiste à Nantes. L'écho du texte aide à entraîner criminalisation de la traite en 1827. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="SAA" type="legal">
+            <title xml:lang="en">Slavery Abolition Act 1833</title>
+            <title xml:lang="fr">Slavery Abolition Act 1833</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>1833 Bill through which the English Parliament progressively abolished slavery.</p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>Loi de 1833 par laquelle le Parlement anglais abolit progressivement l'esclavage. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="O1828" type="legal">
+            <title xml:lang="en"/>
+            <title xml:lang="fr">Ordonnances de 1828</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>Series of rulings emitted in September-October 1828 which decreed control of the Court of Cassation, Code of criminal instruction, and Penal Code in the Antilles.  </p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>Série d'ordonnances passées en Septembre-Octobre 1828 et qui instituent le contrôle de la Cour de Cassation, du Code d'instruction criminelle et du Code pénal aux Antilles. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="L1831" type="legal">
+            <title xml:lang="en"/>
+            <title xml:lang="fr">Loi du 4 mars 1831</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>The 1831 law reinforced the ban on the slave trade, and in particular strengthened penalties against slave traders. </p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>La loi de 1831 renforce l'interdiction de la traite esclavagiste, notamment en augmentant les pénalités contre les trafiquants. </p>
             </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">
