@@ -43,6 +43,14 @@
                 <p>Précurseur de l'anthropologie comme domaine d'études, l'un des fondateurs de la Société française pour l'abolition de l'esclavage. </p>
             </note>
         </person>
+        <person xml:id="XaT">
+            <persName xml:lang="en">Xavier Tanc</persName>
+            <persName xml:lang="fr">Xavier Tanc</persName>
+            <birth>17 septembre 1800</birth>
+            <note xml:lang="fr" type="Person" resp="#charlotte #null">
+                <p>http://blog.manioc.org/2016/05/xavier-tanc-adolphe-juston-des.html</p>
+            </note>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Alexandre Dumas</persName>
@@ -362,18 +370,6 @@
             <persName xml:lang="fr">Frotté,Le sieur</persName>
             <note xml:lang="en" type="Person" resp="#other">homme de couleur, fils naturel de M. Igout</note>
         </person>
-        <person xml:id="Bosqu">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
-            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
-        </person>
-        <person xml:id="AJC">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Caron, Augustin Joseph</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://fr.wikipedia.org/wiki/Augustin_Joseph_Caron">Caron, Augustin Joseph</ref></p>
-            </note>
-        </person>
         <person xml:id="CDup">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Ch. Dupin, Monsieur</persName>
@@ -623,6 +619,30 @@
             <persName xml:lang="fr">Wiliam Wilberforce</persName>
             <note xml:lang="en" type="Person" resp="#other">
                 <p>Homme politique, meneur en Angleterre du mouvement abolitionniste</p>
+            </note>
+        </person>
+        <person xml:id="AA">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Argout, Antoine-Maurice-Apollinaire </persName>
+            <birth>1782</birth>
+            <death>1858</death>
+            <note xml:lang="en" type="Person" resp="#laure">
+                <p>Count Antoine-Maurice-Apollinaire d'Argout (1782-1858) had several functions during his political career: prefect and state councilor before Louis-Philippe, he was then Minister of the Navy and Colonies in 1830 (from November 1830 to March 1831 ) ; Minister of the Interior in 1833; governor of the Bank of France in 1834; Minister of Finance in 1836. He became senator in 1852, under the Second Empire. His time at the Ministry of the Navy and Colonies is therefore only a small part of his career.</p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#laure">
+                <p>Le comte Antoine-Maurice-Apollinaire d'Argout (1782-1858) a eu plusieurs fonctions : préfet et  conseiller d'Etat avant Louis-Philippe, il est ensuite ministre de la Marine et des Colonies en 1830 (de novembre 1830 à mars 1831) ; ministre de l'Intérieur en 1833 ; gouverneur de la Banque de France en 1834 ; ministre des Finances en 1836. Il devient sénateur en 1852, sous le Second Empire. Son passage au ministère de la Marine et des Colonies n'est donc qu'une petite partie de sa carrière. </p>
+            </note>
+        </person>
+        <person xml:id="AJC">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Caron, Augustin Joseph</persName>
+            <birth>1774</birth>
+            <death>1822</death>
+            <note xml:lang="en" type="Person" resp="#laure">
+                <p>Former soldier of the wars of the Republic and the Empire, bonapartist, lieutenant-colonel Augustin Joseph Caron was first released for a conspiration in 1820 and then executed in 1822 for a failed attempt to help prisoners escape. Although retired from the army since the Restauration, he was sentenced to death by a war council.</p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#laure">
+                <p>Ancien soldat des guerres de la République et de l'Empire, bonapartiste, acquitté dans le cadre d'un complot en 1820, l'ancien lieutenant-colonel Augustin Joseph Caron est exécuté en 1822 après avoir tenté de faire évader des prisonniers. Bien qu'en retraite de l'armée depuis la Restauration, il est alors jugé par un conseil de guerre et fusillé. </p>
             </note>
         </person>
         <person xml:id="EC">
@@ -1284,13 +1304,6 @@
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Louis_Philippe_I">Louis-Philippe Ier</ref></p>
             </note>
         </person>
-        <person xml:id="AA">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Argout, Antoine-Maurice-Apollinaire </persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Antoine_Maurice_Apollinaire_d%27Argout">Antoine-Maurice-Apollinaire </ref></p>
-            </note>
-        </person>
         <person xml:id="AD">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Delaborde, Alexandre </persName>
@@ -1372,8 +1385,21 @@
                 <p>Links: <ref target="https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Bories">Bories, Jean-François</ref></p>
             </note>
         </person>
+        <person xml:id="Bosqu">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
+            <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
+        </person>
     </listPerson>
     <listPlace>
+        <place xml:id="BaA">
+            <placeName xml:lang="en">lower Alps</placeName>
+            <placeName xml:lang="fr">Basses-Alpes</placeName>
+        </place>
+        <place xml:id="Beau">
+            <placeName xml:lang="en">Beauvoisin</placeName>
+            <placeName xml:lang="fr">Beauvoisin</placeName>
+        </place>
         <place xml:id="TRI">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Trinité</placeName>
