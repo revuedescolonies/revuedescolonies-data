@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-07-16T10:07:06Z. . 
+Schema generated from ODD source 2024-07-16T10:11:48Z. . 
 TEI Edition: P5 Version 4.8.0. Last updated on 8th July 2024, revision 1f9891a87 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.8.0/ 
   
@@ -5319,8 +5319,6 @@ Elements]</a:documentation>
                <list>
                   <oneOrMore>
                      <choice>
-                        <value>#CPen</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#C30</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#DDH</value>
@@ -5352,6 +5350,8 @@ Elements]</a:documentation>
                         <value>#O1828</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#L1831</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                        <value>#CPen</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#RC</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -6223,15 +6223,15 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                <list>
                   <oneOrMore>
                      <choice>
+                        <value>#CR</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                        <value>#CMi</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#Soc</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#CP</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#SA</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#CR</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                        <value>#CMi</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#AN</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
@@ -6345,8 +6345,6 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                <list>
                   <oneOrMore>
                      <choice>
-                        <value>#FAB</value>
-                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#HP</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#JMG</value>
@@ -6368,6 +6366,8 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
                         <value>#ALSH</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#JTP</value>
+                        <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                        <value>#FAB</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                         <value>#ATap</value>
                         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>

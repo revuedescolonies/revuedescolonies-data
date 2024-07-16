@@ -7,18 +7,6 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
-        <person xml:id="FAB">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">François-Auguste Biard</persName>
-            <birth>1799</birth>
-            <death>1882</death>
-            <note xml:lang="en" type="Person" resp="#emilie">
-                <p>19th century painter who portrayed the slave trade in several paintings and was particularly appreciated by Schœlcher. </p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#emilie">
-                <p>Peintre du 19ème siècle qui représente la traite esclavagiste dans plusieurs tableaux et fût particulièrement apprecié par Schœlcher. </p>
-            </note>
-        </person>
         <person xml:id="HP">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Hugh Percy</persName>
@@ -143,6 +131,18 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#emilie">
                 <p>Quaker et abolitionniste anglais ayant participé à la fondation de la Société de la Morale Chrétienne. </p>
+            </note>
+        </person>
+        <person xml:id="FAB">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">François-Auguste Biard</persName>
+            <birth>1799</birth>
+            <death>1882</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>19th century painter who portrayed the slave trade in several paintings and was particularly appreciated by Schœlcher. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Peintre du 19ème siècle qui représente la traite esclavagiste dans plusieurs tableaux et fût particulièrement apprecié par Schœlcher. </p>
             </note>
         </person>
         <person xml:id="ATap">
@@ -2206,6 +2206,15 @@
         </place>
     </listPlace>
     <listOrg>
+        <org xml:id="CR">
+            <orgName xml:lang="en"/>
+            <orgName xml:lang="fr">Cour Royale</orgName>
+        </org>
+        <org xml:id="CMi">
+            <orgName xml:lang="en">Council of Ministers</orgName>
+            <orgName xml:lang="fr">Conseil des Ministres</orgName>
+            <note xml:lang="fr" type="Organization"/>
+        </org>
         <org xml:id="Soc">
             <orgName xml:lang="en"/>
             <orgName xml:lang="fr">la Société</orgName>
@@ -2229,15 +2238,6 @@
             <note xml:lang="fr" type="Organization" resp="#emilie">
                 <p>Le mouvement religieux de la Société des Amis, ou "Quakers," est très impliqué dans la cause abolitionniste en Angleterre et aux États-Unis. </p>
             </note>
-        </org>
-        <org xml:id="CR">
-            <orgName xml:lang="en"/>
-            <orgName xml:lang="fr">Cour Royale</orgName>
-        </org>
-        <org xml:id="CMi">
-            <orgName xml:lang="en">Council of Ministers</orgName>
-            <orgName xml:lang="fr">Conseil des Ministres</orgName>
-            <note xml:lang="fr" type="Organization"/>
         </org>
         <org xml:id="AN">
             <orgName xml:lang="en"/>
@@ -2388,16 +2388,6 @@
         </org>
     </listOrg>
     <listBibl>
-        <bibl xml:id="CPen" type="legal">
-            <title xml:lang="en">1810 Penal Code</title>
-            <title xml:lang="fr">Code Pénal de 1810</title>
-            <note xml:lang="en" type="Publication" resp="#emilie">
-                <p>Penal code implemented by Napoleon in 1810. It notoriusly reinstated and extended life and death sentences.</p>
-            </note>
-            <note xml:lang="fr" type="Publication" resp="#emilie">
-                <p>Code pénal promulgué par Napoléon en 1810.</p>
-            </note>
-        </bibl>
         <bibl xml:id="C30" type="legal">
             <title xml:lang="en"/>
             <title xml:lang="fr">La Charte de 1830 (constitution de la monarchie de Juillet)</title>
@@ -2513,6 +2503,16 @@
             </note>
             <note xml:lang="fr" type="Publication" resp="#emilie">
                 <p>La loi de 1831 renforce l'interdiction de la traite esclavagiste, notamment en augmentant les pénalités contre les trafiquants. </p>
+            </note>
+        </bibl>
+        <bibl xml:id="CPen" type="legal">
+            <title xml:lang="en">1810 Penal Code</title>
+            <title xml:lang="fr">Code Pénal de 1810</title>
+            <note xml:lang="en" type="Publication" resp="#emilie">
+                <p>Penal code implemented by Napoleon in 1810. It notoriusly reinstated and extended life and death sentences.</p>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#emilie">
+                <p>Code pénal promulgué par Napoléon en 1810.</p>
             </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">

@@ -120,11 +120,11 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
+                                <valItem mode="add" ident="#CR"/>
+                                <valItem mode="add" ident="#CMi"/>
                                 <valItem mode="add" ident="#Soc"/>
                                 <valItem mode="add" ident="#CP"/>
                                 <valItem mode="add" ident="#SA"/>
-                                <valItem mode="add" ident="#CR"/>
-                                <valItem mode="add" ident="#CMi"/>
                                 <valItem mode="add" ident="#AN"/>
                                 <valItem mode="add" ident="#GN"/>
                                 <valItem mode="add" ident="#MJ"/>
@@ -169,7 +169,6 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
-                                <valItem mode="add" ident="#FAB"/>
                                 <valItem mode="add" ident="#HP"/>
                                 <valItem mode="add" ident="#JMG"/>
                                 <valItem mode="add" ident="#XaT"/>
@@ -181,6 +180,7 @@
                                 <valItem mode="add" ident="#Bstd"/>
                                 <valItem mode="add" ident="#ALSH"/>
                                 <valItem mode="add" ident="#JTP"/>
+                                <valItem mode="add" ident="#FAB"/>
                                 <valItem mode="add" ident="#ATap"/>
                                 <valItem mode="add" ident="#CT"/>
                                 <valItem mode="add" ident="#ATO"/>
@@ -544,7 +544,6 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
-                                <valItem mode="add" ident="#CPen"/>
                                 <valItem mode="add" ident="#C30"/>
                                 <valItem mode="add" ident="#DDH"/>
                                 <valItem mode="add" ident="#CN"/>
@@ -561,6 +560,7 @@
                                 <valItem mode="add" ident="#SAA"/>
                                 <valItem mode="add" ident="#O1828"/>
                                 <valItem mode="add" ident="#L1831"/>
+                                <valItem mode="add" ident="#CPen"/>
                                 <valItem mode="add" ident="#RC"/>
                                 <valItem mode="add" ident="#MU"/>
                             </valList>
