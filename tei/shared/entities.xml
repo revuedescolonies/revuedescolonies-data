@@ -7,18 +7,6 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
-        <person xml:id="HP">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Hugh Percy</persName>
-            <birth>1785</birth>
-            <death>1847</death>
-            <note xml:lang="en" type="Person" resp="#emilie">
-                <p>Member of the English Parliament, participated in debates on abolition of the slave trade in 1807. </p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#emilie">
-                <p>Membre du Parlement Anglais ayant participé aux débats autour de l'abolition de la traite en 1807. </p>
-            </note>
-        </person>
         <person xml:id="JMG">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Joseph-Marie de Gérando</persName>
@@ -37,6 +25,38 @@
             <birth>17 septembre 1800</birth>
             <note xml:lang="fr" type="Person" resp="#charlotte #null">
                 <p>http://blog.manioc.org/2016/05/xavier-tanc-adolphe-juston-des.html</p>
+            </note>
+        </person>
+        <person xml:id="JdF">
+            <persName xml:lang="en">Jean de La Fontaine</persName>
+            <persName xml:lang="fr">Jean de La Fontaine</persName>
+            <birth>8 juillet 1621</birth>
+            <death>13 avril 1695</death>
+            <note xml:lang="fr" type="Person">
+                <p>https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine</p>
+            </note>
+        </person>
+        <person xml:id="GC">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">George Canning</persName>
+            <birth>1770</birth>
+            <death>1827</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Ministre des affaires étrangères (UK) 1807-1809 et 1822-1827, opposant à l'abolition immédiate de l'esclavage dans les Amériques</p>
+            </note>
+        </person>
+        <person xml:id="D">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Dariste, la dame</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Veuve, planteuse de la Martinique, propriétaire d'esclaves. Il est mentionné dans le n°5 que c'est vraisemblablement la propriétaire d'un "établissement des sucreries". Elle se trouve en France lors de l'incendie du 9 février 1831. Sa maison est épargnée car son "géreur" la défend en armant les esclaves contre les incendiaires.</p>
+            </note>
+        </person>
+        <person xml:id="JMQL">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">José María Queipo de Llano</persName>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Comte de Toreno. Homme d'état libéral espagnol en faveur de l'abolition de la traite, en relation avec les abolitionnistes anglais. </p>
             </note>
         </person>
         <person xml:id="ADp">
@@ -145,11 +165,16 @@
                 <p>Peintre du 19ème siècle qui représente la traite esclavagiste dans plusieurs tableaux et fût particulièrement apprecié par Schœlcher. </p>
             </note>
         </person>
-        <person xml:id="ATap">
+        <person xml:id="HP">
             <persName xml:lang="en"/>
-            <persName xml:lang="fr">Tappan, M. A</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
+            <persName xml:lang="fr">Hugh Percy</persName>
+            <birth>1785</birth>
+            <death>1847</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>Member of the English Parliament, participated in debates on abolition of the slave trade in 1807. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Membre du Parlement Anglais ayant participé aux débats autour de l'abolition de la traite en 1807. </p>
             </note>
         </person>
         <person xml:id="CT">
@@ -662,11 +687,6 @@
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Samuel_Hanson_Cox">Cox, Docteur</ref></p>
             </note>
         </person>
-        <person xml:id="D">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Dariste, la dame</persName>
-            <note xml:lang="en" type="Person" resp="#other">veuve, planteuse de la Martinique, propriétaire d'esclaves</note>
-        </person>
         <person xml:id="DA">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Daverton, M.</persName>
@@ -949,6 +969,13 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Solvet, M.</persName>
             <note xml:lang="en" type="Person" resp="#other">substitut du procureur du roi près le tribunal civil de Soissons</note>
+        </person>
+        <person xml:id="ATap">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Tappan, M. A</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
+            </note>
         </person>
         <person xml:id="NB">
             <persName xml:lang="en"/>
@@ -1400,10 +1427,24 @@
             <placeName xml:lang="en">Beauvoisin</placeName>
             <placeName xml:lang="fr">Beauvoisin</placeName>
         </place>
-        <place xml:id="TRI">
+        <place xml:id="N-E">
+            <placeName xml:lang="en">Nova Scotia</placeName>
+            <placeName xml:lang="fr">Nouvelle-Écosse</placeName>
+            <note xml:lang="en" type="Place" resp="#emilie">
+                <p>Canadian Province which saw an influx of Black migrants in the 18-19th century with supprot from the UK. </p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#emilie">
+                <p>Province du Canada qui connaît une importance migration Noire au 18-19ème siècle, avec le soutien du Royaume-Uni. </p>
+            </note>
+        </place>
+        <place xml:id="SLe">
             <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">La Trinité</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
+            <placeName xml:lang="fr">Sierra Leone</placeName>
+            <note xml:lang="fr" type="Place" resp="#emilie"/>
+        </place>
+        <place xml:id="Ar">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Aragua</placeName>
         </place>
         <place xml:id="CBE">
             <placeName xml:lang="en"/>
@@ -2070,6 +2111,11 @@
         <place xml:id="PaP">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">La Pointe-à-Pitre</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
+        <place xml:id="TRI">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">La Trinité</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="DOM">
