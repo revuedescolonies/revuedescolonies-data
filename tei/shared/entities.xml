@@ -7,18 +7,6 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
-        <person xml:id="JMG">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Joseph-Marie de Gérando</persName>
-            <birth>1772</birth>
-            <death>1842</death>
-            <note xml:lang="en" type="Person" resp="#emilie">
-                <p>Precursor of anthropology as an academic field, one of the founders of the French Society for the Abolition of Slavery. </p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#emilie">
-                <p>Précurseur de l'anthropologie comme domaine d'études, l'un des fondateurs de la Société française pour l'abolition de l'esclavage. </p>
-            </note>
-        </person>
         <person xml:id="XaT">
             <persName xml:lang="en">Xavier Tanc</persName>
             <persName xml:lang="fr">Xavier Tanc</persName>
@@ -57,6 +45,64 @@
             <persName xml:lang="fr">José María Queipo de Llano</persName>
             <note xml:lang="fr" type="Person" resp="#emilie">
                 <p>Comte de Toreno. Homme d'état libéral espagnol en faveur de l'abolition de la traite, en relation avec les abolitionnistes anglais. </p>
+            </note>
+        </person>
+        <person xml:id="SBol">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Simón Bolivar</persName>
+            <birth>1783</birth>
+            <death>1830</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Homme politique/militaire d'Amérique du Sud ayant mené le combat pour l'indépendance de l'Espagne. Lui-même esclavagiste, il propose l'abolition de l'esclavage en 1816 pour les personnes ayant participé au combat indépendantiste. </p>
+            </note>
+        </person>
+        <person xml:id="DGE">
+            <persName xml:lang="en">Duke of Gloucester and Edinburgh</persName>
+            <persName xml:lang="fr">Duc de Gloucester et Édimbourg</persName>
+            <birth>1776</birth>
+            <death>1834</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Membre de la famille royale anglaise soutien de l'abolition, président de l'Institution Africaine</p>
+            </note>
+        </person>
+        <person xml:id="JBLG">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Jean-Baptiste Lislet Geoffroy</persName>
+            <birth>1755</birth>
+            <death>1836</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Scientifique originaire de la Réunion, cartographe des îles de l'Océan Indien; un des premiers hommes noirs associés à l'Institut de France et à l'Académie des Sciences. </p>
+            </note>
+        </person>
+        <person xml:id="JdL">
+            <persName xml:lang="en">Jean de la Fontaine</persName>
+            <persName xml:lang="fr">Jean de la Fontaine</persName>
+            <birth>8 July 1621</birth>
+            <death>13 April 1695</death>
+        </person>
+        <person xml:id="JEF">
+            <persName xml:lang="en">Thomas Jefferson</persName>
+            <persName xml:lang="fr">Thomas Jefferson</persName>
+            <birth>1743</birth>
+            <death>1826</death>
+            <note xml:lang="en" type="Person" resp="#masha"/>
+        </person>
+        <person xml:id="Barbaroux">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Barbaroux</persName>
+            <birth>1792</birth>
+            <death>1867</death>
+            <note xml:lang="en" type="Person" resp="#pratima #null">
+                <p>Test Draft </p>
+            </note>
+        </person>
+        <person xml:id="x-tanc">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">X.TANC</persName>
+            <note xml:lang="fr" type="Person">
+                <p>
+                    <span lang="FR">ancien magistrat à la Guadeloupe.</span>
+                </p>
             </note>
         </person>
         <person xml:id="ADp">
@@ -177,15 +223,17 @@
                 <p>Membre du Parlement Anglais ayant participé aux débats autour de l'abolition de la traite en 1807. </p>
             </note>
         </person>
-        <person xml:id="CT">
+        <person xml:id="JMG">
             <persName xml:lang="en"/>
-            <persName xml:lang="fr">Télèphe, M. Charles </persName>
-            <note xml:lang="en" type="Person" resp="#other">officier de la garde nationale de la Martinique</note>
-        </person>
-        <person xml:id="ATO">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Torres, Andrès </persName>
-            <note xml:lang="en" type="Person" resp="#other">trafiquant négrier, condamné à un an d'emprisonnement pour pratique illegale de la traite</note>
+            <persName xml:lang="fr">Joseph-Marie de Gérando</persName>
+            <birth>1772</birth>
+            <death>1842</death>
+            <note xml:lang="en" type="Person" resp="#emilie">
+                <p>Precursor of anthropology as an academic field, one of the founders of the French Society for the Abolition of Slavery. </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Précurseur de l'anthropologie comme domaine d'études, l'un des fondateurs de la Société française pour l'abolition de l'esclavage. </p>
+            </note>
         </person>
         <person xml:id="HV">
             <persName xml:lang="en"/>
@@ -394,33 +442,6 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Frotté,Le sieur</persName>
             <note xml:lang="en" type="Person" resp="#other">homme de couleur, fils naturel de M. Igout</note>
-        </person>
-        <person xml:id="CDup">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Ch. Dupin, Monsieur</persName>
-            <note xml:lang="en" type="Person" resp="#other">nommé par le parti aristocratique à l'élection de délégué de l'aristocratie de la Martinique</note>
-        </person>
-        <person xml:id="CH">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Chrétin</persName>
-            <note xml:lang="en" type="Person" resp="#other">commandant du navire le Jeune Ernest</note>
-        </person>
-        <person xml:id="CO">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Consteau</persName>
-            <note xml:lang="en" type="Person" resp="#other">capitaine du brick la Cora-et-Julie</note>
-        </person>
-        <person xml:id="Dal">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Dalican, Monsieur</persName>
-            <note xml:lang="en" type="Person" resp="#other">juge-auditeur au tribunal de première instance de la Pointe-à-Pitre</note>
-        </person>
-        <person xml:id="Dupo">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Dupont de l'Eure, Jacques-Charles</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Jacques-Charles_Dupont_de_l%27Eure">Dupont de l'Eure, Jacques-Charles</ref></p>
-            </note>
         </person>
         <person xml:id="HG">
             <persName xml:lang="en"/>
@@ -669,6 +690,31 @@
             <note xml:lang="fr" type="Person" resp="#laure">
                 <p>Ancien soldat des guerres de la République et de l'Empire, bonapartiste, acquitté dans le cadre d'un complot en 1820, l'ancien lieutenant-colonel Augustin Joseph Caron est exécuté en 1822 après avoir tenté de faire évader des prisonniers. Bien qu'en retraite de l'armée depuis la Restauration, il est alors jugé par un conseil de guerre et fusillé. </p>
             </note>
+        </person>
+        <person xml:id="WAS">
+            <persName xml:lang="en">George Washington</persName>
+            <persName xml:lang="fr">George Washington</persName>
+            <birth>1732</birth>
+            <death>1799</death>
+            <note xml:lang="en" type="Person" resp="#masha">
+                <p>Links: <ref target="https://en.wikipedia.org/wiki/George_Washington">Washington </ref></p>
+            </note>
+        </person>
+        <person xml:id="NIC">
+            <persName xml:lang="en">Nicholas I</persName>
+            <persName xml:lang="fr">Nicolas I</persName>
+            <birth>1796</birth>
+            <death>1855</death>
+            <note xml:lang="en" type="Person" resp="#masha">
+                <p>Nicolas I, tsar de russie</p>
+            </note>
+        </person>
+        <person xml:id="ADA">
+            <persName xml:lang="en">John Adams</persName>
+            <persName xml:lang="fr">John Adams</persName>
+            <birth>1735</birth>
+            <death>1826</death>
+            <note xml:lang="en" type="Person" resp="#masha"/>
         </person>
         <person xml:id="EC">
             <persName xml:lang="en"/>
@@ -977,6 +1023,16 @@
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Arthur_Tappan">Tappan, M. A</ref></p>
             </note>
         </person>
+        <person xml:id="CT">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Télèphe, M. Charles </persName>
+            <note xml:lang="en" type="Person" resp="#other">officier de la garde nationale de la Martinique</note>
+        </person>
+        <person xml:id="ATO">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Torres, Andrès </persName>
+            <note xml:lang="en" type="Person" resp="#other">trafiquant négrier, condamné à un an d'emprisonnement pour pratique illegale de la traite</note>
+        </person>
         <person xml:id="NB">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Napoléon Bonaparte</persName>
@@ -1233,13 +1289,6 @@
                 <p>Pendant la conquête française de l'Algérie, le maréchal Clauzel installe Mustapha ben Omar, lui-même petit-fils d'un bey (chef), à Médéah afin qu'il devienne <ref target="https://www.google.com/books/edition/Algeria_Collection_of_166_books_pamphlet/JSM7AQAAMAAJ?hl=en&amp;gbpv=1&amp;dq=Mustapha+Ben+Omar+bey&amp;pg=RA6-PA63&amp;printsec=frontcover">bey de la province de Tittery </ref>, province du sud d'Alger. Mustapha Ben-Omar reçoit la Légion d'honneur en 1833. </p>
             </note>
         </person>
-        <person xml:id="JEF">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Jefferson p.39</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Thomas_Jefferson">Jefferson p.39</ref></p>
-            </note>
-        </person>
         <person xml:id="JorLa">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Jorna Lacalle, M</persName>
@@ -1269,13 +1318,6 @@
             <persName xml:lang="fr">Mérilhou, Joseph</persName>
             <note xml:lang="en" type="Person" resp="#other">
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Joseph_M%C3%A9rilhou">Mérilhou, Joseph</ref></p>
-            </note>
-        </person>
-        <person xml:id="NIC">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Nicolas I</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/Nicholas_I_of_Russia">Nicolas I</ref></p>
             </note>
         </person>
         <person xml:id="NOA">
@@ -1311,18 +1353,6 @@
             <note xml:lang="en" type="Person" resp="#other">
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Adolphe_Thiers">Thiers, Adolphe</ref></p>
             </note>
-        </person>
-        <person xml:id="WAS">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Washington </persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://en.wikipedia.org/wiki/George_Washington">Washington </ref></p>
-            </note>
-        </person>
-        <person xml:id="ADA">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Adam </persName>
-            <note xml:lang="en" type="Person" resp="#other">sic Adams (president des USA??) p.39</note>
         </person>
         <person xml:id="LP">
             <persName xml:lang="en"/>
@@ -1417,12 +1447,35 @@
             <persName xml:lang="fr">Bosquillon de Fontenay, Monsieur</persName>
             <note xml:lang="en" type="Person" resp="#other">Louis Jacques François B de F (1780-1865), avocat général, procureur, président de cour</note>
         </person>
+        <person xml:id="CDup">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Ch. Dupin, Monsieur</persName>
+            <note xml:lang="en" type="Person" resp="#other">nommé par le parti aristocratique à l'élection de délégué de l'aristocratie de la Martinique</note>
+        </person>
+        <person xml:id="CH">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Chrétin</persName>
+            <note xml:lang="en" type="Person" resp="#other">commandant du navire le Jeune Ernest</note>
+        </person>
+        <person xml:id="CO">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Consteau</persName>
+            <note xml:lang="en" type="Person" resp="#other">capitaine du brick la Cora-et-Julie</note>
+        </person>
+        <person xml:id="Dal">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Dalican, Monsieur</persName>
+            <note xml:lang="en" type="Person" resp="#other">juge-auditeur au tribunal de première instance de la Pointe-à-Pitre</note>
+        </person>
+        <person xml:id="Dupo">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Dupont de l'Eure, Jacques-Charles</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Links: <ref target="https://en.wikipedia.org/wiki/Jacques-Charles_Dupont_de_l%27Eure">Dupont de l'Eure, Jacques-Charles</ref></p>
+            </note>
+        </person>
     </listPerson>
     <listPlace>
-        <place xml:id="BaA">
-            <placeName xml:lang="en">lower Alps</placeName>
-            <placeName xml:lang="fr">Basses-Alpes</placeName>
-        </place>
         <place xml:id="Beau">
             <placeName xml:lang="en">Beauvoisin</placeName>
             <placeName xml:lang="fr">Beauvoisin</placeName>
@@ -1446,15 +1499,9 @@
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Aragua</placeName>
         </place>
-        <place xml:id="CBE">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">Le Cap de Bonne-Espérance</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
-        </place>
-        <place xml:id="Hav">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">Le Havre</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
+        <place xml:id="Col">
+            <placeName xml:lang="en">Colombia </placeName>
+            <placeName xml:lang="fr">Colombie</placeName>
         </place>
         <place xml:id="InO">
             <placeName xml:lang="en"/>
@@ -1808,6 +1855,10 @@
                 <p>Au 18ème siècle, Nantes est le premier port de la traite esclavagiste en France, responsable de la déportation d'entre 550 et 600 000 personnes réduites en esclavage.  </p>
             </note>
         </place>
+        <place xml:id="BaA">
+            <placeName xml:lang="en">lower Alps</placeName>
+            <placeName xml:lang="fr">Basses-Alpes</placeName>
+        </place>
         <place xml:id="Nan">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Nancy</placeName>
@@ -2118,6 +2169,16 @@
             <placeName xml:lang="fr">La Trinité</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
+        <place xml:id="CBE">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Le Cap de Bonne-Espérance</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
+        <place xml:id="Hav">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Le Havre</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
         <place xml:id="DOM">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Dominique</placeName>
@@ -2261,6 +2322,13 @@
             <orgName xml:lang="fr">Conseil des Ministres</orgName>
             <note xml:lang="fr" type="Organization"/>
         </org>
+        <org xml:id="AfrIn">
+            <orgName xml:lang="en">African Institution</orgName>
+            <orgName xml:lang="fr">Institution Africaine</orgName>
+            <note xml:lang="fr" type="Organization" resp="#emilie">
+                <p>Institut fondé en Angleterre pour encourager la migration d'Afrodescendants au Sierra Leone; liée à la Anti-Slavery Society. </p>
+            </note>
+        </org>
         <org xml:id="Soc">
             <orgName xml:lang="en"/>
             <orgName xml:lang="fr">la Société</orgName>
@@ -2301,11 +2369,6 @@
             <note xml:lang="en" type="Organization" resp="#other">
                 <ref target="https://fr.wikipedia.org/wiki/Garde_nationale_(France)">"La garde nationale, cette admirable institution de la métropole"</ref>
             </note>
-        </org>
-        <org xml:id="MJ">
-            <orgName xml:lang="en"/>
-            <orgName xml:lang="fr">Ministre de la justice </orgName>
-            <note xml:lang="en" type="Organization" resp="#other">p. 35</note>
         </org>
         <org xml:id="MM">
             <orgName xml:lang="en"/>
