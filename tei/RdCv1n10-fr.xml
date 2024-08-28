@@ -1428,7 +1428,12 @@
                      <orig>parceque</orig> 
                      <reg>parce que</reg> 
                   </choice>
-                  ses voisins ne lui permettent pas de débouché, et que les noirs n’y travaillent que peu parcequ’ils n’exportent pas, 
+                  ses voisins ne lui permettent pas de débouché, et que les noirs n’y travaillent que peu 
+                  <choice>
+                     <orig>parcequ’ils</orig> 
+                     <reg>parce qu’ils</reg> 
+                  </choice>
+                  n’exportent pas, 
                   <choice>
                      <orig>parceque</orig> 
                      <reg>parce que</reg> 
@@ -1449,7 +1454,7 @@
                </p>
                <p>
                   6° Partout des noirs ont souvent acquis dans les affaires, les 
-                  <pb n="3" facs="v1n10p33"/>
+                  <pb n="33" facs="v1n10p33"/>
                   lettres et les arts, l’estime publique. 
                   <orgName ref="#AfrIn">L’institution africaine</orgName>, 
                   présidée par le 
@@ -1476,6 +1481,178 @@
                   <orgName ref="#IDF">l’Institut de France</orgName>
                   , et on citerait un grand nombre d’écrits, et un plus grand nombre d’actes d’intelligence et de dévouement, qui prouvent assez en faveur de leur cœur et de leur esprit.
                </p>
+               <p>
+                  7° Enfin on forme sans cesse, depuis quinze ans, sur les 
+                  <placeName ref="#AF">côtes d’Afrique</placeName>, 
+                  des établissemens nouveaux de noirs libres, et la 
+                  Société américaine 
+         <!--Check what this would be, probably American Colonization Society?-->
+                  vient de publier un dernier récit qui démontre que parmi tous les désastres qu’on y a éprouvés, provenant de l'insalubrité du sol et du voisinage des peuples barbares, il y a eu rarement des difficultés nées du gouvernement même des noirs. Les commissaires des 
+                  <placeName ref="#USA">Etats-Unis</placeName> 
+                  ont dit que ces noirs libres se sont élevés, sous le rapport des mœurs et de l’aisance, bien au dessus de ceux de leurs frères qui sont parvenus au plus haut degré de bien-être dans les 
+                  <placeName ref="#USA">Etats-Unis</placeName>.
+               </p>
+               <p>
+                  Voilà ce que la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  a publié tour à tour, et on peut dire qu’elle a constamment suivi avec le même zèle toutes les phases de cette question d’humanité. C’est elle qui a sollicité les premières mesures pour l’adoucissement de l’esclavage. 
+               </p>
+               <p>
+                  Elle a d’abord fait remarquer la triste vérité que les peuples libres ont toujours traité leurs esclaves plus durement que les 
+                  <choice>
+                     <orig>gouvernemens</orig> 
+                     <reg>gouvernements</reg> 
+                  </choice>
+                  absolus, et que, tandis que dans les colonies anglaises et hollandaises on les astreignait à des travaux continuels, la loi espagnole leur accordait une certaine partie de leurs journées, et même leur reconnaissait le droit de racheter leur liberté avec les produits de leurs travaux. S’appuyant sur cet acte, elle a demandé que des 
+                  <choice>
+                     <orig>réglemens</orig> 
+                     <reg>réglements</reg> 
+                  </choice>
+                  soient établis entre les propriétaires et les esclaves, comme il en existe en 
+                  <placeName ref="#FR">France</placeName> 
+                  entre le maître et l’ouvrier ; elle a excité l’indignation des hommes de bien contre la fiscalité des 
+                  <choice>
+                     <orig>gouvernemens</orig> 
+                     <reg>gouvernements</reg> 
+                  </choice> 
+                  qui, percevant à l’instigation même des colons un droit sur les 
+                  <choice>
+                     <orig>affranchissemens</orig> 
+                     <reg>affranchissements</reg> 
+                  </choice>
+                  , les rendaient onéreux et moins
+                  <choice>
+                     <orig>fréquens</orig> 
+                     <reg>fréquents</reg> 
+                  </choice>
+                  . Elle a surtout présenté, pour le rachat de la liberté, plusieurs systèmes ingénieux.
+               </p>
+               <p>
+                  Elle a d’abord rappelé que là où les coups et les tortures avaient
+                  <pb n="34" facs="v1n10p34"/>
+                  été remplacés par un léger salaire, le travail avait triplé ; pour une mince rétribution de trois demi-sous anglais, environ trois sous de France par acre de cannes à sucre, six noirs faisaient l’ouvrage ordinaire de dix-huit. Elle rappela aussi qu’on avait vu jadis en 
+                  <placeName ref="#ANG">Angleterre</placeName>, 
+                  dans les terres féodales, trois sortes de vilains ; les premiers, véritables esclaves, vendables de plein gré; les seconds, vrais serfs attachés à la terre; les troisièmes, véritables vassaux concessionnaires, à charge d’accomplir des services féodaux, et qu’un respectable propriétaire dans les colonies avait amené tour à tour les noirs à ces trois états. Il les avait d’abord soumis en vrais esclaves à la culture obligée; puis il avait donné un 
+                  demi-acre 
+                  de terre à ceux qui étaient bons travailleurs ; enfin il avait concédé une case et de la terre à ceux qui étaient capables d’y bien nourrir leurs familles, à condition que chacun d’eux lui rendrait pour lui-même la culture d’un certain nombre d’acres. Il avait réellement diminué par ce moyen la moitié de ses dépenses, et cependant il avait estimé la journée à dix heures, et le travail de chacun à deux cent soixante jours de dix heures; et ses noirs ayant le surplus des dix heures par jour, plus quarante-huit jours ouvriers par an, et tous les dimanches libres, recueillaient tout ce qui était nécessaire pour leur entretien et celui de leur famille, en même temps qu’ils amassaient aisément des économies. 
+               </p>
+               <p>
+                  Voilà le premier projet que la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  recommandait, comme pouvant être mis à exécution par un sincère amour de l’humanité, non seulement sans nuire, mais au contraire en portant aide et utilité aux intérêts des propriétaires. Mais elle s’adressait ensuite aux 
+                  <choice>
+                     <orig>gouvernemens</orig> 
+                     <reg>gouvernements</reg> 
+                  </choice> 
+                  eux-mêmes, et leur démontrait que là où les propriétaires égarés par des préjugés et des préventions funestes se refuseraient à améliorer le sort des noirs, ils avaient, eux 
+                  <choice>
+                     <orig>gouvernemens</orig>
+                     <reg>gouvernements</reg>
+                  </choice>
+                  , le droit et le devoir, ainsi que les facultés et les facilités suffisantes pour supprimer l’esclavage sans injustice et sans causer de préjudice aux intérêts 
+                  <choice>
+                     <orig>existans.</orig>
+                     <reg>existants.</reg>
+                  </choice>
+               </p>
+               <p>
+                  Voici, disait-on, ce qu’il est aisé d’opérer de gré ou de force, non pas peut-être sans opposition, mais certainement sans crise dangereuse. Un recensement général des esclaves doit être fait par les officiers publics ; le nom de chacun d’eux doit être déclaré et inscrit pour établir son état civil ; le prix de sa valeur relative doit être constaté contradictoirement avec le maître suivant les formes que la
+                  <pb n="35" facs="v1n10p35"/>
+                  loi établira. Le propriétaire est tenu de lui accorder une certaine quantité de terre pour sa subsistance, et un jour par semaine, en outre du dimanche, pour la cultiver et en récolter les produits. Lorsque, pendant ce jour, il préfère travailler pour son maître, celui-ci doit le payer comme il paierait un autre journalier.
+               </p>
+               <p>
+                  Voilà, messieurs, le projet que la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  a recommandé aux amis de l’humanité. 
+                  Un de ses membres 
+                  <!--Ask for who this would be --> 
+                  a porté ses principes jusque dans les colonies lointaines. Il a établi à 
+                  <placeName ref="#IM">l’île Maurice</placeName> 
+                  une société composée de colons, qui se sont associés pour racheter les négresses enceintes et rendre libres leurs 
+                  <choice>
+                     <orig>enfans</orig> 
+                     <reg>enfants</reg> 
+                  </choice> 
+                  dès le moment de leur naissance. Elle s'est empressée de faire connaître cette association, et d’en proposer une semblable en 
+                  <placeName ref="#IM">France.</placeName> 
+                  Elle a en même temps demandé à la législation, par des pétitions aux Chambres, que les conditions et les prix de l’affranchissement soient fixés par des lois; et lorsque aujourd’hui la liberté n’est donnée aux esclaves des colonies anglaises qu’à la charge de rester plusieurs années en apprentissage chez leurs anciens maîtres, elle a démontré que si, en attendant qu’on obtînt pour les noirs la liberté entière à laquelle ils ont droit, on établissait dans nos colonies le même mode d’apprentissage, en même temps qu’on y instituerait des écoles, afin de donner une éducation morale et une instruction élémentaire aux apprentis, et surtout à leurs 
+                  <choice>
+                     <orig>enfans</orig>
+                     <reg>enfants</reg>
+                  </choice> 
+                  , ce serait créer une nouvelle nation sans rien détruire des intérêts 
+                  <choice>
+                     <orig>existans</orig>
+                     <reg>existants</reg>
+                  </choice>
+                  , et que ce serait faire un grand pas vers la liberté.
+               </p>
+               <p>
+                  Enfin elle a constamment publié les travaux de ces sociétés anglaises et américaines qui, rivalisant de zèle et d’humanité, ont porté à 
+                  <placeName ref="#SLe">Sierra-Leone</placeName>, 
+                  à <placeName ref="#Lib">Liberia</placeName>, 
+                  et en ce moment encore au 
+                  <placeName ref="#CPa">cap Palmas</placeName>, 
+                  des nations d’hommes de couleur libres qui prouveront un jour que les noirs sont créés aussi bien que les blancs pour la liberté, l’état social et l’accomplissement des destinées de l’homme sur la terre.
+               </p>
+               <p>
+                  Ainsi vous voyez, messieurs, que la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName> 
+                  a constamment pris part à toutes les mesures propres à amener l’abolition de l’esclavage. Vous voyez qu’elle a concouru d’abord à la prohibition de la traite, ensuite à la répression des contraventions; lorsque la question de l’esclavage a commencé, elle a sollicité d’abord l’instruction et l’éducation des 
+                  <choice>
+                     <orig>enfans</orig>
+                     <reg>enfants</reg>
+                  </choice>
+                  ; elle s’est associée aux bonnes œuvres des sociétés étrangères qui réclamaient
+                  <pb n="36" facs="v1n10p36"/>
+                  seulement alors l’adoucissement et l’abolition graduelle de l’esclavage; lorsqu’on a osé davantage, elle s’est empressée aussi de faire plus, elle a flétri et réprouvé l’esclavage par des faits historiques ; elle en est venue à l’application en réclamant tout ce qui aidait l’affranchissement, en s’élevant avec indignation contre les impôts dont on le chargeait, et en établissant un système de rachat qui aurait déjà produit la liberté presque générale des noirs, s’il eût été suivi depuis qu’elle l’a proposé et publié. Elle a en même temps sollicité la liberté pour les 
+                  <choice>
+                     <orig>enfans</orig> 
+                     <reg>enfants</reg> 
+                  </choice> 
+                  à naître, ensuite pour les femmes enceintes, et elle demande encore que des lois préparatoires consacrent au moins pour les noirs un avenir de liberté.
+               </p>
+               <p>
+                  Ainsi je crois pouvoir vous dire, messieurs, au nom de la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName>
+                  , que, si vous êtes appelé à amener, par vos efforts et par votre influence, un changement dans la condition des esclaves de nos colonies, vous réaliserez son vœu le plus cher et le plus constant. Vous pourrez vous dire aussi, comme l’ont dit avant vous les membres de la 
+                  <orgName ref="#SMC">Société de la Morale Chrétienne</orgName>
+                  , que vous bénissez la Providence de vous avoir choisis pour les 
+                  <choice>
+                     <orig>instrumens</orig> 
+                     <reg>instruments</reg> 
+                  </choice>
+                  d’une si belle œuvre.
+               </p>
+            </div>
+            <div xml:id ="CRP">
+               <head>
+                  COUR ROYALE DE PARIS.
+                  (Première chambre.)
+                  PRÉSIDENCE DE M. MILLER.
+                  <emph>Audience du <sic>34 Mars</sic>.</emph>
+               </head>
+               <p>
+                  <persName ref="#CIC">Me Cicéron</persName>
+                  , avocat à 
+                  <placeName ref="#StP">St-Pierre</placeName> (île <placeName ref="#MQ">Martinique</placeName>)
+                  , était appelant d’un jugement rendu par le tribunal civil de 
+                  la Seine
+            <!--À quel endroit réel cela correspond-t-il?-->
+                  , qui, contrairement aux motifs allégués par le défendeur, s’est déclaré compétent pour connaître de la plainte en diffamation portée par 
+                  <persName ref="#BOI">M. Boitel</persName>
+                  , ancien administrateur de cette colonie, contre le susnommé, au sujet de la publication d’une brochure imprimée à 
+                  <placeName ref="#Par">Paris</placeName>
+                  , ayant pour titre : 
+                  <emph><bibl type="legal">Pétition au roi, à la nation et aux chambres, sur l’inconstitutionnalité de la représentation coloniale.</bibl></emph>
+               </p>
+
+            
+
+
+
+
+
 
 
 
