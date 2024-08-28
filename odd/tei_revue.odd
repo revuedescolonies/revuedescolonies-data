@@ -181,12 +181,15 @@
                                 <valItem mode="add" ident="#JEF"/>
                                 <valItem mode="add" ident="#Barbaroux"/>
                                 <valItem mode="add" ident="#x-tanc"/>
+                                <valItem mode="add" ident="#VAg"/>
+                                <valItem mode="add" ident="#Wi"/>
+                                <valItem mode="add" ident="#Ha"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
                                 <valItem mode="add" ident="#Stx"/>
-                                <valItem mode="add" ident="#JHD"/>
                                 <valItem mode="add" ident="#MtC"/>
                                 <valItem mode="add" ident="#Bstd"/>
+                                <valItem mode="add" ident="#JHD"/>
                                 <valItem mode="add" ident="#ALSH"/>
                                 <valItem mode="add" ident="#JTP"/>
                                 <valItem mode="add" ident="#FAB"/>
@@ -409,6 +412,8 @@
                                 <valItem mode="add" ident="#SLe"/>
                                 <valItem mode="add" ident="#Ar"/>
                                 <valItem mode="add" ident="#Col"/>
+                                <valItem mode="add" ident="#Va"/>
+                                <valItem mode="add" ident="#FdF"/>
                                 <valItem mode="add" ident="#InO"/>
                                 <valItem mode="add" ident="#Lo"/>
                                 <valItem mode="add" ident="#LUC"/>
