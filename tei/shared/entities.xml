@@ -1523,6 +1523,19 @@
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Fort-de-France</placeName>
         </place>
+        <place xml:id="Lib">
+            <placeName xml:lang="en">Liberia</placeName>
+            <placeName xml:lang="fr">Libéria</placeName>
+            <note xml:lang="fr" type="Place" resp="#emilie"/>
+        </place>
+        <place xml:id="CPa">
+            <placeName xml:lang="en">Cape Palmas</placeName>
+            <placeName xml:lang="fr">Cap des Palmes</placeName>
+            <note xml:lang="en" type="Place" resp="#emilie"/>
+            <note xml:lang="fr" type="Place" resp="#emilie">
+                <p>Cap au sud du Libéria, où l'État du Maryland tente dans les années 1830-1850 un projet de remigration de Noirs libres. </p>
+            </note>
+        </place>
         <place xml:id="InO">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Les Indes occidentales</placeName>
