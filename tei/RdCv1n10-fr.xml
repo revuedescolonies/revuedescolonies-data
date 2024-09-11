@@ -1627,7 +1627,7 @@
             </div>
             <div xml:id ="CRP">
                <head>
-                  COUR ROYALE DE PARIS.
+                  <orgName ref="#CR">COUR ROYALE DE PARIS.</orgName>
                   (Première chambre.)
                   PRÉSIDENCE DE M. MILLER.
                   <emph>Audience du <sic>34 Mars</sic>.</emph>
@@ -1636,8 +1636,8 @@
                   <persName ref="#CIC">Me Cicéron</persName>
                   , avocat à 
                   <placeName ref="#StP">St-Pierre</placeName> (île <placeName ref="#MQ">Martinique</placeName>)
-                  , était appelant d’un jugement rendu par le tribunal civil de 
-                  la Seine
+                  , était appelant d’un jugement rendu par le 
+                  <orgName>tribunal civil de la Seine</orgName>
             <!--À quel endroit réel cela correspond-t-il?-->
                   , qui, contrairement aux motifs allégués par le défendeur, s’est déclaré compétent pour connaître de la plainte en diffamation portée par 
                   <persName ref="#BOI">M. Boitel</persName>
@@ -1646,6 +1646,73 @@
                   , ayant pour titre : 
                   <emph><bibl type="legal">Pétition au roi, à la nation et aux chambres, sur l’inconstitutionnalité de la représentation coloniale.</bibl></emph>
                </p>
+               <pb n="37" facs="v1n10p37"/>
+               <p>
+                  <persName>Me Bethmont</persName> 
+            <!--Which Bethmont would this be>-->
+                  a fait valoir les moyens préjudiciels sur lesquels 
+                  <persName ref="#CIC">Me Cicéron</persName> 
+                  fonde sa prétention.
+               </p>
+               <p>
+                  <persName ref="#BOI">M. Boitel</persName>
+                  , plaidant lui-même sa cause en l'absence de son avocat, a opposé les dispositions de 
+                  <bibl type="legal">l’article 12 de la loi de 1819</bibl>
+                  , sur lesquels le jugement est fondé. 
+               </p>
+               <p>
+                  Cette doctrine ayant prévalu dans le réquisitoire de 
+                  <persName ref="#SBer">M. l’avocat- général Berville</persName>
+               <!--confirm Saint-Albin would be the Berville in question-->
+                  , la cour a partagé cette opinion, et confirmant le jugement de compétence rendu par le 
+                  <orgName>tribunal civil de la Seine</orgName>
+                  , elle a condamné 
+                  <persName ref="#CIC">Me Cicéron</persName> 
+                  aux dépens.
+               </p>
+               <closer><emph>(Extrait de tous les journaux.)</emph></closer>
+            </div>
+            <div xml:id="ColFR">
+               <head>COLONIES FRANÇAISES.</head>
+               <head><placeName ref="#MQ">MARTINIQUE.</placeName></head>
+               <p>
+                  On nous écrit du 
+                  <placeName ref="#FoR">Fort-Royal</placeName>:
+               </p>
+               <p>
+                  « La consternation qui était dans tous les cœurs depuis la confirmation de l’arrêt de mort, dans l’affaire de la 
+                  <placeName ref="#GdA">Grand’Anse</placeName>
+                  , s’est accrue sans mesure depuis l’horrible nouvelle de la commutation! Ici tout le monde comptait sur la cassation de ce monstrueux arrêt; on avait si fortement rassuré les malheureux condamnés et leurs familles sur le résultat du recours en cassation, qu’ils croyaient le rejet impossible. Les blancs eux-mêmes s’attendaient tellement à voir casser cet arrêt que le triomphe qu’ils ont obtenu leur paraît encore un songe. 
+                  <persName ref="#ANog">M. Arsène Nogues</persName> 
+                  a grandi depuis cette affaire dans l’opinion des privilégiés. Il faut donc que nous nous soumettions à voir traîner nos malheureux frères à l'exposition!....On ne leur a fait grâce que de la corde ou du tranchant de la hache! Quelle commutation, grand Dieu, que celle en vingt années de galères! C’est pis que la mort !
+               </p>
+            </div>
+            <div xml:id="ColEtr">
+               <head>COLONIES ÉTRANGÈRES.</head>
+               <head><placeName ref="#BAR">BARBADE.</placeName></head>
+                <p>
+                  On lit dans le journal <emph><bibl type="periodical">the Barbadian</bibl></emph>: 
+               </p>
+               <p>
+                  « 85, 000 esclaves ont été émancipés dans cette colonie. Voilà
+                  <pb n="38" facs="v1n10p38"/>
+                  plusieurs mois de passés depuis l’introduction du nouveau système politique dans notre île, et, Dieu soit béni, tout est prospère. Il n’y a maintenant que vingt personnes en prison, sur une si grande population, et les plaintes des maîtres et des apprentis sont si rares qu'il est presque inutile d’en faire mention. 
+                  <persName>M.Olphorts</persName>
+                  <!--who is this guy?-->
+                  , qui est le seul magistrat spécial rétribué dans la colonie, avoue lui- même qu’il a été fort agréablement désappointé, et que sa place est maintenant une véritable sinécure; les nouveaux affranchis disent qu’ils n’ont jamais eu plus de temps, et qu’ils n’ont jamais été si bien protégés. Les légères apparences d’irritation, qui avaient été naturelles d’abord, ont complètement disparu et fait place à un meilleur sentiment de patience mutuelle.
+               </p>
+                  
+
+
+
+
+
+
+               
+
+
+
+
 
             
 
