@@ -117,6 +117,15 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Le sieur Hardy</persName>
         </person>
+        <person xml:id="SBer">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Saint-Albin Berville</persName>
+            <birth>1788</birth>
+            <death>1868</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Magistrat, président de la Société de la morale chrétienne et co-fondateur de la Société française pour l'abolition de l'esclavage.</p>
+            </note>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Alexandre Dumas</persName>
