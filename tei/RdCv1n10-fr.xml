@@ -1689,7 +1689,9 @@
             </div>
             <div xml:id="ColEtr">
                <head>COLONIES ÉTRANGÈRES.</head>
-               <head><placeName ref="#BAR">BARBADE.</placeName></head>
+               <p>
+                  <placeName ref="#BAR">BARBADE.</placeName>
+                </p>
                 <p>
                   On lit dans le journal <emph><bibl type="periodical">the Barbadian</bibl></emph>: 
                </p>
@@ -1701,6 +1703,58 @@
                   <!--who is this guy?-->
                   , qui est le seul magistrat spécial rétribué dans la colonie, avoue lui- même qu’il a été fort agréablement désappointé, et que sa place est maintenant une véritable sinécure; les nouveaux affranchis disent qu’ils n’ont jamais eu plus de temps, et qu’ils n’ont jamais été si bien protégés. Les légères apparences d’irritation, qui avaient été naturelles d’abord, ont complètement disparu et fait place à un meilleur sentiment de patience mutuelle.
                </p>
+               <p>
+                  <placeName ref="#DE">DÉMÉRARY.</placeName>
+               </p>
+               <p>
+                  <persName ref="#JCS">
+                  Sir James
+                  <choice>
+                     <orig>Carmichael Smith</orig> 
+                     <reg>Carmichael-Smyth</reg> 
+                  </choice>
+                  </persName>
+                  continue à maintenir la paix publique intacte, et à défendre les droits des apprentis, en présence des abus les plus invétérés, et en dépit des clameurs que font entendre dans cette colonie les partisans de l’esclavage et du fouet. Les dernières nouvelles de 
+                  <placeName ref="#GUY">
+                  <choice>
+                     <orig>la Guiane</orig> 
+                     <reg>la Guyane</reg> 
+                  </choice>
+                  </placeName>
+                  sont loin de justifier les dénonciations d’insubordination, et les indices de danger rapportés par le 
+                  <emph><bibl type="periodical">Guyana Chronicle.</bibl></emph>
+                  <persName ref="#JCS">Le gouverneur</persName>
+                  , après avoir reçu les derniers rapports périodiques des douze magistrats spéciaux, a déclaré qu’il était complètement satisfait, et que la paix, le contentement et la prospérité continuaient à prévaloir dans la colonie. Il a souvent exprimé en termes significatifs son approbation pour la bonne conduite des apprentis, en les encourageant à continuer ainsi jusqu’à la fin de leur apprentissage. La tranquillité règne aussi dans cette partie de 
+                  <placeName ref="#GUY">
+                  <choice>
+                     <orig>la Guiane</orig> 
+                     <reg>la Guyane</reg> 
+                  </choice>
+                  </placeName> 
+                  qui forme la colonie de 
+                  <emph><placeName ref="#BER">Berbice</placeName></emph>
+                  ; les nouvelles qui nous arrivent 
+                  d'<emph><placeName ref="#ESS">Essequibo</placeName></emph> 
+                  sont satisfaisantes.
+               </p>
+               <p>
+                  <placeName ref="#BAH">BAHAMAS.</placeName>
+               </p>
+               <p>
+                  La fermeté de 
+                  <persName ref="#SR">M. Spring-Rice</persName>
+                  , bien secondée par 
+                  <roleName>le gouverneur de la colonie</roleName>
+                  , a surmonté la répugnance des membres de l’assemblée de 
+                  <placeName ref="#BAH">cette île</placeName>
+                  . Les nouvelles lois ont été adoptées, et 
+                  <roleName>le gouverneur</roleName> 
+                  espère les faire approuver.
+               </p>
+
+
+
+
                   
 
 
