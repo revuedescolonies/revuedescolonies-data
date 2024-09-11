@@ -414,6 +414,8 @@
                                 <valItem mode="add" ident="#Col"/>
                                 <valItem mode="add" ident="#Va"/>
                                 <valItem mode="add" ident="#FdF"/>
+                                <valItem mode="add" ident="#Lib"/>
+                                <valItem mode="add" ident="#CPa"/>
                                 <valItem mode="add" ident="#InO"/>
                                 <valItem mode="add" ident="#Lo"/>
                                 <valItem mode="add" ident="#LUC"/>
