@@ -185,6 +185,8 @@
                                 <valItem mode="add" ident="#Wi"/>
                                 <valItem mode="add" ident="#Ha"/>
                                 <valItem mode="add" ident="#SBer"/>
+                                <valItem mode="add" ident="#JCS"/>
+                                <valItem mode="add" ident="#BAH"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
                                 <valItem mode="add" ident="#Stx"/>
@@ -417,6 +419,7 @@
                                 <valItem mode="add" ident="#FdF"/>
                                 <valItem mode="add" ident="#Lib"/>
                                 <valItem mode="add" ident="#CPa"/>
+                                <valItem mode="add" ident="#ESS"/>
                                 <valItem mode="add" ident="#InO"/>
                                 <valItem mode="add" ident="#Lo"/>
                                 <valItem mode="add" ident="#LUC"/>

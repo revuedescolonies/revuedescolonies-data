@@ -126,6 +126,19 @@
                 <p>Magistrat, président de la Société de la morale chrétienne et co-fondateur de la Société française pour l'abolition de l'esclavage.</p>
             </note>
         </person>
+        <person xml:id="JCS">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">James Carmichael-Smyth</persName>
+            <birth>1779</birth>
+            <death>1838</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Gouverneur de la Guyane Britannique en 1833-1838, supervise le processus d'abolition. </p>
+            </note>
+        </person>
+        <person xml:id="BAH">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Bahamas</persName>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Alexandre Dumas</persName>
@@ -1544,6 +1557,10 @@
             <note xml:lang="fr" type="Place" resp="#emilie">
                 <p>Cap au sud du Libéria, où l'État du Maryland tente dans les années 1830-1850 un projet de remigration de Noirs libres. </p>
             </note>
+        </place>
+        <place xml:id="ESS">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Essequibo</placeName>
         </place>
         <place xml:id="InO">
             <placeName xml:lang="en"/>
