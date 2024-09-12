@@ -1749,8 +1749,97 @@
                   <placeName ref="#BAH">cette île</placeName>
                   . Les nouvelles lois ont été adoptées, et 
                   <roleName>le gouverneur</roleName> 
-                  espère les faire approuver.
+                  espère les faire approuver. 
                </p>
+            </div>
+            <div xml:id="NouvDiv">
+               <pb n="39" facs="v1n10p39"/>
+               <head>NOUVELLES DIVERSES.</head>
+               <p>
+                  Dans une de ses dernières réunions la 
+                  <orgName ref="#SAE">société pour l’abolition de l'esclavage</orgName> 
+                  a nommé une commission de cinq membres, chargée de féliciter 
+                  <persName ref="#BRO">M. le duc de Broglie</persName>
+                  , président de ladite société, sur son élévation à la présidence du 
+                  <orgName ref="#CMi">conseil des ministres.</orgName> 
+                  Cette députation a été nommée à l'unanimité : elle est composée de MM. 
+                  <persName ref="#VERH">l’amiral Verhuell</persName>
+                  , pair de France, 
+                  <persName ref="#PAS">Passy</persName>
+                  , député, 
+                  <persName ref="#GdL">Gaëtan de Larochefoucauld</persName>
+                  , député, 
+                  <persName ref="#RESC">de Sainte-Croix</persName> 
+                  et 
+                  <persName ref="#GdB">G. de Beaumont</persName>.
+               </p>
+               <p>
+                  — Une autre commission, composée de MM. 
+                  <persName ref="#ES">Eusèbe Salverte</persName>, 
+                  <persName ref="#ROG">baron Roger</persName>
+                  , et 
+                  <persName ref="#TdL">Lacrosse</persName>
+                  , députés, et de MM. 
+                  <persName ref="#RESC">de Sainte-Croix</persName> 
+                  et 
+                  <persName ref="#AB">Auguste Billiard</persName>
+                  , a été chargée de préparer un rapport à présenter au gouvernement, sur la non-exécution aux colonies de 
+                  <bibl type="legal">l’article 10 de la loi du 4 mars 1831</bibl>
+                  , concernant les noirs de traite capturés, lesquels devraient être affranchis depuis quatre ans, et sont retenus encore en esclavage.
+               </p>
+               <p>
+                  — Les colons propriétaires d’esclaves, qui n’avaient pas l’air de se douter qu’il pût être jamais question de l’abolition de l'esclavage aux colonies, commencent à comprendre que 
+                  <placeName ref="#FR">la France</placeName> 
+                  peut très bien affranchir les esclaves s’il lui plaît, sans qu’il soit besoin du consentement des maîtres. La terreur, dit-on, est dans le camp de ces messieurs; ils se sont réunis à 
+                  <placeName ref="#Par">Paris</placeName>
+                  , afin d’aviser aux moyens, par un faux semblant de libéralisme, de concilier toutes choses. Il serait question, assure-t-on, de je ne sais combien de millions que ces messieurs s’adjugeraient, et que le gouvernement garantirait comme indemnité préalable. Au moyen de cette <emph>large</emph> indemnité messieurs les possesseurs d’hommes <emph>consentiraient</emph> à accorder la liberté aux esclaves dans quarante ans. Nous verrons.
+               </p>
+               <p>
+                  — <persName ref="#AdB">M. Anquetil de Beauregard</persName>
+                  , colon privilégié, habitant de la commune de 
+                  la Rivière Pilote
+               <!--tag a specific commune?-->
+                  , à 
+                  <placeName ref="#MQ">la Martinique</placeName>
+                  , avait fait citer en police correctionnelle 
+                  <persName ref="#CB">le directeur</persName> de 
+                  <bibl type ="periodical">Revue des Colonies</bibl>
+                  , pour un article inséré dans le premier numéro de cette revue, et intitulé: 
+                  Traits de cruautés.
+               <!--How to tag article from earlier edition?-->
+                  A l’audience du 16 mars dernier l'affaire a été appelée devant la sixième chambre; 
+                  <persName ref="#AdB">M. Anquetil de Beauregard</persName>
+                  , par l’organe de 
+                  Me Flayolle
+               <!--worth creating tag?-->
+                  , demandait 10,000 francs de dommages et intérêts. Mais le tribunal, sur les conclusions de 
+                  <persName ref="#JMG">M. de Gérando</persName>
+                  , avocat du
+                  <pb n="40" facs="v1n10p40"/>
+                  roi, et de 
+                  Me Maurel
+               <!--worth creating tag?-->
+                  , avocat du 
+                  directeur 
+                  de <bibl type ="periodical">la Revue</bibl>
+                  , a, conformément aux dispositions de 
+                  <bibl type ="legal">l’article 29 de la loi du 26 mai 1819</bibl>
+                  , renvoyé 
+                  <persName ref="#CB">M. Bissette</persName> 
+                  de la plainte, et condamné 
+                  <persName ref="#AdB">M. A. de Beauregard</persName> 
+                  aux dépens.
+               </p>
+               <p>
+                  Le chargé de pouvoirs de 
+                  <persName ref="#AdB">M. A. de Beauregard</persName> 
+                  a fait, dit-on, appel de ce jugement.
+               </p>
+            </div>
+            <div xml:id="Corr">
+               <head>CORRESPONDANCE.</head>
+
+
 
 
 
