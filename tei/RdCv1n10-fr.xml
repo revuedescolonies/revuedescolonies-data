@@ -1838,6 +1838,23 @@
             </div>
             <div xml:id="Corr">
                <head>CORRESPONDANCE.</head>
+               <p>
+                  Nous recevons de 
+                  <persName ref="#AFoi">M. Foignet</persName> 
+                  une réponse, ainsi qu’il prend soin de la qualifier lui-même, au rapport de 
+                 <persName ref="#RESC"> M. de Sainte-Croix</persName>
+                  , sur 
+                  <bibl type ="monogr">la brochure </bibl> 
+            <!--Likely "Sur le prospecturs de la société pour l'abolition de l'esclavage", 1835 -available on Gallica-->
+                  que l’ ex-délégué des colons de la 
+                  <placeName ref="#GP">Guadeloupe</placeName> 
+                  a cru devoir publier à l’occasion de la formation de la 
+                  <orgName ref="#SAE">société pour l’abolition de l’esclavage.</orgName> 
+                  Notre impartialité nous fait un devoir de publier la missive de 
+                  <persName ref="#AFoi">M. Foignet</persName>
+                  ; toutefois nous l’accompagnerons de quelques remarques, et de la réplique de 
+                  <persName ref="#RESC"> M. de Sainte-Croix.</persName>
+               </p>
 
 
 
