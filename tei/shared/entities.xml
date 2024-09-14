@@ -87,6 +87,13 @@
             <death>1826</death>
             <note xml:lang="en" type="Person" resp="#masha"/>
         </person>
+        <person xml:id="ROG">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Roger, Jacques-François, baron</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>ancien gouverneur du Senegal</p>
+            </note>
+        </person>
         <person xml:id="Barbaroux">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Barbaroux</persName>
@@ -138,6 +145,40 @@
         <person xml:id="BAH">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Bahamas</persName>
+        </person>
+        <person xml:id="RESC">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Robert d'Escorches de Sainte-Croix</persName>
+            <birth>1785</birth>
+            <death>1861</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Homme politique et membre fondateur de la Société pour l'abolition de l'esclavage. </p>
+            </note>
+        </person>
+        <person xml:id="TdL">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Théobald de Lacrosse</persName>
+            <birth>1796</birth>
+            <death>1865</death>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p><ref target="https://fr.wikipedia.org/wiki/Théobald_de_Lacrosse">Homme politique et militaire</ref>, membre fondateur de la Société pour l'aboliton de l'esclavage. </p>
+            </note>
+        </person>
+        <person xml:id="AB">
+            <persName xml:lang="en">1788</persName>
+            <persName xml:lang="fr">Auguste Billiard</persName>
+            <birth>1788</birth>
+            <death>1858</death>
+            <note xml:lang="fr" type="Person">
+                <p><ref target="https://fr.wikipedia.org/wiki/Auguste_Billiard">Fonctionnaire</ref>, membre de la Société pour l'abolition de l'esclavage. Il écrit des pamphlets sur l'abolition et la gestion des colonies après 3 ans passés à la Réunion. </p>
+            </note>
+        </person>
+        <person xml:id="AdB">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Anquetil de Beauregard</persName>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Colon en Martinique, il entame un procès pour diffamation contre Cyril Bissette qui l'accuse de brutalité envers ses esclaves dans la Revue des Colonies. </p>
+            </note>
         </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
@@ -233,6 +274,13 @@
                 <p>Quaker et abolitionniste anglais ayant participé à la fondation de la Société de la Morale Chrétienne. </p>
             </note>
         </person>
+        <person xml:id="GdB">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Gustave de Beaumont</persName>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Magistrat engagé en faveur de la réforme carcérale, membre fondateur de la Société pour l'Abolition de l'Esclavage. Il publie un texte, <bibl>Marie ou l'Esclavage aux États-Unis</bibl>, inspiré par son voyage aux USA avec son ami Alexis de Tocqueville. </p>
+            </note>
+        </person>
         <person xml:id="FAB">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">François-Auguste Biard</persName>
@@ -268,11 +316,6 @@
             <note xml:lang="fr" type="Person" resp="#emilie">
                 <p>Précurseur de l'anthropologie comme domaine d'études, l'un des fondateurs de la Société française pour l'abolition de l'esclavage. </p>
             </note>
-        </person>
-        <person xml:id="HV">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Varney H., sir</persName>
-            <note xml:lang="en" type="Person" resp="#other"/>
         </person>
         <person xml:id="VE">
             <persName xml:lang="en"/>
@@ -476,13 +519,6 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Frotté,Le sieur</persName>
             <note xml:lang="en" type="Person" resp="#other">homme de couleur, fils naturel de M. Igout</note>
-        </person>
-        <person xml:id="HG">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Grégoire, Henri, l'Abbé</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://fr.wikipedia.org/wiki/Abb%C3%A9_Gr%C3%A9goire">Grégoire</ref></p>
-            </note>
         </person>
         <person xml:id="JPB">
             <persName xml:lang="en"/>
@@ -749,6 +785,13 @@
             <birth>1735</birth>
             <death>1826</death>
             <note xml:lang="en" type="Person" resp="#masha"/>
+        </person>
+        <person xml:id="ES">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Eusèbe Salverte</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>peut-être <ref target="https://fr.wikipedia.org/wiki/Eus%C3%A8be_Baconni%C3%A8re_de_Salverte">lui</ref> ?</p>
+            </note>
         </person>
         <person xml:id="EC">
             <persName xml:lang="en"/>
@@ -1018,13 +1061,6 @@
             <persName xml:lang="fr">Renaud Lebon</persName>
             <note xml:lang="en" type="Person" resp="#other">avocat a Paris et substitut du procureur-général du roi à Alger </note>
         </person>
-        <person xml:id="ROG">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Roger, Jacques-François, baron</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <p>Links: <ref target="https://fr.wikipedia.org/wiki/Jacques-Fran%C3%A7ois_Roger">Roger, Jacques-François, baron</ref></p>
-            </note>
-        </person>
         <person xml:id="SALE">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Salesse, M.</persName>
@@ -1066,6 +1102,11 @@
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Torres, Andrès </persName>
             <note xml:lang="en" type="Person" resp="#other">trafiquant négrier, condamné à un an d'emprisonnement pour pratique illegale de la traite</note>
+        </person>
+        <person xml:id="HV">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Varney H., sir</persName>
+            <note xml:lang="en" type="Person" resp="#other"/>
         </person>
         <person xml:id="NB">
             <persName xml:lang="en"/>
@@ -1416,13 +1457,6 @@
                 <p>Links: <ref target="https://fr.wikipedia.org/wiki/Victor_Destutt_de_Tracy">de Tracy, Victor Destutt </ref></p>
             </note>
         </person>
-        <person xml:id="ES">
-            <persName xml:lang="en"/>
-            <persName xml:lang="fr">Eusèbe Salverte</persName>
-            <note xml:lang="en" type="Person" resp="#other">
-                <ref target="https://fr.wikipedia.org/wiki/Eus%C3%A8be_Baconni%C3%A8re_de_Salverte">lui</ref>
-            </note>
-        </person>
         <person xml:id="PER">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Perrinelle, M.</persName>
@@ -1508,6 +1542,13 @@
                 <p>Links: <ref target="https://en.wikipedia.org/wiki/Jacques-Charles_Dupont_de_l%27Eure">Dupont de l'Eure, Jacques-Charles</ref></p>
             </note>
         </person>
+        <person xml:id="HG">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Grégoire, Henri, l'Abbé</persName>
+            <note xml:lang="en" type="Person" resp="#other">
+                <p>Links: <ref target="https://fr.wikipedia.org/wiki/Abb%C3%A9_Gr%C3%A9goire">Grégoire</ref></p>
+            </note>
+        </person>
     </listPerson>
     <listPlace>
         <place xml:id="Beau">
@@ -1561,11 +1602,6 @@
         <place xml:id="ESS">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Essequibo</placeName>
-        </place>
-        <place xml:id="InO">
-            <placeName xml:lang="en"/>
-            <placeName xml:lang="fr">Les Indes occidentales</placeName>
-            <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="Lo">
             <placeName xml:lang="en"/>
@@ -2236,6 +2272,11 @@
         <place xml:id="Hav">
             <placeName xml:lang="en"/>
             <placeName xml:lang="fr">Le Havre</placeName>
+            <note xml:lang="en" type="Place" resp="#other"/>
+        </place>
+        <place xml:id="InO">
+            <placeName xml:lang="en"/>
+            <placeName xml:lang="fr">Les Indes occidentales</placeName>
             <note xml:lang="en" type="Place" resp="#other"/>
         </place>
         <place xml:id="DOM">
