@@ -180,6 +180,13 @@
                 <p>Colon en Martinique, il entame un procès pour diffamation contre Cyril Bissette qui l'accuse de brutalité envers ses esclaves dans la Revue des Colonies. </p>
             </note>
         </person>
+        <person xml:id="AFoi">
+            <persName xml:lang="en"/>
+            <persName xml:lang="fr">Alexandre Foignet</persName>
+            <note xml:lang="fr" type="Person" resp="#emilie">
+                <p>Avocat, député des colons en Guadeloupe. À une époque avocat de Bissette, il semblerait qu'ils rompent après la parution de <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5790239q">cette brochure</ref>?</p>
+            </note>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en"/>
             <persName xml:lang="fr">Alexandre Dumas</persName>
