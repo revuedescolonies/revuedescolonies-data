@@ -8,7 +8,7 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
         <person xml:id="ADp">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Alexandre Dumas</persName>
             <persName xml:lang="fr">Alexandre Dumas</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>Born in 1802 to Marie-Louise Elisabeth Labouret and Thomas-Alexandre Dumas Davy de la Pailleterie, a Revolutionary War general from Saint-Domingue, Alexandre Dumas (also known as Alexandre Dumas père) was among the most popular French playwrights and novelists of the nineteenth century. Dumas received early education in his native Villers-Cotterets from Abbé Grégoire, who ran a local school. By the 1830’s, Dumas was a successful dramatist and a leading figure in the Romantic movement, though he was not favored by contemporary critics. Over the course of the twentieth century, Dumas’ canonical status would be solidified, culminating with the transfer of his remains to the Pantheon in 2002.</p>
@@ -24,7 +24,7 @@
             </note>
         </person>
         <person xml:id="CB">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Cyrille Bissette</persName>
             <persName xml:lang="fr">Cyrille Bissette</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>Born in Fort-Royal (now Fort-de-France, Martinique) on July 9, 1795, Cyrille Charles Auguste Bissette was the founder and editor-in-chief of the Revue des Colonies, the first French press outlet to advocate for immediate and total abolition. His parents, Charles Borromée Bissette and Elizabeth Mélanie Bellaine, were free people of color, and his mother was the illegitimate daughter of Joseph-Gaspard de Tascher de La Pagerie, making Bissette a nephew of Empress Joséphine de Beauharnais.</p>
@@ -46,7 +46,7 @@
             </note>
         </person>
         <person xml:id="Stx">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Léger-Félicité Sonthonax</persName>
             <persName xml:lang="fr">Léger-Félicité Sonthonax</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>A lawyer in the <title>Parlement</title> of Paris (the regional appellate court) on the eve of the Revolution, Léger-Félicité Sonthonax frequented the Jacobin Club where he associated with Étienne Polverel and Jacques Pierre Brissot, founder of the <title>Société des Amis des Noirs</title>. He was sent with Polverel as part of the Civil Commission to Saint-Domingue to enforce the law of April 4, 1792 recognizing the political rights of free people of color. Faced with major anti-slavery insurgencies and the Spanish-British alliance against France, the two civil commissioners gradually granted freedom to all Africans and descendants of Africans who agreed to fight for the Republic. Sonthonax’s August 29, 1793 proclamation formalized the general emancipation in the Northern Province.</p>
@@ -60,7 +60,7 @@
             </note>
         </person>
         <person xml:id="NB">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Napoléon Bonaparte</persName>
             <persName xml:lang="fr">Napoléon Bonaparte</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>In 1802, Napoleon Bonaparte, then First Consul of the French Republican government, later Emperor, reestablished slavery in the colonies where it had been abolished or partially abolished in 1794 and reaffirmed it in the colonial territories where abolition had not taken effect, such as Martinique. His invasion of Saint-Domingue to reestablish slavery there was repulsed, resulting in the declaration of an independent Haiti. </p>
@@ -70,7 +70,7 @@
             </note>
         </person>
         <person xml:id="Plv">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Étienne Polverel</persName>
             <persName xml:lang="fr">Étienne Polverel</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>A lawyer in the <title>Parlement </title>of Paris (the regional appellate court), Étienne Polverel became secretary of the Jacobin Club in 1790, where he was introduced to Léger-Félicité Sonthonax and Jacques Pierre Brissot, founder of the <title>Société des Amis des Noirs</title>. Appointed civil commissioner, he was sent with Sonthonax to Saint-Domingue to enforce the law of April 4, 1792 recognizing the political rights of free people of color. Faced with important anti-slavery insurrections and the Spanish-British alliance against France, the two civil commissioners gradually granted freedom to all Africans and Afro-descendants agreeing to fight for the Republic. In September 1793, Polverel extended to the western part of the island under his jurisdiction the general emancipation proclaimed in the Northern Province by Sonthonax on 29 August 1793.</p>
@@ -84,7 +84,7 @@
             </note>
         </person>
         <person xml:id="LaF">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Gilbert du Motier, marquis de Lafayette</persName>
             <persName xml:lang="fr">Gilbert du Motier, marquis de Lafayette</persName>
             <birth>1757</birth>
             <death>1834</death>
@@ -98,7 +98,7 @@
             </note>
         </person>
         <person xml:id="Dfy">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Louis-­Pierre Dufay</persName>
             <persName xml:lang="fr">Louis-­Pierre Dufay</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>Louis-­Pierre Dufay (or Dufaÿ, Bissette’s spelling is not standard) was among the deputies sent to represent Saint-Domingue in the National Convention as a result of the elections of 1793 and subsequently supported the abolition of 1794. Prior to this political reversal, however, he had been a member of the Club de l’hôtel de Massiac, an association of Caribbean planters who opposed the the early abolitionist group <title>La Société des amis des Noirs </title>and opposed the application of the Declaration of the Rights of Man and of the Citizen to the colonies.</p>
@@ -110,7 +110,7 @@
             </note>
         </person>
         <person xml:id="Equ">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Olaudah Equiano</persName>
             <persName xml:lang="fr">Olaudah Equiano</persName>
             <note xml:lang="en" type="Person" resp="#masha">
                 <p>Olaudah Equiano was among the most prominent British abolitionists of the late eighteenth century. Born around 1745, he was sold as a child to the British captain Michael Pascal, who gave him the name Gustavas Vassa, which remained his legal name for the remainder of his life. Equiano served in the British Navy during the Seven Years’ War and in 1766, he purchased his freedom from the American merchant Robert King.</p>
@@ -122,7 +122,7 @@
             </note>
         </person>
         <person xml:id="DES">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Pierre Dessalles</persName>
             <persName xml:lang="fr">Pierre Dessalles</persName>
             <note xml:lang="en" type="Person" resp="#abel">
                 <p>Pierre François Marie Dieudonné Dessalles, better known as Pierre Dessalles, was born in Castillonnès, in the department of Lot-et-Garonne and died at the age of 71 on March 5, 1857, in Brest. The son of Régis Dessalles and Manon d’Albis de Gissac, he married Anna Bence de Sainte-Catherine, a white Creole from Le Lamentin, in Fort-Royal, the administrative capital of the Martinique colony on October 6, 1808.</p>
@@ -136,7 +136,7 @@
             </note>
         </person>
         <person xml:id="RL">
-            <persName xml:lang="en"/>
+            <persName xml:lang="en">Pierre-François Honoré Richard de Lucy de Fossarieu</persName>
             <persName xml:lang="fr">Pierre-François Honoré Richard de Lucy de Fossarieu</persName>
             <note xml:lang="en" type="Person" resp="#abel">
                 <p>Born in Saint-Pierre on December 18, 1790 and died in the same town on February 1, 1839, at the age of 48, Pierre-François Honoré Richard de Lucy de Fossarieu belonged to an affluent settler family in colonial Martinique, with his father, Xavier Lucy de Fossarieu, holding the rank of infantry captain. On February 3, 1814, he married Claire Elisabeth Eyma, a fellow white Creole, whose family had ties to his through her mother Hélène de Lussy de Fossarieu. He served as a counselor at the Royal Court of Martinique in 1821 and President of the General Council in 1830, following his tenure as interim Attorney General from 1822 to 1824, in which capacity he oversaw the execution of the verdict of condemnation against Cyrille Bissette in January 1824.</p>
@@ -150,7 +150,7 @@
     </listPerson>
     <listPlace>
         <place xml:id="DOM">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Dominique</placeName>
             <placeName xml:lang="fr">Dominique</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>Dominica, located directly between Guadeloupe and Martinique, was first settled by French settlers from these islands in the late seventeenth century, who soon brought in African slaves. Like Martinique and Guadeloupe, Dominica was taken by British forces during the Seven Years' War. Unlike those islands, however, it remained under British control. After a French re-invasion in 1775, the colony was formally returned to the British in 1783 and remained under British control until its independence in 1978.</p>
@@ -160,7 +160,7 @@
             </note>
         </place>
         <place xml:id="Alg">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Alger</placeName>
             <placeName xml:lang="fr">Alger</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>French forces first entered the city of Algiers in July, 1830, in the closing days of the reign of Charles X, with formal military annexation beginning in 1834. At the time of the <title>Revue</title>’s initial publication, Algiers was metonymic of all the conquests carried out during the “pacification” operations, constituting a territory too restricted to be perceived distinctly from the city. It was in 1847, when the conquest took a definitive turn with the surrender of Abd el-Kader, that the territory of colonial Algeria began to expand in a precipitous manner. Although it generally opposes the violence of the occupying forces, the <title>Revue </title>is never explicitly critical of the colonization of Algeria.</p>
@@ -174,7 +174,7 @@
             </note>
         </place>
         <place xml:id="ANG">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Angleterre </placeName>
             <placeName xml:lang="fr">Angleterre </placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>As both France’s primary military and colonial rival and a model for the French abolitionist movement, England is a particularly interesting topic of coverage within the <title>Revue.</title></p>
@@ -188,7 +188,7 @@
             </note>
         </place>
         <place xml:id="BrB">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Bourbon</placeName>
             <placeName xml:lang="fr">Bourbon</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>Located in the Indian Ocean to the east of Madagascar, the island of Bourbon has been under French control since the seventeenth century. Renamed Réunion during the Revolution, then Bonaparte Island under the Empire, it was occupied by the British between 1810 and 1814, before definitively returning to France in the Treaty of Paris. First used as a stopover for the ships of the French East India Company, the island adopted a slave plantation economy in the first half of the eighteenth century. According to the 1788 census, approximately 80% of the island’s population, originating in Africa, Madagascar or India, was enslaved. The abolition decreed by the Convention on February 4, 1794 was never actually applied and acts of resistance, notably <title>marronage</title>, were common.</p>
@@ -204,7 +204,7 @@
             </note>
         </place>
         <place xml:id="Cay">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Cayenne </placeName>
             <placeName xml:lang="fr">Cayenne </placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>The island of Cayenne, in the estuary of the river of the same name, is also the location of the city of Cayenne, the capital of French Guiana. According to the 1788 census, Cayenne’s enslaved population represented just over 80% of the total population. During the Revolution, Cayenne received multiple convoys of exiles from metropolitan France, beginning its eventual transformation into a penal colony in the nineteenth century. The 1794 abolition decree was never meaningfully enforced there. Victor Hugues, the commissioner in charge of enforcing the decree in Guadeloupe, was named governor of Guiana in 1799, replacing slavery with a system of conscripted labor until the official restoration of slavery in 1802 by the decree of First Consul Napoleon Bonaparte. This regression to pre-Revolutionary conditions led to high frequencies of marronage. Conquered by Portuguese forces in 1809, the colony was returned to France in 1817, following the Treaty of Paris. From its inaugural issue, the <title>Revue des Colonie</title> features regular reports from a correspondent in Cayenne, including detailed electoral data.</p>
@@ -218,7 +218,7 @@
             </note>
         </place>
         <place xml:id="Esk">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Essaka</placeName>
             <placeName xml:lang="fr">Essaka</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>The place of birth of Oladuah Equiano, according to his autobiography <title>The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African</title>. This work, which is the source for the chapter on Equiano in Abbé Grégoire’s <title>De la littérature des nègres</title> reprinted in the <title>Revue</title>, contains the only known reference to “Essaka” with this spelling. The actual place of Equiano’s birth has been the subject of some debate, with some claiming that Essaka refers to Issieke, in Igboland, present day Nigeria. Other scholars have pointed out that Equiano’s baptismal records (whose information would have been provided by the family of his master), and other documents from his naval career, list his place of birth as South Carolina.</p>
@@ -230,7 +230,7 @@
             </note>
         </place>
         <place xml:id="HT">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Haiti</placeName>
             <placeName xml:lang="fr">Haiti</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>The former colony of Saint-Domingue, located on the western part of the island of Hispaniola, was by far the most profitable territory of the first French colonial empire. In 1789, 90% of its population of almost half a million consisted of enslaved people, who produced three quarters of the world's sugar.</p>
@@ -250,7 +250,7 @@
             </note>
         </place>
         <place xml:id="MQ">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Martinique</placeName>
             <placeName xml:lang="fr">Martinique</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>Principally under French control since the mid seventeenth century, Martinique, like the neighboring archipelago of Guadeloupe, was part of the first French colonial empire. A slave plantation economy, mainly devoted to sugar monoculture, the island came under British control between 1759 and 1763, and again, in 1794, with the support of planters seeking to avoid the abolition decreed by the National Convention. According to the 1789 census, the enslaved population there represented approximately 84% of the total population, with 11% white and 5% free people of color.</p>
@@ -266,7 +266,7 @@
             </note>
         </place>
         <place xml:id="GP">
-            <placeName xml:lang="en"/>
+            <placeName xml:lang="en">Guadeloupe</placeName>
             <placeName xml:lang="fr">Guadeloupe</placeName>
             <note xml:lang="en" type="Place" resp="#masha">
                 <p>Like Martinique, the Guadeloupe archipelago was part of the first French colonial empire of the seventeenth century. As a slave economy primarily devoted to sugar cultivation, the island’s enslaved population represented approximately 85% of the total, per the 1789 census, with 13% white and 3% “free people of color.” The archipelago came under British control between 1759 and 1763, and was briefly occupied again in 1794, following the National Convention’s abolition decree. This occupation was, however, expelled by military forces including several thousand newly emancipated men, led by Victor Hugues, the civil commissioner sent by the Convention to enforce the abolition decree. The implementation of this abolition was, however, largely symbolic, with chattel slavery replaced, in many instances, by forced labor. In 1802, a large insurrectionary army commanded by Louis Delgrès, a free man of color, opposed the French General Richepanse, who had been sent to restore slavery on the orders of Napoleon Bonaparte, then First Consul. The brutally repressed insurrection would end with the suicide of Delgrès and his company.</p>
@@ -284,7 +284,7 @@
     </listPlace>
     <listOrg>
         <org xml:id="AN">
-            <orgName xml:lang="en"/>
+            <orgName xml:lang="en">Assemblée Nationale</orgName>
             <orgName xml:lang="fr">Assemblée Nationale</orgName>
             <note xml:lang="en" type="Organization" resp="#masha">
                 <p>The National Assembly was formed on June 17, 1789, one month after the meeting of the Estates General, by the deputies of the Third Estate. This date commonly marks the beginning of the French Revolution. </p>
@@ -294,7 +294,7 @@
             </note>
         </org>
         <org xml:id="CNat">
-            <orgName xml:lang="en"/>
+            <orgName xml:lang="en">Convention Nationale</orgName>
             <orgName xml:lang="fr">Convention Nationale</orgName>
             <note xml:lang="en" type="Organization" resp="#masha">
                 <p>An assembly of the French Revolution, it succeeded the Legislative Assembly in 1792, established the First Republic, and governed France until October 26, 1795.</p>
@@ -306,7 +306,7 @@
             </note>
         </org>
         <org xml:id="SHC">
-            <orgName xml:lang="en"/>
+            <orgName xml:lang="en">Société d’Hommes de Couleur</orgName>
             <orgName xml:lang="fr">Société d’Hommes de Couleur</orgName>
             <note xml:lang="en" type="Organization" resp="#masha">
                 <p>The ephemeral presence of this “society” on the title page of the <title>Revue </title>(until January 1835), combined with the absence of any other documentary trace, suggests that it was more an editorial construction than a formal organization.</p>
@@ -324,7 +324,7 @@
     </listOrg>
     <listBibl>
         <bibl xml:id="RC" type="periodical">
-            <title xml:lang="en"/>
+            <title xml:lang="en">Revue Coloniale</title>
             <title xml:lang="fr">Revue Coloniale</title>
             <note xml:lang="en" type="Publication" resp="#masha">
                 <p>The <title>Revue Coloniale</title>, was an ephemeral monthly periodical, printed in Paris during the year 1838. Its founder Édouard Bouvet and editor Rosemond Beauvallon conceived of it on the model of many similar, contemporaneous publications reporting on political and economic questions of interest to white colonists while also attending to arts and literature, as attested by the journal’s complete title: <title>Revue Coloniale. intérêts des colons : marine, commerce, littérature, beaux-arts, théâtres, modes</title>. In the December 1838 issue of the <title>Revue des Colonies</title>, Cyrille Bissette acknowledges the <title>Revue Coloniale</title> as both an ideological opponent and a competitor in the print market.</p>
@@ -334,7 +334,7 @@
             </note>
         </bibl>
         <bibl xml:id="MU" type="periodical">
-            <title xml:lang="en"/>
+            <title xml:lang="en">Le Moniteur universel</title>
             <title xml:lang="fr">Le Moniteur universel</title>
             <note xml:lang="en" type="Publication" resp="#laure">
                 <p><title>Le Moniteur universel</title>, often simply referred to as the “Le Moniteur” is one of the most frequently referenced nineteenth-century French newspapers. An important cultural signifier, it was referenced frequently in other publications, in fiction, and likely in contemporary discussions. Its title, derived from the verb <emph>monere</emph>, meaning to warn or advise, gestures at Enlightenment and Revolutionary ideals of intelligent counsel.</p>
