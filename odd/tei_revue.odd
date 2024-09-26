@@ -360,7 +360,6 @@
                                 <valItem mode="add" ident="#CJ"/>
                                 <valItem mode="add" ident="#GdL"/>
                                 <valItem mode="add" ident="#Talle"/>
-                                <valItem mode="add" ident="#FXD"/>
                                 <valItem mode="add" ident="#"/>
                                 <valItem mode="add" ident="#DUL"/>
                                 <valItem mode="add" ident="#DuDu"/>
@@ -377,6 +376,7 @@
                                 <valItem mode="add" ident="#BEO"/>
                                 <valItem mode="add" ident="#AHav"/>
                                 <valItem mode="add" ident="#FI"/>
+                                <valItem mode="add" ident="#FXD"/>
                                 <valItem mode="add" ident="#JorLa"/>
                                 <valItem mode="add" ident="#DEH"/>
                                 <valItem mode="add" ident="#LTelem"/>
