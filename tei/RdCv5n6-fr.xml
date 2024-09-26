@@ -48,7 +48,7 @@
             <closer>5e Année.										13</closer>
         </body>
         <back>
-            <xi:include href="notes/RdCv5n6p13-notes.xml"/>
+            <xi:include href="notes/RdCv5n6-notes.xml"/>
             <xi:include href="shared/entities.xml"/>
         </back>
     </text>
