@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Revue des Colonies N°2 (selection)</title>
+            <title>Revue des Colonies N°2</title>
             <editor>Charlotte Joublot Ferré</editor>
          </titleStmt>
          <!-- <xi:include href="shared/editionStmt.xml"/> -->
@@ -23,9 +23,10 @@
                LA JUSTICE, DE L'INSTRUCTION ET DES MOEURS COLONIALES,</titlePart>
             <byline><lb/>PAR UNE <orgName ref="#SHC">SOCIÉTÉ D'HOMMES DE COULEUR</orgName>
                <lb/> DIRIGÉE PAR <persName ref="#CB">C.-A. BISSETTE</persName>.<lb/></byline>
-            <docEdition><lb/>N°2<lb/>Août.<lb/>
-               <lb/> PARIS,<lb/> AU BUREAU DE LA REVUE DES COLONIES,</docEdition>
-            <docImprint><lb/>46, RUE NEUVE-SAINT-EUSTACHE <lb/> 1834.</docImprint>
+            <docImprint><pubPlace><settlement>PARIS</settlement>,<lb/> AU BUREAU DE LA REVUE DES
+                        COLONIES, <lb/>46, RUE NEUVE-SAINT-EUSTACHE</pubPlace>
+                    <lb/>
+                    <date>1834</date>.</docImprint>
          </titlePage>
       </front>
       <body>
@@ -336,7 +337,7 @@
                      l'<placeName>état de la Géorgie</placeName> afin qu'ils eussent à se conformer
                   à cette loi.</p>
                <p>Plus tard, <date>le 11 décembre 1832</date>, notre ministre des affaires
-                  étrangères écrivait au ministre de la marine : <q>“Le consul du roi à <placeName ref="#SaY">San-Yago de Cuba</placeName> m'annonce
+                  étrangères écrivait au ministre de la marine : <q>Le consul du roi à <placeName ref="#SaY">San-Yago de Cuba</placeName> m'annonce
                      qu'au mois d'août dernier, le <roleName><persName ref="#CO">capitaine
                            Consteau</persName></roleName>, commandant le brick <emph>la
                         Cora-et-Julie</emph>, de <placeName ref="#Bor">Bordeaux</placeName>, a amené
@@ -346,7 +347,7 @@
                      </choice> en vigueur dans l'île de <placeName ref="#CUB">Cuba</placeName>, n'ont pu y être
                      débarqués. Le consul est parvenu toutefois à obtenir que le capitaine ne fût
                      point inquiété pour cette contravention et que les trois hommes de couleur
-                     pussent trouver les moyens de se rendre à la <placeName ref="#JA">Jamaïque</placeName>.”</q></p>
+                     pussent trouver les moyens de se rendre à la <placeName ref="#JA">Jamaïque</placeName>.</q></p>
                <p>Sur cet avertissement, le ministre de la marine s'empressa de donner toute la
                   publicité possible à ce fait, et les capitaines de navires français en destination
                   pour <placeName ref="#CUB"><country>Cuba</country></placeName> furent prévenus qu'ils ne
@@ -377,9 +378,9 @@
                      <orig>aborgées</orig>
                      <reg>abroger</reg>
                   </choice>
-                  <q>“toutes restrictions ou exclusions qui avaient été prononcées, quant à
+                  <q>toutes restrictions ou exclusions qui avaient été prononcées, quant à
                      l'exercice des droits civils et des droits politiques, à l'égard des hommes de
-                     couleur libres et des affranchis.”</q> En présence d'une telle loi, ces autres
+                     couleur libres et des affranchis.</q> En présence d'une telle loi, ces autres
                   restrictions, bien plus oppressives encore, qui vont jusqu'à dénationaliser un
                   homme, jusqu'à le traiter en esclave, peuvent-elles se supporter ? Le gouvernement
                   français peut-il, sans abdiquer sa propre dignité, laisser subsister un tel état
@@ -640,8 +641,8 @@
                <orig>A</orig>
                <reg>À</reg>
                </choice> 
-               l'ouverture des états-généraux, l'opinion avait déjà fait tant de progrès que le <roleName>ministre</roleName> <persName ref="#JN">Necker</persName>, dans son discours du <date>5 mai 1789</date>, disait aux députés de la nation, après avoir parlé de l'abolition de la corvée de la taille :</p>
-               <p><q>Un jour viendra peut-être où vous étendrez plus loin votre intérêt ; un jour viendra peut-être où, associant à vos délibérations les députés des colonies, vous jetterez un regard de compassion sur ce malheureux peuple, dont on a fait tranquillement un objet de trafic ; sur ces hommes <emph>semblables à nous</emph> par la pensée et surtout par la triste faculté de souffrir ; sur ces hommes cependant que, sans pitié pour leurs douloureuses plaintes, nous accumulons, nous entassons au fond d'un vaisseau pour aller ensuite à pleine voiles les présenter aux chaînes qui les attendent..... Déjà l'humanité est défendue au nom même de l'intérêt personnel et des calculs politiques, et cette superbe cause ne tardera pas à paraître devant le tribunal de toutes les nations. Ah ! combien de sortes de satisfactions, combien d'espèces de gloire sont réservées à cette suite d'états-généraux qui vont prendre naissance au milieu d'un siècle éclairé ! Malheur, malheur et honte à la nation française si elle méconnaissait le<pb n="18" facs="v1n2p18"/> prix d'une telle position, si elle ne cherchait pas à s'en montrer digne et si une telle ambition était trop forte pour elle.</q></p>
+               l'ouverture des états-généraux, l'opinion avait déjà fait tant de progrès que le <roleName>ministre</roleName> <persName ref="#JN">Necker</persName>, dans son discours du <date>5 mai 1789</date>, disait aux députés de la nation, après avoir parlé de l'abolition de la corvée de la taille :
+               <quote>Un jour viendra peut-être où vous étendrez plus loin votre intérêt ; un jour viendra peut-être où, associant à vos délibérations les députés des colonies, vous jetterez un regard de compassion sur ce malheureux peuple, dont on a fait tranquillement un objet de trafic ; sur ces hommes <emph>semblables à nous</emph> par la pensée et surtout par la triste faculté de souffrir ; sur ces hommes cependant que, sans pitié pour leurs douloureuses plaintes, nous accumulons, nous entassons au fond d'un vaisseau pour aller ensuite à pleine voiles les présenter aux chaînes qui les attendent..... Déjà l'humanité est défendue au nom même de l'intérêt personnel et des calculs politiques, et cette superbe cause ne tardera pas à paraître devant le tribunal de toutes les nations. Ah ! combien de sortes de satisfactions, combien d'espèces de gloire sont réservées à cette suite d'états-généraux qui vont prendre naissance au milieu d'un siècle éclairé ! Malheur, malheur et honte à la nation française si elle méconnaissait le<pb n="18" facs="v1n2p18"/> prix d'une telle position, si elle ne cherchait pas à s'en montrer digne et si une telle ambition était trop forte pour elle.</quote></p>
                <p>Lorsque les députés de <placeName ref="#HT">Saint-Domingue</placeName>se présentèrent au sein de l'assemblée, on leur contesta la légitimité de leur titre, par le motif qu'ils étaient les
                <choice>
                <orig>représentans</orig>
@@ -669,7 +670,7 @@
                <p><persName ref="#NB">Napoléon</persName>, dans les cent jours, décréta lui-même cette abolition pour la <placeName ref="#FR">France</placeName> ; la restauration ajourna cette mesure de quelques années ; aujourd'hui elle est législation consommée. Mais qu'est-ce que l'abolition de la traite en comparaison de l'abolition de l'esclavage ? <persName ref="#WW">Wilberforce</persName>, avant de fermer les yeux, a eu le bonheur de voir achever son ouvrage. Malgré l'élévation de la dette anglaise, cette nation n'a pas reculé devant un sacrifice de près de 500 millions pour donner cette satisfaction à l'humanité.</p>
                <p>Comment la <placeName ref="#FR">France</placeName>, qui toujours a en l'initiative des mesures de ce genre, pourrait-elle rester en arrière ? et quel est le contribuable qui regarderait à quelque sacrifice pour abolir cette œuvre de barbarie ?</p>
                <pb n="19" facs="v1n2p19"/>
-               <p>L'esclavage a été introduit furtivement dans nos colonies par la cupidité d'une compagnie de marchands concessionnaires des îles. Cette innovation était contraire à un célèbre monument national du quatorzième siècle relatif à l'abolition du servage en France : <q>“Chacun doit naître franc, et notre royaume est appelé le royaume des Francs 
+               <p>L'esclavage a été introduit furtivement dans nos colonies par la cupidité d'une compagnie de marchands concessionnaires des îles. Cette innovation était contraire à un célèbre monument national du quatorzième siècle relatif à l'abolition du servage en France : <q>Chacun doit naître franc, et notre royaume est appelé le royaume des Francs 
                <choice>
                <orig> </orig>
                <reg>"</reg>
@@ -791,33 +792,33 @@
                   gouverneur, ont témoigné d'une manière non équivoque que l'irritation la plus vive
                   les anime toutes les fois qu'une pensée de progrès se fait jour.</p>
                <p>Dans un des premiers paragraphes du discours de <persName ref="#JHD">M. Dupotet</persName>,
-                  ce gouverneur dit que : <q><emph>“la plus grande tranquillité règne dans les divers
+                  ce gouverneur dit que : <q><emph>la plus grande tranquillité règne dans les divers
                         quartiers de la colonie. Cet heureux état de choses est dû à la sagesse des
-                        colons et au régime actuel des habitations.”</emph></q> Certes il était
+                        colons et au régime actuel des habitations.</emph></q> Certes il était
                   impossible d'exprimer un fait avec des manières plus polies envers les colons ;
                   cependant ce conseil, sans en tenir compte, ne lui répondit pas précisément que
                   c'était faux, l'expression n'eût pas été parlementaire ; mais la réponse en est
-                  bien l'équivalent, la voici : <q><emph>“Des symptômes de fermentation se
+                  bien l'équivalent, la voici : <q><emph>Des symptômes de fermentation se
                         manifestent encore dans la colonie ; mais un système basé sur la franchise,
                         une surveillance active et sévère seront des garanties pour notre
-                        avenir.”</emph></q> Pourtant le gouverneur avait pris soin de préparer les
+                        avenir.</emph></q> Pourtant le gouverneur avait pris soin de préparer les
                   esprits en flattant avec habileté la passion des privilégiés ; <rs type="event">les <choice>
                         <orig>événemens</orig>
                         <reg>événements</reg>
                      </choice> de la Grand’Anse</rs> lui avaient fourni un texte à déclamations qui
-                  devaient faire effet : <q><emph>“Si quelques
+                  devaient faire effet : <q><emph>Si quelques
                         misérables,</emph>s'écriait-il,<emph>ont osé mettre à exécution les projets
                         infâmes des ennemis de la colonie en portant le feu et le pillage dans la
                         commune de la Grand' Anse, vous avez vu, messieurs, avec quelle ardeur les
                         troupes de la garnison ont accouru au foyer de l'insurrection et la prompte
-                        répression qui a été le résultat de leurs efforts.”</emph></q> Ce jugement
+                        répression qui a été le résultat de leurs efforts.</emph></q> Ce jugement
                   ne devait-il pas disposer à l'indulgence ?</p>
-               <p>Mais voici bien autre chose. <persName ref="#JHD">M. Dupotet</persName> avoue que <q>“la
-                     pensée du gouvernement est de conserver en améliorant.”</q> Une pareille
+               <p>Mais voici bien autre chose. <persName ref="#JHD">M. Dupotet</persName> avoue que <q>la
+                     pensée du gouvernement est de conserver en améliorant.</q> Une pareille
                   hérésie coloniale ne pouvait passer sans être censurée ; aussi lisons nous ces
-                  paroles dans la réponse du conseil colonial : <q>“Sans doute on peut conserver en
+                  paroles dans la réponse du conseil colonial : <q>Sans doute on peut conserver en
                      améliorant ; mais souvent les mesures prises pour arriver à ce but, loin de
-                     l'atteindre, entraînent des résultats désastreux.”</q></p>
+                     l'atteindre, entraînent des résultats désastreux.</q></p>
                <p>Le compliment n'était pas flatteur pour le pouvoir dont le gou verneur est
                   l'organe ; il était même impossible de lui donner plus<pb n="23" facs="v1n2p23"/>
                   <choice>
@@ -918,7 +919,7 @@
                <p>La Société anglaise pour l'abolition de l'esclavage a compris quel est le genre de
                   joie qui convient en un pareil jour ; elle vient de publier un appel dont le but
                   est d'exciter ses compatriotes à une sainte joie :</p>
-               <q><p>“La vraie manière de célébrer le jour où les fers des esclaves tomberont est,
+               <q><p>La vraie manière de célébrer le jour où les fers des esclaves tomberont est,
                      dit-elle, d'offrir à Dieu en commun de sincères actions de <choice>
                         <orig>graces</orig>
                         <reg>grâces</reg>
@@ -953,7 +954,7 @@
                      l'émancipation désirée, au sein de la paix, sans secousses, aux <choice>
                         <orig>applaudissemens</orig>
                         <reg>applaudissements</reg>
-                     </choice> et avec l'approbation de tous.”</p></q>
+                     </choice> et avec l'approbation de tous.</p></q>
                <p>Tel est le langage que les hommes généreux qui ont travaillé avec le plus de
                   persévérance et de zèle à l'abolition de l'esclavage dans les colonies anglaises
                   adressent à leurs compatriotes. Ils ne veulent des louanges que pour Dieu ! </p>
@@ -1056,7 +1057,7 @@
                   était possible, la haine qui semblait animer les parties.</p>
                <p>Le tribunal, après en avoir longuement délibéré en la chambre du conseil, a rendu
                   le jugement suivant :</p>
-               <q><p>“Attendu, en droit, que l'action civile en réparation de dommage causé par un
+               <q><p>Attendu, en droit, que l'action civile en réparation de dommage causé par un
                      délit ne peut être portée devant le tribunal regectionnel qu'accessoirement à
                      l'action publique ;</p>
                   <p>Qu'il suit de là que lorsque l'action publique est éteinte par la prescription,
@@ -1069,7 +1070,7 @@
                   <p>Par ces motifs, le tribunal déclare <emph>éteinte par la prescription</emph>
                      l’action publique résultant de la brochure dont il s'agit ; en conséquence
                      renvoie l'action civile devant les juges qui en doivent connaître, et condamne
-                        <persName>le sieur Boitel</persName> aux dépens.”</p></q>
+                        <persName>le sieur Boitel</persName> aux dépens.</p></q>
                <p> En sortant de l'audience, <persName ref="#BOI">M. Boitel</persName> s'est transporté avec
                   son avocat chez un avoué pour faire citer <persName>M. Cicéron</persName> devant
                   la chambre civile du tribunal de première instance de <placeName>la
@@ -1164,7 +1165,7 @@
                   lettre suivante :</p>
                <q><p>A.M. le rédacteur du Courrier français.</p>
                   <p><placeName>Paris</placeName>, <date>22 juillet 1831</date>.</p>
-                  <p>“Monsieur,</p>
+                  <p>Monsieur,</p>
                   <p>Arrivé d'<placeName ref="#HT">Haïti</placeName> seulement depuis trois jours, j'ai eu
                      l'occasion, en parcourant la série du mois de juin du <title type="periodical">Courrier français</title>, de voir inséré dans votre numéro du 22 un
                      article extrait du <title type="periodical">Journal du Havre</title> du 19,
@@ -1208,17 +1209,17 @@
                   <p>Je me plais à croire, monsieur, que vous voudrez bien donner place à ma lettre
                      dans votre estimable journal.</p>
                   <p>Agréez, etc.</p>
-                  <p><!--comment encoder signature ?--> D. INGINAC.”</p></q>
+                  <p><!--comment encoder signature ?--> D. INGINAC.</p></q>
                <p>ANGLETERRE. - <persName ref="#MEL">Lord Melbourne</persName> est nommé premier ministre, en
                   remplacement de <persName>lord Grey</persName>, démissionnaire.</p>
                <p>- On lit dans le Standard :</p>
-               <p><q>“Aujourd'hui 1er août étant le jour fixé pour la cessation de l'esclavage dans
+               <p><q>Aujourd'hui 1er août étant le jour fixé pour la cessation de l'esclavage dans
                         <placeName>les Indes occidentales</placeName>, il sera donné à la taverne
                      des Francs-Maçons un grand banquet auquel présidera <persName>lord
                         Mulgrave</persName>. Un grand nombre de jeunes gens ont attendu à ce jour
-                     pour se marier.”</q></p>
+                     pour se marier.</q></p>
                <p>- On lit ce qui suit dans le Sun :</p>
-               <p><q>“Nous apprenons que le peuple, daus diverses parties de l'empire, se prépare à
+               <p><q>Nous apprenons que le peuple, daus diverses parties de l'empire, se prépare à
                      célébrer le 1er août, époque d'émancipation des esclaves, comme une fête
                      publique. Cette nouvelle nous a donné une grande satisfaction. Que
                      l'anniversaire soit célébré l'année prochaine seulement, ou que la fête ait
@@ -1226,7 +1227,7 @@
                         <orig>descendans</orig>
                         <reg>descendants</reg>
                      </choice> du peuple anglais regarderont le 15 août comme un glorieux souvenir
-                     de la libéralité anglaise.”</q></p>
+                     de la libéralité anglaise.</q></p>
                <pb n="33" facs="v1n2p33"/>
             </div>
 
@@ -1237,7 +1238,7 @@
             <div type="article">
                <head><placeName ref="#MQ">MARTINIQUE.</placeName></head>
                <p>On nous écrit de la commune de <placeName>la Trinité</placeName> :</p>
-               <q><p>“<persName>Le sieur Bardel</persName>, capitaine d'une compagnie de miliciens,
+               <q><p><persName>Le sieur Bardel</persName>, capitaine d'une compagnie de miliciens,
                      à <placeName ref="#MQ">la Martinique</placeName>, rencontre dans la rue <persName>M.
                         Igout</persName>, colon, ancien négociant à <placeName>la
                         Trinité</placeName>, lui cherche noise, l'insulte et le menace de coups de
