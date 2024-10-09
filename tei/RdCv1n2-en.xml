@@ -880,7 +880,7 @@ A review of the national guard takes place, which Mr. Sugnin does not attend.
 
       </body>
       <back>
-            <!-- <xi:include href="notes/RdCv1n2-notes.xml"/> -->
+            <xi:include href="notes/RdCv1n2-notes.xml"/>
             <xi:include href="shared/entities.xml"/>
         </back>
    </text>
