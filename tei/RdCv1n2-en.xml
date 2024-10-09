@@ -19,7 +19,7 @@
          <pb n="1" facs="v1n2p1"/>
          <titlePage>
             <titlePart type="main"><seg>REVUE</seg><lb/>DES<lb/><seg>COLONIES,</seg></titlePart>
-            <titlePart type="sub">MONTHLY COMPENDIUM<ptr target="#n13FA"/><lb/> OF POLITICS,
+            <titlePart type="sub">MONTHLY COMPENDIUM<!--<ptr target="#n13FA"/>--><lb/> OF POLITICS,
                ADMINISTRATION, JUSTICE, INSTRUCTION AND COLONIAL CUSTOMS,</titlePart>
             <byline>BY A <orgName ref="#SHC">SOCIETY OF MEN OF COLOR</orgName></byline>
             <byline>DIRECTED BY <persName ref="#CB">C.-A. BISSETTE</persName>.<lb/></byline>
@@ -545,7 +545,7 @@ On his return to France in 1829, he was named attorney general in Limoges. Then 
 
       </body>
       <back>
-            <!-- <xi:include href="notes/RdCv1n2-notes.xml"/> -->
+            <xi:include href="notes/RdCv1n2-notes.xml"/>
             <xi:include href="shared/entities.xml"/>
         </back>
    </text>
