@@ -214,6 +214,7 @@
                                 <valItem mode="add" ident="#MOR"/>
                                 <valItem mode="add" ident="#BCl"/>
                                 <valItem mode="add" ident="#JMC"/>
+                                <valItem mode="add" ident="#CVEL"/>
                                 <valItem mode="add" ident="#Gatine"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
@@ -451,6 +452,8 @@
                                 <valItem mode="add" ident="#StP"/>
                                 <valItem mode="add" ident="#AM"/>
                                 <valItem mode="add" ident="#clns"/>
+                                <valItem mode="add" ident="#SteH"/>
+                                <valItem mode="add" ident="#FJ"/>
                                 <valItem mode="add" ident="#MO"/>
                                 <valItem mode="add" ident="#EUR"/>
                                 <valItem mode="add" ident="#FR"/>
