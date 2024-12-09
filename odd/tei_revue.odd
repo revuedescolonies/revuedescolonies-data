@@ -174,7 +174,6 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
-                                <valItem mode="add" ident="#GC"/>
                                 <valItem mode="add" ident="#D"/>
                                 <valItem mode="add" ident="#JMQL"/>
                                 <valItem mode="add" ident="#SBol"/>
@@ -209,12 +208,17 @@
                                 <valItem mode="add" ident="#Foy"/>
                                 <valItem mode="add" ident="#Dprt"/>
                                 <valItem mode="add" ident="#SteC"/>
+                                <valItem mode="add" ident="#AP"/>
                                 <valItem mode="add" ident="#Mtsq"/>
                                 <valItem mode="add" ident="#JUV"/>
                                 <valItem mode="add" ident="#MOR"/>
                                 <valItem mode="add" ident="#BCl"/>
                                 <valItem mode="add" ident="#JMC"/>
                                 <valItem mode="add" ident="#CVEL"/>
+                                <valItem mode="add" ident="#ARi"/>
+                                <valItem mode="add" ident="#CBe"/>
+                                <valItem mode="add" ident="#HC"/>
+                                <valItem mode="add" ident="#JJD"/>
                                 <valItem mode="add" ident="#Gatine"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
@@ -230,7 +234,7 @@
                                 <valItem mode="add" ident="#JMG"/>
                                 <valItem mode="add" ident="#XaT"/>
                                 <valItem mode="add" ident="#JdF"/>
-                                <valItem mode="add" ident="#VERH"/>
+                                <valItem mode="add" ident="#GC"/>
                                 <valItem mode="add" ident="#VIR"/>
                                 <valItem mode="add" ident="#WA"/>
                                 <valItem mode="add" ident="#WH"/>
@@ -268,7 +272,6 @@
                                 <valItem mode="add" ident="#LX"/>
                                 <valItem mode="add" ident="#FMaug"/>
                                 <valItem mode="add" ident="#JN"/>
-                                <valItem mode="add" ident="#AP"/>
                                 <valItem mode="add" ident="#EP"/>
                                 <valItem mode="add" ident="#RO"/>
                                 <valItem mode="add" ident="#SB"/>
@@ -365,6 +368,7 @@
                                 <valItem mode="add" ident="#ATO"/>
                                 <valItem mode="add" ident="#HV"/>
                                 <valItem mode="add" ident="#VE"/>
+                                <valItem mode="add" ident="#VERH"/>
                                 <valItem mode="add" ident="#NB"/>
                                 <valItem mode="add" ident="#Grey"/>
                                 <valItem mode="add" ident="#GL"/>
@@ -454,7 +458,6 @@
                                 <valItem mode="add" ident="#clns"/>
                                 <valItem mode="add" ident="#SteH"/>
                                 <valItem mode="add" ident="#FJ"/>
-                                <valItem mode="add" ident="#MO"/>
                                 <valItem mode="add" ident="#EUR"/>
                                 <valItem mode="add" ident="#FR"/>
                                 <valItem mode="add" ident="#NP"/>
@@ -585,6 +588,7 @@
                                 <valItem mode="add" ident="#MAN"/>
                                 <valItem mode="add" ident="#MC"/>
                                 <valItem mode="add" ident="#ME"/>
+                                <valItem mode="add" ident="#MO"/>
                                 <valItem mode="add" ident="#DOM"/>
                                 <valItem mode="add" ident="#Alg"/>
                                 <valItem mode="add" ident="#Cay"/>
