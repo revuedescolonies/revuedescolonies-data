@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Revue des Colonies N°2 (selection)</title>
+            <title>Revue des Colonies N°2</title>
             <editor>Charlotte Joublot Ferré</editor>
          </titleStmt>
          <!-- <xi:include href="shared/editionStmt.xml"/> -->
@@ -26,9 +23,10 @@
                LA JUSTICE, DE L'INSTRUCTION ET DES MOEURS COLONIALES,</titlePart>
             <byline><lb/>PAR UNE <orgName ref="#SHC">SOCIÉTÉ D'HOMMES DE COULEUR</orgName>
                <lb/> DIRIGÉE PAR <persName ref="#CB">C.-A. BISSETTE</persName>.<lb/></byline>
-            <docEdition><lb/>N°2<lb/>Août.<lb/>
-               <lb/> PARIS,<lb/> AU BUREAU DE LA REVUE DES COLONIES,</docEdition>
-            <docImprint><lb/>46, RUE NEUVE-SAINT-EUSTACHE <lb/> 1834.</docImprint>
+            <docImprint><pubPlace><settlement>PARIS</settlement>,<lb/> AU BUREAU DE LA REVUE DES
+                        COLONIES, <lb/>46, RUE NEUVE-SAINT-EUSTACHE</pubPlace>
+                    <lb/>
+                    <date>1834</date>.</docImprint>
          </titlePage>
       </front>
       <body>
@@ -57,8 +55,8 @@
                   </choice> et de justice, de conciliation à la fois et de liberté ! Ce bel exemple
                   donné par le <orgName ref="#PB">parlement britannique</orgName>, il est deux
                   grandes nations qui ne sont pas près encore de l'imiter. Les législatures de la
-                        <placeName><country>France</country></placeName> et des
-                        <placeName><country>États-Unis</country></placeName> n'ont abordé ces
+                        <placeName ref="#FR"><country>France</country></placeName> et des
+                        <placeName ref="#USA"><country>États-Unis</country></placeName> n'ont abordé ces
                   questions jusqu'ici que d'une manière méticuleuse ; rien de grand, aucuns principes
                   larges n'y ont encore triomphé ; et cependant aux colonies, la question presse :
                   l'homme souffre et ne s'accommode du joug qu'à son corps défendant, on peut le
@@ -114,10 +112,7 @@
                   voudrait qu'en cet état de choses, les maîtres ne fussent pas plus inquiets que
                   par le passé ?</p>
                <p>Voyez si vous pourrez échapper un de ces jours aux conséquences de ce grand
-                  exemple. Déjà, de la <placeName ref="#MQ"
-                     ><country>Martinique</country></placeName>, placée entre la <placeName
-                     ref="#DOM"><country>Dominique</country></placeName> et <placeName ref="#STL"
-                        ><country>Sainte-Lucie</country></placeName>, un grand nombre d'esclaves
+                  exemple. Déjà, de la <placeName ref="#MQ"><country>Martinique</country></placeName>, placée entre la <placeName ref="#DOM"><country>Dominique</country></placeName> et <placeName ref="#STL"><country>Sainte-Lucie</country></placeName>, un grand nombre d'esclaves
                   s'échappent durant la nuit et se rendent dans ces deux colonies anglaises pour y
                   jouir des bienfaits du nouveau <emph>bill</emph>.</p>
                <pb n="5" facs="v1n2p5"/>
@@ -184,7 +179,7 @@
                      <orig>enfans</orig>
                      <reg>enfants</reg>
                   </choice> une riche éducation, et qu'ils se souviennent que cette éducation, c'est
-                  en <placeName>France</placeName>, au sein de la capitale qu'il faut venir la
+                  en <placeName ref="#FR">France</placeName>, au sein de la capitale qu'il faut venir la
                   puiser. Là seulement ils trouveront l'immense bienfait des manières d'un monde
                   élégant et poli, des connaissances spéciales à la vocation qu'ils voudront
                   embrasser ; là ils pourront se créer des relations utiles pour leur avenir et se
@@ -192,8 +187,7 @@
                   deviendront les colonnes de notre liberté et s'assureront des titres à la
                   reconnaissance de la race noire et de couleur dont ils sauront conquérir et
                   défendre les droits.</p>
-               <p>C'est du sein de <placeName>Paris</placeName> que les <persName
-                     ref="#SB">Bolivar</persName>, les <persName ref="#AP">Pétion</persName>, les
+               <p>C'est du sein de <placeName>Paris</placeName> que les <persName ref="#SB">Bolivar</persName>, les <persName ref="#AP">Pétion</persName>, les
                      <persName ref="#JPB">Boyer</persName> et leurs plus illustres compagnons de
                   gloire ont pendant plusieurs années puisé de nobles et généreuses idées, pour le
                   triomphe desquelles ils ont combattu avec tant de bravoure et de succès. C'est à
@@ -203,18 +197,18 @@
                <p>Nous, <choice>
                      <orig>enfans</orig>
                      <reg>enfants</reg>
-                  </choice> de la <placeName>France</placeName>, nous n'avons pas à désirer qu'un
-                     <persName>Bolivar</persName> vienne nous délivrer d'un joug étranger. La
-                        <placeName><country>France</country></placeName> nous est trop chère, ses
+                  </choice> de la <placeName ref="#FR">France</placeName>, nous n'avons pas à désirer qu'un
+                     <persName ref="#SB">Bolivar</persName> vienne nous délivrer d'un joug étranger. La
+                        <placeName ref="#FR"><country>France</country></placeName> nous est trop chère, ses
                   bienfaits trop précieux et sa protection trop nécessaire pour nous laisser aller à
                   des idées hostiles envers elle. Nous ne voyons dans la domination de ceux qui nous
                   gouvernent et qui interprètent faussement le vœu de la
-                     <placeName>France</placeName> qu'une œuvre isolée, et non pas l'expression
+                     <placeName ref="#FR">France</placeName> qu'une œuvre isolée, et non pas l'expression
                   fidèle des intentions de la mère-patrie.</p>
                <p>Quel homme de couleur pourrait oublier que c'est une chambre française qui la
                   première proclama les <bibl type="legal"><title ref="#DDH">Droits de
                         l'homme</title></bibl> et les grands principes d'égalité ! Et d'ailleurs,
-                     <placeName>la France</placeName> n'est-elle pas <pb n="7" facs="v1n2p7"/>notre véritable
+                     <placeName ref="#FR">la France</placeName> n'est-elle pas <pb n="7" facs="v1n2p7"/>notre véritable
                   patrie, celle dont nous sommes si fiers ? Ce qui fait l'objet de nos vœux les plus <choice>
                      <orig>ardens</orig>
                      <reg>ardents</reg>
@@ -238,7 +232,7 @@
                   milices ou gardes nationales aux manoeuvres et au service des différentes armes !
                   Il est vrai que, par un calcul machiavélique, le petit nombre de ceux qui, parmi
                   nous, ont obtenu des grades dans l'armée ont été constamment écartés on retenus en
-                        <placeName><country>France</country></placeName> ; jamais il n'ont pu
+                        <placeName ref="#FR"><country>France</country></placeName> ; jamais il n'ont pu
                   obtenir d'emploi aux colonies, parce que le département de la marine en a décidé
                   ainsi, tandis que tous les jeunes créoles privilégiés y sont envoyés avec des
                   avantages, des faveurs et des grades.</p>
@@ -251,7 +245,7 @@
                      <reg>commerçants</reg>
                   </choice> , à l'imitation des grandes maisons d'<placeName>Europe</placeName>, chercheront hardiment la fortune dans tous les climats.
                   Nos marins partageront les travaux, les périls et les palmes de leurs frères de
-                        <placeName><country>France</country></placeName> ; nos jeunes guerriers iront
+                        <placeName ref="#FR"><country>France</country></placeName> ; nos jeunes guerriers iront
                   conquérir des grades élevés sur les champs de bataille, et nos avocats feront
                   entendre au milieu de leurs compatriotes une voix éloquente et énergique en faveur
                   de l'innocent et de l'opprimé.</p>
@@ -315,21 +309,18 @@
                   reconnaître par toutes les autres nations ; il n'est loisible à aucune de
                   distinguer parmi nous quand nous ne distinguons pas nous-mêmes, de faire des
                   catégories quand nous n'en voulons pas faire, et de dénier le titre de Français à
-                  qui la <placeName><country>France</country></placeName> le donne. Voilà pourtant
+                  qui la <placeName ref="#FR"><country>France</country></placeName> le donne. Voilà pourtant
                   ce qui arrive à <placeName ref="#CUB"><country>Cuba</country></placeName>,
-                  possession espagnole, et dans les provinces méridionales des <placeName ref="#USA"
-                        ><country>États-Unis</country></placeName>. Un Français, s'il est homme de
+                  possession espagnole, et dans les provinces méridionales des <placeName ref="#USA"><country>États-Unis</country></placeName>. Un Français, s'il est homme de
                   couleur, est exclus de ces deux pays ; et s'il y pénètre, on le met en prison comme
                   un malfaiteur.</p>
-               <p>Voici ce que le ministre de la marine écrivait au préfet maritime à <placeName
-                     ref="#Che">Cherbourg</placeName>, le <date>29 avril 1830</date> : <q>Suivant
+               <p>Voici ce que le ministre de la marine écrivait au préfet maritime à <placeName ref="#Che">Cherbourg</placeName>, le <date>29 avril 1830</date> : <q>Suivant
                      une communication parvenue au gouvernement du roi, l'assemblée législative de
                         l'<placeName ref="#GEO">état de Géorgie</placeName> a rendu dernièrement une
                      loi qui interdit à toute personne de couleur (mulâtres ou nègres, libres ou
                      esclaves) l'entrée de cet état, et qui défend en conséquence aux capitaines des
                      navires, tant nationaux qu'étrangers, de se présenter dans les ports de
-                        <placeName ref="#Sav">Savannah</placeName>, <placeName ref="#Dar"
-                        >Darien</placeName> et <placeName ref="#StM">Sainte-Marie</placeName>, s'ils
+                        <placeName ref="#Sav">Savannah</placeName>, <placeName ref="#Dar">Darien</placeName> et <placeName ref="#StM">Sainte-Marie</placeName>, s'ils
                      ont à leur bord des gens de couleur, sous peine d'être soumis à une quarantaine
                      rigoureuse de quarante jours et d'acquitter les frais de détention qu'auront à
                      subir les gens de couleur pendant la durée du séjour du bâtiment dans le port ;
@@ -346,36 +337,32 @@
                      l'<placeName>état de la Géorgie</placeName> afin qu'ils eussent à se conformer
                   à cette loi.</p>
                <p>Plus tard, <date>le 11 décembre 1832</date>, notre ministre des affaires
-                  étrangères écrivait au ministre de la marine : <q>“Le consul du roi à <placeName
-                        ref="#SaY">San-Yago de Cuba</placeName> m'annonce
+                  étrangères écrivait au ministre de la marine : <q>Le consul du roi à <placeName ref="#SaY">San-Yago de Cuba</placeName> m'annonce
                      qu'au mois d'août dernier, le <roleName><persName ref="#CO">capitaine
                            Consteau</persName></roleName>, commandant le brick <emph>la
                         Cora-et-Julie</emph>, de <placeName ref="#Bor">Bordeaux</placeName>, a amené
                      à <placeName>San-Yago</placeName> trois hommes de couleur, qui, d'après les <choice>
                         <orig>réglemens</orig>
                         <reg>règlements</reg>
-                     </choice> en vigueur dans l'île de <placeName>Cuba</placeName>, n'ont pu y être
+                     </choice> en vigueur dans l'île de <placeName ref="#CUB">Cuba</placeName>, n'ont pu y être
                      débarqués. Le consul est parvenu toutefois à obtenir que le capitaine ne fût
                      point inquiété pour cette contravention et que les trois hommes de couleur
-                     pussent trouver les moyens de se rendre à la <placeName ref="#JA"
-                        >Jamaïque</placeName>.”</q></p>
+                     pussent trouver les moyens de se rendre à la <placeName ref="#JA">Jamaïque</placeName>.</q></p>
                <p>Sur cet avertissement, le ministre de la marine s'empressa de donner toute la
                   publicité possible à ce fait, et les capitaines de navires français en destination
-                  pour <placeName><country>Cuba</country></placeName> furent prévenus qu'ils ne
+                  pour <placeName ref="#CUB"><country>Cuba</country></placeName> furent prévenus qu'ils ne
                   pouvaient, dans aucun cas, y introduire des hommes de couleur.</p>
                <p>Ce langage de nos ministres, cette conduite du gouvernement français pouvaient se
-                  concevoir sous la restauration, et même depuis la <rs type="event"
-                  >révolution</rs>, avant la loi du <date>24 avril 1833</date> ; on ne les concevrait
+                  concevoir sous la restauration, et même depuis la <rs type="event">révolution</rs>, avant la loi du <date>24 avril 1833</date> ; on ne les concevrait
                   plus aujourd'hui. Il n'y a plus d'hommes de couleur, pour nous, parmi les hommes
                   libres, il n'y a plus que des Français ; et pourtant les hommes de couleur libres
                   sont encore frappés d'exclusion. Le capitaine
                         <persName ref="#CH">Chrétin</persName>, commandant le navire <emph>le
                      Jeune-Ernest</emph>, de retour au <placeName ref="#Ha">Havre</placeName>, d'un
                   voyage d'<placeName>Amérique</placeName>, dans le mois de décembre
-                  dernier, a déclaré qu'à son arrivée à <placeName ref="#Cha"
-                  >Charleston</placeName>, la police s'empara d'un homme de couleur libre qu'il
-                  avait embarqué à <placeName>Bordeaux</placeName> comme matelot. Malgré les
-                  réclamations que le capitaine <persName>Chrétin</persName> adressa aux autorités,
+                  dernier, a déclaré qu'à son arrivée à <placeName ref="#Cha">Charleston</placeName>, la police s'empara d'un homme de couleur libre qu'il
+                  avait embarqué à <placeName ref="#Bor">Bordeaux</placeName> comme matelot. Malgré les
+                  réclamations que le capitaine <persName ref="#CH">Chrétin</persName> adressa aux autorités,
                   le matelot fut retenu en prison, aux frais du capitaine, jusqu'au départ du
                   bâtiment.</p>
                <p>On comprend le motif de cette proscription des hommes de couleur dans les états du
@@ -391,9 +378,9 @@
                      <orig>aborgées</orig>
                      <reg>abroger</reg>
                   </choice>
-                  <q>“toutes restrictions ou exclusions qui avaient été prononcées, quant à
+                  <q>toutes restrictions ou exclusions qui avaient été prononcées, quant à
                      l'exercice des droits civils et des droits politiques, à l'égard des hommes de
-                     couleur libres et des affranchis.”</q> En présence d'une telle loi, ces autres
+                     couleur libres et des affranchis.</q> En présence d'une telle loi, ces autres
                   restrictions, bien plus oppressives encore, qui vont jusqu'à dénationaliser un
                   homme, jusqu'à le traiter en esclave, peuvent-elles se supporter ? Le gouvernement
                   français peut-il, sans abdiquer sa propre dignité, laisser subsister un tel état
@@ -402,26 +389,24 @@
                   frapper des citoyens français et qui les atteindrait plus loin qu'on ne pense. Se
                   figure-t-on qu'un membre de <orgName>l'Institut de France</orgName>, un général de
                   notre armée, par exemple, ne pussent mettre le pied sur le territoire méridional
-                  de <orgName>l'Union</orgName> sans être jetés dans un cachot ? C'est cependant ce
-                  qui aurait pu arriver au célèbre <roleName>peintre</roleName><persName ref="#GL"
-                     >Lethiers</persName> ; c'est ce qui pouvait arriver encore à un
-                  maréchal-de-camp, le <persName ref="#RO"
-                     >général Roche</persName>, qui a commandé naguère un de nos <choice>
+                  de <orgName ref="#USA">l'Union</orgName> sans être jetés dans un cachot ? C'est cependant ce
+                  qui aurait pu arriver au célèbre <roleName>peintre</roleName><persName ref="#GL">Lethiers</persName> ; c'est ce qui pouvait arriver encore à un
+                  maréchal-de-camp, le <persName ref="#RO">général Roche</persName>, qui a commandé naguère un de nos <choice>
                      <orig>départemens</orig>
                      <reg>départements</reg>
                   </choice> .</p>
-               <p>Nous ne partageons point la population des <placeName>États-Unis</placeName> en
+               <p>Nous ne partageons point la population des <placeName ref="#USA">États-Unis</placeName> en
                   catégories ; tous les <choice>
                      <orig>habitans</orig>
                      <reg>habitants</reg>
-                  </choice> de <orgName>l'Union</orgName> peuvent librement venir en
-                        <placeName><country>France</country></placeName>, y circuler, y faire leurs
+                  </choice> de <orgName ref="#USA">l'Union</orgName> peuvent librement venir en
+                        <placeName ref="#FR"><country>France</country></placeName>, y circuler, y faire leurs
                   affaires ; tous y jouissent de cette hospitalité que se doivent les unes aux autres
                   toutes les nations civilisées. Il n'y a pas de réciprocité plus juste et moins
                   contestée. Nous ne demandons point pour les hommes de couleur le droit d'aller
                   porter des semences de trouble et de rébellion parmi les hommes de couleur des
                   états méridionaux de la république : on peut surveiller leur conduite et la faire
-                  punir si elle était trouvée coupable ; la <placeName><country>France
+                  punir si elle était trouvée coupable ; la <placeName ref="#FR"><country>France
                      </country></placeName>ne réclamerait pas contre un châtiment légalement
                   infligé. Mais elle doit réclamer, et avec toute l'énergie d'un droit manifeste et
                   d'une injure reçue, contre toute interdition préventive, tout emprisonnement
@@ -452,7 +437,7 @@
                      <orig>commettans</orig>
                      <reg>commettants</reg>
                   </choice> vraiment intéressés à ce qu'il ne soit rien fait en faveur des classes
-                  de couleur, ils ne sont en <placeName>France</placeName> que pour y
+                  de couleur, ils ne sont en <placeName ref="#FR">France</placeName> que pour y
                   soutenir et y défendre les <choice>
                      <orig>priviléges</orig>
                      <reg>privilèges</reg>
@@ -473,8 +458,7 @@
                   </choice> de nos intérêts, à nous, hommes de la petite propriété, et, si l'on peut
                   ainsi dire, de la petite liberté, qui demandons pour nous et pour autrui à n'être
                   pas exclus du droit commun, qui faisons plus, qui voulons l'abolition non
-                  seule'ment de l'esclavage parmi tous les hommes quelle que soit leur<pb n="13" facs="v1n2p13"
-                  />couleur, mais encore, nous en référant à notre déclaration de principes, leur
+                  seule'ment de l'esclavage parmi tous les hommes quelle que soit leur<pb n="13" facs="v1n2p13"/>couleur, mais encore, nous en référant à notre déclaration de principes, leur
                   participation directe à l'élection des <choice>
                      <orig>représentans</orig>
                      <reg>représentants</reg>
@@ -516,8 +500,7 @@
                <p>Et maintenant, de la sorte expliqué, qui pourrait contester ce titre à tout homme
                   de couleur qui voudra prendre la parole pour ses frères ? Que nous importe
                   aujourd'hui que le ministre de la marine ait en quelque sorte dénoncé au
-                  garde-des-sceaux celui des anciens déportés de la <placeName ref="#MQ"
-                     >Martinique</placeName>, qui a cru devoir l'ajouter encore à son nom ! Nous qui
+                  garde-des-sceaux celui des anciens déportés de la <placeName ref="#MQ">Martinique</placeName>, qui a cru devoir l'ajouter encore à son nom ! Nous qui
                   avons renoncé volontairement à cette<pb n="14" facs="v1n2p14"/>qualification comme inutile et
                   comme pouvant nous gêner dans le libre développement de nos doctrines, qui l'avons
                   rejetée comme inutile, non comme illicite, nous la reprendrions avec empressement
@@ -543,24 +526,22 @@
                      <choice>
                         <orig>événemens</orig>
                         <reg>événements</reg>
-                     </choice> de la Grand'Anse</rs> étaient étrangement dénaturés. <persName
-                     ref="#Gatine">M. Gatine</persName>, avocat à la cour de cassation, a relevé les
+                     </choice> de la Grand'Anse</rs> étaient étrangement dénaturés. <persName ref="#Gatine">M. Gatine</persName>, avocat à la cour de cassation, a relevé les
                   assertions erronées du regespondant de ce journal. Nous ne pouvons nous expliquer
-                  le refus d'insertion dans cette feuille de la lettre de <persName>M.
+                  le refus d'insertion dans cette feuille de la lettre de <persName ref="#Gatine">M.
                      Gatine</persName> qu'en acceptant pour vrai ce qui nous a été affirmé par des
                   personnes que nous avons tout lieu de croire bien informées, à savoir, que
-                     <title>le Temps</title>, par des raisons de diverses natures, est plutôt <choice>
+                     <title ref="#LT">le Temps</title>, par des raisons de diverses natures, est plutôt <choice>
                      <orig>dévouéaux</orig>
                      <reg>dévoué aux</reg>
                   </choice> intérêts de l'aristocratie coloniale qu'aux droits de l'humanité,
                   indignement outragés dans la personne des hommes de couleur. Nous publions avec
-                  plaisir et empressement la remarquable réfutation de <persName>M.
+                  plaisir et empressement la remarquable réfutation de <persName ref="#Gatine">M.
                      Gatine</persName>.</p>
                <quote><p>20 juillet 1834.</p>
-                  <p><emph>A M. le rédacteur du journal <title>le Temps</title>.</emph></p>
+                  <p><emph>A M. le rédacteur du journal <title ref="#LT">le Temps</title>.</emph></p>
                   <p>Monsieur,</p>
-                  <p>Vous avez inséré dans votre numéro du 19 une lettre d'un colon de la <placeName
-                        ref="#MQ">Martinique</placeName> relative au grand procès qui se juge dans
+                  <p>Vous avez inséré dans votre numéro du 19 une lettre d'un colon de la <placeName ref="#MQ">Martinique</placeName> relative au grand procès qui se juge dans
                         cette<pb n="15" facs="v1n2p15"/> colonie ; cette lettre est de nature à provoquer des
                      réflexions que votre impartialité vous engagera peut-être à publier aussi.</p>
                   <p>Comme son auteur, je suis de ceux qui pensent qu'on aurait dû faire trève à la
@@ -569,7 +550,7 @@
                            <orig>événemens</orig>
                            <reg>événements</reg>
                         </choice> de la Grand'Anse</rs> jusqu'à ce qu'ils soient entièrement connus
-                     en <placeName>France</placeName> et jusqu'à ce que
+                     en <placeName ref="#FR">France</placeName> et jusqu'à ce que
                      la justice ait prononcé sur le sort de tant d'accusés prévenus de crime
                      capital ; mais je suis loin de croire que, par les publications déjà faites, on
                      ait voulu <emph>donner le change à l'opinion</emph> en renvoyant au parti
@@ -579,7 +560,7 @@
                      invention machiavélique de quelques inregigibles de l'autre hémisphère, car il
                      a aussi les siens.</p>
                   <p>Permis à eux de suspendre leurs <emph>ex voto</emph> aux voûtes du temple et
-                     d'annoncer <emph>que c'est par un bonheur inespéré que <placeName>la
+                     d'annoncer <emph>que c'est par un bonheur inespéré que <placeName ref="#MQ">la
                            Martinique</placeName> a échappé aux projets les plus subversifs, et
                         qu'eux, oppresseurs prétendus, s'ils n'ont pas subi le triste rôle de
                         victimes, ils ne le doivent qu'à la lâcheté de leurs ennemis</emph>. Mais
@@ -602,8 +583,7 @@
                      semblerait, à lire toutes ces bravades, toutes ces objurgations si étrangement
                      jetées aux hommes de couleur, qu'il s'agit d'un événement militaire où il y eût
                      de la gloire à gagner pour l'un ou l'autre parti. Et l'accusation est d'avoir
-                     excité <emph>la guerre civile</emph> ! Reproche bien placé que celui d'a<pb
-                        n="16" facs="v1n2p16"/>voir manqué de courage à déchirer le sein de la patrie ! J'avais
+                     excité <emph>la guerre civile</emph> ! Reproche bien placé que celui d'a<pb n="16" facs="v1n2p16"/>voir manqué de courage à déchirer le sein de la patrie ! J'avais
                      toujours pensé que les bons citoyens doivent, après ces déplorables conflits,
                      pleurer en silence sur la victoire des uns aussi bien que sur la défaite des
                      autres. Noble reproche aussi que celui que l'on crie bien haut à des captifs, à
@@ -625,8 +605,7 @@
                      intérêts d'humanité et de civilisation émus par <rs type="event">l'affaire de
                         la Grand'Anse</rs> ? L'événement est passé ; le sang des hommes de couleur,
                      d'eux seuls, a coulé dans un conflit que l'histoire mettra peut-être à côté des
-                     conjurations où périrent, en <placeName>France</placeName>, <persName ref="#AJC"
-                        >Caron</persName>, <persName ref="#JFB">Bories</persName> et d'autres
+                     conjurations où périrent, en <placeName ref="#FR">France</placeName>, <persName ref="#AJC">Caron</persName>, <persName ref="#JFB">Bories</persName> et d'autres
                      victimes trop nombreuses. Mais un procès de complot et d'excitation à la guerre
                      civile nous reste, un <emph>procès monstre</emph>, c'est ainsi qu'il faudrait
                      l'appeler, comprenant vingt-cinq chefs d'accusation et <emph>cent dix-sept</emph> accusés sous prévention de crime capital, tous privés de
@@ -662,8 +641,8 @@
                <orig>A</orig>
                <reg>À</reg>
                </choice> 
-               l'ouverture des états-généraux, l'opinion avait déjà fait tant de progrès que le <roleName>ministre</roleName> <persName ref="#JN">Necker</persName>, dans son discours du <date>5 mai 1789</date>, disait aux députés de la nation, après avoir parlé de l'abolition de la corvée de la taille :</p>
-               <p><q>Un jour viendra peut-être où vous étendrez plus loin votre intérêt ; un jour viendra peut-être où, associant à vos délibérations les députés des colonies, vous jetterez un regard de compassion sur ce malheureux peuple, dont on a fait tranquillement un objet de trafic ; sur ces hommes <emph>semblables à nous</emph> par la pensée et surtout par la triste faculté de souffrir ; sur ces hommes cependant que, sans pitié pour leurs douloureuses plaintes, nous accumulons, nous entassons au fond d'un vaisseau pour aller ensuite à pleine voiles les présenter aux chaînes qui les attendent..... Déjà l'humanité est défendue au nom même de l'intérêt personnel et des calculs politiques, et cette superbe cause ne tardera pas à paraître devant le tribunal de toutes les nations. Ah ! combien de sortes de satisfactions, combien d'espèces de gloire sont réservées à cette suite d'états-généraux qui vont prendre naissance au milieu d'un siècle éclairé ! Malheur, malheur et honte à la nation française si elle méconnaissait le<pb n="18" facs="v1n2p18"/> prix d'une telle position, si elle ne cherchait pas à s'en montrer digne et si une telle ambition était trop forte pour elle.</q></p>
+               l'ouverture des états-généraux, l'opinion avait déjà fait tant de progrès que le <roleName>ministre</roleName> <persName ref="#JN">Necker</persName>, dans son discours du <date>5 mai 1789</date>, disait aux députés de la nation, après avoir parlé de l'abolition de la corvée de la taille :
+               <quote>Un jour viendra peut-être où vous étendrez plus loin votre intérêt ; un jour viendra peut-être où, associant à vos délibérations les députés des colonies, vous jetterez un regard de compassion sur ce malheureux peuple, dont on a fait tranquillement un objet de trafic ; sur ces hommes <emph>semblables à nous</emph> par la pensée et surtout par la triste faculté de souffrir ; sur ces hommes cependant que, sans pitié pour leurs douloureuses plaintes, nous accumulons, nous entassons au fond d'un vaisseau pour aller ensuite à pleine voiles les présenter aux chaînes qui les attendent..... Déjà l'humanité est défendue au nom même de l'intérêt personnel et des calculs politiques, et cette superbe cause ne tardera pas à paraître devant le tribunal de toutes les nations. Ah ! combien de sortes de satisfactions, combien d'espèces de gloire sont réservées à cette suite d'états-généraux qui vont prendre naissance au milieu d'un siècle éclairé ! Malheur, malheur et honte à la nation française si elle méconnaissait le<pb n="18" facs="v1n2p18"/> prix d'une telle position, si elle ne cherchait pas à s'en montrer digne et si une telle ambition était trop forte pour elle.</quote></p>
                <p>Lorsque les députés de <placeName ref="#HT">Saint-Domingue</placeName>se présentèrent au sein de l'assemblée, on leur contesta la légitimité de leur titre, par le motif qu'ils étaient les
                <choice>
                <orig>représentans</orig>
@@ -675,7 +654,7 @@
                <orig>événemens</orig>
                <reg>événements</reg>
                </choice>
-               et les catastrophes qui furent la suite de la division entre les hommes libres des diverses classes à <placeName>Saint-Domingue</placeName> et dans les autres colonies précipitèrent cette émancipation et l'empêchèrent d'arriver à maturité.</p>
+               et les catastrophes qui furent la suite de la division entre les hommes libres des diverses classes à <placeName ref="#HT">Saint-Domingue</placeName> et dans les autres colonies précipitèrent cette émancipation et l'empêchèrent d'arriver à maturité.</p>
                <p><persName ref="#NB">Napoléon</persName>, après avoir trompé <persName ref="#TLOUV">Toussaint-l'Ouverture</persName> et les autres chefs des noirs par les promesses de la politique la plus fallacieuse, rétablit l'esclavage dans les colonies, ainsi que la traite des noirs.</p>
                <p>En <placeName ref="#ANG">Angleterre</placeName>, le célèbre <persName ref="#WW">Wilberforce</persName>, par ses motions au parlement et ses écrits 
                <choice> 
@@ -688,10 +667,10 @@
                <reg>philanthropes</reg>
                </choice> 
                français, et, tandis que le despotisme, par ses progrès rapides en <placeName ref="#FR">France</placeName>, ajournait toute question de liberté, ils obtinrent du parlement britannique l'abolition de la traite, depuis sanctionnée au congrès de <placeName ref="#Vi">Vienne</placeName>.</p>
-               <p><persName>Napoléon</persName>, dans les cent jours, décréta lui-même cette abolition pour la <placeName>France</placeName> ; la restauration ajourna cette mesure de quelques années ; aujourd'hui elle est législation consommée. Mais qu'est-ce que l'abolition de la traite en comparaison de l'abolition de l'esclavage ? <persName>Wilberforce</persName>, avant de fermer les yeux, a eu le bonheur de voir achever son ouvrage. Malgré l'élévation de la dette anglaise, cette nation n'a pas reculé devant un sacrifice de près de 500 millions pour donner cette satisfaction à l'humanité.</p>
-               <p>Comment la <placeName>France</placeName>, qui toujours a en l'initiative des mesures de ce genre, pourrait-elle rester en arrière ? et quel est le contribuable qui regarderait à quelque sacrifice pour abolir cette œuvre de barbarie ?</p>
+               <p><persName ref="#NB">Napoléon</persName>, dans les cent jours, décréta lui-même cette abolition pour la <placeName ref="#FR">France</placeName> ; la restauration ajourna cette mesure de quelques années ; aujourd'hui elle est législation consommée. Mais qu'est-ce que l'abolition de la traite en comparaison de l'abolition de l'esclavage ? <persName ref="#WW">Wilberforce</persName>, avant de fermer les yeux, a eu le bonheur de voir achever son ouvrage. Malgré l'élévation de la dette anglaise, cette nation n'a pas reculé devant un sacrifice de près de 500 millions pour donner cette satisfaction à l'humanité.</p>
+               <p>Comment la <placeName ref="#FR">France</placeName>, qui toujours a en l'initiative des mesures de ce genre, pourrait-elle rester en arrière ? et quel est le contribuable qui regarderait à quelque sacrifice pour abolir cette œuvre de barbarie ?</p>
                <pb n="19" facs="v1n2p19"/>
-               <p>L'esclavage a été introduit furtivement dans nos colonies par la cupidité d'une compagnie de marchands concessionnaires des îles. Cette innovation était contraire à un célèbre monument national du quatorzième siècle relatif à l'abolition du servage en France : <q>“Chacun doit naître franc, et notre royaume est appelé le royaume des Francs 
+               <p>L'esclavage a été introduit furtivement dans nos colonies par la cupidité d'une compagnie de marchands concessionnaires des îles. Cette innovation était contraire à un célèbre monument national du quatorzième siècle relatif à l'abolition du servage en France : <q>Chacun doit naître franc, et notre royaume est appelé le royaume des Francs 
                <choice>
                <orig> </orig>
                <reg>"</reg>
@@ -766,7 +745,7 @@
                   déposé sur le bureau divers projets législatifs concernant des matières civiles et
                   criminelles, acte lui est donné de la communication des pièces, dont le renvoi
                   dans les bureaux est ordonné.</p>
-               <p>Dans la séance du <date>23 janvier</date>, <persName ref="#FMaug">M. Mauguin</persName>, membre de la chambre des députés de <placeName>France</placeName>, et
+               <p>Dans la séance du <date>23 janvier</date>, <persName ref="#FMaug">M. Mauguin</persName>, membre de la chambre des députés de <placeName ref="#FR">France</placeName>, et
                      <persName ref="#deJab">M. de Jabrun</persName>, conseiller colonial, sont nommés délégués de
                      <placeName ref="#GP">la Guadeloupe</placeName>. Dans celle du 25, l'assemblée
                   adopte un décret pour substituer <emph>des commissaires-priseurs</emph> aux
@@ -775,7 +754,7 @@
                   conseil <choice>
                      <orig>générale</orig>
                      <reg>général</reg>
-                  </choice> de <placeName>la Guadeloupe</placeName>. Ne sont-ils pas de nature à
+                  </choice> de <placeName ref="#GP">la Guadeloupe</placeName>. Ne sont-ils pas de nature à
                   prouver la forte dose de <choice>
                      <orig>talens</orig>
                      <reg>talents</reg>
@@ -813,33 +792,33 @@
                   gouverneur, ont témoigné d'une manière non équivoque que l'irritation la plus vive
                   les anime toutes les fois qu'une pensée de progrès se fait jour.</p>
                <p>Dans un des premiers paragraphes du discours de <persName ref="#JHD">M. Dupotet</persName>,
-                  ce gouverneur dit que : <q><emph>“la plus grande tranquillité règne dans les divers
+                  ce gouverneur dit que : <q><emph>la plus grande tranquillité règne dans les divers
                         quartiers de la colonie. Cet heureux état de choses est dû à la sagesse des
-                        colons et au régime actuel des habitations.”</emph></q> Certes il était
+                        colons et au régime actuel des habitations.</emph></q> Certes il était
                   impossible d'exprimer un fait avec des manières plus polies envers les colons ;
                   cependant ce conseil, sans en tenir compte, ne lui répondit pas précisément que
                   c'était faux, l'expression n'eût pas été parlementaire ; mais la réponse en est
-                  bien l'équivalent, la voici : <q><emph>“Des symptômes de fermentation se
+                  bien l'équivalent, la voici : <q><emph>Des symptômes de fermentation se
                         manifestent encore dans la colonie ; mais un système basé sur la franchise,
                         une surveillance active et sévère seront des garanties pour notre
-                        avenir.”</emph></q> Pourtant le gouverneur avait pris soin de préparer les
+                        avenir.</emph></q> Pourtant le gouverneur avait pris soin de préparer les
                   esprits en flattant avec habileté la passion des privilégiés ; <rs type="event">les <choice>
                         <orig>événemens</orig>
                         <reg>événements</reg>
                      </choice> de la Grand’Anse</rs> lui avaient fourni un texte à déclamations qui
-                  devaient faire effet : <q><emph>“Si quelques
+                  devaient faire effet : <q><emph>Si quelques
                         misérables,</emph>s'écriait-il,<emph>ont osé mettre à exécution les projets
                         infâmes des ennemis de la colonie en portant le feu et le pillage dans la
                         commune de la Grand' Anse, vous avez vu, messieurs, avec quelle ardeur les
                         troupes de la garnison ont accouru au foyer de l'insurrection et la prompte
-                        répression qui a été le résultat de leurs efforts.”</emph></q> Ce jugement
+                        répression qui a été le résultat de leurs efforts.</emph></q> Ce jugement
                   ne devait-il pas disposer à l'indulgence ?</p>
-               <p>Mais voici bien autre chose. <persName>M. Dupotet</persName> avoue que <q>“la
-                     pensée du gouvernement est de conserver en améliorant.”</q> Une pareille
+               <p>Mais voici bien autre chose. <persName ref="#JHD">M. Dupotet</persName> avoue que <q>la
+                     pensée du gouvernement est de conserver en améliorant.</q> Une pareille
                   hérésie coloniale ne pouvait passer sans être censurée ; aussi lisons nous ces
-                  paroles dans la réponse du conseil colonial : <q>“Sans doute on peut conserver en
+                  paroles dans la réponse du conseil colonial : <q>Sans doute on peut conserver en
                      améliorant ; mais souvent les mesures prises pour arriver à ce but, loin de
-                     l'atteindre, entraînent des résultats désastreux.”</q></p>
+                     l'atteindre, entraînent des résultats désastreux.</q></p>
                <p>Le compliment n'était pas flatteur pour le pouvoir dont le gou verneur est
                   l'organe ; il était même impossible de lui donner plus<pb n="23" facs="v1n2p23"/>
                   <choice>
@@ -864,8 +843,7 @@
                         <orig>événemens</orig>
                         <reg>événements</reg>
                      </choice> de la Grand'Anse</rs> et de la réponse du conseil colonial au
-                  discours d'ouverture de <persName ref="#JHD">M. le gouverneur Dupotet</persName>, ont cru devoir protester, dans une adresse à <persName
-                     ref="#EH">M. Halgan</persName>, contre les accusations dont ils ont été l'objet
+                  discours d'ouverture de <persName ref="#JHD">M. le gouverneur Dupotet</persName>, ont cru devoir protester, dans une adresse à <persName ref="#EH">M. Halgan</persName>, contre les accusations dont ils ont été l'objet
                   relativement à ces <choice>
                      <orig>événemens</orig>
                      <reg>événements</reg>
@@ -875,7 +853,7 @@
                   adresse, nous dirons du reste que le ton général nous en a semblé trop servile.
                         <persName><roleName>M. le contre-amiral </roleName>Halgan</persName> était
                   fort loin d'être une <emph>des lumières</emph> du conseil d'état, dans lequel il
-                  n'a jamais sérieusement siégé. Tout le monde sait en <placeName>France</placeName> que ce titre de conseiller d'état
+                  n'a jamais sérieusement siégé. Tout le monde sait en <placeName ref="#FR">France</placeName> que ce titre de conseiller d'état
                   n'oblige la plupart du temps à aucun travail réel, et qu'il n'est que la
                   récompense du dévouement d'un fonctionnaire au système ministériel.</p>
                <p>Quoi qu'il en soit, d'ailleurs, nous ne pouvons voir qu'avec peine nos frères de
@@ -941,7 +919,7 @@
                <p>La Société anglaise pour l'abolition de l'esclavage a compris quel est le genre de
                   joie qui convient en un pareil jour ; elle vient de publier un appel dont le but
                   est d'exciter ses compatriotes à une sainte joie :</p>
-               <q><p>“La vraie manière de célébrer le jour où les fers des esclaves tomberont est,
+               <q><p>La vraie manière de célébrer le jour où les fers des esclaves tomberont est,
                      dit-elle, d'offrir à Dieu en commun de sincères actions de <choice>
                         <orig>graces</orig>
                         <reg>grâces</reg>
@@ -976,7 +954,7 @@
                      l'émancipation désirée, au sein de la paix, sans secousses, aux <choice>
                         <orig>applaudissemens</orig>
                         <reg>applaudissements</reg>
-                     </choice> et avec l'approbation de tous.”</p></q>
+                     </choice> et avec l'approbation de tous.</p></q>
                <p>Tel est le langage que les hommes généreux qui ont travaillé avec le plus de
                   persévérance et de zèle à l'abolition de l'esclavage dans les colonies anglaises
                   adressent à leurs compatriotes. Ils ne veulent des louanges que pour Dieu ! </p>
@@ -985,9 +963,8 @@
                <p>Pourquoi les fers des esclaves tombent-il dans les colonies anglaises avant même
                   qu'on ait songé à rendre leurs chaînes plus légères dans les colonies françaises ?
                   C'est que, pendant un demi siècle, des milliers et puis des millions de voix se
-                  sont élevées en <placeName>Angleterre</placeName> pour demander à Dieu et aux
-                  hommes l'abolition de l'esclavage, tandis qu'en <placeName ref="#FR"
-                     >France</placeName> il n'y a eu, pour réclamer l'affranchissement des nègres,
+                  sont élevées en <placeName ref="#ANG">Angleterre</placeName> pour demander à Dieu et aux
+                  hommes l'abolition de l'esclavage, tandis qu'en <placeName ref="#FR">France</placeName> il n'y a eu, pour réclamer l'affranchissement des nègres,
                   que quelques voix isolées, qui ne se sont fait entendre qu'à de longs intervalles
                   et qui se sont bientôt lassées. C'est que la compassion n'a pas pénétré dans les
                   cœurs, et qu'un étroit égoïsme n'a fait songer qu'aux maux dont on souffrait
@@ -1021,13 +998,13 @@
                      Martinique</placeName>, a publié une brochure portant la date de
                      <date>1832</date> et intitulée : <emph>Pétition au roi, à la nation et aux
                      chambres, sur l'inconstitutionnalité de la forme actuelle de la représentation
-                     coloniale</emph>. Dans cette brochure, <persName>M. Boitel</persName>, qui a
+                     coloniale</emph>. Dans cette brochure, <persName ref="#BOI">M. Boitel</persName>, qui a
                   rempli les fonctions d'administrateur civil dans cette colonie, ayant remarqué des
                   faits de diffamation articulés contre sa personne, avait cité <persName>M
                      Cicéron</persName> à la 6e chambre.</p>
                <p>Déjà <persName ref="#Bethm">M. Bethmon</persName> s'était présenté à deux précédentes audiences
                   pour M. Cicéron, et avait, sur sa demande, obtenu la remise de cette cause.</p>
-               <p>Ajuourd'hui <persName>M. Moulin</persName>, à défaut de <persName>M.
+               <p>Ajuourd'hui <persName>M. Moulin</persName>, à défaut de <persName ref="#Bethm">M.
                      Bethmon</persName> qui en était empêché, a fait lecture de conclusions dans
                   lesquelles il expose que la brochure a été publiée au mois de <date>novembre
                      1832</date> ; que ce n'est qu'en <date>janvier 1834</date>que la citation a été
@@ -1036,14 +1013,14 @@
                   ce qui concerne l'action publique, l'action civile ne peut être introduite que
                   devant les tribunaux civils. Ces conclusions tendent à ce que le tribunal de
                   police regectionnelle se déclare incompétent.</p>
-               <p><persName>M. RABOU</persName>, avocat de <persName>M. Boitel</persName>, manifeste
+               <p><persName>M. RABOU</persName>, avocat de <persName ref="#BOI">M. Boitel</persName>, manifeste
                   d'abord son étonnement de voir soulever un pareil incident. N'est-ce pas en effet.
                   dit-il, chose bien étrange que la prétention d'un adversaire qui, cité en justice
                   pour répondre de ses écrits, supporte les fatigues d'une longue traversée, fait un
                   voyage de dix-huit cents lieues pour venir dire à ses juges : <q>Je n'accepte pas
-                     votre juridiction.<pb n="28" facs="v1n2p28"/>J'arrive en toute hâte de <placeName>la
+                     votre juridiction.<pb n="28" facs="v1n2p28"/>J'arrive en toute hâte de <placeName ref="#MQ">la
                         Martinique</placeName> pour vous déclarer que je m'en vais plus vite encore
-                     plaider à <placeName>la Martinique</placeName>.</q>Combien, ajoute le
+                     plaider à <placeName ref="#MQ">la Martinique</placeName>.</q>Combien, ajoute le
                   défenseur, un pareil système ne doit-il pas nous paraître plus surprenant encore
                   lorsque nous jetons les yeux sur le titre et la nature de la prévention ! Quoi !
                      <persName>M. Cicéron</persName> a fait répandre à <placeName>Paris</placeName> un libelle dans lequel il cherche à porter atteinte à la
@@ -1066,7 +1043,7 @@
                <p>M. L'AVOCAT DU ROI a soutenu au contraire que du moment où l'action publique était
                   éteinte, l'action civile ne pouvait plus être portée devant un tribunal
                   regectionnel et devait l'être devant les tribunaux civils.</p>
-               <p><persName>M. BOITEL</persName>, ayant cru remarquer dans l'exposé des motifs
+               <p><persName ref="#BOI">M. BOITEL</persName>, ayant cru remarquer dans l'exposé des motifs
                   developpés par M. l'avocat du roi une appréciation morale interprétative de la
                   situation respective des parties, s'élève contre cet incident : il fait connaître
                   au tribunal que la date de l'assignation adressée à <persName>M Cicéron</persName>
@@ -1074,13 +1051,13 @@
                   pouvoir de celui-ci, et que la rencontre qui s'en est suivie est une présomption
                   justificative du retard qui a été mis à saisir les tribunaux de ce délit.</p>
                <p><persName>M. FERDINAND BARROT</persName> pense que ses paroles ont été mal
-                  interprétées par <persName>M. Boitel</persName> ; il déclare que, comme magistrat
+                  interprétées par <persName ref="#BOI">M. Boitel</persName> ; il déclare que, comme magistrat
                   et comme<pb n="29" facs="v1n2p29"/> homme, il n'a point eu l'intention d'employer la moindre
                   acrimonie ; qu'il n'avait au contraire d'autre désir que celui d'éteindre, s'il
                   était possible, la haine qui semblait animer les parties.</p>
                <p>Le tribunal, après en avoir longuement délibéré en la chambre du conseil, a rendu
                   le jugement suivant :</p>
-               <q><p>“Attendu, en droit, que l'action civile en réparation de dommage causé par un
+               <q><p>Attendu, en droit, que l'action civile en réparation de dommage causé par un
                      délit ne peut être portée devant le tribunal regectionnel qu'accessoirement à
                      l'action publique ;</p>
                   <p>Qu'il suit de là que lorsque l'action publique est éteinte par la prescription,
@@ -1093,13 +1070,13 @@
                   <p>Par ces motifs, le tribunal déclare <emph>éteinte par la prescription</emph>
                      l’action publique résultant de la brochure dont il s'agit ; en conséquence
                      renvoie l'action civile devant les juges qui en doivent connaître, et condamne
-                        <persName>le sieur Boitel</persName> aux dépens.”</p></q>
-               <p> En sortant de l'audience, <persName>M. Boitel</persName> s'est transporté avec
+                        <persName>le sieur Boitel</persName> aux dépens.</p></q>
+               <p> En sortant de l'audience, <persName ref="#BOI">M. Boitel</persName> s'est transporté avec
                   son avocat chez un avoué pour faire citer <persName>M. Cicéron</persName> devant
                   la chambre civile du tribunal de première instance de <placeName>la
                      Seine</placeName>. Quoi qu'il en soit de la décision du tribunal, <persName>M.
                      Cicéron</persName> ayant reculé devant les débats publics sur le fond de
-                  l'affaire, la question morale de ce procés est gagnée pour <persName>M.
+                  l'affaire, la question morale de ce procés est gagnée pour <persName ref="#BOI">M.
                      Boitel.</persName></p>
             </div>
 
@@ -1117,7 +1094,7 @@
                <p>
                   <persName ref="#Dal">M. Dalican</persName>, juge-auditeur au tribunal de première instance
                      de<pb n="30" facs="v1n2p30"/><placeName>la Pointe-à-Pitre</placeName>
-                     (<placeName>Guadeloupe</placeName>), a été nommé conseiller-auditeur à la cour
+                     (<placeName ref="#GP">Guadeloupe</placeName>), a été nommé conseiller-auditeur à la cour
                   royale de <placeName>la Guiane</placeName>, en remplacement de <persName>M. Saint
                      Quantin</persName>.</p>
                <p><persName>M. Baradat</persName>, avocat, a été nommé juge-auditeur au tribunal de
@@ -1142,16 +1119,15 @@
                <p>– <persName>M. le maréchal Gérard</persName> est nommé ministre de la guerre et
                   président du conseil, en remplacement de <persName>M. le maréchal
                   Soult</persName>, dont la démission est acceptée.</p>
-               <p>- <persName>M. Mollien</persName>, consul-général à <placeName ref="#HT"
-                     >Haïti</placeName>, a été appelé au consulat de l'île de
-                     <placeName>Cuba</placeName>. <persName ref="#Dav">M. David</persName>, consul de
-                     <placeName>France</placeName> à <placeName ref="#SaY">Sant-lago de
+               <p>- <persName>M. Mollien</persName>, consul-général à <placeName ref="#HT">Haïti</placeName>, a été appelé au consulat de l'île de
+                     <placeName ref="#CUB">Cuba</placeName>. <persName ref="#Dav">M. David</persName>, consul de
+                     <placeName ref="#FR">France</placeName> à <placeName ref="#SaY">Sant-lago de
                      Cuba</placeName>, est appelé au consulat de <placeName>la Havane</placeName>,
                   en remplacement de <persName>M. Guillemin</persName>, décédé.</p>
                <p>- Nous apprenons qu'à cette session, plusieurs députés doivent interpeller les
                   ministres de la marine et des affaires étrangères sur une question très
                   importante : il s'agit des décrets qui frappent d'interdiction l'entrée des Etats
-                  de l'Union et de l'île de <placeName>Cuba</placeName> aux hommes de couleur,
+                  de l'Union et de l'île de <placeName ref="#CUB">Cuba</placeName> aux hommes de couleur,
                   citoyens français. Une telle discussion sera curieuse en présence de ceux des
                   délégués de l'aristocratie coloniale qui sont membres de la chambre des députés.
                   Nous croyons pouvoir assurer à l'avance que, dans cette discussion, l'un de ces
@@ -1170,15 +1146,15 @@
                      <reg>grâce</reg>
                   </choice> ou de commutation.</p>
                <p>– Le concurrent de <persName ref="#CDup">M. Ch. Dupin</persName>, à l'élection de délégué de
-                  l'aristocratie de <placeName>la Martinique</placeName>, était <persName ref="#Berr">M.
+                  l'aristocratie de <placeName ref="#MQ">la Martinique</placeName>, était <persName ref="#Berr">M.
                      Berryer</persName>. Ce député légitimiste était porté par <persName>MM.
                      Villarson</persName>, <persName>Feuardent-Desculleville</persName>,
                      <persName>Perrinelle fils</persName>, <persName>Mauny</persName> et autres
-                  hommes à idées rétrogrades, tous membres du conseil colonial de <placeName>la
-                     Martinique</placeName>. <persName>M. Ch. Dupin</persName> a été nommé par le
+                  hommes à idées rétrogrades, tous membres du conseil colonial de <placeName ref="#MQ">la
+                     Martinique</placeName>. <persName ref="#CDup">M. Ch. Dupin</persName> a été nommé par le
                   parti aristocratique, qui qualifie d'oligarques ceux du parti
                      <persName>Villarson</persName> et consorts.</p>
-               <p>– Nous attendons sur <placeName>Haïti</placeName> et la marche de son gouvernement
+               <p>– Nous attendons sur <placeName ref="#HT">Haïti</placeName> et la marche de son gouvernement
                   des <choice>
                      <orig>documens</orig>
                      <reg>documents</reg>
@@ -1189,15 +1165,14 @@
                   lettre suivante :</p>
                <q><p>A.M. le rédacteur du Courrier français.</p>
                   <p><placeName>Paris</placeName>, <date>22 juillet 1831</date>.</p>
-                  <p>“Monsieur,</p>
-                  <p>Arrivé d'<placeName>Haïti</placeName> seulement depuis trois jours, j'ai eu
-                     l'occasion, en parcourant la série du mois de juin du <title type="periodical"
-                        >Courrier français</title>, de voir inséré dans votre numéro du 22 un
+                  <p>Monsieur,</p>
+                  <p>Arrivé d'<placeName ref="#HT">Haïti</placeName> seulement depuis trois jours, j'ai eu
+                     l'occasion, en parcourant la série du mois de juin du <title type="periodical">Courrier français</title>, de voir inséré dans votre numéro du 22 un
                      article extrait du <title type="periodical">Journal du Havre</title> du 19,
                      dans lequel on fait dire à un <persName>M. Grimard</persName>, commandant
                         <title type="periodical">le Courrier du Brésil</title>, que quelques jours
                      avant son départ du cap haitien, on faisait courir le bruit du renvoi de
-                        <persName>M. Inginae</persName>, secrétaire-général, qui aurait encouru la
+                        <persName>M. Inginac</persName>, secrétaire-général, qui aurait encouru la
                      disgrace du président pour avoir, <emph>disait-on</emph>, fermé les yeux sur un
                      fait de contrebande qui venait de se commettre au profit d'une maison
                      anglaise.</p>
@@ -1211,40 +1186,40 @@
                      aurait rien d'étonnant que<pb n="32" facs="v1n2p32"/> quelques nouveaux capitaines de <choice>
                         <orig>bâtimens</orig>
                         <reg>bâtiments</reg>
-                     </choice> arrivant d'<placeName>Haïti</placeName> annonçassent de nouvelles <choice>
+                     </choice> arrivant d'<placeName ref="#HT">Haïti</placeName> annonçassent de nouvelles <choice>
                         <orig>disgraces</orig>
                         <reg>disgrâces</reg>
                      </choice> du <persName><roleName>général</roleName> Inginac</persName> en leur
                      assignant le premier motif venu. Ce qu'il y a de vrai, c'est que quand il
                      quittera le poste qui lui est confié, et qu'il a rempli dignement, ce ne sera
                      jamais pour aucun acte contraire aux intérêts et à la gloire
-                        d'<placeName>Haïti</placeName>.</p>
+                        d'<placeName ref="#HT">Haïti</placeName>.</p>
                   <p>Je ne répondrai pas au reproche qui est adressé à mon père de s'être montré
                      l'adversaire le plus opposé à la conclusion des traités à intervenir entre
-                        <placeName>la France</placeName> et <placeName>Haïti</placeName>, parce que,
+                        <placeName ref="#FR">la France</placeName> et <placeName ref="#HT">Haïti</placeName>, parce que,
                      comme homme public, il ne doit compte de ses actes qu'à son pays ; mais je ne
                      puis m'empêcher de faire remarquer que ce serait bien étrangement s'écarter de
                      la raison que de ne pas se pénétrer que <persName><roleName>le
                            général</roleName> Inginae</persName> doit trop apprécier les avantages
-                     que feraient naître pour <placeName>Haïti</placeName> des liaisons pacifiques
-                     et définitives établies entre la République et <placeName>la France</placeName>
+                     que feraient naître pour <placeName ref="#HT">Haïti</placeName> des liaisons pacifiques
+                     et définitives établies entre la République et <placeName ref="#FR">la France</placeName>
                      pour ne pas appeler de tous ses voeux la conclusion des négociations qui durent
                      depuis neuf ans, et dont la solution intéresse si éminemment la prospérité de
                      la nation haïtienne.</p>
                   <p>Je me plais à croire, monsieur, que vous voudrez bien donner place à ma lettre
                      dans votre estimable journal.</p>
                   <p>Agréez, etc.</p>
-                  <p><!--comment encoder signature ?--> D. INGINAC.”</p></q>
+                  <p><!--comment encoder signature ?--> D. INGINAC.</p></q>
                <p>ANGLETERRE. - <persName ref="#MEL">Lord Melbourne</persName> est nommé premier ministre, en
                   remplacement de <persName>lord Grey</persName>, démissionnaire.</p>
                <p>- On lit dans le Standard :</p>
-               <p><q>“Aujourd'hui 1er août étant le jour fixé pour la cessation de l'esclavage dans
+               <p><q>Aujourd'hui 1er août étant le jour fixé pour la cessation de l'esclavage dans
                         <placeName>les Indes occidentales</placeName>, il sera donné à la taverne
                      des Francs-Maçons un grand banquet auquel présidera <persName>lord
                         Mulgrave</persName>. Un grand nombre de jeunes gens ont attendu à ce jour
-                     pour se marier.”</q></p>
+                     pour se marier.</q></p>
                <p>- On lit ce qui suit dans le Sun :</p>
-               <p><q>“Nous apprenons que le peuple, daus diverses parties de l'empire, se prépare à
+               <p><q>Nous apprenons que le peuple, daus diverses parties de l'empire, se prépare à
                      célébrer le 1er août, époque d'émancipation des esclaves, comme une fête
                      publique. Cette nouvelle nous a donné une grande satisfaction. Que
                      l'anniversaire soit célébré l'année prochaine seulement, ou que la fête ait
@@ -1252,7 +1227,7 @@
                         <orig>descendans</orig>
                         <reg>descendants</reg>
                      </choice> du peuple anglais regarderont le 15 août comme un glorieux souvenir
-                     de la libéralité anglaise.”</q></p>
+                     de la libéralité anglaise.</q></p>
                <pb n="33" facs="v1n2p33"/>
             </div>
 
@@ -1263,8 +1238,8 @@
             <div type="article">
                <head><placeName ref="#MQ">MARTINIQUE.</placeName></head>
                <p>On nous écrit de la commune de <placeName>la Trinité</placeName> :</p>
-               <q><p>“<persName>Le sieur Bardel</persName>, capitaine d'une compagnie de miliciens,
-                     à <placeName>la Martinique</placeName>, rencontre dans la rue <persName>M.
+               <q><p><persName>Le sieur Bardel</persName>, capitaine d'une compagnie de miliciens,
+                     à <placeName ref="#MQ">la Martinique</placeName>, rencontre dans la rue <persName>M.
                         Igout</persName>, colon, ancien négociant à <placeName>la
                         Trinité</placeName>, lui cherche noise, l'insulte et le menace de coups de
                      bâton. Le motif, c'est que <persName>M. Bardel</persName> se trouvait sans
@@ -1345,7 +1320,7 @@
             </div>
 
             <div type="article">
-               <head><placeName>GUADELOUPE.</placeName></head>
+               <head><placeName ref="#GP">GUADELOUPE.</placeName></head>
 
                <p>On nous écrit de <placeName>la Pointe-à-Pitre</placeName> :</p>
                <q><p>L'arbitraire est toujours à l'ordre du jour dans notre colonie ; les autorités
@@ -1358,26 +1333,25 @@
                      le directeur de l'intérieur ont intimé à <persName>Mme Santz</persName> l'ordre
                      de faire partir son fils sur-le-champ de la colonie, si elle ne voulait pas
                      qu'il fût arrêté et embarqué par ordre du gouvernement. Le jeune
-                        <persName>Santz</persName> est parti pour <placeName>Haïti</placeName>.
+                        <persName>Santz</persName> est parti pour <placeName ref="#HT">Haïti</placeName>.
                      Peut-on se jouer plus impudemment de la liberté des citoyens !</p></q>
                <p><emph>-<placeName>Basse-Terre</placeName>, 27 mai.-</emph> De la manière dont
                   marchent les choses, on peut dire, sans craindre de se tromper, que des <choice>
                      <orig>événemens</orig>
                      <reg>événements</reg>
-                  </choice> comme ceux de la Grand-Anse (<placeName ref="#MQ"
-                  >Martinique</placeName>) se renouvelleront encore plus tard, et avant <choice>
+                  </choice> comme ceux de la Grand-Anse (<placeName ref="#MQ">Martinique</placeName>) se renouvelleront encore plus tard, et avant <choice>
                      <orig>long-temps</orig>
                      <reg>longtemps</reg>
-                  </choice> , ou ici ou à <placeName>la Martinique</placeName>, car l'aristocratie
+                  </choice> , ou ici ou à <placeName ref="#MQ">la Martinique</placeName>, car l'aristocratie
                   veut des victimes et ne les veut que parmi nous et chez nous. Le gouvernement
                   local ne cherche pas du tout à réconcilier les classes divisées aujourd'hui plus
                   que jamais.</p>
             </div>
 
             <div type="article">
-               <head><placeName>BOURBON.</placeName></head>
+               <head><placeName ref="#BrB">BOURBON.</placeName></head>
 
-               <p>Tandis qu'à <placeName>la Martinique</placeName> et à <placeName>la
+               <p>Tandis qu'à <placeName ref="#MQ">la Martinique</placeName> et à <placeName ref="#GP">la
                      Guadeloupe</placeName> l'aristocratie coloniale supprime les fonds alloués au
                   budget pour l'instruction publique, qu'elle vote la suppression des écoles
                   mutuelles créées par le gouvernement, sous le ministère de <persName ref="#AA">M.
@@ -1388,7 +1362,7 @@
                      l'amélioration du sort des esclaves, l'instruction publique, l'agriculture et
                      les arts industriels.</title><pb n="36" facs="v1n2p36"/></p>
                <p><persName>M. Henri Maingard</persName>, auteur de cet écrit, propose qu'il soit
-                  établi dans chaque quartier de <placeName>l'île Bourbon</placeName> une société
+                  établi dans chaque quartier de <placeName ref="#BrB">l'île Bourbon</placeName> une société
                   d'encouragement, composée des électeurs de l'arrondissement. Son but serait de
                   répandre l'éducation primaire, de propager les meilleures méthodes d'agriculture,
                   en un mot de recevoir et de communiquer toutes les notions utiles à toutes les
@@ -1482,7 +1456,7 @@
                         <orig>A</orig>
                         <reg>À</reg>
                      </choice>
-                     <placeName>Alger</placeName>, nos malades dépassent à peine<pb n="38" facs="v1n2p38"/>1,200,
+                     <placeName ref="#Alg">Alger</placeName>, nos malades dépassent à peine<pb n="38" facs="v1n2p38"/>1,200,
                      et malgré la chaleur, l'effectif reste ainsi au-dessous de toutes les
                      prévisions.</p>
                   <p>Les travaux du camp de <placeName>Douera</placeName>, ceux du
@@ -1493,8 +1467,8 @@
             <div>
                <head>COLONIES ÉTRANGÈRES </head>
             </div>
-
-            <div>
+                              <div>
+               <head>MAURICE. </head>
                <p>On lit dans <bibl type="periodical"><emph>le Cernéen</emph></bibl>, journal qui
                   s'imprime au <placeName>Port-Louis</placeName> (<placeName>île
                   Maurice</placeName>) :</p>
@@ -1519,8 +1493,7 @@
                      donner sept roupies sans vivres.</p>
                   <p>Le grand point pour cette colonie, comme pour toutes les au tres, relativement
                      à l'exécution du bill d'émancipation, est que la grande culture puisse se
-                     maintenir, que l'affranchissement ne soit<pb n="39" facs="v1n2p39"
-                     />pas pour les noirs le
+                     maintenir, que l'affranchissement ne soit<pb n="39" facs="v1n2p39"/>pas pour les noirs le
                      signal du désordre et de la paresse, en un mot que le travail libre remplace,
                      au moyen d'un raisonnable salaire, le travail forcé. C'est vers ce but que
                      doivent tendre, dans les limites de l'acte du parlement, toutes les
@@ -1679,7 +1652,7 @@
 
                <p>Dans les colonies anglaises, la saine raison triomphe chaque jour de plus en plus
                   de l'odieux et ridicule préjugé de la peau. A <placeName>Démérari</placeName>,
-                  établissement voisin de <placeName>la Guiane française</placeName>, le bill
+                  établissement voisin de <placeName ref="#GF">la Guiane française</placeName>, le bill
                   d'abolition de l'esclavage n'a fait que rapprocher les différentes classes de la
                   population : toute distinction de couleur a entièrement disparu. D'après le récit
                   d'un voyageur, arrivé récemment de cette colonie, les hommes de couleur y
@@ -1705,7 +1678,7 @@
             </div>
 
             <div type="article">
-               <head><placeName>CUBA</placeName></head>
+               <head><placeName ref="#CUB">CUBA</placeName></head>
 
                <p>Des actes de piraterie ont été commis dans les environs de
                      <placeName>Honduras</placeName> et <placeName>Nicaragua</placeName>
@@ -1718,11 +1691,11 @@
                <p>La traite se fait ouvertement à <placeName>la Havane</placeName>, malgré les
                   dangers auxquels elle devrait exposer ceux qui la font. Dans le mois d'avril
                   dernier, un négrier ayant été affalé à la côte Ouest de
-                     <placeName>Saint-Domingue</placeName>, quelques-uns des esclaves brisèrent
+                     <placeName ref="#HT">Saint-Domingue</placeName>, quelques-uns des esclaves brisèrent
                   leurs fers, saisirent des armes, et, après une affreuse mêlée où l'équipage fut
                   battu, s'emparèrent du navire, qui bientôt fit naufrage. Les noirs qui ne furent
-                  pas noyés ont été accueillis à <placeName>Saint-Domingue</placeName>. Cinq ou six
-                  matelots se sont sauvés à <placeName>Cuba</placeName>.</p>
+                  pas noyés ont été accueillis à <placeName ref="#HT">Saint-Domingue</placeName>. Cinq ou six
+                  matelots se sont sauvés à <placeName ref="#CUB">Cuba</placeName>.</p>
             </div>
 
             <div type="article">
@@ -1749,7 +1722,7 @@
                      pendant laquelle il y eut deux cent vingt-cinq femmes qui votèrent. L'un des
                      candidats était un Irlandais ; il y eut quatre vingt-quinze dames qui donnèrent
                      leurs votes pour lui. L'autre gentleman était <persName>M.
-                        Stanlez-Bagg</persName>, citoyen des <placeName>États-Unis</placeName>,
+                        Stanlez-Bagg</persName>, citoyen des <placeName ref="#USA">États-Unis</placeName>,
                      naturalisé au <placeName>Canada</placeName> ; cent quatre femmes votèrent en sa
                      faveur. Les autres vingt-six femmes qui s'étaient présentées ne firent pas
                      usage de leurs droits politiques. Plusieurs dames prirent, dans cette
@@ -1770,8 +1743,7 @@
                   les paroles suivantes sur la tombe de son ami :</p>
                <q><p>"Ainsi donc, c'en est fait, cher <persName>Pavillon</persName> ; sur ton front
                      de seize ans l'impitoyable Mort a placé sa main glacée. A peine a-t-elle laissé
-                     un intervalle entre ton berceau et la tombe. Venu en <placeName ref="#FR"
-                        >France</placeName> pour chercher cette instruction qui doit opérer
+                     un intervalle entre ton berceau et la tombe. Venu en <placeName ref="#FR">France</placeName> pour chercher cette instruction qui doit opérer
                      l'émancipation des hommes de couleur, c'est après un séjour de dix ans, lorsque
                      tu finissais ta rhétorique, lorsque tu allais te lancer dans une des carrières
                      dont l'utilité est reconnue chez nous, que la cruelle Mort est venue
@@ -1813,7 +1785,7 @@
                   par eux.</p>
                <p>Petit avocat, vivant à <placeName>Aix</placeName> dans l'obscurité, il voulait
                   percer ; il afficha si haut son amour pour cette famille d'ennemis publics
-                  qu'avaient imposée à la <placeName>France</placeName> les baionnettes
+                  qu'avaient imposée à la <placeName ref="#FR">France</placeName> les baionnettes
                   étrangères, il parla si souvent et si fort de son royalisme, qu'enfin le petit
                   avocat devint magistrat. <persName>M. Cabasse</persName> présidait la cour
                   d'assises de <placeName>Toulon</placeName> où fut condamné à mort, par des jurés
@@ -1830,7 +1802,7 @@
                   amis, l'ayant rencontré orné du ruban rouge, le prit par la boutonnière, et d'un
                   ton goguenard le salua du mot latin <foreign><emph>vale</emph></foreign>. Ce fut
                   en <date>1826</date> que ce magistrat fut mis en rapport direct avec les colonies.
-                  Nommé procureur-général à <placeName>la Guadeloupe</placeName> par
+                  Nommé procureur-général à <placeName ref="#GP">la Guadeloupe</placeName> par
                         <persName><roleName>le ministre</roleName> Chabrol</persName>, <persName>M.
                      Cabasse</persName>, après avoir fait sa cour aux <choice>
                      <orig>puissans</orig>
@@ -1844,7 +1816,7 @@
                   nouveau procureur-général un mot de réponse, celui-ci, prenant déjà les airs de
                   grand seigneur, qui allaient si bien à sa nouvelle position, leur envoya
                   cavalièrement son domestique leur dire qu'il avait reçu leurlettre.</p>
-               <p>Après avoir touché et pris langue à <placeName>la Martinique</placeName> avec les
+               <p>Après avoir touché et pris langue à <placeName ref="#MQ">la Martinique</placeName> avec les
                   membres les plus <choice>
                      <orig>influens</orig>
                      <reg>influents</reg>
@@ -1853,9 +1825,9 @@
                      <orig>siége</orig>
                      <reg>siège</reg>
                   </choice> de sa juridiction.</p>
-               <p>Le <date>27 mars 1827</date>, l'affaire de <persName>MM. Bissette</persName>,
-                     <persName>Fabien</persName> et <persName>Volny</persName> vint en cour royale à
-                     <placeName>la Guadeloupe</placeName>. <persName>M. Cabasse</persName>, en un
+               <p>Le <date>27 mars 1827</date>, l'affaire de <persName ref="#CB">MM. Bissette</persName>,
+                     <persName ref="#LFab">Fabien</persName> et <persName ref="#JBVol">Volny</persName> vint en cour royale à
+                     <placeName ref="#GP">la Guadeloupe</placeName>. <persName>M. Cabasse</persName>, en un
                   long réquisitoire écrit de ce style fleuri, traînant, et tout hérissé de
                   réminiscences classiques, familier aux avocats médiocres, et qui est le fléau des
                   auditeurs et le juste châtiment des mauvais juges, soutint l'accusation. Dire
@@ -1885,7 +1857,7 @@
                   que pour amener une condamnation ; il eût été trop révoltant de condamner à mort
                   pour avoir répandu ce que ces messieurs appelaient un libelle ; ils n'eussent osé.
                   Le mezzo-termine de <persName>M. Cabasse</persName> leur permettait de satisfaire
-                  les mauvaises passions de leurs collègues de <placeName>la Martinique</placeName>,
+                  les mauvaises passions de leurs collègues de <placeName ref="#MQ">la Martinique</placeName>,
                   mais le difficile était de motiver un arrêt contraire à la loi. Aussi les juges
                   furent-ils cinq heures à rendre leur arrêt.</p>
                <p><persName>M. Bissette</persName> ne fut pas plus tôt condamné que, par un de ces
@@ -1893,7 +1865,7 @@
                   et la chèvre et le chou, <persName>M. Cabasse</persName> vint visiter, à dix
                   heures du soir, le banni dans sa prison, et s'efforça de lui faire sentir toute la
                   douceur de la condamnation, lui disant de ne pas lui en vouloir, qu'il n'avait pu
-                  mieux faire ; qu'il n'était pas trop dur de vivre en <placeName>France</placeName>,
+                  mieux faire ; qu'il n'était pas trop dur de vivre en <placeName ref="#FR">France</placeName>,
                   et qu'il le priait d'avoir égard à ses bonnes intentions. <persName>M.
                      Bissette</persName> sut très peu de gré, comme on pense, au procureur-général,
                   de cette visite, inspirée évidemment par la crainte de l'opinion
@@ -1930,7 +1902,7 @@
                   <choice>
                      <orig>A</orig>
                      <reg>À</reg>
-                  </choice> son retour en <placeName>France</placeName> en
+                  </choice> son retour en <placeName ref="#FR">France</placeName> en
                      <date>1829</date>, il fut nommé procureur-général à Limoges. Vint la révolution
                   de juillet. <persName>M. Cabasse</persName> se sentit ébranlé sur son <choice>
                      <orig>siége</orig>
@@ -1938,7 +1910,7 @@
                   </choice> d'accusateur public. Amoureux de sa place avant tout, il s'adressa au
                   nouveau ministre pour y être maintenu, et, à l'appui de sa demande, il eut
                   l'inconcevable idée de produire son fameux réquisitoire comme témoignage de sa
-                  modération. Mais les amis des déportés de <placeName>la Martinique</placeName>,
+                  modération. Mais les amis des déportés de <placeName ref="#MQ">la Martinique</placeName>,
                   qui entouraient le vertueux <persName ref="#Dupo">Dupont de
                     l'Eure</persName>, prouvèrent qu'ils avaient de la mémoire :
                      <persName>M. Cabasse</persName> fut destitué.</p>
@@ -1946,7 +1918,7 @@
                   Nous ne pensons pas qu'il se trouve jamais un ministre de la marine qui manque de
                   pudeur au point de l'y renvoyer. <persName>M. Cabasse</persName>, repoussé des
                   emplois publics, s'est fait l'agent d'affaires du pape et des légitimistes ; il
-                  agiote avec avantage, assure t-on, pour <placeName>le Saint- <choice>
+                  agiote avec avantage, assure t-on, pour <placeName>le Saint-<choice>
                         <orig>Siége</orig>
                         <reg>Siège</reg>
                      </choice>
@@ -1954,9 +1926,12 @@
                <p>IMPRIMERIE D'HERHAN, 580, RUE SAINT-DENIS. <!--BAS DE PAGE-->
                </p>
             </div>
-
          </div>
 
       </body>
+      <back>
+            <!-- <xi:include href="notes/RdCv1n2-notes.xml"/> -->
+            <xi:include href="shared/entities.xml"/>
+        </back>
    </text>
 </TEI>

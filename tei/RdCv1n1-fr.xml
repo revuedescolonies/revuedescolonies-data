@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xml:id="RdCv1n1-fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n1-fr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Revue des Colonies V.1 N°1</title>
                 <editor>Maria Beliaeva Solomon</editor>
             </titleStmt>
-            <!-- <xi:include href="shared/editionStmt.xml"/> -->
+            <xi:include href="shared/editionStmt.xml"/>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
@@ -67,8 +63,7 @@
                         par une discussion toujours sage, toujours vraie, mais énergique et jamais
                         timide, des causes, quelles qu'elles soient, qui entravent la fusion
                         désirable des populations diverses des colonies<ptr target="#n4F2A"/>. </p>
-                    <p> A cet effet, un journal spécial est créé sous le titre de <bibl
-                            type="periodical"><title ref="#RdC"> Revue des Colonies</title></bibl>,
+                    <p> A cet effet, un journal spécial est créé sous le titre de <bibl type="periodical"><title ref="#RdC"> Revue des Colonies</title></bibl>,
                         et <persName ref="#CB">M. Bissette</persName> en a la direction. </p>
                     <pb n="4" facs="v1n1p4"/>
                     <p> Ce journal n'est pas seulement consacré à tout ce qui concerne les colonies,
@@ -91,30 +86,26 @@
                         personnes devant le tribunal de l'opinion publique. Le faible y trouvera
                         appui et protection, l'oppresseur, châtiment, le fonctionnaire, bláme mérité
                         de ses actes illégaux, mais respect pour sa personne. </p>
-                    <p> La <title>Revue des Colonies</title> s'occupera aussi de tous les <choice>
+                    <p> La <title ref="#RdC">Revue des Colonies</title> s'occupera aussi de tous les <choice>
                             <orig>changemens</orig>
                             <reg>changements</reg>
                         </choice> opérés ou projetés dans la législation qui régit les colonies
-                        étrangères et qui doivent réagir d'une manière puissante sur les nôtres<ptr
-                            target="#n5699"/>. </p>
-                    <p> Les intérêts nationaux, par rapport à la possession d'<placeName ref="#Alg"
-                            >Alger</placeName>, trouveront dans la <title>Revue des Colonies</title>
+                        étrangères et qui doivent réagir d'une manière puissante sur les nôtres<ptr target="#n5699"/>. </p>
+                    <p> Les intérêts nationaux, par rapport à la possession d'<placeName ref="#Alg">Alger</placeName>, trouveront dans la <title ref="#RdC">Revue des Colonies</title>
                         un organe dévoué et indépendant<ptr target="#n6ED7"/>. </p>
                     <p> Des <choice>
                             <orig>regespondans</orig>
                             <reg>regespondants</reg>
                         </choice> nombreux et instruits assurent aux lecteurs autant de variété que
-                        de savoir dans les articles de la <title>Revue des Colonies.</title>
+                        de savoir dans les articles de la <title ref="#RdC">Revue des Colonies.</title>
                     </p>
                 </div>
                 <pb/>
                 <div xml:id="declaration">
                     <pb n="5" facs="v1n1p5"/>
                     <head>DÉCLARATION DE PRINCIPES.</head>
-                    <p> La <title>Revue des Colonies</title> croit devoir, avant tout, indiquer
-                        d'après quels principes elle jugera les hommes et les choses.<ptr
-                            target="#n6ED7"/> Selon elle, 89, dans l'immortelle <bibl type="legal"
-                                ><title ref="#DDH">Déclaration des Droits</title></bibl> que vota
+                    <p> La <title ref="#RdC">Revue des Colonies</title> croit devoir, avant tout, indiquer
+                        d'après quels principes elle jugera les hommes et les choses.<ptr target="#n6ED7"/> Selon elle, 89, dans l'immortelle <bibl type="legal"><title ref="#DDH">Déclaration des Droits</title></bibl> que vota
                             <orgName ref="#AN">l'Assemblée Nationale</orgName>, posa les bases à
                         venir de toutes les institutions vraiment démocratiques ; c'est pourquoi
                         nous inscrivons cette <title>Déclaration</title> en tête de ce recueil : ce
@@ -126,7 +117,7 @@
                                     <title>Déclaration</title>, qui sera à jamais le cri de
                                 ralliement contre les oppresseurs, et la loi des législateurs
                                 eux-mêmes. </quote>
-                            <bibl type="legal">(Adresse de<orgName> l'Assemblée Nationale</orgName>
+                            <bibl type="legal">(Adresse de<orgName ref="#AN"> l'Assemblée Nationale</orgName>
                                 aux Français, 11 février 1790)</bibl>
                         </cit>
                     </epigraph>
@@ -134,14 +125,13 @@
                 <div>
                     <div>
                         <head rend="bold">Extrait</head>
-                        <head>DES PROCES-VERBAUX DE <orgName>L'ASSEMBLÉE NATIONALE</orgName> DES 20,
+                        <head>DES PROCES-VERBAUX DE <orgName ref="#AN">L'ASSEMBLÉE NATIONALE</orgName> DES 20,
                             21, 22, 23, 24, 26 AOUT ET 1er OCTOBRE 1789.</head>
-                        <head>DÉCLARATION DES DROITS DE L'HOMME EN SOCIÉTÉ<ptr target="#n7767"
-                            />.</head>
+                        <head>DÉCLARATION DES DROITS DE L'HOMME EN SOCIÉTÉ<ptr target="#n7767"/>.</head>
                         <p> Les <choice>
                                 <orig>représentans</orig>
                                 <reg>représentants</reg>
-                            </choice> du peuple français, constitués en <orgName>Assemblée
+                            </choice> du peuple français, constitués en <orgName ref="#AN">Assemblée
                                 Nationale</orgName>, considérant que l'ignorance, l'oubli ou le
                             mépris des droits de l'homme sont les seules causes des malheurs publics
                             et de la reguption des <choice>
@@ -157,7 +147,7 @@
                             désormais sur des principes simples et incontestables, tournent toujours
                             au maintien de la constitution et au bonheur de tous. </p>
                         <pb n="6" facs="v1n1p6"/>
-                        <p> En conséquence, <orgName>l'Assemblée Nationale</orgName> reconnaît et
+                        <p> En conséquence, <orgName ref="#AN">l'Assemblée Nationale</orgName> reconnaît et
                             déclare, en présence et sous les auspices de l'Etre-Suprême, les droits <choice>
                                 <orig>suivans</orig>
                                 <reg>suivants</reg>
@@ -175,8 +165,7 @@
                             ; ainsi l'exercice des droits naturels de chaque homme n'a de bornes que
                             celle qui assurent aux autres membres de la société la jouissance de ces
                             mêmes droits. Ces bornes ne peuvent être déterminées que par la loi.</p>
-                        <p><gap reason="accidental" unit="number" extent="1"
-                                /><supplied>5.-</supplied> La loi n'a le droit de défendre que les
+                        <p><gap reason="accidental" unit="number" extent="1"/><supplied>5.-</supplied> La loi n'a le droit de défendre que les
                             actions nuisibles à la société. Tout ce qui n'est pas défendu par la loi
                             ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle
                             n'ordonne pas.</p>
@@ -204,8 +193,7 @@
                         <p>8.- La loi ne doit établir que des peines strictement et évidemment
                             nécessaires, et nul ne peut être puni qu'en vertu d'une loi établie et
                             promulguée antérieurement au délit et légalement appliquée.</p>
-                        <p>9.- Tout homme étant présumé innocent jusqu'à ce qu'il ait <pb n="7"
-                                facs="v1n1p7"/>été déclaré coupable, s'il est jugé indispensable de
+                        <p>9.- Tout homme étant présumé innocent jusqu'à ce qu'il ait <pb n="7" facs="v1n1p7"/>été déclaré coupable, s'il est jugé indispensable de
                             l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de
                             sa personne doit être sévèrement réprimée par la loi.</p>
                         <p>10.- Nul ne doit être inquiété pour ses opinions, même religieuses,
@@ -238,7 +226,7 @@
                             nul ne peut en être privé, si ce n'est lorsque la nécessité publique,
                             légalement constatée, l'exige évidemment, et sous la condition d'une
                             juste et préalable indemnité.</p>
-                        <closer> Extrait du procès-verbal de <orgName>l'assemblée
+                        <closer> Extrait du procès-verbal de <orgName ref="#AN">l'assemblée
                                 nationale</orgName>, du jeudi 1 octobre 1789. <lb/>Collationné
                             conforme à l'original. <signed>Signé MOUNIER, président ; le vicomte DE
                                 MIRABEAU, DEMEUNIER, BUREAU DE Pusy, l'évêque DE NANCY, FAYDEL,
@@ -258,11 +246,11 @@
                         <p>Nous demandons qu'on compare l'état présent de notre législation avec
                             cette page de justice et de liberté, qu'on examine si les lois qu'on
                             nous fait sont conformes aux principes de cette déclaration, laquelle
-                            doit être à jamais, selon la belle expression de <orgName>l'Assemblée
+                            doit être à jamais, selon la belle expression de <orgName ref="#AN">l'Assemblée
                                 Nationale</orgName>, <emph>la loi des législateurs eux-mêmes</emph>.
                             Et si cet examen montre évidemment que le gouvernement, quel qu'il soit,
                             n'est pas fondé sur cette base, seule équitable, la mise en pratique des
-                            droits de tous, ceux qui, comme nous et avec <orgName>l'Assemblée
+                            droits de tous, ceux qui, comme nous et avec <orgName ref="#AN">l'Assemblée
                                 Nationale</orgName>, seront convaincus que <emph>l'ignorance,
                                 l'oubli ou le mépris des droits de l'homme sont les seules causes
                                 des malheurs publics et de la reguption des <choice>
@@ -276,8 +264,7 @@
                                 <reg>gouvernants</reg>
                             </choice>, au reste, que de celle des gouvernés.</p>
                         <closer>
-                            <emph>Le directeur</emph>, <signed><persName ref="#CB"
-                                    >BISSETTE</persName>.</signed>
+                            <emph>Le directeur</emph>, <signed><persName ref="#CB">BISSETTE</persName>.</signed>
                         </closer>
                     </div>
                 </div>
@@ -286,8 +273,7 @@
                     <p>Tous les journaux ont retenti des déplorables <choice>
                             <orig>événemens</orig>
                             <reg>évènements</reg>
-                        </choice> de la Grand'Anse<ptr target="#n590A"/>, <placeName ref="#MQ"
-                            >Martinique</placeName>. Les uns, inspirés par le pouvoir, aux yeux
+                        </choice> de la Grand'Anse<ptr target="#n590A"/>, <placeName ref="#MQ">Martinique</placeName>. Les uns, inspirés par le pouvoir, aux yeux
                         duquel tout ce qui est émancipation devient un objet de terreur, ont
                         présenté cette affaire sous un aspect défavorable à des hommes qui se sont
                         bornés à résister à l'oppression.<ptr target="#n684A"/> D'autres, plus <choice>
@@ -295,8 +281,7 @@
                             <reg>bienveillant</reg>
                         </choice>, plus impartiaux surtout, se sont bien gardés de porter un
                         jugement anticipé sur une affaire de cette nature : ils savaient que la
-                        passion exagère le mal comme le bien, et qu'il ne faut point <pb n="9"
-                            facs="v1n1p9"/> adopter avec précipitation les dires d'un parti puissant
+                        passion exagère le mal comme le bien, et qu'il ne faut point <pb n="9" facs="v1n1p9"/> adopter avec précipitation les dires d'un parti puissant
                         et souvent injuste. </p>
                     <p>Nous aussi, nous allons nous en occuper, mais en la faisant précéder de
                         considérations propres à en déterminer la moralité.</p>
@@ -316,8 +301,7 @@
                         étrangères aux <choice>
                             <orig>événemens</orig>
                             <reg>évènements</reg>
-                        </choice> de la Grand'Anse, dont nous nous occuperons plus spécialement<ptr
-                            target="#n65C6"/>, s'y rattachent néanmoins par une multitude de fils :
+                        </choice> de la Grand'Anse, dont nous nous occuperons plus spécialement<ptr target="#n65C6"/>, s'y rattachent néanmoins par une multitude de fils :
                         car, dans la destinée des peuples comme dans celle des hommes, rien n'est
                         isolé, et les effets actuels sont souvent produits par des causes qui se
                         perdent dans la nuit des temps.</p>
@@ -354,8 +338,7 @@
                                 <orig>réglemens</orig>
                                 <reg>réglements</reg>
                             </choice></emph> de l'article de la charte concernant les colonies. Il
-                        déclara qu'elles seraient régies par des <emph>lois</emph> particulières<ptr
-                            target="#n3257"/>. Cette reconnaissance tacite des abus de toutes
+                        déclara qu'elles seraient régies par des <emph>lois</emph> particulières<ptr target="#n3257"/>. Cette reconnaissance tacite des abus de toutes
                         sortes, dont le régime des ordonnances est la source impure, fit concevoir
                         d'heureuses espérances aux hommes qui peuvent encore ajouter quelque foi à
                         des promesses de ministres. C'est qu'ils ne croyaient pas qu'un gouvernement
@@ -375,22 +358,18 @@
                             <reg>privilèges</reg>
                         </choice>. </p>
                     <p>En effet les admirables <emph>lois</emph> particulières furent rendues
-                        tellement illusoires qu'elles équivalent au bon plaisir des ordonnances<ptr
-                            target="#n332A"/>, n'en différant que par l'hypocrisie du titre. Par
+                        tellement illusoires qu'elles équivalent au bon plaisir des ordonnances<ptr target="#n332A"/>, n'en différant que par l'hypocrisie du titre. Par
                         exemple, la loi électorale, établissant les droits politiques des blancs et
                         des hommes de couleur, n'est-elle pas une ceuvre de perfide déception ? A
-                            <placeName ref="#BrB">l'île de Bourbon</placeName> et de <placeName
-                            ref="#Cay">Cayenne</placeName>, où les blancs sont en grande majorité,
+                            <placeName ref="#BrB">l'île de Bourbon</placeName> et de <placeName ref="#Cay">Cayenne</placeName>, où les blancs sont en grande majorité,
                         le cens électoral et l'éligibilité sont fixés à un taux moins élevé, car il
                         n'y a point à craindre de concurrence ; mais dans les colonies de la
-                            <placeName ref="#GP">Guadeloupe </placeName> et de la <placeName
-                            ref="#MQ">Martinique</placeName>, où la population de couleur, très
+                            <placeName ref="#GP">Guadeloupe </placeName> et de la <placeName ref="#MQ">Martinique</placeName>, où la population de couleur, très
                         nombreuse, possède une fortune <pb n="11" facs="v1n1p11"/>moyenne, on prend
                         la précaution d'élever le cens de manière qu'elle ne puisse y atteindre.
                         Est-il rien de plus perfide, je dirai même de plus odieusement ironique que
                         de concéder ainsi le droit en interdisant les moyens. N'eût-il pas été plus
-                        vrai de déclarer franchement que les blancs seuls seraient électeurs<ptr
-                            target="#n0490"/>?</p>
+                        vrai de déclarer franchement que les blancs seuls seraient électeurs<ptr target="#n0490"/>?</p>
                     <p>Il devenait difficile, en présence de cette loi d'organisation politique,
                         créant ou plutôt sanctionnant un <choice>
                             <orig>privilége</orig>
@@ -437,8 +416,7 @@
                             <orig>priviléges</orig>
                             <reg>privilèges</reg>
                         </choice>. Les droits politiques, ils les possèdent tous ; la puissance
-                        judiciaire se trouve entre leurs mains ; la force publique, ils la diri<pb
-                            n="12" facs="v1n1p12"/>gent et la commandent ; mais ce n'est pas assez
+                        judiciaire se trouve entre leurs mains ; la force publique, ils la diri<pb n="12" facs="v1n1p12"/>gent et la commandent ; mais ce n'est pas assez
                         au gré de leur orgueil blessé. Un principe, sans application il est vrai, a
                         été émis ; le mot égalité a été prononcé, n'était-ce pas suffisant pour
                         froisser ces cœurs égoïstes et durs pour lesquels tout homme indépendant qui
@@ -513,8 +491,7 @@
                 <div xml:id="affaire">
                     <head>AFFAIRE DE LA GRAND'ANSE</head>
                     <p>Pendant que le parquet de <placeName ref="#MQ">la Martinique</placeName>
-                        enfante laborieusement ce qu'il appelle <rs type="event"
-                                ><emph>l'insurrection de la Grand'Anse</emph></rs>, l'attention du
+                        enfante laborieusement ce qu'il appelle <rs type="event"><emph>l'insurrection de la Grand'Anse</emph></rs>, l'attention du
                         gouvernement métropolitain est appelée sur ces déplorables <choice>
                             <orig>événemens</orig>
                             <reg>événements</reg>
@@ -530,8 +507,7 @@
                         les héritiers de <persName><emph>Fréjus</emph></persName>, laissé pour mort
                         sous les coups d'un <persName>Lasserre</persName> et depuis décédé par suite
                         des violences exercées contre lui ; les héritiers de
-                                <persName><emph>Maurice</emph></persName><pb n="14" facs="v1n1p14"
-                        />tué avec sa femme, et sa fille assassinée par une fusillade exécutée sur
+                                <persName><emph>Maurice</emph></persName><pb n="14" facs="v1n1p14"/>tué avec sa femme, et sa fille assassinée par une fusillade exécutée sur
                         eux à travers leur case ; <persName><emph>Joseph Albert</emph></persName>,
                         déporté de <date>1823</date>, blessé dans cette autre fusillade exécutée sur
                         les prisonniers de <placeName>la purgerie Bonafon</placeName>, à travers le
@@ -543,8 +519,7 @@
                         élevant la voix vers la mère-patrie semblaient mériter quelque intérêt de la
                         part du ministère.</p>
                     <p>De quelle douloureuse indignation ne seront pas saisis nos concitoyens des
-                        colonies lorsqu'ils sauront l'accueil fait par <persName ref="#GVD"
-                                ><roleName>M. le ministre</roleName> de la marine</persName>, à la
+                        colonies lorsqu'ils sauront l'accueil fait par <persName ref="#GVD"><roleName>M. le ministre</roleName> de la marine</persName>, à la
                         requête au <persName ref="#LP"><roleName>roi</roleName></persName> en son
                         conseil, pour avoir autorisation de poursuivre les auteurs ou fauteurs de
                         ces saturnales d'arbitraire et de sang ! <persName><roleName>Ce
@@ -553,11 +528,8 @@
                             ne discuterai pas, dit-il, les faits, parce que la plupart des <choice>
                                 <orig>plaignans</orig>
                                 <reg>plaignants</reg>
-                            </choice> ont compris dans le procès qui s'instruit à <placeName
-                                ref="#MQ">la Martinique</placeName>. <bibl type="periodical"><title
-                                    ref="#MU">Le Moniteur</title></bibl> du <date>17 mars</date> a
-                            d'ailleurs donné une <emph>relation émanée du <persName ref="#EH"
-                                        ><roleName>gouverneur</roleName></persName></emph>
+                            </choice> ont compris dans le procès qui s'instruit à <placeName ref="#MQ">la Martinique</placeName>. <bibl type="periodical"><title ref="#MU">Le Moniteur</title></bibl> du <date>17 mars</date> a
+                            d'ailleurs donné une <emph>relation émanée du <persName ref="#JHD"><roleName>gouverneur</roleName></persName></emph>
                             (c'est-à-dire de celui que les <choice>
                                 <orig>plaignans</orig>
                                 <reg>plaignants</reg>
@@ -585,10 +557,9 @@
                             <reg>plaignants</reg>
                         </choice>, c'est-à-dire <emph>trois</emph>, et non la <emph>plupart</emph>,
                         sont destinés à figurer dans le triste procès dont on donne à l'heure qu'il
-                        est le spectacle à la <placeName>Martinique</placeName> ; mais les autres,
+                        est le spectacle à la <placeName ref="#MQ">Martinique</placeName> ; mais les autres,
                         mais ceux qui sont morts désarmés, prisonniers, sous les balles des soldats,
-                        ceux-là n'iront pas aux assises. Comment op<pb n="15" facs="v1n1p15"
-                        />pose-t-on de sang-froid à leurs femmes et à leurs <choice>
+                        ceux-là n'iront pas aux assises. Comment op<pb n="15" facs="v1n1p15"/>pose-t-on de sang-froid à leurs femmes et à leurs <choice>
                             <orig>enfans</orig>
                             <reg>enfants</reg>
                         </choice> qui se plaignent, ce cruel déni de justice. Quel que soit
@@ -609,7 +580,7 @@
                         requête au <choice>
                             <orig>conseil d'état</orig>
                             <reg>conseil-d'État</reg>
-                        </choice> sont renvoyés aux assises de <placeName>Saint-Pierre</placeName>.
+                        </choice> sont renvoyés aux assises de <placeName ref="#StP">Saint-Pierre</placeName>.
                         Cet arrêt constate en outre authentiquement les faits énoncés dans la
                         requête, et que <persName ref="#GVD"><roleName>M. le ministre de la
                                 marine</roleName></persName> dédaigne de discuter, notamment
@@ -617,14 +588,13 @@
                             sur <persName>Lorville</persName> et deux autres prisonniers fuyant avec
                             lui</emph> (pages 51 et 55 de l'arrêt de mise en accusation). Quant au
                         massacre de <persName>la famille <emph>Maurice</emph></persName>, il est
-                        avoué, bien qu'un peu dénaturé par ce même <title>Moniteur</title> du
+                        avoué, bien qu'un peu dénaturé par ce même <title ref="#MU">Moniteur</title> du
                             <date>17 mars</date> dont la sincérité paraît moins douteuse que celle
                         des <choice>
                             <orig>plaignans</orig>
                             <reg>plaignants</reg>
                         </choice> , mais duquel néanmoins <roleName>M. le ministre</roleName> a
-                        retranché certains passages du rapport officiel du <persName ref="#EH"
-                                ><roleName>gouverneur</roleName></persName> par trop maladroits. Des
+                        retranché certains passages du rapport officiel du <persName ref="#EH"><roleName>gouverneur</roleName></persName> par trop maladroits. Des
                         faits aussi incontestables sont-ils indignes de la sollicitude du
                         gouvernement ? ne méritent-ils pas examen, enquête, discussion
                         contradictoire avec <persName ref="#GVD"><roleName>M. le
@@ -641,10 +611,10 @@
                         seront omis, dissimulés, déniés au besoin, et dans tous les cas excusés. Ce
                         qu'on montrera aux colonies, à <placeName><country>la
                             France</country></placeName>, dans les relations officielles et
-                        authentiques, comme on sait, du <title><emph>Moniteur</emph></title>, ce
+                        authentiques, comme on sait, du <title ref="#MU"><emph>Moniteur</emph></title>, ce
                         sera <emph>cent dix- <pb n="16" facs="v1n1p16"/>sept conspirateurs</emph>
                         comparaissant sous le poids d'une accusation de 300 pages, accusés tous de
-                        complot, car il en faut bien un au gouvernement de <placeName>la
+                        complot, car il en faut bien un au gouvernement de <placeName ref="#MQ">la
                             Martinique</placeName> ; puis prévenus chacun en particulier d'avoir
                             <emph>pillé</emph> deux pots de tafia et deux pots de rhum chez
                                 <persName><emph>Seguinot</emph></persName> ; ou chez
@@ -846,8 +816,7 @@
                         imagination ardente seront mises au jour. On les verra briller et plaire,
                         comme nos spirituelles Françaises, par la variété de leur conversation et
                         l'inexprimable charme de leurs réparties.</p>
-                    <p>Nous adjurons les hommes de couleur de ne pas accuser notre<pb n="21"
-                            facs="v1n1p21"/>critique d'un excès de sévérité. C'est une voix amie qui
+                    <p>Nous adjurons les hommes de couleur de ne pas accuser notre<pb n="21" facs="v1n1p21"/>critique d'un excès de sévérité. C'est une voix amie qui
                         leur parle. Qu'ils suivent les conseils d'hommes qui combattent sans cesse
                         pour le triomphe de leur cause, et qui craignent de voir leur émancipation
                         incomplète ou même sans résultat utile. Si les hommes de couleur ne savent
@@ -856,8 +825,7 @@
                         il est vrai, mais une main ambitieuse et hardie peut les réunir de nouveau.
                         Un gouverneur de la trempe des <persName ref="#HF">Freycinet</persName> et
                         des <persName ref="#FXD">Donzelot</persName>, peut leur faire perdre tout
-                        leur avantage. Un procureur-général de la capacité des <persName ref="#RL"
-                            >RICHARD LUCY</persName>, peut annihiler les concessions les mieux
+                        leur avantage. Un procureur-général de la capacité des <persName ref="#RL">RICHARD LUCY</persName>, peut annihiler les concessions les mieux
                         établies. Qu'ils consultent les <choice>
                             <orig>événemens</orig>
                             <reg>événements</reg>
@@ -871,8 +839,7 @@
                             <reg>collèges</reg>
                         </choice> , et entreront dans les diverses branches de l'administration.
                         Nous n'aurons confiance dans leur avenir que lorsque nous les verrons
-                        fournir à nos écoles <orgName ref="#PO">Polytechnique</orgName>, de <orgName
-                            ref="#StCyr">Saint-Cyr</orgName>, de Médecine, de Droit, de Commerce et
+                        fournir à nos écoles <orgName ref="#PO">Polytechnique</orgName>, de <orgName ref="#StCyr">Saint-Cyr</orgName>, de Médecine, de Droit, de Commerce et
                         de Marine bon nombre d'élèves. C'est alors, alors seulement qu'ils pourront
                         acquérir l'influence et la considération locale dont ils sont si jaloux, et
                         opérer cette fusion dont ils sont encore si éloignés.</p>
@@ -890,8 +857,7 @@
                     <p>Une question neuve, en matière électorale, vient de se présenter dans les
                         colonies, celle de savoir si une femme non mariée peut déléguer ses
                         contributions à son fils naturel légalement reconnu.</p>
-                    <p>Le directeur général de l'intérieur à la <placeName ref="#MQ"
-                            >Martinique</placeName>, faisant fonc<pb n="22" facs="v1n1p22"/>tions de
+                    <p>Le directeur général de l'intérieur à la <placeName ref="#MQ">Martinique</placeName>, faisant fonc<pb n="22" facs="v1n1p22"/>tions de
                         préfet, a refusé de reconnaître cette délégation par le motif suivant
                                 :<q><p>Confier à la femme non mariée le droit de déléguer serait
                                 donner une extension arbitraire à une disposition déjà de sa nature
@@ -902,7 +868,7 @@
                                     <orig>collége</orig>
                                     <reg>collège</reg>
                                 </choice>. Au <placeName ref="#FoR">Fort-Royal</placeName>
-                                    (<placeName>Martinique</placeName>), <date>19 avril 1833</date>.
+                                    (<placeName ref="#MQ">Martinique</placeName>), <date>19 avril 1833</date>.
                                     <emph>Signé</emph>
                                 <persName ref="#RS">vicomte ROSILY</persName>.</p></q></p>
                     <p>Le citoyen que cet arrêté concerne a négligé d'en demander la réformation à
@@ -922,18 +888,15 @@
                     <p>Que répondait le <orgName ref="#CE">conseil-d'état</orgName>, dominé qu'il
                         était par le système du gouvernement d'alors, qui était de restreindre
                         plutôt que d'étendre l'exercice des droits politiques ?</p>
-                    <p>Il répondait, sur une requête par nous présentée au nom de <persName
-                            ref="#AR">M. Aroux</persName>, maintenant député (<date>11 février
+                    <p>Il répondait, sur une requête par nous présentée au nom de <persName ref="#AR">M. Aroux</persName>, maintenant député (<date>11 février
                             1824</date>), <q>que ce serait donner une extension arbitraire à une
                             disposition exceptionnelle que d'étendre au petit-gendre une faculté que
                             la loi avait limitée au gendre.</q> La loi de <date>1831</date> a fait
                         justice de cette chicane.</p>
                     <p>La loi de <date>1817</date> ne parlait pas de la mère <emph>adoptive</emph> ;
-                        cependant, par un arrêt du <date>9 septembre 1830</date>, la <orgName
-                            ref="#CRN">cour royale de Nancy</orgName> a jugé qu'elle avait le droit
+                        cependant, par un arrêt du <date>9 septembre 1830</date>, la <orgName ref="#CRN">cour royale de Nancy</orgName> a jugé qu'elle avait le droit
                         de déléguer.</p>
-                    <p>Depuis, et bien que le divorce ne soit pas rétabli, la <orgName ref="#CHD"
-                            >chambre des députés</orgName> n'a fait aucune difficulté d'admettre, en
+                    <p>Depuis, et bien que le divorce ne soit pas rétabli, la <orgName ref="#CHD">chambre des députés</orgName> n'a fait aucune difficulté d'admettre, en
                             <date>1831</date>, sur notre proposition, la femme divorcée, comme la
                         femme séparée de corps, à la faculté de la délégation.</p>
                     <pb n="23" facs="v1n1p23"/>
@@ -948,7 +911,7 @@
                     <p>Mais il n'a pas voulu mettre ce motif dans son arrêté ; c'eût été une censure
                         d'une habitude invétérée dans les colonies et que des magistrats, tels que
                             <persName ref="#DES">M. Dessalles</persName>, dans les annales de la
-                            <placeName>Martinique</placeName>, ont soutenu être justifiée par
+                            <placeName ref="#MQ">Martinique</placeName>, ont soutenu être justifiée par
                         l'ardeur du climat.</p>
                     <p>Nous pensons qu'indépendamment de cette considération, il y en a une autre
                         plus puissante. Le nombre des électeurs est infini ment restreint dans les
@@ -963,8 +926,7 @@
                     <p>La décision dont il s'agit est donc contraire à l'esprit de la loi, à
                         l'esprit de toute législation électorale, qui dans le doute ne veut pas
                         qu'on restreigne le droit, mais qu'on l'étende.
-                        <placeName>Paris</placeName>, <date>2 juillet 1834</date>. <persName
-                            ref="#FI">ISAMBERT</persName>.</p>
+                        <placeName ref="#Par">Paris</placeName>, <date>2 juillet 1834</date>. <persName ref="#FI">ISAMBERT</persName>.</p>
                 </div>
 
                 <div>
@@ -976,8 +938,7 @@
                         </choice> , <foreign><emph>una et eadem persona</emph></foreign>. Si le
                         texte de la loi spécifie la veuve et la femme séparée, ce qui suppose le
                         mariage, c'est qu'elle se réfère au cas le plus commun, mais la loi est en
-                        cela indicative et non restrictive. <persName ref="#OB"
-                            >ODILON-BARROT.</persName></p>
+                        cela indicative et non restrictive. <persName ref="#OB">ODILON-BARROT.</persName></p>
                     <pb n="24" facs="v1n1p24"/>
                 </div>
             </div>
@@ -987,21 +948,18 @@
 
                 <p>Il s'est présenté devant la <orgName ref="#CDC">cour de cassation</orgName> une
                     question grave en matière d'esclavage.</p>
-                <p>Deux jeunes gens étaient condamnés par la cour d'assises de la <placeName
-                        ref="#GF"><choice>
+                <p>Deux jeunes gens étaient condamnés par la cour d'assises de la <placeName ref="#GF"><choice>
                             <orig>Guiane</orig>
                             <reg>Guyane</reg>
                         </choice> française</placeName>, conjointement avec un homme de couleur
                     libre qui ne s'est pas pourvu en cassation. Ses deux co-accusés étaient
-                    considérés comme esclaves dans toute la procédure ; mais l'un d'eux, <persName
-                        ref="#CJ">Cyprien Jacquard</persName>, articulait qu'il était en état de
+                    considérés comme esclaves dans toute la procédure ; mais l'un d'eux, <persName ref="#CJ">Cyprien Jacquard</persName>, articulait qu'il était en état de
                     manumission, parce qu'il avait été légué par son maître à sa mère émancipée,
                     afin de lui procurer avec d'autres <choice>
                         <orig>enfans</orig>
                         <reg>enfants</reg>
                     </choice> des moyens d'existence.</p>
-                <p>Lorsque cette affaire se présenta pour la première fois, la <orgName ref="#CDC"
-                        >cour de cassation</orgName> fut frappée de ce qu'il y aurait d'odieux à
+                <p>Lorsque cette affaire se présenta pour la première fois, la <orgName ref="#CDC">cour de cassation</orgName> fut frappée de ce qu'il y aurait d'odieux à
                     considérer comme esclave de sa mère un enfant que celle-ci pourrait vendre ; il
                     pourrait arriver qu'une mère fût léguée par un maître à son propre fils, et que
                     celui-ci fût aussi dans le cas de l'aliéner. Un tel renversement des lois de la
@@ -1047,8 +1005,7 @@
                 <p>La cour, par un arrêt du <date>26 juin</date>, est partie de ce point de fait et
                     a déclaré qu'il n'y avait pas lieu d'examiner le mérite du pourvoi.</p>
                 <p>Cette cour nous semblait avoir mieux compris sa haute mission lors de la
-                    discussion de l'affaire du patroné <persName ref="#Louisy"
-                    >Louisy</persName>.</p>
+                    discussion de l'affaire du patroné <persName ref="#Louisy">Louisy</persName>.</p>
                 <p>Elle avait considéré que la liberté est le droit ; que l'esclavage doit être
                     renfermé dans les strictes limites que la loi lui a <choice>
                         <orig>assuré</orig>
@@ -1065,8 +1022,7 @@
                     </choice> de la cour, et a été cité avec éloge à ses audiences de rentrée.</p>
                 <p>N'était-ce pas le cas de rendre un arrêt semblable ? Ni dans la législation
                     romaine ni dans le <bibl type="legal"><title ref="#CN">code noir</title></bibl>
-                    (édit de 1689), on ne trouve cette immoralité consacrée, qu'un père ou<pb n="26"
-                        facs="v1n1p26"/>qu'une mère peut devenir, n'importe comment, la propriété de
+                    (édit de 1689), on ne trouve cette immoralité consacrée, qu'un père ou<pb n="26" facs="v1n1p26"/>qu'une mère peut devenir, n'importe comment, la propriété de
                     son enfant : car avec cette doctrine, on serait obligé de souffrir qu'ils les
                     vendissent au marché et touchassent le prix des auteurs de leurs jours. Les
                     Romains abolirent aussi la loi ancienne qui donnait au père le droit de vie et
@@ -1087,11 +1043,11 @@
                 <p>La mère est tenue aussi, envers son enfant, à des devoirs particuliers. Si cet
                     enfant tombe dans l'impuissance de pourvoir à sa subsistance, ne doit-elle pas
                     le nourrir ?</p>
-                <p>Il est fâcheux que la <orgName>cour de cassation</orgName> ait laissé cette grave
+                <p>Il est fâcheux que la <orgName ref="#CDC">cour de cassation</orgName> ait laissé cette grave
                     question sans la résoudre et ne se soit attachée qu'au fait apparent. En jugeant
                     ainsi, n'aurait-elle pas violé l'article 7 de l'ordonnance de 1832, qui assure
                     aux libres de fait le bénéfice du recours en cassation ?</p>
-                <p>Le jeune <persName>Cyprien Jacquard</persName>, en déclarant qu'il appartenait à
+                <p>Le jeune <persName ref="#CJ">Cyprien Jacquard</persName>, en déclarant qu'il appartenait à
                     sa mère, ne prouvait-il pas, par cela seul, qu'il n'avait pas de maître, et
                     qu'il n'y avait entre lui et sa mère que le lien naturel et civil ?</p>
             </div>
@@ -1105,8 +1061,7 @@
                     leur grossière nourriture, ils expirent lentement dans un supplice de tous les <choice>
                         <orig>instans</orig>
                         <reg>instants</reg>
-                    </choice> ; l'avarice seule et jamais l'humanité retient quelquefois ces<pb
-                        n="27" facs="v1n1p27"/>maîtres cruels, qui craignent par la mort d'un
+                    </choice> ; l'avarice seule et jamais l'humanité retient quelquefois ces<pb n="27" facs="v1n1p27"/>maîtres cruels, qui craignent par la mort d'un
                     esclave de perdre un prix vénal. Mais lorsque l'esclave, infirme ou vieux, ne
                     peut plus rendre les mêmes services, lorsque son gain présumé sur l'habitation
                     ne dépasse pas les frais qu'il occasionne, oh alors ! nulle considération ne
@@ -1148,8 +1103,7 @@
                     mais la rumeur publique l'avait devancé, et le commandant vint avec le juge de
                     paix et deux médecins faire l'autopsie du cadavre. On reconnut alors le genre de
                     mort, et entre autres plaies, un coup de feu à la mâchoire inférieure.
-                    Procès-verbal ayant été dressé, a été déposé au <placeName ref="#FoR"
-                        >Fort-Royal</placeName>.</p>
+                    Procès-verbal ayant été dressé, a été déposé au <placeName ref="#FoR">Fort-Royal</placeName>.</p>
                 <p>Dans la même colonie, commune de <placeName>Macouba</placeName>, un riche
                     propriétaire est accusé par la vindicte publique de faire mourir ses esclaves.
                     Le procureur du roi se rend sur la propriété et y trouve une malheureuse femme
@@ -1171,8 +1125,7 @@
                 <head>PARIS.</head>
                 <head>CONVOCATION DES CHAMBRES.</head>
 
-                <p>L'ordonnance suivante est publiée par le <bibl type="periodical"><title ref="#MU"
-                            >Moniteur</title></bibl> du <date>1 juillet</date>, avec la date du
+                <p>L'ordonnance suivante est publiée par le <bibl type="periodical"><title ref="#MU">Moniteur</title></bibl> du <date>1 juillet</date>, avec la date du
                         <date>30 juin</date> et le contre-seing de <persName ref="#THI">M.
                         Thiers</persName> : </p>
                 <q><p>Art. 1. La disposition de notre ordonnance du <date>25 mai dernier</date>, qui
@@ -1180,7 +1133,7 @@
                             août 1834</date>, est rapportée.<pb n="29" facs="v1n1p29"/>Art. 2. La
                         chambre des pairs et la chambre des députés sont convoquées pour le <date>31
                             juillet prochain</date>.</p></q>
-                <p>Le <title><emph>Moniteur</emph></title> publie à la suite, mais dans la partie
+                <p>Le <title ref="#MU"><emph>Moniteur</emph></title> publie à la suite, mais dans la partie
                     non officielle, la communication suivante, qui explique la portée de cette
                     mesure :</p>
                 <q><p>La réunion des chambres devait avoir lieu le <date>20 août prochain</date>.
@@ -1219,8 +1172,7 @@
                     législature, qui se sont de tout temps intéressés particulièrement à la question
                     des colonies.</p>
                 <p><persName ref="#AD">M. DELABORDE</persName> a été nommé à
-                        <placeName>Paris</placeName> et à <placeName>Étampes (Seine-et<pb n="30"
-                            facs="v1n1p30"/>Oise)</placeName> ; sans doute on pourrait désirer chez
+                        <placeName ref="#Par">Paris</placeName> et à <placeName>Étampes (Seine-et<pb n="30" facs="v1n1p30"/>Oise)</placeName> ; sans doute on pourrait désirer chez
                     cet honorable député un peu plus de sévérité pour les conseillers de la
                     couronne. Quoi qu'il en soit, nous n'hésiterons jamais à reconnaître à M.
                     Delaborde des intentions pures, et nous sommes bien certains que la cause des
@@ -1236,8 +1188,7 @@
                     nos colonies.</p>
                 <p><persName ref="#FI">M. ISAMBERT</persName> a été réélu dans la <placeName>Vendée
                         Luçon</placeName>. Nous félicitons les électeurs de Luçon d'avoir renouvelé
-                    le mandat du courageux défenseur des déportés de la <placeName ref="#MQ"
-                        >Martinique</placeName>, d'un homme aussi probe qu'éclairé, qui ne laisse
+                    le mandat du courageux défenseur des déportés de la <placeName ref="#MQ">Martinique</placeName>, d'un homme aussi probe qu'éclairé, qui ne laisse
                     jamais passer une injustice sans la flétrir, et qui n'a jamais fait défaut à la
                     sainte cause de l'humanité.</p>
                 <p><persName ref="#GdL">M. GAETAN DE LA ROCHEFOUCAULD</persName> a été nommé dans le
@@ -1247,15 +1198,13 @@
                 <p>Parmi les pertes les plus regrettables pour les hommes de couleur que nous avons
                     à signaler dans les dernières élections, nous devons nommer en première ligne
                         <persName ref="#ES">M. Eusèbe Salverte</persName>.</p>
-                <p>Dans le <placeName>5e arrondissement électoral de Paris</placeName>, <persName
-                        ref="#THI">M. Thiers </persName>l'a emporté sur cet honorable citoyen. C'est
+                <p>Dans le <placeName>5e arrondissement électoral de Paris</placeName>, <persName ref="#THI">M. Thiers </persName>l'a emporté sur cet honorable citoyen. C'est
                     la victoire de l'intrigue sur l'austérité patriotique personnifiée dans la
                     personne de M. Salverte. M. le ministre de l'intérieur est le pâle reflet de
                         <persName ref="#Talle">M. de Talleyrand</persName>, ce type et doyen des
                     roués politiques, comme M. Salverte nous offre la pure et vivante image du
                     vertueux <persName ref="#CAR">Carnot</persName>.</p>
-                <p><persName ref="#Chara">MM. Charamaule</persName> et <persName ref="#Meril"
-                        >Mérilhou</persName> n'ont pas été non plus réélus. Espérons que les
+                <p><persName ref="#Chara">MM. Charamaule</persName> et <persName ref="#Meril">Mérilhou</persName> n'ont pas été non plus réélus. Espérons que les
                     réélections qui auront lieu par suite des doubles nominations répareront cette
                     perte ou plutôt cette injustice.</p>
                 <pb n="31" facs="v1n1p31"/>
@@ -1264,8 +1213,7 @@
             <div>
                 <head>NOUVELLES DIVERSES.</head>
                 <q>
-                        <p>L'article suivant, publié par le <bibl type="periodical"><title ref="#MU"
-                                    >Moniteur</title></bibl> du <date>2 juillet</date>, est sans
+                        <p>L'article suivant, publié par le <bibl type="periodical"><title ref="#MU">Moniteur</title></bibl> du <date>2 juillet</date>, est sans
                             doute une réponse indirecte aux nouvelles données sur l'état de la
                             colonie de la <placeName ref="#MQ">Martinique</placeName>.</p>
                         <p><persName ref="#EH">M. le vice-amiral Halgan, gouverneur de la
@@ -1301,7 +1249,7 @@
                             </q>
                         <p>Ainsi, le témoignage de <persName>M. le vice-amiral Halgan</persName>, en
                             ce qui concerne la situation des esclaves à la
-                                <placeName>Martinique</placeName>, est en tout semblable à celui de
+                                <placeName ref="#MQ">Martinique</placeName>, est en tout semblable à celui de
                                 <persName ref="#JHD">M. le contre-amiral Dupotet</persName>, qu'il a
                             remplacé, et qui, lui-même, n'avait fait que confirmer à cet égard les
                             rapports de son prédécesseur. Cette unanimité d'opinions de la part
@@ -1312,8 +1260,7 @@
                             former aux amis de l'humanité.</p>
                         <p>Ne serait-il pas permis de faire remarquer que cette unanimité des
                             gouverneurs pourrait bien ne prouver qu'une chose, savoir : qu'ils ont
-                            été, dès leur arrivée, circonvenus par les mêmes<pb n="32"
-                                facs="v1n1p32"/>influences. Et quant à <persName>M.
+                            été, dès leur arrivée, circonvenus par les mêmes<pb n="32" facs="v1n1p32"/>influences. Et quant à <persName ref="#EH">M.
                                 Halgan</persName> en particulier, à peine arrivé dans l'île, qui a
                             vu quelques habitations, et qui refuse les suppliques qu'on lui
                             présente, c'est une autorité qu'il est, quant à présent, permis de
@@ -1324,7 +1271,7 @@
                         <emph>el dorado</emph> véritable ; jouissant de ce bonheur tranquille et
                     pur, que l'on ne retrouve plus que dans les bergeries de Durfé et de Florian. Il
                     faut en vérité ne plus avoir de pudeur pour oser ainsi avancer des faits aussi
-                    évidemment faux. Que le <title><emph>Moniteur</emph></title> nous donne donc
+                    évidemment faux. Que le <title ref="#MU"><emph>Moniteur</emph></title> nous donne donc
                         <emph>sans réticences</emph> le rapport de l'<persName>amiral
                         Halgan</persName>, et qu'il nous dise si les maîtres signalés par l'amiral,
                     comme ayant assassiné des esclaves, jouissent de l'affection de ceux qui ont vu
@@ -1332,7 +1279,7 @@
                     mais on n'osera pas le donner en entier, car il suffirait pour faire connaître
                     la mesure du bonheur des esclaves. Dans un prochain numéro nous examinerons ce
                     rapport, et nous supplérons aux omissions volontaires du
-                            <title><emph>Moniteur</emph></title>.</p>
+                            <title ref="#MU"><emph>Moniteur</emph></title>.</p>
             </div>
 
             <div xml:id="coloniesfr">
@@ -1354,8 +1301,7 @@
                         l'abolition de l'esclavage a passé en <placeName>Angleterre</placeName>, nos
                         aristocrates consentiraient à introduire dans le conseil colonial deux
                         hommes de couleur sur seize, pourvu toute fois que ce fût des gens bien
-                        dociles, n'ayant aucune relation avec ce <persName ref="#CB"
-                            >Bissette</persName>, éternel ennemi des intérêts coloniaux.</q></p>
+                        dociles, n'ayant aucune relation avec ce <persName ref="#CB">Bissette</persName>, éternel ennemi des intérêts coloniaux.</q></p>
                 <pb n="33" facs="v1n1p33"/>
                 <p><emph>SUPPLÉMENT</emph></p>
                 <q><p>Enfin ils sont parvenus à ce résultat, et deux hommes de couleur ont été admis
@@ -1432,8 +1378,7 @@
                     à la marque. M. Le Pelletier-Duclary, cervelle timbrée, tenait le fauteuil,
                     requérant l'application de la pénalité dictée par son collègue RICHARD-LUCY.</p>
                 <p>Si l'on veut encore de nouvelles preuves de la moralité de cette affaire, il
-                    suffit de faire connaitre les deux conseillers colons, <persName ref="#JorLa"
-                        >MM. Jorna Lacalle</persName> et <persName ref="#ABour">Alphonse
+                    suffit de faire connaitre les deux conseillers colons, <persName ref="#JorLa">MM. Jorna Lacalle</persName> et <persName ref="#ABour">Alphonse
                         Bourke</persName>, qui ont rendu l'ar-<pb n="34" facs="v1n1p34"/>rêt de
                     renvoi devant les assises. <persName>M. Jorna Lacalle</persName> vota pour la
                     mort dans l'affaire de <date>1824</date>. Ce magistrat est d'une incapacité
@@ -1446,12 +1391,10 @@
                 <p>-Le <date>19 mai</date>, on a procédé au tirage au sort des quatre assesseurs qui
                     doivent composer les assises ; ce sont : <persName ref="#Baud">MM.
                         Baudin</persName>, <persName ref="#HuyD">Huygues-Despointes</persName>,
-                        <persName ref="#DuDu">Duval-Dugué</persName> (de la Grand'Anse) et <persName
-                        ref="#Germa">Germa</persName>. M. Duval-Dagué est plaignant et témoin à
+                        <persName ref="#DuDu">Duval-Dugué</persName> (de la Grand'Anse) et <persName ref="#Germa">Germa</persName>. M. Duval-Dagué est plaignant et témoin à
                     charge dans l'affaire qu'il est appelé à juger. L'acte d'accusation porte, à la
                     page 39, que sur son habitation deux des accusés lui ont <emph>pillé</emph> son
-                    tafia. Les accusés n'ont pu obtenir qu'il fût récusé, parce que MM. <persName
-                        ref="#AuA"><orig>Aubert-Armard</orig><corr>Aubert-Armand</corr></persName>,
+                    tafia. Les accusés n'ont pu obtenir qu'il fût récusé, parce que MM. <persName ref="#AuA"><orig>Aubert-Armard</orig><corr>Aubert-Armand</corr></persName>,
                     procureur du roi, et <persName>Selles</persName>, juge royal, ne trouvent pas
                     d'incompatibilité à ce qu'un blanc jugeant des nègres et des mulâtres soit en
                     même temps plaignant et témoin. <emph> Le caractère respectif de l'assesseur
@@ -1460,8 +1403,7 @@
                 <p>-Lorsque les accusés de la <placeName>Grand'Anse</placeName> ont été transférés
                     de la prison au palais, pour le tirage au sort des assesseurs, un développement
                     extraordinaire de troupes a eu lieu ; des factionnaires placés de dix pas en dix
-                    pas s'opposaient à tout rassemblement. En tête marchaient les sieurs <persName
-                        ref="#LTelem">Léonce</persName> et <persName ref="#ATelem">Arthur
+                    pas s'opposaient à tout rassemblement. En tête marchaient les sieurs <persName ref="#LTelem">Léonce</persName> et <persName ref="#ATelem">Arthur
                         Télémaque</persName>, emmenottés comme tous leurs co-accusés. Quatre-vingts
                     gendarmes formaient l'escorte et deux compagnies de voltigeurs fermaient la
                     marche.</p>
@@ -1480,8 +1422,7 @@
                 <pb n="35" facs="v1n1p35"/>
                 <p>Peu après la révolution de juillet, ce même magistrat, nommé juge royal à
                         <placeName ref="#Cay">Cayenne</placeName>, ne craignait pas de demander des
-                    avis à l'un des mandataires des hommes de couleur à <placeName ref="#Par"
-                        >Paris</placeName> ; il voulait, disait-il, s'éclairer de manière à pouvoir
+                    avis à l'un des mandataires des hommes de couleur à <placeName ref="#Par">Paris</placeName> ; il voulait, disait-il, s'éclairer de manière à pouvoir
                     faire exécuter les lois en dépit du mauvais vouloir des colons. A cette époque,
                     il est vrai, il rencontrait souvent ce mandataire dans les salons du ministre de
                     la justice, où il était accueilli. Cela explique bien des choses.</p>
@@ -1570,8 +1511,7 @@
                     croit dangereux, elle manquerait en partie à sa mission ; il faut aussi qu'elle
                     poursuive même en pays étranger les malheureux qui ont encouru son
                     animadversion. Les haines aris<pb n="37" facs="v1n1p37"/>tocratiques sont
-                    tenaces autant que celles des rois, et si <persName ref="#NIC"
-                        >Nicolas</persName> poursuit les débris de la Pologne dans toutes les
+                    tenaces autant que celles des rois, et si <persName ref="#NIC">Nicolas</persName> poursuit les débris de la Pologne dans toutes les
                     parties du monde, si <persName ref="#C-A">Charles-Albert</persName> réclame
                     partout ses victimes, l'aristocratie coloniale aussi rugit de fureur lorsqu'un
                     infortuné voué au bourreau vient à lui échapper ; ses sbires le traquent alors
@@ -1585,8 +1525,7 @@
                         <persName ref="#AHav">M. Auguste Havre</persName>, se réfugia à l'ile
                     danoise de <placeName ref="#StT">Saint-Thomas</placeName>, espérant y trouver un
                     asile où ses persécuteurs ne viendraient pas le troubler. Son erreur était
-                    grande ! Le <persName>sieur Morin</persName>, fils d'un pharmacien de <placeName
-                        ref="#StP">Saint-Pierre</placeName>, étant allé à Saint-Thomas, le reconnut,
+                    grande ! Le <persName>sieur Morin</persName>, fils d'un pharmacien de <placeName ref="#StP">Saint-Pierre</placeName>, étant allé à Saint-Thomas, le reconnut,
                     et ce jeune colon le dénonça comme fauteur de la grande révolution de la
                     Grand'Anse à <persName ref="#MACK">M. l'amiral Mackau</persName>, commandant la
                     station des Antilles, qui se trouvait en ce moment dans cette colonie da noise.
@@ -1635,10 +1574,8 @@
                     moins de racine ; on peut même dire qu'il n'en existe plus, puisque les hommes
                     de couleur y remplissent les fonctions publiques comme les blancs, sans qu'il y
                     ait entre eux d'astre rivalité que celle du mérite. Il n'est donc pas surprenant
-                    que cette ile hospitalière, qui en outre est voisine de la <placeName ref="#MQ"
-                        >Martinique</placeName>, soit un point de refuge pour nos malheureux
-                    compatriotes persécutés. Eh bien ! le général <persName ref="#JHD"
-                        >Dupotet</persName>, ex-gouverneur de la Martinique, a fait également au
+                    que cette ile hospitalière, qui en outre est voisine de la <placeName ref="#MQ">Martinique</placeName>, soit un point de refuge pour nos malheureux
+                    compatriotes persécutés. Eh bien ! le général <persName ref="#JHD">Dupotet</persName>, ex-gouverneur de la Martinique, a fait également au
                     gouverneur de cette colonie l'offre d'un trafic de chair humaine. Comme son
                     collègue de <placeName ref="#STL">Sainte-Lucie</placeName>, ce dernier a refusé
                     péremptoirement. Les hommes d'honneur s'entendent partout.</p>
@@ -1651,14 +1588,11 @@
                 <p>Parmi les défenseurs de l'humanité, le plus constant, sans contredit, le plus
                     vertueux, le plus dévoué, ce fut <persName ref="#LaF">Lafayette</persName>. Il
                     n'est plus ! Il est mort, le <date>20 mai dernier</date>, des suites d'une
-                    maladie contractée au convoi de l'infortuné <persName ref="#DUL"
-                        >Dulong</persName>, dont le vieux général voulut être, malgré quelques
+                    maladie contractée au convoi de l'infortuné <persName ref="#DUL">Dulong</persName>, dont le vieux général voulut être, malgré quelques
                     symptômes d'indisposition, et qu'il suivit religieusement à pied, de la maison
-                    mortuaire jusqu'à la tombe préparée pour recevoir les dépouilles mortelles de<pb
-                        n="39" facs="v1n1p39"/>notre pauvre ami. La mort de Dulong a précipité celle
+                    mortuaire jusqu'à la tombe préparée pour recevoir les dépouilles mortelles de<pb n="39" facs="v1n1p39"/>notre pauvre ami. La mort de Dulong a précipité celle
                     de Lafayette. Nous qui avons aimé le jeune député, et qui avions le bonheur de
-                    contempler de près l'admirable vieillesse de l'illustre ami de <persName
-                        ref="#WAS">Washington</persName>, ce nous a été, à peu de distance, un
+                    contempler de près l'admirable vieillesse de l'illustre ami de <persName ref="#WAS">Washington</persName>, ce nous a été, à peu de distance, un
                     double sujet de douleur.</p>
                 <p>Le nom de Lafayette vivra tant que l'abnégation de tout intérêt personnel, le pur
                     et inreguptible dévouement à la cause de tous seront en honneur parmi les
@@ -1679,22 +1613,18 @@
                     allait donner de son sang, où <persName ref="#JEF">Jefferson</persName>,
                         <persName ref="#ADA"><orig>Adam</orig><corr>Adams</corr></persName>, et
                         <persName ref="#WAS">Washington</persName> l'attendaient, et d'où il ne
-                    revint qu'après avoir assuré, avec ses illustres amis, par la <rs ref="YKS"
-                        >capitulation de Yorkstown</rs>, qui termina la guerre de l'indépendance en
+                    revint qu'après avoir assuré, avec ses illustres amis, par la <rs ref="YKS">capitulation de Yorkstown</rs>, qui termina la guerre de l'indépendance en
                         <date>octobre 1781</date>, l'existence nationale de la grande et sereine
                     république qui fut toujours pour lui l'objet d'une vive et patriotique
                     affection.</p>
                 <p>La vie politique de <persName>M. Lafayette</persName> est connue : la généreuse
                     part qu'il prit à la <rs>révolution de 1789</rs>, la force de logique, la clarté
-                    simple, la foi inaltérable avec les lesquelles il mit en avant, à l'<orgName
-                        ref="#AN">Assemblée Nationale</orgName> et dans la <orgName ref="#AC"
-                        >Constituante</orgName>, les saints principes pour lesquels nous combattons,
+                    simple, la foi inaltérable avec les lesquelles il mit en avant, à l'<orgName ref="#AN">Assemblée Nationale</orgName> et dans la <orgName ref="#AC">Constituante</orgName>, les saints principes pour lesquels nous combattons,
                     n'ont pas besoin d'être rappelées. Plus d'une fois il y éleva la voix contre
                     l'esclavage des noirs et l'injustice qui excluait les hommes de couleur de
                     l'exercice des droits de cité, mais malheureusement souvent sans succès.</p>
                 <p>A cet égard, il ne se borna pas à la théorie, il y joignit la pratique, chose
-                    plus rare : dès <date>1791</date>, le général affranchit tous les<pb n="40"
-                        facs="v1n1p40"/>esclaves de ses possessions de la <placeName ref="#GF"><choice>
+                    plus rare : dès <date>1791</date>, le général affranchit tous les<pb n="40" facs="v1n1p40"/>esclaves de ses possessions de la <placeName ref="#GF"><choice>
                             <orig>Guiane</orig>
                             <reg>Guyane</reg>
                         </choice> française</placeName> ; et à ce titre il doit être
@@ -1702,7 +1632,7 @@
                     il n'a jamais cessé de revendiquer la liberté et toutes les prérogatives des
                     blancs.</p>
                 <p>En cette même année <date>1791</date>, il prononça à la tribune ces paroles
-                    mémorables :<q>D'après les décrets de l'<orgName>Assemblée Nationale</orgName>,
+                    mémorables :<q>D'après les décrets de l'<orgName ref="#AN">Assemblée Nationale</orgName>,
                         je crois qu'il est clair que les <emph>hommes</emph> libres, propriétaires,
                         cultivateurs et contribuables sont des <emph>citoyens</emph>. Or, les hommes
                         de couleur sont propriétaires, cultivateurs, contribuables ; sont-ils des
@@ -1736,9 +1666,9 @@
                 <p>IMPRIMERIE D'HERHAN, 380, RUE SAINT-DENIS.</p>
             </div>
         </body>
-        <!-- <back>
+        <back>
             <xi:include href="notes/RdCv1n1-notes.xml"/>
             <xi:include href="shared/entities.xml"/>
-        </back> -->
+        </back>
     </text>
 </TEI>

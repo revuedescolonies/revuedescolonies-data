@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xml:id="RdCv1n7-fr">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n7-fr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -63,7 +59,7 @@
                     </p>
                     <p>
                         Aussi, dans notre sollicitude philanthropique, ne nous inquiétons-nous pas seulement des esclaves de race africaine, nos compatriotes, nos frères; mais encore de tous les esclaves. 
-                        <placeName>Europe</placeName>, <placeName>Afrique</placeName>, <placeName>Asie</placeName>, 
+                        <placeName ref="#EUR">Europe</placeName>, <placeName>Afrique</placeName>, <placeName>Asie</placeName>, 
                         <placeName>Amérique</placeName>, <placeName> Océanie</placeName>, 
                         il n'importe! Nous voulons des hommes libres, des travailleurs heureux sur toute la surface de la terre. Nous en voulons à l'esclavage, non seulement 
                         <choice>
@@ -98,7 +94,7 @@
                             <orig>documens</orig>
                             <reg>documents</reg>
                         </choice> 
-                        qui nous ont été adressés des lieux mêmes témoignent d'une manière irrécusable que le travail libre a déjà porté les plus heureux fruits aux <placeName>colonies anglaises</placeName>.
+                        qui nous ont été adressés des lieux mêmes témoignent d'une manière irrécusable que le travail libre a déjà porté les plus heureux fruits aux <placeName ref="#CA">colonies anglaises</placeName>.
                     </p>
                     <p>
                         S'il est besoin cependant de montrer encore aux incrédules de nos colonies tout ce que la culture et l'industrie ont à gagner à n'être pratiquées que par des mains libres, nous pouvons facilement invoquer le témoignage de tous ceux qui ont approfondi consciencieusement la question; et certes les preuves et les 
@@ -183,7 +179,7 @@
                             Cochinchine
                         </placeName>
                         sur ceux de certaines parties de l'
-                        <placeName>Inde</placeName>
+                        <placeName ref="#IN">Inde</placeName>
                         où la matière première est la même, mais où il y a des esclaves, à la liberté des travailleurs de ce pays.
                         <quote>
                             La terre, ajoute-t-il, qui multiplie les productions sous la main d'un laboureur de race libre, semble frappée d'une incurable stérilité par les sueurs de l'esclave!
@@ -201,7 +197,7 @@
                             , de croire que les colonies, avec leurs esclaves, pourront jamais lutter pour le bas prix de leurs produits avec les manufacturiers libres de l'
                             <placeName ref="#ANG">Angleterre</placeName>. 
                             Jamais le travail de la servitude n'est aussi bon marché que l'autre; il est facile de s'en rendre raison. Que l'on calcule l'intérêt du prix d'achat d'un noir; le taux d'assurance de sa vie ou les risques de sa perte; son entretien complet; les frais de ses journées de maladie ou de repos; les pertes qui résultent de sa paresse, d'autant plus naturelle qu'il n'est nullement intéressé à ce que son travail soit productif; ce que coûte l'intendant, dont la présence et le fouet sont toujours nécessaires; qu'on ajoute à cela les pertes occasionnées par le gaspillage ou même les vols de l'esclave (car tout esclave, par la nature même de l'esclavage, est et doit être voleur, lui à qui l'on a volé sa chair et ses os); et qu'on compare ensuite ces frais avec le salaire d'un mineur ou d'un fileur anglais, et l'on se convaincra que le travail en 
-                            <placeName>Angleterre</placeName> 
+                            <placeName ref="#ANG">Angleterre</placeName> 
                             est infiniment meilleur marché que dans les <placeName ref="#ANTE">Antilles</placeName>.
                         </quote>
                     </p>
@@ -210,7 +206,7 @@
                         M. 
                         <persName>J.-B. Say</persName>, 
                         le célèbre économiste, avait aussi partagé sans passion l'erreur de ceux qui soutiennent que les colonies des 
-                        <placeName>Antilles</placeName>  
+                        <placeName ref="#ANTE">Antilles</placeName>  
                         ne peuvent être cultivées avec succès que par des esclaves; il avait avancé cette assertion comme un fait dans les premières éditions de son 
                         <bibl type="monogr">
                             <title>Traité d'Economie politique</title>
@@ -260,7 +256,7 @@
                     <p>
                         <quote>
                             L'esclavage est incompatible avec une industrie un peu avancée; il touche à son terme chez tous les peuples d'origine européenne; et comme l'inquiétude et l'intelligence de l'
-                            <placeName>Europe</placeName> finiront par envahir le monde, on peut affirmer qu'un jour l'esclavage aura cessé partout.
+                            <placeName ref="#EUR">Europe</placeName> finiront par envahir le monde, on peut affirmer qu'un jour l'esclavage aura cessé partout.
                         </quote>
                     </p>
                     <p>
@@ -282,7 +278,7 @@
                         <ptr target="#"/>
                         <!-- réf de la note?  --> 
                         de 60 pages. Cette brochure a eu d'innombrables éditions en 
-                        <placeName>Angleterre</placeName>.
+                        <placeName ref="#ANG">Angleterre</placeName>.
                     </note>
                     <pb n="8" facs="v1n7p8"/>
                     <p>
@@ -309,7 +305,7 @@
                         Tout le monde sait que dans l'
                         <placeName>Indostan</placeName> 
                         on fabrique à moins de frais du sucre supérieur à celui des 
-                        <placeName>Antilles</placeName>
+                        <placeName ref="#ANTE">Antilles</placeName>
                         ; la 
                         <placeName>Chine</placeName>
                         , le 
@@ -329,10 +325,10 @@
                             <reg>arpents</reg>
                         </choice>
                         , à des travailleurs libres, qui paient une certaine somme par pécul (153 kil.) de sucre fabriqué
-                        <ptr></ptr>
+                        <ptr/>
                         . 
                         Tous ces travailleurs se divisent l'ouvrage; les uns récoltent les cannes et les portent au moulin; les autres font cuire le sirop; d'autres sont chargés de la clarification: tous ces travaux sont exécutés par une répartition volontaire. Quand la saison de la fabrication est passée, les travailleurs quittent la plantation, se livrent à des occupations diverses pendant les pluies, et il n'en reste sur les lieux que le nombre nécessaire à l'entretien des pieds de cannes
-                        <ptr></ptr>
+                        <ptr/>
                         .
                         <quote>
                             Après avoir passé deux ans aux 
@@ -349,9 +345,9 @@
                             , où j'ai organisé une fabri-
                             <pb n="9" facs="v1n7p9"/>
                             cation libre de sucre. J'ai éprouvé alors combien ce nouveau genre de travail est utile au propriétaire; je suis même persuadé, d'après mon expérience personnelle, que si l'on adoptait dans nos îles à sucre le mode de culture libre usité dans l'
-                            <placeName>Inde</placeName>
+                            <placeName ref="#IN">Inde</placeName>
                             , la moitié des travailleurs actuels suffiraient pour obtenir la même production
-                            <ptr></ptr>.
+                            <ptr/>.
                         </quote>
                         <persName>M.Marsden</persName>
                         , dans son 
@@ -442,7 +438,7 @@
                                 </choice>
                             </emph>
                             et des serfs de l'
-                            <placeName>Europe</placeName>
+                            <placeName ref="#EUR">Europe</placeName>
                             , dans les temps féodaux. Depuis très 
                             <choice>
                                 <orig>long-temps</orig>
@@ -528,7 +524,7 @@
                             <reg>sentiments</reg>
                         </choice> 
                         philanthropiques et chrétiens, qui a déterminé l'abolition de l'esclavage dans les 
-                        <placeName>colonies anglaises</placeName>
+                        <placeName ref="#CA">colonies anglaises</placeName>
                         ; c'est ce même intérêt qui en amènera l'abolition dans 
                         <placeName>nos colonies</placeName>.
                     </p>
@@ -566,7 +562,7 @@
                         noirs à 
                         <placeName>Halifax</placeName>
                         , les travailleurs libres de 
-                        <placeName>la Trinité</placeName>
+                        <placeName ref="#TRI">la Trinité</placeName>
                         , bien avant qu'il fut même question du 
                         <foreign>bill</foreign>
                         d'émancipation, les 
@@ -605,20 +601,20 @@
                     </p>
                     <p>
                         Voyez 
-                        <placeName>Haiti</placeName>
+                        <placeName ref="#HT">Haiti</placeName>
                         , où l'instruction et les livres d'
-                        <placeName>Europe</placeName> 
+                        <placeName ref="#EUR">Europe</placeName> 
                         ont fertilisé l'intelligence et moralisé le cœur du grand nombre. Sans doute ce n'est pas encore une république de tout point libre et heureuse; mais quelle nation d'
-                        <placeName>Europe</placeName> 
+                        <placeName ref="#EUR">Europe</placeName> 
                         peut se prétendre 
                         <choice>
                             <orig>complétement</orig>
                             <reg>complètement</reg>
                         </choice>
                          l'une et l'autre? 
-                        <placeName>Haiti</placeName> 
+                        <placeName ref="#HT">Haiti</placeName> 
                         est une nation nouvelle, peu avancée encore sur quelques points, qui souffre des nécessités fâcheuses de son passé, mais qui chaque jour voit s'accomplir quelque progrès en son sein, et qui marche d'un pas ferme et hardi vers l'avenir. 
-                        <placeName>Haiti</placeName>
+                        <placeName ref="#HT">Haiti</placeName>
                         , telle qu'elle est, et malgré les préventions européennes, est encore un des pays les plus tranquilles et les mieux gouvernés.
                     </p>
                     <p>
@@ -854,7 +850,7 @@
                     <p>
                         C'est ainsi que devant la cour de cassation il a fallu traîner sur des nullités de procédure, la plus grande monstruosité judiciaire qui ait jamais désolé les colonies. Tous, avocats et juges, sophistiquaient sur des questions de forme, et la hideuse potence dressée sur le rivage de la Martinique attend, avec le bourreau, les quarante têtes sollicitées et obtenues par le 
                         <roleName>procureur général</roleName> 
-                        <persName ref="#ANog"></persName>Nogues
+                        <persName ref="#ANog"/>Nogues
                         ! 
                     </p>
                     <p>
@@ -871,7 +867,7 @@
                     </p>
                 </div>
                 <div xml:id="FRANCE">
-                    <head><placeName>FRANCE</placeName>.</head>
+                    <head><placeName ref="#FR">FRANCE</placeName>.</head>
                     <div xml:id="Pétition">
                         <head>
                             PÉTITION RELATIVE A L'ABOLITION DE L'ESCLAVAGE, ADRESSÉE AUX DEUX <orgName>CHAMBRES</orgName>.
@@ -905,7 +901,7 @@
                                                 <reg>parce qu</reg>
                                             </choice>
                                         'il partageait leurs craintes, et c'est à cause de cela que nous n'avons vu introduire dans les colonies françaises aucune des mesures par lesquelles les législateurs de la 
-                                        <placeName>Grande-Bretagne</placeName>
+                                        <placeName ref="#GB">Grande-Bretagne</placeName>
                                         ont préparé une ère nouvelle pour leurs colonies.
                                     </p>
                                     <p>
@@ -927,7 +923,7 @@
                                             <reg>longtemps</reg>
                                         </choice> 
                                         l'émancipation des noirs comme une utopie, bien que l'essai qu'elle-même a autrefois tenté eût dû lui apprendre qu'elle est possible, n'a pas voulu marcher vers un but dont elle se croyait séparée par d'in
-                                        <pb n="23" facs="v1n7p23"></pb>
+                                        <pb n="23" facs="v1n7p23"/>
                                         surmontables obstacles. Les rapports de la métropole avec les colonies étant limités à une faible minorité, intéressée d'ailleurs à entretenir les craintes que les colons ont toujours cherché à répandre sur les conséquences de l'affranchissement, si l'on osait jamais le tenter, il en est résulté qu'on n'a eu jusqu'ici parmi nous que des idées confuses et erronées sur leur état. On a cru à des dangers réels, tandis qu'il n'y avait à redouter que des difficultés. Les plus impatients ont pensé qu'il fallait laisser à une nation voisine, au sein de laquelle cette question avait eu le temps de devenir populaire, les périls et la gloire d'une hasardeuse initiative.
                                     </p>
                                     <p>
@@ -945,14 +941,14 @@
                                         du parlement ne pouvaient manquer d'apporter aussi le récit des excès les plus terribles. Le 
                                         <foreign>bill</foreign> 
                                         équivaudrait, disait-on, à une provocation au meurtre et à l'incendie; mais ces sinistres prévisions ne se sont pas réalisées. Loin de refuser de travailler et de se livrer aux excès qu'on représentait comme imminents, les noirs ont, en général, donné des preuves du désir qu'ils ont de se montrer dignes de la liberté par leur activité et leur esprit de subordination. Dans la plupart des colonies, ils ont voulu consacrer publiquement le jour de leur affranchissement par des prières et des actions de grâces. Chaque jour consolide la transformation qui s'est opérée sans résistance et sans secousse, et l'
-                                        <placeName>Angleterre</placeName> 
+                                        <placeName ref="#ANG">Angleterre</placeName> 
                                         se prépare, au lieu d'une caste misérable, au sein de laquelle la servitude entretenait une continuelle irritation, une population intelligente et paisible. 
                                     </p>
                                     <p>
                                         Après avoir laissé à d'autres le soin de faire une expérience si heureuse dans ses résultats, serait-il permis à la 
                                         <placeName ref="#FR">France</placeName> 
                                         de ne pas en profiter? Non, Messieurs, ce qu'on appelait naguère une impossibilité, une utopie, apparaît aujourd'hui comme une nécessité
-                                        <pb n="23" facs="v1n7p23"></pb>
+                                        <pb n="23" facs="v1n7p23"/>
                                         prochaine. Il ne se peut pas, en effet, lorsqu’il n’y a plus d’esclaves dans les 
                                         <placeName ref="#CA">colonies anglaises</placeName>
                                         , qu’il y en ait 
@@ -974,7 +970,7 @@
                                         Nous ne venons pas vous demander, Messieurs, de recommander au gouvernement telle mesure plutôt que telle autre; nous ne disons pas que celles adoptées successivement par l’
                                         <placeName ref="#ANG">Angleterre</placeName> 
                                         soient les meilleures ni les seules qu’il convienne d’adopter; nous ne prétendons pas, en un mot, tracer un plan pour l’affranchissement des noirs. Ce que nous désirons seulement, c’est que les chambres, c’est que le gouvernement avouent le principe que nous invoquons; qu’ils reconnaissent dès à présent qu’il faut, n’importe pour l’instant par quelle route, atteindre, dans un temps aussi court que possible, le grand but de l’abolition complète de l’esclavage. Si ce projet est avoué, les plus grands avantages résulteront de cet aveu même. Les colons travailleront, en facilitant l’instruction des esclaves, à diminuer les dangers qui leur paraissent inséparables de l’émancipation et ils se prépareront dès à présent, avec une sage prévoyance, au nouvel ordre de choses qu’on leur aura annoncé. Les législateurs, au lieu d’avancer sur le terrain mouvant, et d’être forcés de faire des lois qui se ressentent de leurs incertitudes, concilieront d’avance leurs mesures législatives avec celle qu’ils sauront devoir les couronner toutes. Le peuple
-                                        <pb n="25" facs="v1n7p25"></pb>
+                                        <pb n="25" facs="v1n7p25"/>
                                         tout entier, s'habituant à attacher des pensées d'espérance et de gloire à la réalisation d'un plan que la justice et l'humanité réclament, s'y associera par ses sympathies. La conscience nationale enfin pourra se rendre le témoignage que la 
                                         <placeName ref="#FR">France</placeName> 
                                         ne recule pas devant un devoir, dont l'évidence lui est démontrée, mais qu'elle veut l'accomplir, aussitôt qu'elle en a reconnu l'accomplissement possible.
@@ -1023,7 +1019,7 @@
                                 <title ref="#MU">Moniteur</title>
                             </bibl>
                             à la
-                            <pb n="26" facs="v1n7p26"></pb>
+                            <pb n="26" facs="v1n7p26"/>
                             main, expliquant la double taxe et ses effets sur la consommation intérieure, développant les abus infâmes auxquels la prime d'importation a donné naissance, depuis le
                             <rs type="event">
                                 loi du 17 mai 1826<date>1826</date> 17 mai 1826
@@ -1076,7 +1072,7 @@
                                 <reg>instruments</reg>
                             </choice>
                             de
-                            <pb n="27" facs="v1n7p27"></pb>
+                            <pb n="27" facs="v1n7p27"/>
                             travail dont elles déclarent ne pouvoir se passer. La plus infâme des contrebandes, celle qui s'exerce sur la vente des infortunés créatures faites à l'image de Dieu, élève incessamment le prix des nègres, qui se paient de 1,800 fr. à 2,000 fr. (1)
                             . La mortalité fait des ravages terribles parmi ces malheureux; leur nombre décroit si sensiblement et dans une proportion telle, qu'avant trente ans tout sera fini. En 1825, sur une habitation de 
                             <placeName ref="#BrB">Bourbon</placeName>
@@ -1116,7 +1112,7 @@
                         <note>
                             (1) Il y a erreur de chiffre ; à la Martinique à peine trouve-t-on aujourd'hui 1000 f. pour un esclave. (Note du rédacteur.)
                         </note>
-                        <pb n="28" facs="v1n7p28"></pb>
+                        <pb n="28" facs="v1n7p28"/>
                         <p>
                             <quote>
                                 ce qui est acquis avec ce dernier genre de monnaie autrement que nous considérons les bénéfices faits par les individus qui vont rançonner les voyageurs sur les grands chemins. Ainsi, quand nous accordons un monopole aux denrées vendues par des possesseurs d'hommes, au préjudice des propriétaires qui vendent les mêmes denrées, mais qui ne font cultiver leurs terres que par des personnes libres, nous sommes dans le même cas qu'un homme qui refuserait d'acheter des marchandises de ceux qui les ont produites, et qui ne voudrait acheter que des marchandises volées. Un tel commerce fait par un malhonnête homme serait naturel, si les marchandises volées étaient livrée à un prix beaucoup plus bas que le prix courant du commerce; mais si les voleurs, considérant les dangers de leur profession, demandaient un prix plus haut, que penserions-nous de celui qui leur donnerait la préférence? nous penserions que cet homme-là porte l'improbité jusqu'à l'extravagance.
@@ -1138,7 +1134,7 @@
                                     non
                                 </foreign> 
                                 de l'existence du 
-                                <placeName>Brésil</placeName>
+                                <placeName ref="#BR">Brésil</placeName>
                                 , comme de la domination européenne dans toutes les terres de l'
                                 <placeName>Amérique</placeName>
                                  situées entre les tropiques, sans être fort élevées au dessus du niveau de la mer.
@@ -1147,9 +1143,9 @@
                         <p>
                             <quote>
                                 Pour nous en particulier, si 
-                                <placeName>Cayenne</placeName>
+                                <placeName ref="#Cay">Cayenne</placeName>
                                 et 
-                                <placeName>Bourbon</placeName>
+                                <placeName ref="#BrB">Bourbon</placeName>
                                 éprouvent depuis quelques années un mouvement de prospérité, il est dû seulement à ce que la connivence des administrateurs de ces colonies, pour ne pas dire leur protection éclatante, y a laissé débarquer plus de cargaisons d'esclaves... Dites donc que le cri général de l'opinion accuse d'une connivence criminelle dans la traite l'administration des colonies. Dites que vous êtes convaincu qu'elles ne peuvent prospérer que par la traite, qu'elles ne peuvent même se soutenir que par de continuelles importations de
                             </quote>
                         </p>
@@ -1162,7 +1158,7 @@
                             </bibl>
                             , liv. 5, chap. xix.
                         </note>
-                        <pb n="29" facs="v1n7p29"></pb>
+                        <pb n="29" facs="v1n7p29"/>
                         <p>
                             <quote>
                                 noirs, et que leur prospérité actuelle est la plus haute condamnation de leur administration.» (1)
@@ -1278,7 +1274,7 @@
                 <div xml:id="ColFr">
                     <head><placeName>COLONIES FRANÇAISES.</placeName></head>
                     <div xml:id="Martinique.">
-                        <head><placeName>MARTINIQUE</placeName>.</head>
+                        <head><placeName ref="#MQ">MARTINIQUE</placeName>.</head>
                         <p>
                             Notre correspondant de Saint-Pierre nous écrit sous la date du 2 octobre:
                         </p>
@@ -1585,7 +1581,7 @@
                                 <orgName>
                                     commission chargée de régler l'indemnité pour les esclaves
                                 </orgName>
-                                . M. <persName>D'Epinay</persName> a refusé d'accepter les fonctions de <roleName>procureur-général</roleName> avant de savoir si on n'enverrait pas un magistrat d'<placeName>Angleterre</placeName>. Ce cas excepté, c'est lui qui sera nommé à cette place, que M. <persName>Williams</persName>, substitut de M. <persName>Jérémie</persName>, occupe provisoirement.
+                                . M. <persName>D'Epinay</persName> a refusé d'accepter les fonctions de <roleName>procureur-général</roleName> avant de savoir si on n'enverrait pas un magistrat d'<placeName ref="#ANG">Angleterre</placeName>. Ce cas excepté, c'est lui qui sera nommé à cette place, que M. <persName>Williams</persName>, substitut de M. <persName>Jérémie</persName>, occupe provisoirement.
                             </quote>
                         </p>
                         <p>
@@ -1744,7 +1740,7 @@
                     <p>
                         —— Le 
                         <bibl type="periodical">
-                            <title>Moniteur</title>
+                            <title ref="#MU">Moniteur</title>
                         </bibl>
                         publie le relevé des 
                         <choice>
@@ -1756,16 +1752,16 @@
                             <orig>affranchissemens</orig>
                             <reg>affranchissements</reg>
                         </choice>
-                        accordés dans les quatre colonies, la <placeName>Martinique</placeName>, la <placeName>Guadeloupe</placeName>, la 
+                        accordés dans les quatre colonies, la <placeName ref="#MQ">Martinique</placeName>, la <placeName ref="#GP">Guadeloupe</placeName>, la 
                         <placeName>
                             <choice>
                                 <orig>Guiane-Française</orig>
                                 <reg>Guyane Française</reg>
                             </choice>
-                        </placeName> et <placeName>Bourbon</placeName>, s'élève à 2,051. Et le nombre total depuis la fin de 1850 s'élève à :
+                        </placeName> et <placeName ref="#BrB">Bourbon</placeName>, s'élève à 2,051. Et le nombre total depuis la fin de 1850 s'élève à :
                         <list>
-                            <item>14,919, pour la <placeName>Martinique</placeName>.</item>
-                            <item>6,251, pour la <placeName>Guadeloupe</placeName>.</item>
+                            <item>14,919, pour la <placeName ref="#MQ">Martinique</placeName>.</item>
+                            <item>6,251, pour la <placeName ref="#GP">Guadeloupe</placeName>.</item>
                             <item>
                                 957, pour la 
                                 <choice>
@@ -1773,7 +1769,7 @@
                                 <reg>Guyane Française</reg>
                             </choice>
                             </item>
-                            <item>1,144, pour <placeName>Bourbon</placeName>.</item>
+                            <item>1,144, pour <placeName ref="#BrB">Bourbon</placeName>.</item>
                             <item>TOTAL....... 25,268, pour les quatre colonies.</item>
                         </list>
                     </p>
@@ -1792,9 +1788,9 @@
                             <!-- je ne sais pas comment encoder des répliques de théâtre-->
                         </epigraph>
                         <p>
-                            Tout l'univers sait que M. <persName>Halgan</persName> est <roleName>gouverneur</roleName> de la <placeName>Martinique</placeName>; mais ce que l'univers ne sait pas encore, c'est que M. <persName>Halgan</persName> a profondément réfléchi sur le système représentatif et notamment sur l'usage du chapeau comme moyen gouvernemental. Heureusement il existe à la <placeName>Martinique</placeName> un véritable
+                            Tout l'univers sait que M. <persName>Halgan</persName> est <roleName>gouverneur</roleName> de la <placeName ref="#MQ">Martinique</placeName>; mais ce que l'univers ne sait pas encore, c'est que M. <persName>Halgan</persName> a profondément réfléchi sur le système représentatif et notamment sur l'usage du chapeau comme moyen gouvernemental. Heureusement il existe à la <placeName ref="#MQ">Martinique</placeName> un véritable
                             <bibl type="periodical">
-                                <title>Moniteur</title>
+                                <title ref="#MU">Moniteur</title>
                             </bibl>
                             qui a toute la grâce et l'exactitude de celui de <emph>madame veuve Agasse</emph>. Heureusement aussi nous avons lu ce journal, ce qui n'est pas commun, et nous lui avons emprunté les détails
                             <choice>
@@ -1843,14 +1839,14 @@
                             <quote>
                                 «Hypocrate dit, M. le <roleName>gouverneur</roleName>, que nous nous couvrions tous deux.» 
                             </quote>
-                            Et si M. <persName>Halgan</persName> eût fait la plus petite observation je l'aurais bien vite renvoyé au chapitre des chapeaux: mais non, l'aristocratie coloniale n'est point si susceptible, du moins pour les choses venues d'en haut; elle accepte la supériorité du chef à condition qu'elle-même fera sentir la sienne à ceux que le plus misérable préjugé maintient ses inférieurs. Ce pacte de servitude compose à peu près toute la morale de la société, et c'est ce que nous avons vu admirablement caractérisé dans une ancienne caricature anglaise qui représente le <roleName>roi</roleName> d'<placeName>Angleterre</placeName> donnant un coup de pied à son <roleName>premier ministre</roleName>, qui le rend à un membre des <orgName>communes</orgName>, qui le rend à <persName>John Bull</persName>, lequel pour le coup ne le rend à personne. Nous croyons donc que le <orgName>conseil colonial</orgName> s'est consolé du coup de pied, nous voulons dire du coup de chapeau de M. le <roleName>gouverneur</roleName>, en pensant qu'il pourrait bien le rendre à d'autres.
+                            Et si M. <persName>Halgan</persName> eût fait la plus petite observation je l'aurais bien vite renvoyé au chapitre des chapeaux: mais non, l'aristocratie coloniale n'est point si susceptible, du moins pour les choses venues d'en haut; elle accepte la supériorité du chef à condition qu'elle-même fera sentir la sienne à ceux que le plus misérable préjugé maintient ses inférieurs. Ce pacte de servitude compose à peu près toute la morale de la société, et c'est ce que nous avons vu admirablement caractérisé dans une ancienne caricature anglaise qui représente le <roleName>roi</roleName> d'<placeName ref="#ANG">Angleterre</placeName> donnant un coup de pied à son <roleName>premier ministre</roleName>, qui le rend à un membre des <orgName>communes</orgName>, qui le rend à <persName>John Bull</persName>, lequel pour le coup ne le rend à personne. Nous croyons donc que le <orgName>conseil colonial</orgName> s'est consolé du coup de pied, nous voulons dire du coup de chapeau de M. le <roleName>gouverneur</roleName>, en pensant qu'il pourrait bien le rendre à d'autres.
                         </p>
                         <p>
                             M. <persName>Halgan</persName> et son chapeau ont prononcé un discours où nous avons admiré ce passage:
                             <q>
                                 «La tranquillité règne dans toutes les parties de la <placeName>colonie</placeName>: j'apporterai mes soins à y maintenir l'ordre, la fidélité des ateliers dans des circonstances difficiles, leur affection pour leurs maîtres, seront aujourd'hui, surtout pour la métropole, des garanties du système de modération qui les régit.»
                             </q>
-                            La fidélité des ateliers... Oh! oh! oh! il n'y a plus d'esclaves à la <placeName>Martinique</placeName>. Il n'y a plus que des ouvriers, comme nous en voyons tous les jours, qui travaillent dans des ateliers! Mais c'est admirable! Quelle révolution!
+                            La fidélité des ateliers... Oh! oh! oh! il n'y a plus d'esclaves à la <placeName ref="#MQ">Martinique</placeName>. Il n'y a plus que des ouvriers, comme nous en voyons tous les jours, qui travaillent dans des ateliers! Mais c'est admirable! Quelle révolution!
                         </p>
                         <pb n="42" facs="v1n7p42"/>
                         <p>
@@ -1858,7 +1854,7 @@
                             <bibl type="legal">
                                 <title>charte</title>
                             </bibl>
-                            ! Vive l'humanité! Nos cœurs de citoyens se sont épanouis au son de ce langage officiel. Il en est même qui ont été tentés d'envier déjà le sort de ces ouvriers qui travaillent dans les ateliers de la <placeName>Martinique</placeName>. Malheureusement le 
+                            ! Vive l'humanité! Nos cœurs de citoyens se sont épanouis au son de ce langage officiel. Il en est même qui ont été tentés d'envier déjà le sort de ces ouvriers qui travaillent dans les ateliers de la <placeName ref="#MQ">Martinique</placeName>. Malheureusement le 
                             <bibl type="legal">
                                 <title><emph>journal officiel</emph></title>
                             </bibl>
@@ -1922,9 +1918,9 @@
                                 du progrès social sont si nombreux, ils agissent de toutes parts avec tant de puissance, la presse est un si formidable auxiliaire de l'avenir, qu'il n'y a rien à craindre des efforts contre-révolutionnaires qui vont être sérieusement continués.
                             </p>
                             <p>
-                                Pour vous, mon ami, les affaires d'<placeName>Europe</placeName> ont un double intérêt: vous vivez parmi nous, vous avez à cœur nos affaires parce que vous êtes éclairé et généreux, et que, à tout prendre, ce sont les vôtres aujourd'hui; mais aussi, en premier lieu, parceque vous savez que tout ce qui se fait ici d'heureux pour notre liberté
+                                Pour vous, mon ami, les affaires d'<placeName ref="#EUR">Europe</placeName> ont un double intérêt: vous vivez parmi nous, vous avez à cœur nos affaires parce que vous êtes éclairé et généreux, et que, à tout prendre, ce sont les vôtres aujourd'hui; mais aussi, en premier lieu, parceque vous savez que tout ce qui se fait ici d'heureux pour notre liberté
                                 <pb n="44" facs="v1n7p44"/>
-                                profite en définitive à la liberté universelle, à l'humanité tout entière, dont un des rameaux les plus chers pour vous est la race de couleur opprimée dans toutes ses nuances. De là surtout votre sollicitude; de là le haut intérêt que vous inspire le parti qui en <placeName>Europe</placeName> est pour la liberté et le droit commun contre tous les genres de 
+                                profite en définitive à la liberté universelle, à l'humanité tout entière, dont un des rameaux les plus chers pour vous est la race de couleur opprimée dans toutes ses nuances. De là surtout votre sollicitude; de là le haut intérêt que vous inspire le parti qui en <placeName ref="#EUR">Europe</placeName> est pour la liberté et le droit commun contre tous les genres de 
                                 <choice>
                                     <orig>priviléges</orig>
                                     <reg>privilèges</reg>
@@ -1962,7 +1958,7 @@
                                 Donc, comme révolutionnaires, nous avons à nous réjouir de plus d'un symptôme heureux dans les affaires générales du monde. 
                             </p>
                             <p>
-                                En <placeName>Angleterre</placeName> la réforme s'établit lentement, le travail se fait en dessous. Chez ce peuple patient, laborieux il y a beaucoup à faire sans doute, surtout pour l'égalité; mais il est dans le bon chemin, et avec la liberté de la presse l'<placeName>Angleterre</placeName> saura bien conquérir aussi ce qui lui manque, c'est à dire l'égalité sociale, l'égalité de mœurs, premier élément des sociétés démocratiques.
+                                En <placeName ref="#ANG">Angleterre</placeName> la réforme s'établit lentement, le travail se fait en dessous. Chez ce peuple patient, laborieux il y a beaucoup à faire sans doute, surtout pour l'égalité; mais il est dans le bon chemin, et avec la liberté de la presse l'<placeName ref="#ANG">Angleterre</placeName> saura bien conquérir aussi ce qui lui manque, c'est à dire l'égalité sociale, l'égalité de mœurs, premier élément des sociétés démocratiques.
                             </p>
                             <p>
                                 Le ministère <persName>Wellington</persName> ne pourra rien contre le progrès, il faudra qu'il suive et seconde le mouvement, où il sera vaincu par lui. Tel est la marche constante des choses. Quand il est écrit qu'un progrès s'accomplira, les hommes les plus opposés aux améliorations sont conduits par la Providence à y prêter les mains. Une fois déjà <persName>Wellington</persName> a été l'instrument de l'esprit de justice; ce fut sous son ministère que fut obtenue et promulguée l'émancipation des catholiques d'<placeName>Irlande</placeName>, cette grande réintégration de toute une population privée de ses droits politique parcequ'elle avait sa foi à elle. Il adviendra comme alors peut-être quant à la reforme, et il importe peu au peuple qu'elle lui vienne de <persName>Wellington</persName> ou de <persName>Grey</persName>, pourvu qu'il l'obtienne bien et entière. Du reste la lutte sera rude, et le vieil esprit <orgName>tory</orgName>, qui ne cède que par égoïsme, se montrera récalcitrant aux concessions jusqu'à ce qu'il
@@ -1970,7 +1966,7 @@
                                 soit contraint et forcé; mais nous nous en fions à <persName>John Bull</persName> pour l’y forcer et contraindre.
                             </p>
                             <p>
-                                Quant à la politique officielle de la <placeName>France</placeName>, je n'ai rien à vous en dire: vous avez vu quelle singulière comédie ministérielle a été jouée dernièrement, vous avez vu à l'oeuvre ce parti d'eunuques politiques qui ne sait ni contrôler ni exercer le pouvoir. La victoire est restée aux doctrinaires. Ils ont le présent; mais c'est le parti national et patriote, qui chaque jour acquiert de nouvelles forces, à qui l'avenir appartient; et les <placeName>colonies françaises</placeName> sont intéressées au plus haut degré à son succès; car c'est par lui seul que s'accomplira le plus cher de vos voeux et des miens, l'abolition complète et sans réserve de l'esclavage, et l'organisation du travail sur des bases nouvelles dans nos divers
+                                Quant à la politique officielle de la <placeName ref="#FR">France</placeName>, je n'ai rien à vous en dire: vous avez vu quelle singulière comédie ministérielle a été jouée dernièrement, vous avez vu à l'oeuvre ce parti d'eunuques politiques qui ne sait ni contrôler ni exercer le pouvoir. La victoire est restée aux doctrinaires. Ils ont le présent; mais c'est le parti national et patriote, qui chaque jour acquiert de nouvelles forces, à qui l'avenir appartient; et les <placeName>colonies françaises</placeName> sont intéressées au plus haut degré à son succès; car c'est par lui seul que s'accomplira le plus cher de vos voeux et des miens, l'abolition complète et sans réserve de l'esclavage, et l'organisation du travail sur des bases nouvelles dans nos divers
                                 <choice>
                                     <orig>établissemens</orig>
                                     <reg>établissements</reg>
@@ -1978,7 +1974,7 @@
                                 d'outre-mer.
                             </p>
                             <p>
-                                L'<placeName>Espagne</placeName>, l'un des pays les plus retardés de l'<placeName>Europe</placeName>, vient d'entrer dans son ère révolutionnaire. l'
+                                L'<placeName>Espagne</placeName>, l'un des pays les plus retardés de l'<placeName ref="#EUR">Europe</placeName>, vient d'entrer dans son ère révolutionnaire. l'
                                 <emph>
                                     <bibl type="legal"><title>Estatuto real</title></bibl>
                                 </emph>
@@ -2000,12 +1996,12 @@
                                  personnels de <persName>don Pedro</persName>, ayant été obligé de s'appuyer sur les libéraux pour vaincre l'obstination absolutiste de son <roleName>frère</roleName>, il a nécessairement dû favoriser les lumières, et le <placeName>Portugal</placeName> y a beaucoup gagné. N'y eût-il que l'avantage d'être passé de la tyrannie de <persName>don Miguel</persName> sous le pouvoir de <persName>dona Maria</persName>, ce serait déjà beaucoup. Qu'importe après cela ce qu'était en réalité <persName>don Pedro</persName>. Ainsi va le monde. Les moins sincères amis de la liberté sont quelquefois obligés par position de s'en porter les défenseurs dans leur propre intérêt, et lorsqu'ils ont vaincu, et qu'ils veulent se tourner contre elle, qui les a faits ce qu'ils sont, elle a pris sa place, bonne ou mauvaise, à côté d'eux, et ils ne peuvent plus l'en chasser entièrement.
                             </p>
                             <p>
-                                Et la <placeName>France</placeName>, malgré le mauvais vouloir de ses 
+                                Et la <placeName ref="#FR">France</placeName>, malgré le mauvais vouloir de ses 
                                 <choice>
                                     <orig>gouvernans</orig>
                                     <reg>gouvernants</reg>
                                 </choice>
-                                , préside au mouvement qui emporte le monde vers la liberté ! C'est que telle est la volonté de l'immense majorité de la population. C'est que la <placeName>France</placeName> est la première démocratie du monde, et que le principe d'égalité et de liberté y est plus ou moins dans l'esprit, sinon dans le coeur de tous. La presse, d'ailleurs, par ses mille organes soumet tout incessamment à l'esprit d'examen; les préjugés s'effacent par son action, et le contrôle public s'exerce sur tous les pouvoirs et sur tous les actes, au grand avantage du pays.
+                                , préside au mouvement qui emporte le monde vers la liberté ! C'est que telle est la volonté de l'immense majorité de la population. C'est que la <placeName ref="#FR">France</placeName> est la première démocratie du monde, et que le principe d'égalité et de liberté y est plus ou moins dans l'esprit, sinon dans le coeur de tous. La presse, d'ailleurs, par ses mille organes soumet tout incessamment à l'esprit d'examen; les préjugés s'effacent par son action, et le contrôle public s'exerce sur tous les pouvoirs et sur tous les actes, au grand avantage du pays.
                             </p>
                             <p>
                                 La presse bat impitoyablement en 
@@ -2026,7 +2022,7 @@
                                 Que vous dirai-je aussi du <placeName>Nord</placeName>, que vous ne sachiez? Il y a de ce côté bien des têtes couronnées qui s'inquiètent de nous voir libres, et qui aimeraient mieux nous voir pendus.
                             </p>
                             <p>
-                                A franchement parler, rien ne nous parait fini. Aussi avons-nous tous au fond du cœur je ne sais quoi d'inquiet; chacun l'éprouve: c'est comme un effroi vague, un pressentiment de lutte qui nous domine. L'ordre règne, il est vrai; c'est toujours comme par le passé, et partout encore en <placeName>Europe</placeName>, le vingtième des populations qui vit aux dépens du reste; car c'est là ce qu'on appelle l'ordre. Mais c'est précisément 
+                                A franchement parler, rien ne nous parait fini. Aussi avons-nous tous au fond du cœur je ne sais quoi d'inquiet; chacun l'éprouve: c'est comme un effroi vague, un pressentiment de lutte qui nous domine. L'ordre règne, il est vrai; c'est toujours comme par le passé, et partout encore en <placeName ref="#EUR">Europe</placeName>, le vingtième des populations qui vit aux dépens du reste; car c'est là ce qu'on appelle l'ordre. Mais c'est précisément 
                                 <choice>
                                     <orig>parceque</orig>
                                     <reg>parce que</reg>
@@ -2034,7 +2030,7 @@
                                  cet ordre règne et ne saurait durer, que l'on vit dans l'appréhension perpétuelle du grand jour révolutionnaire qui y mettra fin.
                             </p>
                             <p>
-                                Entre la <placeName>France</placeName>, l'<placeName>Angleterre</placeName> et tous pays de liberté ou même de demi-liberté, l'alliance est formée, elle est secrètement secondée par tous les peuples qui souffrent: reste donc à savoir qui des peuples ou de leurs oppresseurs l'emportera, et si le champ du monde restera à la révolution française ou aux têtes couronnées. <persName>Nicolas de Russie</persName>, <persName>Guillaume de Prusse</persName>, <persName>Charles-Jean</persName>, l'ex-jacobin français qui porte gravé, avec de la poudre, sur son bras gauche, cette légende: Vive la république ! Le misérable renégat ose être roi! <persName>François d'Autriche</persName>, et je ne sais quels autres qui ne valent pas l'honneur d'être nommés, se flattent qu'ils vaincront la révolution française, la grande alliée naturelle des peuples: nous tenons le pari contre eux; il y a peu de mérite du reste, c'est parier cent mille contre un.
+                                Entre la <placeName ref="#FR">France</placeName>, l'<placeName ref="#ANG">Angleterre</placeName> et tous pays de liberté ou même de demi-liberté, l'alliance est formée, elle est secrètement secondée par tous les peuples qui souffrent: reste donc à savoir qui des peuples ou de leurs oppresseurs l'emportera, et si le champ du monde restera à la révolution française ou aux têtes couronnées. <persName>Nicolas de Russie</persName>, <persName>Guillaume de Prusse</persName>, <persName>Charles-Jean</persName>, l'ex-jacobin français qui porte gravé, avec de la poudre, sur son bras gauche, cette légende: Vive la république ! Le misérable renégat ose être roi! <persName>François d'Autriche</persName>, et je ne sais quels autres qui ne valent pas l'honneur d'être nommés, se flattent qu'ils vaincront la révolution française, la grande alliée naturelle des peuples: nous tenons le pari contre eux; il y a peu de mérite du reste, c'est parier cent mille contre un.
                             </p>
                             <p>
                                 Si maintenant vous me posiez cette question: <emph>Que sera l'avenir du monde?</emph> je vous répondrais, sans doute, un peu de temps en core, la lutte et les combats nécessaires, l'ordre avec l'égalité, et la réconciliation universelle des hommes dans quelques années.
