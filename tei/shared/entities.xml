@@ -7,37 +7,12 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
-        <person xml:id="entity">
-            <persName xml:lang="en">George Washington </persName>
-            <persName xml:lang="fr">George Washington</persName>
-            <birth>1732</birth>
-            <death>1799</death>
-            <note xml:lang="en" type="Person" resp="#michaël #masha">
-                <p>Unlike fellow architects of the early American republic, George Washington did not spend any time in Europe or read in French, nor, in seeking French support for American independence, did he explicitly draw logical connections between independence and emancipation. During the Revolution, Washington, conceding to the demands of war after initial reluctance, led an integrated Continental Army, including free and enslaved men of color. As President, however, Washington carefully avoided maintaining consistent residence in Philadelphia, the nation’s first capital, to avoid being subject to Pennsylvania’s gradual abolition act of 1780.</p>
-                <p>Washington was a third-generation enslaver, who, at the time of his death in 1799, held personal claim to 123 enslaved people, while his Virginia home and plantation, Mount Vernon, benefited from the labor of over 300 in total, the remainder being temporary laborers or enslaved people inherited from the estate of his wife’s first husband. In his will, published widely in U.S. papers, he stipulated emancipation for those in his personal estate upon Martha Washington’s death, suggesting a moral stance while notably deferring financial loss to his inheritors. Meanwhile, through the final years of his life, he continued a relentless pursuit of Ona Judge, a young enslaved woman who had fled Mount Vernon for New Hampshire. In seeking to recover her, he refused her willing return on the condition of being freed after his and Martha’s deaths, and only hesitated to enforce the Fugitive Slave Act of 1793 for fear of drawing negative publicity to the case and galvanizing northern abolitionists.</p>
-                <p>Historians continue to debate Washington’s personal degree of comfort with or distaste for the institution of slavery, and whether he harbored any conviction to endorse gradual abolition.  François Furstenberg has drawn attention to his bound collection of antislavery tracts from American and European sources while noting that several of these works were never opened and his sentiments on the matter were restricted to private correspondence.</p>
-                <p>
-                </p>
-                <bibl>Dunbar, Erica Armstrong.  <title>Never Caught: The Washingtons’ Relentless Pursuit of Their Runaway Slave, Ona Judge</title>  .  New York: 37 Ink/Atria, 2017.</bibl>
-                <bibl>Rossignol, Marie-Jeanne and Michaël Roy, with Marlene L. Daut and Cécile Roudeau, eds.  <title>Anthologie de la pensée noire. États-Unis et Haïti (xviiie-xixe siècles)</title>  . Marseille: Hors d’atteinte, 2023.</bibl>
-                <bibl>Wiencek, Henry.  <title>An Imperfect God: George Washington, His Slaves, and the Creation of America</title>  . New York: Farrar, Straus and Giroux, 2003.</bibl>
-                <bibl>Furstenberg, François. "Atlantic Slavery, Atlantic Freedom: George Washington, Slavery, and Transatlantic Abolitionist Networks".  <emph>The William and Mary Quarterly</emph>  68.2 (2011).</bibl>
-                <bibl>Thompson, Mary V.  <title>The Only Unavoidable Subject of Regret: George Washington, Slavery, and the Enslaved Community at Mount Vernon</title>  . Charlottesville, Virginia: University of Virginia Press, 2019.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#michaël #masha">
-                <p>Contrairement à d'autres figures fondatrices de la jeune République américaine, George Washington n’a jamais séjourné en France ni entretenu de relations directes avec les grands penseurs français de la fin du XVIIIe siècle. Dans sa quête de soutien français pour l’indépendance américaine, il ne lie pas explicitement cette cause à celle de l’émancipation. Pendant la Révolution, Washington, contraint par les impératifs de la guerre,dirige une armée non ségréguée, qui inclut des hommes de couleur libres et asservis. En tant que président, Washington s’est toutefois soigneusement abstenu de résider de manière prolongée à Philadelphie, première capitale du pays, afin d’éviter d’être soumis à la loi d’abolition graduelle de l’esclavage adoptée par la Pennsylvanie en 1780.</p>
-                <p>Issu d’une famille d’esclavagistes vieille de trois générations, Washington possède à sa mort, en 1799, quelque 123 personnes esclavisées. En tout, plus de 300 personnes travaillent dans sa plantation de Mount Vernon, en Virginie, parmi lesquelles des travailleurs temporaires et des esclaves hérités du premier mariage de sa femme, Martha. Dans son testament, largement diffusé dans la presse américaine, Washington prévoit que ses esclaves seront émancipés à la mort de son épouse, ce qui lui permet d’afficher une posture morale tout en reportant les pertes financières sur ses héritiers. Parallèlement, durant les dernières années de sa vie, il poursuit sans relâche Ona Judge, une jeune femme asservie qui s’est enfuie de Mount Vernon et a gagné le New Hampshire. Lorsque celle-ci propose de revenir à la condition que sa liberté lui soit accordée après la mort de George et Martha, Washington refuse ; de même, il hésite à se saisir de la loi sur les esclaves fugitifs de 1793, craignant que cela n’attire l’attention et ne galvanise les abolitionnistes du Nord.</p>
-                <p>Les historiens continuent de débattre de la position plus ou moins critique de Washington sur l’esclavage et de son degré d’adhésion au projet d’une abolition graduelle de l’institution. François Furstenberg s’est notamment intéressé à sa collection de livres, qui comprend plusieurs brochures abolitionnistes publiées en Europe et en Amérique du Nord. Il note cependant que certains de ces volumes n’ont jamais été ouverts, et que les réflexions de Washington sur la question restent cantonnées à sa correspondance privée.</p>
-                <p>
-                </p>
-            </note>
-        </person>
-        <person xml:id="entity-1">
+        <person xml:id="ADA">
             <persName xml:lang="en">John Adams</persName>
             <persName xml:lang="fr">John Adams</persName>
             <birth>1735</birth>
             <death>1826</death>
-            <note xml:lang="en" type="Person">
+            <note xml:lang="en" type="Person" resp="#masha #michaël">
                 <p>John Adams stands out among the first American presidents as a northerner who was never an enslaver. In the immediate aftermath of the American Revolution, he opposed efforts to implement large-scale emancipation in his home state of Massachusetts, but, as primary author of the state’s constitution, which included a Declaration of Rights (written after Adams served as Envoy to France), Adams has long been associated with the state’s de facto abolition in 1780. It was only after the 1781 cases of Mum Bett and Quok Walker, enslaved people who cited the language of the constitution in suing for their freedom, that the document, which does not explicitly prohibit slavery, took on this accepted meaning. </p>
                 <p>John Adams’s presidency is notably marked by the establishment of trade relations with Haiti, which was then in conflict with France.  These political positions, in combination with an 1801 letter in which he expresses “abhorrence” to the institution of slavery, claiming to have always employed free men at significant personal expense, have contributed to Adams’ enduring legacy as a committed abolitionist. Recently, historians have called attention to the ways in which his positions were more in line with contemporaries, noting both that, with regard to Haiti, agreement to continue commerce is hardly a statement of ideological sympathy, and that any actual belief in the principle of equality was never public or explicit.</p>
                 <p>
@@ -46,7 +21,7 @@
                 <bibl>Rossignol, Marie-Jeanne and Michaël Roy, with Marlene L. Daut and Cécile Roudeau, eds.  <title>Anthologie de la pensée noire. États-Unis et Haïti (xviiie-xixe siècles)</title>  . Marseille: Hors d’atteinte, 2023.</bibl>
                 <bibl>McCullough, David.  <title>John Adams</title>  . New York: Simon &amp; Schuster, 2001.</bibl>
             </note>
-            <note xml:lang="fr" type="Person">
+            <note xml:lang="fr" type="Person" resp="#masha #michaël">
                 <p>John Adams est originaire du Nord des États-Unis et n’a jamais possédé d’esclaves, ce qui le distingue des premiers présidents américains. Bien qu’opposé à l’émancipation générale des esclaves dans son État natal du Massachusetts après la Révolution, il rédige pour le jeune État une constitution qui comprend une Déclaration des droits (il rentre alors d’une mission diplomatique en France) et œuvre de fait à la disparition progressive de l’esclavage dans le Massachusetts. Dans les années qui suivent l’adoption de la constitution en 1780, des personnes esclavisées telles que Mum Bett et Quok Walker n'hésitent pas à invoquer ce document pour poursuivre leur maître et réclamer leur liberté devant les tribunaux.</p>
                 <p>Le mandat de John Adams est notamment marqué par l’établissement de relations commerciales avec Haïti, alors en conflit avec la France. Ses prises de position politiques, ainsi qu’une lettre de 1801 dans laquelle il exprime sa « détestation » de l’esclavage et affirme avoir toujours employé des hommes libres, même lorsque le coût de leur travail était élevé, ont largement contribué à forger sa réputation d’abolitionniste engagé.</p>
                 <p>Cette image a toutefois été nuancée par l’historiographie récente, qui souligne la proximité d’Adams avec ses contemporains sur la question de l’esclavage. Le maintien des échanges avec Haïti, par exemple, ne traduit pas nécessairement une sympathie à l’égard de l’indépendance haïtienne, et Adams ne s’est jamais publiquement ni explicitement exprimé en faveur de l’égalité raciale.</p>
@@ -54,7 +29,7 @@
                 </p>
             </note>
         </person>
-        <person xml:id="entity-2">
+        <person xml:id="JEF">
             <persName xml:lang="en">Thomas Jefferson</persName>
             <persName xml:lang="fr">Thomas Jefferson</persName>
             <birth>1743</birth>
@@ -77,6 +52,31 @@
                 <bibl>Rossignol, Marie-Jeanne et Michaël Roy, avec Marlene L. Daut and Cécile Roudeau, eds.  <title>Anthologie de la pensée noire. États-Unis et Haïti (xviiie-xixe siècles)</title>  . Marseille: Hors d’atteinte, 2023. <p> </p></bibl>
                 <bibl>Scherr, Arthur.  <emph>John Adams, Slavery, and Race: Ideas, Politics, and Diplomacy in an Age of Crisis</emph> . Santa Barbara: Praeger, 2018. <p> </p></bibl>
                 <bibl>Stanton, Lucia.  <title>“Those who labor for my happiness” : slavery at Thomas Jefferson’s Monticello</title>  . Charlottesville: University of Virginia Press, 2012. <p> </p></bibl>
+            </note>
+        </person>
+        <person xml:id="WAS">
+            <persName xml:lang="en">George Washington </persName>
+            <persName xml:lang="fr">George Washington</persName>
+            <birth>1732</birth>
+            <death>1799</death>
+            <note xml:lang="en" type="Person" resp="#michaël #masha">
+                <p>Unlike fellow architects of the early American republic, George Washington did not spend any time in Europe or read in French, nor, in seeking French support for American independence, did he explicitly draw logical connections between independence and emancipation. During the Revolution, Washington, conceding to the demands of war after initial reluctance, led an integrated Continental Army, including free and enslaved men of color. As President, however, Washington carefully avoided maintaining consistent residence in Philadelphia, the nation’s first capital, to avoid being subject to Pennsylvania’s gradual abolition act of 1780.</p>
+                <p>Washington was a third-generation enslaver, who, at the time of his death in 1799, held personal claim to 123 enslaved people, while his Virginia home and plantation, Mount Vernon, benefited from the labor of over 300 in total, the remainder being temporary laborers or enslaved people inherited from the estate of his wife’s first husband. In his will, published widely in U.S. papers, he stipulated emancipation for those in his personal estate upon Martha Washington’s death, suggesting a moral stance while notably deferring financial loss to his inheritors. Meanwhile, through the final years of his life, he continued a relentless pursuit of Ona Judge, a young enslaved woman who had fled Mount Vernon for New Hampshire. In seeking to recover her, he refused her willing return on the condition of being freed after his and Martha’s deaths, and only hesitated to enforce the Fugitive Slave Act of 1793 for fear of drawing negative publicity to the case and galvanizing northern abolitionists.</p>
+                <p>Historians continue to debate Washington’s personal degree of comfort with or distaste for the institution of slavery, and whether he harbored any conviction to endorse gradual abolition.  François Furstenberg has drawn attention to his bound collection of antislavery tracts from American and European sources while noting that several of these works were never opened and his sentiments on the matter were restricted to private correspondence.</p>
+                <p>
+                </p>
+                <bibl>Dunbar, Erica Armstrong.  <title>Never Caught: The Washingtons’ Relentless Pursuit of Their Runaway Slave, Ona Judge</title>  .  New York: 37 Ink/Atria, 2017.</bibl>
+                <bibl>Rossignol, Marie-Jeanne and Michaël Roy, with Marlene L. Daut and Cécile Roudeau, eds.  <title>Anthologie de la pensée noire. États-Unis et Haïti (xviiie-xixe siècles)</title>  . Marseille: Hors d’atteinte, 2023.</bibl>
+                <bibl>Wiencek, Henry.  <title>An Imperfect God: George Washington, His Slaves, and the Creation of America</title>  . New York: Farrar, Straus and Giroux, 2003.</bibl>
+                <bibl>Furstenberg, François. "Atlantic Slavery, Atlantic Freedom: George Washington, Slavery, and Transatlantic Abolitionist Networks".  <emph>The William and Mary Quarterly</emph>  68.2 (2011).</bibl>
+                <bibl>Thompson, Mary V.  <title>The Only Unavoidable Subject of Regret: George Washington, Slavery, and the Enslaved Community at Mount Vernon</title>  . Charlottesville, Virginia: University of Virginia Press, 2019.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#michaël #masha">
+                <p>Contrairement à d'autres figures fondatrices de la jeune République américaine, George Washington n’a jamais séjourné en France ni entretenu de relations directes avec les grands penseurs français de la fin du XVIIIe siècle. Dans sa quête de soutien français pour l’indépendance américaine, il ne lie pas explicitement cette cause à celle de l’émancipation. Pendant la Révolution, Washington, contraint par les impératifs de la guerre,dirige une armée non ségréguée, qui inclut des hommes de couleur libres et asservis. En tant que président, Washington s’est toutefois soigneusement abstenu de résider de manière prolongée à Philadelphie, première capitale du pays, afin d’éviter d’être soumis à la loi d’abolition graduelle de l’esclavage adoptée par la Pennsylvanie en 1780.</p>
+                <p>Issu d’une famille d’esclavagistes vieille de trois générations, Washington possède à sa mort, en 1799, quelque 123 personnes esclavisées. En tout, plus de 300 personnes travaillent dans sa plantation de Mount Vernon, en Virginie, parmi lesquelles des travailleurs temporaires et des esclaves hérités du premier mariage de sa femme, Martha. Dans son testament, largement diffusé dans la presse américaine, Washington prévoit que ses esclaves seront émancipés à la mort de son épouse, ce qui lui permet d’afficher une posture morale tout en reportant les pertes financières sur ses héritiers. Parallèlement, durant les dernières années de sa vie, il poursuit sans relâche Ona Judge, une jeune femme asservie qui s’est enfuie de Mount Vernon et a gagné le New Hampshire. Lorsque celle-ci propose de revenir à la condition que sa liberté lui soit accordée après la mort de George et Martha, Washington refuse ; de même, il hésite à se saisir de la loi sur les esclaves fugitifs de 1793, craignant que cela n’attire l’attention et ne galvanise les abolitionnistes du Nord.</p>
+                <p>Les historiens continuent de débattre de la position plus ou moins critique de Washington sur l’esclavage et de son degré d’adhésion au projet d’une abolition graduelle de l’institution. François Furstenberg s’est notamment intéressé à sa collection de livres, qui comprend plusieurs brochures abolitionnistes publiées en Europe et en Amérique du Nord. Il note cependant que certains de ces volumes n’ont jamais été ouverts, et que les réflexions de Washington sur la question restent cantonnées à sa correspondance privée.</p>
+                <p>
+                </p>
             </note>
         </person>
         <person xml:id="Gatine">
@@ -103,6 +103,30 @@
             <note xml:lang="fr" type="Person" resp="#masha">
                 <p>Le titre de vicomte Morpeth fait ici référence à George Howard, septième comte de Carlisle. Howard soutient la pétition d'Henry Brougham pour l'abolition de l'esclavage en juillet 1830 et, en tant que membre du parlement pour le Yorkshire, présente de nombreuses pétitions à titre personnel l'année suivante. Il est également un défenseur de la liberté de la presse face aux efforts visant à imposer des codes de censure plus stricts.</p>
                 <bibl>"HOWARD, George William Frederick, Visct. Morpeth (1802-1864), of Howthorpe Manor, Yorks."  <title>The History of Parliament: the House of Commons 1820-1832</title>  , ed. D.R. Fisher. Cambridge, Cambridge University Press, 2009.</bibl>
+            </note>
+        </person>
+        <person xml:id="Equ">
+            <persName xml:lang="en">Olaudah Equiano</persName>
+            <persName xml:lang="fr">Olaudah Equiano</persName>
+            <note xml:lang="en" type="Person" resp="#masha">
+                <figure>
+                    <graphic url="Equiano_809386c81d.jpg"/>
+                    <figDesc>Portrait of Equiano</figDesc>
+                </figure>
+                <p>Olaudah Equiano was among the most prominent British abolitionists of the late eighteenth century. Born around 1745, he was sold as a child to the British captain Michael Pascal, who gave him the name Gustavas Vassa, which remained his legal name for the remainder of his life. Equiano served in the British Navy during the Seven Years’ War and in 1766, he purchased his freedom from the American merchant Robert King.</p>
+                <p>As a free man in London in the 1780s, Equiano became more active in the abolitionist movement, notably working with Granville Sharp to bring public attention to the 1781 Zong massacre, in which more than 130 enslaved people were thrown overboard to their deaths while crossing the Atlantic. In 1789, Equiano published his autobiography (his first public use of the name Olaudah Equiano), <title>The Interesting Narrative of the Life of Olaudah Equiano</title>, or Gustavus Vassa, the African, which was an instant success in Britain and abroad, becoming the standard for the genre of the slave narrative.</p>
+                <p>The feature on Equiano that appears in the Revue is taken directly from <title>Abbé Grégoire’s De la littérature des nègres</title> (1808) a survey of writing by Black authors through the turn of the nineteenth century. In the included passage, Grégoire paraphrases the accounts of Equiano’s early childhood in <title>The Interesting Narrative</title>. These passages reflect a consistent point of emphasis in the <title>Revue</title> itself, that the Euopean slave trade corrupts otherwise functional and sophisticated cultures. Later in <title>The Interesting Narrative</title>, Equiano makes a plea for the end of the slave trade in the British Empire that the <title>Revue</title> echoes regularly: that free trade with the African continent would ultimately be more profitable to the nations that supposedly benefit from slave economies.</p>
+                <bibl>Equiano, Olaudah.  <title>The Interesting Narrative</title> , edited by Brycchan Carey. Oxford University Press 2018.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#masha">
+                <figure>
+                    <graphic url="Equiano_809386c81d.jpg"/>
+                    <figDesc>Portrait de Equiano</figDesc>
+                </figure>
+                <p>Olaudah Equiano was among the most prominent British abolitionists of the late eighteenth century. Born around 1745, he was sold as a child to the British captain Michael Pascal, who gave him the name Gustavus Vassa, which remained his legal name for the remainder of his life. Equiano served in the British Navy during the Seven Years’ War and in 1766, he purchased his freedom from the American merchant Robert King.</p>
+                <p>As a free man in London in the 1780s, Equiano became more active in the abolitionist movement, notably working with Granville Sharp to bring public attention to the 1781 Zong massacre, in which more than 130 enslaved people were thrown overboard to their deaths while crossing the Atlantic. In 1789, Equiano published his autobiography (his first public use of the name Olaudah Equiano), <title>The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African</title>, which was an instant success in Britain and abroad, becoming the standard for the genre of the slave narrative.</p>
+                <p>The feature on Equiano that appears in the <title>Revue</title> is taken directly from Abbé Grégoire’s <title>De la littérature des nègres</title> (1808) a survey of writing by Black authors through the turn of the nineteenth century. In the included passage, Grégoire paraphrases the accounts of Equiano’s early childhood in <title>The Interesting Narrative</title>. These passages reflect a consistent point of emphasis in the <title>Revue</title> itself, that the Euopean slave trade corrupts otherwise functional and sophisticated cultures. Later in <title>The Interesting Narrative</title>, Equiano makes a plea for the end of the slave trade in the British Empire that the <title>Revue</title> echoes regularly: that free trade with the African continent would ultimately be more profitable to the nations that supposedly benefit from slave economies.</p>
+                <bibl>Equiano, Olaudah.  <title>The Interesting Narrative</title> , edited by Brycchan Carey. Oxford University Press 2018.</bibl>
             </note>
         </person>
         <person xml:id="ADp">
@@ -282,30 +306,6 @@
             <note xml:lang="fr" type="Person" resp="#masha">
                 <p>Louis-­Pierre Dufay (ou Dufahy, l’orthographe employée par Bissette est peu répandue) est parmi les députés envoyés pour représenter Saint-Domingue à la Convention à l’issue des élections de 1793 et ​​soutient par la suite l’abolition de 1794. Avant ce revirement politique, cependant , il avait été membre du Club de l’hôtel de Massiac, une association de propriétaires terriens caribéens qui s'opposaient au premier groupe abolitionniste La Société des amis des Noirs et s'opposaient à l'application de la Déclaration des droits de l'homme et du citoyen aux colonies.</p>
                 <bibl>Benzaken, Jean-­Charles. « Louis-­Pierre Dufahy, député abo­­li­­tion­­niste et homme d’affaires avisé. Esquisse bio­­gra­­phique »,  <title>Annales historiques de la Révolution française</title> . 1 juin 2012 n <hi rend="superscript">o</hi>  368. p. 61‑85.</bibl>
-            </note>
-        </person>
-        <person xml:id="Equ">
-            <persName xml:lang="en">Olaudah Equiano</persName>
-            <persName xml:lang="fr">Olaudah Equiano</persName>
-            <note xml:lang="en" type="Person" resp="#masha">
-                <figure>
-                    <graphic url="Equiano_809386c81d.jpg"/>
-                    <figDesc>Portrait of Equiano</figDesc>
-                </figure>
-                <p>Olaudah Equiano was among the most prominent British abolitionists of the late eighteenth century. Born around 1745, he was sold as a child to the British captain Michael Pascal, who gave him the name Gustavas Vassa, which remained his legal name for the remainder of his life. Equiano served in the British Navy during the Seven Years’ War and in 1766, he purchased his freedom from the American merchant Robert King.</p>
-                <p>As a free man in London in the 1780s, Equiano became more active in the abolitionist movement, notably working with Granville Sharp to bring public attention to the 1781 Zong massacre, in which more than 130 enslaved people were thrown overboard to their deaths while crossing the Atlantic. In 1789, Equiano published his autobiography (his first public use of the name Olaudah Equiano), <title>The Interesting Narrative of the Life of Olaudah Equiano</title>, or Gustavus Vassa, the African, which was an instant success in Britain and abroad, becoming the standard for the genre of the slave narrative.</p>
-                <p>The feature on Equiano that appears in the Revue is taken directly from <title>Abbé Grégoire’s De la littérature des nègres</title> (1808) a survey of writing by Black authors through the turn of the nineteenth century. In the included passage, Grégoire paraphrases the accounts of Equiano’s early childhood in <title>The Interesting Narrative</title>. These passages reflect a consistent point of emphasis in the <title>Revue</title> itself, that the Euopean slave trade corrupts otherwise functional and sophisticated cultures. Later in <title>The Interesting Narrative</title>, Equiano makes a plea for the end of the slave trade in the British Empire that the <title>Revue</title> echoes regularly: that free trade with the African continent would ultimately be more profitable to the nations that supposedly benefit from slave economies.</p>
-                <bibl>Equiano, Olaudah.  <title>The Interesting Narrative</title> , edited by Brycchan Carey. Oxford University Press 2018.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#masha">
-                <figure>
-                    <graphic url="Equiano_809386c81d.jpg"/>
-                    <figDesc>Portrait de Equiano</figDesc>
-                </figure>
-                <p>Olaudah Equiano was among the most prominent British abolitionists of the late eighteenth century. Born around 1745, he was sold as a child to the British captain Michael Pascal, who gave him the name Gustavus Vassa, which remained his legal name for the remainder of his life. Equiano served in the British Navy during the Seven Years’ War and in 1766, he purchased his freedom from the American merchant Robert King.</p>
-                <p>As a free man in London in the 1780s, Equiano became more active in the abolitionist movement, notably working with Granville Sharp to bring public attention to the 1781 Zong massacre, in which more than 130 enslaved people were thrown overboard to their deaths while crossing the Atlantic. In 1789, Equiano published his autobiography (his first public use of the name Olaudah Equiano), <title>The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African</title>, which was an instant success in Britain and abroad, becoming the standard for the genre of the slave narrative.</p>
-                <p>The feature on Equiano that appears in the <title>Revue</title> is taken directly from Abbé Grégoire’s <title>De la littérature des nègres</title> (1808) a survey of writing by Black authors through the turn of the nineteenth century. In the included passage, Grégoire paraphrases the accounts of Equiano’s early childhood in <title>The Interesting Narrative</title>. These passages reflect a consistent point of emphasis in the <title>Revue</title> itself, that the Euopean slave trade corrupts otherwise functional and sophisticated cultures. Later in <title>The Interesting Narrative</title>, Equiano makes a plea for the end of the slave trade in the British Empire that the <title>Revue</title> echoes regularly: that free trade with the African continent would ultimately be more profitable to the nations that supposedly benefit from slave economies.</p>
-                <bibl>Equiano, Olaudah.  <title>The Interesting Narrative</title> , edited by Brycchan Carey. Oxford University Press 2018.</bibl>
             </note>
         </person>
         <person xml:id="DES">
