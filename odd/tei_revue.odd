@@ -223,6 +223,7 @@
                                 <valItem mode="add" ident="#CX"/>
                                 <valItem mode="add" ident="#Equ"/>
                                 <valItem mode="add" ident="#GT"/>
+                                <valItem mode="add" ident="#POR"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
                                 <valItem mode="add" ident="#Stx"/>
@@ -283,11 +284,9 @@
                                 <valItem mode="add" ident="#Bethm"/>
                                 <valItem mode="add" ident="#Dav"/>
                                 <valItem mode="add" ident="#deJab"/>
-                                <valItem mode="add" ident="#CIC"/>
                                 <valItem mode="add" ident="#LdV"/>
                                 <valItem mode="add" ident="#LFab"/>
                                 <valItem mode="add" ident="#AG"/>
-                                <valItem mode="add" ident="#ART"/>
                                 <valItem mode="add" ident="#BART"/>
                                 <valItem mode="add" ident="#BOLI"/>
                                 <valItem mode="add" ident="#ABE"/>
@@ -308,6 +307,8 @@
                                 <valItem mode="add" ident="#MEL"/>
                                 <valItem mode="add" ident="#JPB"/>
                                 <valItem mode="add" ident="#AA"/>
+                                <valItem mode="add" ident="#ART"/>
+                                <valItem mode="add" ident="#CIC"/>
                                 <valItem mode="add" ident="#EC"/>
                                 <valItem mode="add" ident="#CLM"/>
                                 <valItem mode="add" ident="#COX"/>
@@ -473,6 +474,7 @@
                                 <valItem mode="add" ident="#ex"/>
                                 <valItem mode="add" ident="#bra"/>
                                 <valItem mode="add" ident="#Eco"/>
+                                <valItem mode="add" ident="#Nil"/>
                                 <valItem mode="add" ident="#OA"/>
                                 <valItem mode="add" ident="#Par"/>
                                 <valItem mode="add" ident="#PlB"/>
