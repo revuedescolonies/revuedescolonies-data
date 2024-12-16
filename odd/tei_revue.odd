@@ -222,6 +222,7 @@
                                 <valItem mode="add" ident="#SR"/>
                                 <valItem mode="add" ident="#CX"/>
                                 <valItem mode="add" ident="#Equ"/>
+                                <valItem mode="add" ident="#GT"/>
                                 <valItem mode="add" ident="#ADp"/>
                                 <valItem mode="add" ident="#CB"/>
                                 <valItem mode="add" ident="#Stx"/>
@@ -471,6 +472,7 @@
                                 <valItem mode="add" ident="#Bou"/>
                                 <valItem mode="add" ident="#ex"/>
                                 <valItem mode="add" ident="#bra"/>
+                                <valItem mode="add" ident="#Eco"/>
                                 <valItem mode="add" ident="#OA"/>
                                 <valItem mode="add" ident="#Par"/>
                                 <valItem mode="add" ident="#PlB"/>
