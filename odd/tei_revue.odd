@@ -175,6 +175,11 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
+                                <valItem mode="add" ident="#POI"/>
+                                <valItem mode="add" ident="#EMG"/>
+                                <valItem mode="add" ident="#HR"/>
+                                <valItem mode="add" ident="#JDI"/>
+                                <valItem mode="add" ident="#JBI"/>
                                 <valItem mode="add" ident="#SBol"/>
                                 <valItem mode="add" ident="#DGE"/>
                                 <valItem mode="add" ident="#JBLG"/>
@@ -449,6 +454,8 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
+                                <valItem mode="add" ident="#BdV"/>
+                                <valItem mode="add" ident="#CSR"/>
                                 <valItem mode="add" ident="#Col"/>
                                 <valItem mode="add" ident="#Va"/>
                                 <valItem mode="add" ident="#FdF"/>
