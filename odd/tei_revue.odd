@@ -180,6 +180,14 @@
                                 <valItem mode="add" ident="#HR"/>
                                 <valItem mode="add" ident="#JDI"/>
                                 <valItem mode="add" ident="#JBI"/>
+                                <valItem mode="add" ident="#IW"/>
+                                <valItem mode="add" ident="#JI"/>
+                                <valItem mode="add" ident="#Ov"/>
+                                <valItem mode="add" ident="#FP"/>
+                                <valItem mode="add" ident="#WK"/>
+                                <valItem mode="add" ident="#MHP"/>
+                                <valItem mode="add" ident="#TCL"/>
+                                <valItem mode="add" ident="#RSm"/>
                                 <valItem mode="add" ident="#SBol"/>
                                 <valItem mode="add" ident="#DGE"/>
                                 <valItem mode="add" ident="#JBLG"/>
@@ -307,7 +315,6 @@
                                 <valItem mode="add" ident="#BUX"/>
                                 <valItem mode="add" ident="#KCI"/>
                                 <valItem mode="add" ident="#ACL"/>
-                                <valItem mode="add" ident="#WW"/>
                                 <valItem mode="add" ident="#AJC"/>
                                 <valItem mode="add" ident="#NIC"/>
                                 <valItem mode="add" ident="#ES"/>
@@ -318,6 +325,7 @@
                                 <valItem mode="add" ident="#ART"/>
                                 <valItem mode="add" ident="#CIC"/>
                                 <valItem mode="add" ident="#BOI"/>
+                                <valItem mode="add" ident="#WW"/>
                                 <valItem mode="add" ident="#EC"/>
                                 <valItem mode="add" ident="#CLM"/>
                                 <valItem mode="add" ident="#COX"/>
@@ -456,6 +464,7 @@
                             <valList type="closed" mode="change">
                                 <valItem mode="add" ident="#BdV"/>
                                 <valItem mode="add" ident="#CSR"/>
+                                <valItem mode="add" ident="#RLS"/>
                                 <valItem mode="add" ident="#Col"/>
                                 <valItem mode="add" ident="#Va"/>
                                 <valItem mode="add" ident="#FdF"/>
