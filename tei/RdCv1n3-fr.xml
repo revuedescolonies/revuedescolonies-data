@@ -1181,5 +1181,8 @@ biens, votre industrie, votre travail ? Et si ce n'est pas vous, comment êtes-v
 </div>
 
       </body>
+      <back>
+            <xi:include href="shared/entities.xml"/>
+        </back>
    </text>
 </TEI>

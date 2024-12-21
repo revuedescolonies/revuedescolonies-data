@@ -379,5 +379,8 @@
             
          </div>
       </body>
+      <back>
+            <xi:include href="shared/entities.xml"/>
+        </back>
    </text>
 </TEI>
