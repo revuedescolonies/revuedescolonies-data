@@ -823,31 +823,49 @@ un mémoire très étendu sur les mesures à prendre pour opérer l'entière ém
 
 <p>- M. <persName>Dupetit-Thouars</persName>, capitaine de vaisseau, vient d'être chargé d'une mission du gouvernement auprès de la <placeName ref="#HT">République d'Haiti</placeName>. Cet officier va prendre le commandement de la corvette <emph>la Créole</emph>, déjà en rade de <placeName ref="#BRE">Brest</placeName> . Le brick <emph>le Cuirassier </emph> fait partie de cette expédition.</p>
 
+<<<<<<< HEAD
 <p>-M. Auguste Périnon, homme de couleur de la Martinique,<pb facs="v1n5f40" n="41"/> près avoir passé avec distinction deux années à l'école Polytech nique, vient d'entrer, sur sa demande, en qualité d'officier dans l'artillerie de la marine. M. Périnon a obtenu son grade au concours. Nous annonçons cette nouvelle avec bonheur à nos jeunes compatriotes de couleur. Qu'ils démentent, par d'honorables tra vaux et en faisant preuve de capacité dans toutes les carrières, les indignes préjugés de leurs oppresseurs.</p>
+=======
+<p>- <persName ref="#APe">Auguste Périnon</persName> , homme de couleur de la <placeName ref="#MQ">Martinique</placeName>,<pb n="41"/> près avoir passé avec distinction deux années à l'école Polytechnique, vient d'entrer, sur sa demande, en qualité d'officier dans l'artillerie de la marine. M. Périnon a obtenu son grade au concours. Nous annonçons cette nouvelle avec bonheur à nos jeunes compatriotes de couleur. Qu'ils démentent, par d'honorables travaux et en faisant preuve de capacité dans toutes les carrières, les indignes préjugés de leurs oppresseurs.</p>
+>>>>>>> 193ce06 (edits0601)
 
-<p>Encore un nouveau fleuron à ajouter à la couronne de M. Arsène Nogues. Ce procureur-général vient de faire exécuter, avant le recours en cassation ou en grace, un arrêt de la cour dite d'assises de la Martinique qui condamne à mort deux esclaves accusés d'ho micide. Coupables ou non, peu nous importe: le pourvoi était de droit. Ces condamnés ont été pendus et étranglés jusqu'à ce que mort s'en suivit.</p>
+<p>Encore un nouveau fleuron à ajouter à la couronne de <persName ref="#ANog">M. Arsène Nogues</persName> . Ce procureur-général vient de faire exécuter, avant le recours en cassation ou en grace, un arrêt de la cour dite d'assises de la Martinique qui condamne à mort deux esclaves accusés d'homicide. Coupables ou non, peu nous importe : le pourvoi était de droit. Ces condamnés ont été pendus et étranglés jusqu'à ce que mort s'en suivit.</p>
 
-<p>J'ai rendu compte, dans le dernier numéro de la Revue des Colonies, d'une conversation que j'ai ene avec l'ancien procureur général de la Martinique, qui m'a fait ARQUER, au mépris de mon pourvoi en cassation.</p>
+<p>J'ai rendu compte, dans le dernier numéro de la <bibl type="periodical">Revue des Colonies</bibl>, d'une conversation que j'ai eue avec l'ancien procureur général de la Martinique, qui m'a fait MARQUER, au mépris de mon pourvoi en cassation.</p>
 
-<p>Une lettre-circulaire, signée De Lucy, vient d'être publiée ; le signataire déclare que ce qu'il a fait, il a dû le faire.</p>
+<p>Une lettre-circulaire, signée <persName ref="#RL">De Lucy</persName>, vient d'être publiée ; le signataire déclare <emph>que ce qu'il a fait, il a dû le faire</emph>.</p>
 
+<<<<<<< HEAD
 <p>J'ai reproché à l'ancien procureur-général sa conduite à l'occa sion de l'exécution précipitée de l'arrêt qui me condamnait, et le fait ignoble d'avoir arraché par menace à ma femme une lettre de consolation que je lui adressais en descendant de l'échafaud, et qu'il brûla après l'avoir lue. Ces actes, je les lui ai reproches en face; et il les appelle devoirs accomplis sans passion comme sans faiblesse! Cet homme est ainsi fait; cet homme ne sent pas que ce sont là des actes infâmes; cet homme n'a pas conscience qu'il a été atroce et lâche en 1824: il prétend ici, à la face d'un peuple civilisé, que ce qu'il a fait, il a dû le faire. Mépris done et exécration à cet homme! Exécration et mépris!</p>
 <p>BISSETTE.</p><pb facs="v1n5f41" n="42"/>
+=======
+<p>J'ai reproché à l'ancien procureur-général sa conduite à l'occasion de l'exécution précipitée de l'arrêt qui me condamnait, et le fait ignoble d'avoir arraché par menace à ma femme une lettre de consolation que je lui adressais en descendant de l'échafaud, et qu'il brûla après l'avoir lue. Ces actes, je les lui ai reprochés en face ; et il les appelle <emph>devoirs accomplis sans passion comme sans faiblesse !</emph> Cet homme est ainsi fait ; cet homme ne sent pas que ce sont là des actes infâmes ; cet homme n'a pas conscience qu'il a été atroce et lâche en <date>1824</date> : il prétend ici, à la face d'un peuple civilisé, <emph>que ce qu'il a fait, il a dû le faire</emph>. Mépris donc et exécration à cet homme ! Exécration et mépris !</p>
+<p><persName ref="#CB">BISSETTE</persName></p><pb n="42"/>
+>>>>>>> 193ce06 (edits0601)
 </div>
 
 <div>
 <head>COLONIES FRANÇAISES.</head>
-<head>MARTINIQUE.</head>
+<head><placeName ref="#MQ">MARTINIQUE</placeName></head>
 
-<p>On nous écrit de Saint-Pierre, 29 août :</p>
+<p>On nous écrit de <placeName ref="#StP">Saint-Pierre</placeName>, 29 août :</p>
 
-<p>Depuis quelques jours, il est arrivé au Fort-Royal une troupe d'artistes dramatiques, laquelle donne des représentations deux fois par semaine. Croiriez-vous que l'entrée de ce spectacle est interdite aux hommes de couleur? Remarquez bien que ce n'est point une société privée: douze grenadiers du 1 régiment de la marine sont stationnés aux alentours de la salle pour écarter les negres et les mulâtres. Voilà, mon cher ami, le résultat de la révo lution de juillet dans les colonies.....</p>
+<p>Depuis quelques jours, il est arrivé au Fort-Royal une troupe d'artistes dramatiques, laquelle donne des représentations deux fois par semaine. Croiriez-vous que l'entrée de ce spectacle est interdite aux hommes de couleur ? Remarquez bien que ce n'est point une société privée : douze grenadiers du 1er régiment de la marine sont stationnés aux alentours de la salle pour écarter les nègres et les mulâtres. Voilà, mon cher ami, le résultat de la révolution de juillet dans les colonies.....</p>
 
 <p>- On nous écrit du Fort-Royal, 1er septembre:</p>
 
-<p>Il y a présentement ici une salle de spectacle où, pour exclure les hommes de couleur, on a imaginé de faire des souscriptions parmi les blancs seulement. Les affiches sont envoyées à domicile avec ce titre: THEATRE DE SOCIÉTÉ PAR SOUSCRIPTION. Les mili taires, de quelque grade que ce soit, y sont admis, et tout ce qui se dit lane. Il faut avouer que le gouverneur n'y est jamais allé, mais il n'a rien fait pour empêcher tout ce manége et le tolère par son silence.</p>
+<p>Il y a présentement ici une salle de spectacle où, pour exclure les hommes de couleur, on a imaginé de faire des souscriptions parmi les blancs seulement. Les affiches sont envoyées à domicile avec ce titre : "THÉATRE DE SOCIÉTÉ PAR SOUSCRIPTION". Les militaires, de quelque grade que ce soit, y sont admis, et tout ce qui se dit <emph>blanc</emph> Il faut avouer que le gouverneur n'y est jamais allé, mais il n'a rien fait pour empêcher tout ce manège et le tolère par son silence.</p>
 
+<<<<<<< HEAD
 <p>Hier une messe en musique a eu lieu; c'était probablement la fête de Henri V que l'on célébrait sous le masque de saint Louis, patron de la paroisse. Les musiciens bourgeois de la classe blauche, qui ont composé en grande partie l'orchestre, ont en la précaution de s'entendre avec le curé pour qu'il n'y eût pas d'hommes de couleur à cette cérémonie; c'est ce que je pense, puisque le suisse de la paroisse a forcé ceux qui voulaient entrer à l'église de se retirer et a mis à la porte ceux qui y étaient déjà, et que M. Nelson Didier, homme de couleur, qui est allé après la messe auprès du curé, lui donner connaissance de ce qui lui était arrivé, n'a eu d'autre réponse de ce prêtre que des paroles très dures pour toute la classe de couleur en général; lecuré a répondu,entre autres choses, qu'il se moquait de l'opinion que les hommies de couleur pouvaient avoir de lai, qu'il les foulait aux pieds, etc. Jugez après cela des progrès effrayans que fait la haine de nos ennemis, puis <pb facs="v1n5f42" n="43"/> qu'elle gagne déjà l'église, où tous les rangs, toutes distinctions, tous les préjugés doivent être fondus dans le même erenset.</p>
+=======
+<p>Hier une messe en musique a eu lieu ; c'était probablement la fête de <persName ref="#HeV">Henri V</persName> que l'on célébrait sous le masque de saint Louis, patron de la paroisse. Les musiciens bourgeois de la classe blanche, qui ont composé en grande partie l'orchestre, ont en la précaution de s'entendre avec le curé pour qu'il n'y eût pas d'hommes de couleur à cette cérémonie ; c'est ce que je pense, puisque le suisse de la paroisse a forcé ceux qui voulaient entrer à l'église de se retirer et a mis à la porte ceux qui y étaient déjà, et que <persName ref="#ND">M. Nelson Didier </persName>, homme de couleur, qui est allé après la messe auprès du curé, lui donner connaissance de ce qui lui était arrivé, n'a eu d'autre réponse de ce prêtre que des paroles très dures pour toute la classe de couleur en général ; le curé a répondu,entre autres choses, qu'il se moquait de l'opinion que les hommes de couleur pouvaient avoir de lui, qu'il les foulait aux pieds, etc. Jugez après cela des progrès 
+<choice>
+   <orig>effrayans</orig>
+   <reg>effrayants</reg>
+</choice> 
+que fait la haine de nos ennemis, puis<pb n="43"/>qu'elle gagne déjà l'église, où tous les rangs, toutes distinctions, tous les préjugés doivent être fondus dans le même creuset.</p>
+>>>>>>> 193ce06 (edits0601)
 </div>
 
 <div>

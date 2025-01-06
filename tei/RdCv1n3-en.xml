@@ -23,11 +23,25 @@
    <text xml:lang="en">
       <front>
          <pb facs="v1n3f1" n="1"/>
-         <pb facs="v1n3f2" n="2"/>
-      </front>
+         <titlePage>
+            <titlePart type="main"><seg>REVUE</seg><lb/>DES<lb/><seg>COLONIES,</seg></titlePart>
+            <titlePart type="sub">MONTHLY COMPENDIUM<!--<ptr target="#n13FA"/>--><lb/> OF POLITICS,
+               ADMINISTRATION, JUSTICE, INSTRUCTION AND COLONIAL CUSTOMS,</titlePart>
+            <byline>BY A <orgName ref="#SHC">SOCIETY OF MEN OF COLOR</orgName></byline>
+            <byline>DIRECTED BY <persName ref="#CB">C.-A. BISSETTE</persName>.<lb/></byline>
+            <docEdition>N°3<lb/>September.</docEdition>
+            <docImprint><pubPlace><settlement>PARIS</settlement>,<lb/> AT THE OFFICE OF THE
+                  REVUE DES COLONIES,<lb/>46, RUE NEUVE-SAINT-EUSTACHE</pubPlace>
+               <lb/>
+               <date>1834</date>.</docImprint>
+         </titlePage>
+               </front>
       <body>
-         <pb facs="v1n3f3" n="3"/>
          <div>
+         <pb facs="v1n3f2" n="2"/>
+         </div>
+         <div>
+                  <pb facs="v1n3f3" n="3"/>
             <head>PUNISHMENTS AND DISCIPLINARY PENALTIES FOR SLAVES.</head>
             <head>ON THE USE OF THE WHIP AND THE POLICE CHAIN.</head>
             <p>While <placeName ref="#ANG">England</placeName> abolishes slavery and organizes labor in her colonies, the French government scarcely appears to remember that slavery exists in its own colonies, accompanied by its hideous procession of physical and moral suffering. The Minister of the Navy and Colonies barely issues an occasional order to his overseas officers, and these, not for the improvement of the slaves' condition, but merely to preserve the status quo. Yet, it would be a noble task for an enlightened Minister of the Navy, friendly to humanity, to actively undertake the reorganization of France’s possessions in the vast Ocean. Capitals and talents are too often employed in far less important enterprises, which could find here a useful and entirely humane application. It concerns men who suffer, kept in bondage when they have the right to be free; it concerns interests that tremble at the prospect of the inevitable and impending emancipation—a necessity dictated by the force of events—and who foresee their total ruin, which would undoubtedly occur should the patience of the slave be exhausted, compelling him to demand, by force of arms, the liberty and education to which he is entitled. It is, therefore, an urgent duty for those in power to yield to this imperative of the age: to liberate, to moralize, to educate. For those whom the accident of birth has endowed with the privilege of wealth and made white rather than black, this is a great and noble mission to fulfill. Some, we do not doubt, will not shirk from this duty. And though our pride and a natural sense of jealous independence—common to all castes long oppressed—may prevent us from taking the first step, it would nonetheless be with ineffable inner joy that we would welcome the white colonist coming to us, ready to fraternize. A liberal government, one that fully understood the scope of its responsibilities in this great age of renewal, would hasten <pb facs="v1n3f4" n="3"/> such a future. It would not intervene with a cold neutrality between master and slave, between the privileged white man and the man of color. Rather, all its efforts would tend toward dissolving hatred, preaching, so to speak, liberty and equality, and thereby fraternity. It would seek to elevate the slave without debasing the master by imparting to both the moral education they lack and the understanding of the necessity and dignity of human labor, no matter where one stands on the social ladder. In this manner, mutual respect could be achieved. The free black would come to see labor as a condition of existence; the white would recognize that wealth is legitimate only when derived from pure sources, not from the exploitation of man by man. Then slavery, already abolished by law, would appear as nothing more than a monstrous relic of the past, mourned only by those devoid of worth, much like old nobles lament the <emph>ancien régime</emph> where one could live nobly without effort.</p>
