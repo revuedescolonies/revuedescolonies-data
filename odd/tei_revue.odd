@@ -189,6 +189,9 @@
                                 <valItem mode="add" ident="#GIV"/>
                                 <valItem mode="add" ident="#DT"/>
                                 <valItem mode="add" ident="#Ham"/>
+                                <valItem mode="add" ident="#APe"/>
+                                <valItem mode="add" ident="#HeV"/>
+                                <valItem mode="add" ident="#ND"/>
                                 <valItem mode="add" ident="#JdL"/>
                                 <valItem mode="add" ident="#ROG"/>
                                 <valItem mode="add" ident="#Barbaroux"/>
@@ -426,8 +429,8 @@
                                 <valItem mode="add" ident="#MACK"/>
                                 <valItem mode="add" ident="#FI"/>
                                 <valItem mode="add" ident="#FXD"/>
-                                <valItem mode="add" ident="#ANog"/>
                                 <valItem mode="add" ident="#AHav"/>
+                                <valItem mode="add" ident="#ANog"/>
                                 <valItem mode="add" ident="#JorLa"/>
                                 <valItem mode="add" ident="#DEH"/>
                                 <valItem mode="add" ident="#HF"/>
