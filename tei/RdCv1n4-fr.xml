@@ -846,5 +846,8 @@ Le lendemain matin, les émancipés s'assemblèrent de nouveau et ne semblaient 
    <div><p>IMPRIMERIE D'HERHAN, 580, RUE SAINT-DENIS.</p></div>
 
 </body>
+   <back>
+      <xi:include href="shared/entities.xml"/>
+   </back>
   </text>
 </TEI>
