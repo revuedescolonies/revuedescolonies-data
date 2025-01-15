@@ -517,7 +517,6 @@
                                 <valItem mode="add" ident="#StM"/>
                                 <valItem mode="add" ident="#SaY"/>
                                 <valItem mode="add" ident="#Sav"/>
-                                <valItem mode="add" ident="#SEN"/>
                                 <valItem mode="add" ident="#SL"/>
                                 <valItem mode="add" ident="#SW"/>
                                 <valItem mode="add" ident="#TA"/>
@@ -557,6 +556,7 @@
                                 <valItem mode="add" ident="#AF"/>
                                 <valItem mode="add" ident="#Phd"/>
                                 <valItem mode="add" ident="#StMa"/>
+                                <valItem mode="add" ident="#SEN"/>
                                 <valItem mode="add" ident="#Nts"/>
                                 <valItem mode="add" ident="#BaA"/>
                                 <valItem mode="add" ident="#Beau"/>
