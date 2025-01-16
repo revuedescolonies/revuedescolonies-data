@@ -36,7 +36,7 @@
          <div>
          <pb facs="v1n3f2" n="2"/>
                   </div>
-         <div>
+         <div xml:id="chatiments">
                   <pb facs="v1n3f3" n="3"/>
             <head>
                <choice>
@@ -161,7 +161,7 @@
                couvre, ne sont plus qu'une anomalie révoltante au dix-neuvième siècle.</p> <pb facs="v1n3f6" n="6"/>
          </div>
 
-<div>
+<div xml:id="émancipation">
 <head>SUR L'ÉMANCIPATION DES ESCLAVES AUX COLONIES FRANCAISES.</head>
 
 <epigraph><p>L'homme est né libre ; l'esclavage est l'exception.</p>
@@ -218,7 +218,7 @@ qui se<pb facs="v1n3f8" n="8"/> sont succédés en France, dans ces derniers tem
 <p>Le marquis de <emph>S.-C</emph>,</p>
 <p>propriétaire à la Martinique.</p>
 
-<div>
+<div xml:id="insurrections">
 <head>INSURRECTIONS ET LEUR CAUSE 
 <choice>
 <orig>A</orig>
@@ -326,7 +326,7 @@ et futurs, que le succès seul est l'excuse, et qu'au
 <p>Nous eussions donné le même conseil à messieurs les juges de la Martinique ; mais ils ne peuvent plus sortir de cette voie de sang où ils se sont engagés. Leur avis eût déterminé le <roleName>gouverneur</roleName> <persName ref="#JHD">Dupotet</persName> à faire de l'insurrection de la Grand'Anse une affaire d'amnistie, amnistie du reste déjà promise. Ils ont mieux aimé qu'on leur livrât 88 victimes !... <foreign><emph>Vae victis</emph></foreign> ! Entendez-le bien, vous tous qui souffrez.</p>
 </div>
 
-<div>
+<div xml:id="droit-dénié">
 <head>DU DROIT 
 <choice>
 <orig>DENIÉ</orig>
@@ -395,7 +395,7 @@ cet attentat contre la loi, ce serait de sa part forfaire à ses
 .<pb facs="v1n3f17" n="17"/></p>
 </div>
 
-<div>
+<div xml:id="magistrature-coloniale">
 <head>DE LA MAGISTRATURE COLONIALE ; CE QU'ELLE FUT, CE QU'ELLE EST, CE QU'ELLE DEVRAIT ÊTRE.</head>
 
 <p>En montant sur son 
@@ -492,7 +492,7 @@ les inspirations ardentes du soleil du tropique, ne peuvent être que sanglantes
 des assesseurs fût composé mi-partie de blancs et d'hommes de couleur. Ainsi s'établirait l'égalité devant la loi, et par l'empire de l'habitude, on verrait naître cette confiance nécessaire aux deux classes, qui ne pourront parvenir à cette fusion si désirable pour la prospérité de la <placeName ref="#FR">France</placeName><pb facs="v1n3f20" n="20"/>d'outre-mer qu'autant que, commencée par les prescriptions de la loi, elle s'infiltrera dans les moeurs par une mutuelle participation à l'oeuvre de la justice. Sur cette base, on pourra construire solidement l'édifice colonial ; sans elle l'avenir sera fécond en orages, et une grande responsabilité aura été encourue par ceux à qui le mal aura été signalé et qui n'y auront pas porté remède. Ils auront semé les tempêtes et ils devront en recueillir les fruits amers.</p>
 </div>
 
-<div>
+<div xml:id="abus-de-pouvoir">
 <head>ABUS DE POUVOIR D'UN GOUVERNEUR</head>
 
 <p>M. le <roleName>contre-amiral</roleName> <persName ref="#JHD">Dupotet</persName>, à l'occasion de <rs type="event">l'affaire de la Grand'Anse</rs> (<placeName ref="#MQ">Martinique</placeName>), a rendu deux arrêtés sur les milices de la colonie. Les dispositions de ces deux arrêtés nous fournissent l'occasion d'examiner l'étendue des pouvoirs des gouverneurs sur les milices coloniales, depuis la <bibl type="legal">loi organique du <date>24 avril 1833</date></bibl>.</p>
@@ -528,7 +528,7 @@ toutes dispositions de lois, édits, déclarations du roi, ordonnances royales e
 
 </div>
 
-<div>
+<div xml:id="machiavelisme-colonial">
 
 <head>MACHIAVÉLISME COLONIAL.</head>
 
@@ -575,7 +575,7 @@ touchante ces toutes bénignes paroles : <q>"Nous ne connaissons rien du reste d
 
 </div>
 
-<div>
+<div xml:id="affaire-de-la-grandanse">
 <head><rs type="event">AFFAIRE DE LA GRAND'ANSE.</rs></head>
 
 <p>La cour de la <placeName ref="#MQ">Martinique</placeName> a enfin rendu son arrêt dans le grand procès qui occupait tous les esprits ; après un mois de débats, les juges de la Martinique ont prononcé 15 condamnations capitales, 10 aux galères à perpétuité, aux galères à temps et à la réclusion, et 25 à la déportation. Indépendamment de tout ce luxe de condamnations, tous les contumaces, au nombre de 26, ont été comdamnés à la peine capitale.</p>
@@ -602,7 +602,7 @@ l'ouverture de ce procès-monstre, le journal officiel de la colonie avait comme
 
 </div>
 
-<div>
+<div xml:id="états-unis">
 <head><placeName ref="#USA">États-Unis</placeName></head>
 <head>ÉMEUTES DE <placeName ref="#NY">NEW-YORK</placeName></head>
 
@@ -707,7 +707,7 @@ peu près à la même heure, un autre rassemblement attaqua l’église africain
 
 </div>
 
-<div>
+<div xml:id="angleterre">
 
 <head><placeName ref="#AN">ANGLETERRE</placeName></head>
 <head><placeName ref="#Lo">LONDRES</placeName></head>
@@ -811,7 +811,7 @@ la prospérité politique et sociale des colonies !"</p>
 
 </div>
 
-<div>
+<div xml:id="France">
 
 <head>FRANCE</head>
 
@@ -849,8 +849,7 @@ la prospérité politique et sociale des colonies !"</p>
 
 </div>
 
-<div>
-
+<div xml:id="nouvelles-diverses">
 <head>NOUVELLES DIVERSES</head>
 
 <p>On nous assure que <persName ref="#CT">M. Charles Télèphe</persName>, <roleName>officier de la garde nationale de la <placeName ref="#MQ">Martinique</placeName></roleName>, présentement à <placeName ref="#Par">Paris</placeName>, vient d'écrire une lettre au ministre de la marine et des colonies pour éclairer la religion de ce ministre sur l'épouvantable <rs type="event">affaire de la Grand'Anse</rs>. On sait que M. Télèphe a joué un rôle dans cette affaire : en sa qualité d'officier de la garde nationale, il fut investi de la confiance du gouverneur, dans un moment où l'on avait à craindre le parti que prendrait la masse des hommes de couleur en présence de leurs frères armés, qui, à l'imitation des blancs, s'étaient retranchés aussi dans le <placeName ref="#FC">camp du Fond-Capot</placeName>. M. Télèphe fut porteur de paroles d'amnistie pour les hommes de couleur. M. Télèphe explique, dit-on, dans sa lettre, toutes ces particularités au ministre. Nous ne pouvons qu'applaudir au sentiment de justice et de patriotisme qui a dicté cette lettre à cet officier.</p>
@@ -921,7 +920,7 @@ et de précieuses garanties. MM. <persName ref="#PAS">Passy</persName> et <persN
 
 </div>
 
-<div>
+<div xml:id="colonies-francaises">
 
 <head>COLONIES FRANÇAISES</head>
 
@@ -1050,7 +1049,7 @@ n'auront rien à craindre tant qu'ils n'auront à supporter que quelques attaque
 
 </div>
 
-<div>
+<div xml:id="colonies-étrangères">
 
 <head>COLONIES ÉTRANGÈRES.</head>
 
@@ -1075,7 +1074,7 @@ des métropoles. Or, si on leur accordait cette somme, les colons seraient à la
 
 </div>
 
-<div>
+<div xml:id="bibliographie">
 
 <head>BIBLIOGRAPHIE</head>
 

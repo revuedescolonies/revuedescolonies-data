@@ -37,7 +37,9 @@
 
 <div>
             <pb facs="v1n4f2" n="2"/>
+            </div>
             <pb facs="v1n4f3" n="3"/>
+     <div xml:id="bill-émancipation">
      <head>DU <foreign>BILL</foreign> D'ÉMANCIPATION ET DES PREMIERS RÉSULTATS DE SA MISE EN PRATIQUE</head>
      
    <p>Nous avons promis de signaler à l'attention de nos lecteurs tous les 
@@ -207,7 +209,7 @@ le même nombre d'esclaves ne s'est élevé aussi qu'à treize, parmi lesquels i
 A. G.
 </p></div>
 
-    <div>
+     <div xml:id="violation-du-droit">
      <head>VIOLATION DU DROIT DES GENS DANS LA PERSONNE DES HOMMES DE COULEUR FRANÇAIS.</head>
    <p>La <bibl type="periodical"><title ref="#RdC"><emph>Revue des Colonies</emph></title></bibl> a signalé à ses lecteurs un fait de la plus haute gravité, l'interdiction aux hommes de couleur, sous peine de séquestration de leurs personnes, d'entrer dans certaines provinces des États-Unis et dans l'ile de Cuba. La <emph>Revue</emph> a fait connaître les mesures prises à cet égard par les 
    <choice>
@@ -294,7 +296,7 @@ A. G.
 Avocat à la Cour de cassation.</p></div>
 
    </div>
-   <div>
+    <div xml:id="nécessité">
    <head>NÉCESSITÉ D'UNE NOUVELLE ORGANISATION DES MILICES
 COLONIALES.</head>
 <p>La loi d'<date>avril 1833</date> s'est reposée sur le pouvoir royal du soin d'organiser les milices coloniales. Cette promesse législative, comme tant d'autres, n'a pas reçu d'exécution, de sorte que les milices subissent aujourd'hui les dispositions surannées des 
@@ -370,7 +372,8 @@ COLONIALES.</head>
          <p>Cette matière mérite toute la sollicitude des chambres. Si le gouvernement néglige de répondre à ce besoin d'améliorations, nous en appellerons au droit d'initiative des députés.</p>
    </div>
    
-   <div><head>ÉTATS-UNIS.</head>
+    <div xml:id="états-unis">
+   <head>ÉTATS-UNIS.</head>
    <head>TROUBLES À PHILADELPHIE ET À CHARLESTOWN.</head>
    <p>La ville de <placeName>Philadelphie</placeName> et celle de <placeName>Charlestown</placeName>, dans le Massachussets, viennent d'être le théâtre de scènes tumultueuses d'une nature grave. A Philadelphie, la populace, ameutée contre de malheureux noirs, renouvelle tous les excès dont on a été dernièrement témoin à New-York, et saccage et détruit les maisons, les églises, les propriétés de ces nouveaux parias. A Charlestown, sous le prétexte, tout-à-fait dénué de fondement, que le rent, qu'une religieuse avait disparu d'un couvent catholique, le peuple s'est porté vers la paisible demeure de femmes dont tous les 
    <choice>
@@ -413,7 +416,7 @@ COLONIALES.</head>
        </choice>
         seront le partage de quelques-uns, à l'exclusion du grand nombre, nous serons contre l'ordre établi, de quelque nom qu'il se décore. Sans doute, nous ne croyons pas que les grossières violences exercées par une portion du peuple américain contre les noirs et leurs amis tiennent à la nature de la constitution politique des <placeName>Etats-Unis</placeName>, mais toujours est-il que ce sont là des faits fâcheux pour l'honneur de la civilisation transatlantique, et qu'il importe de flétrir dans l'intérêt de l'humanité, sans se laisser préoccuper aucunement de l'excellence des lois fondamentales de ce pays.</p></div><pb facs="v1n4f23" n="23"/>
 
-        <div>
+        <div xml:id="angleterre">">
         <head>ANGLETERRE.</head>
         <head>LONDRES.</head>
         <p>Le passage suivant, extrait d'un discours prononcé par le <persName ref="#Mul">comte Mulgrave</persName>, en réponse à une adresse que lui a présenté dernièrement la <orgName ref="#SEU"><emph>Société de l'émancipation universelle</emph></orgName>, contient une juste appréciation de l'esprit et des 
@@ -451,7 +454,7 @@ COLONIALES.</head>
             , conséquence de l'<bibl type="legal">acte d'émancipation</bibl>.
             (<bibl type="periodical"><title><emph>Standard</emph></title></bibl>.)</p></div>
 
-            <div>
+             <div xml:id="France">
             <head>FRANCE.</head>
             <head>PARIS.</head>
             <head><orgName ref="#CDC">COUR DE CASSATION</orgName>.</head>
@@ -536,7 +539,7 @@ COLONIALES.</head>
                  les débats et tout ce qui s'est ensuivi, y compris l'arrêt de condamnation ; renvoie les pièces du procès et l'accusé devant la cour d'assises de <placeName ref="#FoR">Fort-Royal</placeName> ; ordonne que le présent arrêt sera imprimé et transcrit sur les registres de la cour d'assises de <placeName ref="#StP">Saint-Pierre</placeName>.</p>
                  <p>C'est avec joie que nous portons cet arrêt à la connaissance de nos compatriotes. Il fera luire un rayon d'espoir au cœur des con damnés de la <placeName ref="#GdA">Grand'Anse</placeName> et de tant de familles désolées.</p></q><pb facs="v1n4f31" n="31"/></div>
 
-                 <div>
+                  <div xml:id="conversation">
                  <head>CONVERSATION DE <persName ref="#CB">M. BISSETTE</persName> AVEC <persName ref="#RL">M. LUCY</persName> (<date>15 SEPTEMBRE 1834</date>) SOUS LA PORTE COCHÈRE DU MINISTÈRE DE LA MARINE.</head>
 
                  <p><q>Eh bien ? nous pouvons nous dire bonjour ici et nous saluer ; me reconnaissez-vous ? - Certainement, c'est  <persName ref="#CB">M. Bissette</persName>. Et vous ne rougissez pas ! mais non, vous pâlissez, et je le conçois. N'ayez aucune crainte, mon intention n'est pas de me porter à des actes de violence, à des voies de fait sur votre personne ; je veux que vous me disiez si vous croyez avoir fait votre devoir en me faisant appliquer le fer chaud au mépris de mon pourvoi en cassation. M. Bissette, oubliez le passé ; il y a dix ans que vous (me poursuivez, je n'ai répondu à aucun de vos écrits, parce que le magistrat est exposé à ce que l'on critique ses actes ; ne m'en voulez pas, n'ayez pas de haine ; je me suis trompé ; qui ne se trompe pas ? Voyez ici en France si les magistrats ne se trompent pas tous les jours. -Le juge peut se tromper, oui, mais le magistrat chargé de faire exécuter l'arrêt ne le doit pas ; le pourvoi était suspensif, vous avez mis un acharnement impardonnable, vous l'avez fait exécuter malgré notre recours en cassation, malgré les larmes de nos familles qui vous demandaient un sursis. Mais, M.Bissette, oubliez le passé, je vous en conjure : j'ai été bien malheureux ; n'attaquez pas mon cœur comme homme, plaignez plutôt le magistrat qui s'est trompé. N'avez-vous pas été plus que vengé ? l'arrêt a été cassé, que pouviez-vous désirer de mieux ? l'opinion publique vous a entouré, elle vous a fait justice ; ce sont des consolations, M. Bissette. -Oui, c'en sont, et c'est cette compensation qui fait taire le ressentiment que j'aurais pu conserver justement contre vous. -<persName ref="#CJB">Mon fils</persName> a rencontré votre fils hier dans le <placeName>parc de Saint-Cloud</placeName>, il l'a salué, Je le sais ! et que m'importe, il s'agit bien ici de votre fils et du mien ; mon fils n'ignore pas les persécutions que vous m'avez fait éprouver ; il sait tout ; mais je ne l'élève pas dans la haine de ses semblables, il est camarade de collège de votre jeune fils, et jamais il ne lui a fait un reproche de vos cruautés ; nos 
@@ -617,7 +620,7 @@ COLONIALES.</head>
                            <p>Cette conversation <emph>ex abrupto</emph>, qui n'a en lieu que par le hasard de la rencontre que M. Bissette a faite de M. Lucy au ministère de la marine, et à laquelle M. Bissette a été porté par un invincible entraînement, sans autre but que de voir face à face l'horrible pro cureur-général qui l'a fait MARQUER, au mépris de toutes les notions du juste et de l'injuste, de toutes les lois alors existantes quelques détestables qu'elles fussent, et d'un pourvoi en cassation, M. Bissette n'en a reproduit ici les termes, malgré sa répugnance à entretenir le public de lui, que parce qu'il lui importe que la vérité à cet égard parvienne tout entière aux colonies et ne puisse être en rien altérée par les fausses interprétations familières à ses ennemis d'outre-mer.</p>
                            <p>M. Bissette a écrit cette conversation telle qu'on vient de la lire, en rentrant chez lui, le soir même du jour où elle a eu lieu, <emph>ne varietur</emph>. M. Bissette ne croit pas même s'être mal souvenu du tour des phrases, quelque peu oiseuses, de M. le procureur-général. Mais en tout cas, il est certain d'en avoir rendu le sens avec la plus complète fidélité. Toute autre version qui pourrait encourir, peut être en toute vérité arguée de fausse et de mensongère.</p></div>
 
-                           <div>
+                            <div xml:id="nouvelles-diverses">
                            <head>NOUVELLES DIVERSES.</head>
                            
                            <p><persName ref="#DU">M. Henri Dutrône</persName>, conseiller à la cour royale d'<placeName ref="#Ami">Amiens</placeName>, vient d'être chargé par le gouvernement d'aller étudier à <placeName ref="#Alg">Alger</placeName> ce qu'il est possible de faire pour organiser et répandre l'instruction dans cette colonie.</p>
@@ -641,7 +644,7 @@ COLONIALES.</head>
                            </choice>
                             de <placeName>Londres</placeName>, assure-t-on, ont placé leurs capitaux dans les entreprises formées pour l'exploitation des mines de l'Amérique méridionale, où sont enfouis tous les jours sans pitié dos nègres enlevés sur la côte d'Afrique. <q>“Il en est de même au <placeName ref="#BR">Brésil</placeName>, ajoute l'Abolitioniste : des Anglais intéressés, en qualité d'actionnaires, à des entreprises du même genre, ont avancé les fonds qui ont servi à acheter environ cinq cents esclaves employés dans les mines du pays.”</q></p></div>
 
-                            <div>
+                             <div xml:id="colonies-françaises">
                             <head>COLONIES FRANÇAISES.</head>
                             <head>MARTINIQUE</head>
 
@@ -732,7 +735,7 @@ Deux navires seulement ont été démâtés ; l'un des deux (<emph>la Lise de Bo
  C'est tout ce que j'ai à vous annoncer pour le moment. Dans ma prochaine lettre, je vous entretiendrai de notre administration, qui depuis trop long-temps se ressent de la fâcheuse influence qu'exerce une famille dont la puissance est restée intacte, malgré la belle <rs type="event">révolution de juillet</rs>.
 P. S. – Au moment où j'allais clore ma lettre, on est venu m'annoncer l'élection de <persName>MM. Sully-Brunet</persName> et <persName ref="#C">Conil</persName>.”</q></p></div>
 
-<div>
+ <div xml:id="colonies-étrangères">
 <head>COLONIES ÉTRANGÈRES.</head>
 <head>JAMAÏQUE.</head>
 <p>La proclamation suivante a été adressée par le nouveau gouverneur, le <persName ref="#Sligo">marquis de Sligo</persName>, aux nègres de l'île, emancipés par la loi :
@@ -856,7 +859,7 @@ Le lendemain matin, les émancipés s'assemblèrent de nouveau et ne semblaient 
    , sont désignées par les Anglais sous le nom collectif de <foreign><emph>chartered colonies</emph></foreign>, qualification qu'on pourrait traduire par notre vieille expression française de pays <emph>d'état</emph>.</p>
    <p>Les autres colonies anglaises (<foreign><emph>the crown colonies</emph></foreign>), la <placeName ref="#TR">Trinitad</placeName>, <placeName ref="#STL">Sainte-Lucie</placeName>, <placeName ref="#DE">Démérari</placeName>, <placeName ref="#BER">Berbice</placeName>, <placeName ref="#HO">Honduras</placeName> et l'<placeName ref="#IM">île Maurice</placeName>, sont soumises au régime des ordonnances.</p></div>
 
-   <div>
+ <div xml:id="bibliographie">
    <head>BIBLIOGRAPHIE</head>
 
    <head>APPEL AUX AMIS DE L'HUMANITÉ, CONTRE UN ÉPOUVANTABLE ARRET, brochure in-8, par M. <persName ref="#LFab">FABIEN</persName>.</head>
