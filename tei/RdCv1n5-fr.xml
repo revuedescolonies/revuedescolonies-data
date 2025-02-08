@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>REVUE DES COLONIES V.5 n°1</title>
+            <title>REVUE DES COLONIES v.1 n°5</title>
             <editor>Charlotte Joublot Ferré</editor>
          </titleStmt>
          <publicationStmt>
@@ -31,9 +31,7 @@
          </titlePage>
       </front>
       <body>
-     
-
-         <div>
+             <div xml:id="état-social">
             <head>REVUE DES COLONIES. ÉTAT SOCIAL AUX COLONIES.</head>
 
 <p>L'état social actuel des colonies françaises, notamment de la <placeName ref="#MQ">Martinique</placeName> et de la <placeName ref="#GP">Guadeloupe</placeName>, présente un spectacle affligeant pour les amis de l'humanité. D'une part, le colon blanc, avide et cruel possesseur d'hommes ; de l'autre, le nègre, l'esclave, non seulement faisant partie, corps et 
@@ -73,7 +71,7 @@ ces banales raisons : Que deviendraient nos fortunes, nos existences ? que devie
 
 </div>
 
-<div>
+<div xml:id="habitations-guadeloupe">
 
 <head>COUP-D'OEIL SUR LES HABITATIONS A LA GUADELOUPE.</head>
 
@@ -197,7 +195,7 @@ sont enlevés à leurs mères dès qu'ils sont sevrés, et confiés à une vieil
 <p>ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.</p>
 </div>
 
-<div>
+<div xml:id="martinique-1831">
 <head>LA MARTINIQUE EN 1831.</head>
 
 <epigraph>
@@ -275,7 +273,7 @@ voisins de la dame Dariste n'a-t-il pas disparu?</p>
 
 <p>Ne pas accorder un recours en cassation à des hommes condamnés à mort, parce qu'ils sont <emph>esclaves</emph>, et lorsque leurs juges sont maîtres!... Exécuter à la hâte, à dix-huit cents lieues de la métropole, vingt-deux condamnés à mort, sans donner au roi la faculté d'exercer son droit de grace!...... Et le roi des Français, <persName ref="#LP">Louis Philippe</persName>, l'avocat de l'abolition de la peine de mort, à qui on a enlevé sa plus belle prérogative, parce que les condamnés sont de malheureux esclaves !..... Voilà bientôt trois siècles que d'épouvantables choses se passent impunément dans nos colonies. Quand M. le ministre de la marine jugera-t-il à propos de dire "ASSEZ" ?<pb facs="v1n5f12" n="13"/></p>
 
-<div>
+<div xml:id="haute-police">
 
 <head>MESURES DE HAUTE POLICE CONTRE LES HOMMES DE COULEUR DEPORTATIONS ADMINISTRATIVES.</head>
 
@@ -333,7 +331,7 @@ de leurs persécuteurs ! Plusieurs des déportés de <date>1824</date> ont été
 
 </div>
 
-<div>
+<div xml:id="pourvois-alger">
 
 <head>POURVOIS EN CASSATION ET AU CONSEIL-D'ÉTAT RELATIFS A LA COLONIE D'ALGER.</head>
 
@@ -418,12 +416,12 @@ qui seraient intervenus depuis le dépôt de la requête en suspicion.</p>
 
 </div>
 
-<div>
+<div xml:id="affaire-haiti">
 <head>AFFAIRE D'HAITI.</head>
 
 <p>La situation intérieure d'<placeName ref="#HT">Haïti</placeName> est toujours satisfaisante sous le rapport du respect de la population pour les lois et de la bonne harmonie des pouvoirs de l'état ; mais sa prospérité reste en souffrance par sa position équivoque vis-à-vis de la <placeName ref="#FR">France</placeName>, qui l'oblige à conserver un grand état militaire.</p>
 
-<p>Tout le monde sait que la loi de floréal an 10, qui rétablit l'esclavage dans les colonies, fut le signal de la défection de tous les chefs de <placeName ref="#StD">Saint-Domingue</placeName> ; les hommes de couleur, jusque là si grands partisans de la métropole, pour laquelle ils avaient depuis l'origine des troubles tout sacrifié, se réunirent aux noirs, qui leur avaient fait une guerre si désastreuse, sous le commandement de <persName ref="#TLOUV">Toussaint-L'Ouverture</persName>. <persName ref="#CVEL">Le capitaine-général Leclerc</persName>, beau frère de <persName ref="#NB">Napoléon</persName>, par la vaillance des troupes qu'il commandait et par les garanties personnelles qu'il offrait de la liberté des noirs, après les proclamations équivoques du premier consul, était par venu à ramener plusieurs des généraux noirs et à forcer Toussaint-L'Ouverture à capituler. Ce dernier paraissait si redoutable dans l'habitation où il s'était retiré qu'on le fit arrêter et déporter en France, où il est mort misérablement, dans <placeName ref="#FJ">le fort de Joux</placeName>, comme Napoléon lui-même à <placeName ref="#SteH">Sainte-Hélène</placeName>.</p>
+<p>Tout le monde sait que la <bibl type="legal"><title ref="#Cd1814">loi de floréal an 10</title></bibl>, qui rétablit l'esclavage dans les colonies, fut le signal de la défection de tous les chefs de <placeName ref="#StD">Saint-Domingue</placeName> ; les hommes de couleur, jusque là si grands partisans de la métropole, pour laquelle ils avaient depuis l'origine des troubles tout sacrifié, se réunirent aux noirs, qui leur avaient fait une guerre si désastreuse, sous le commandement de <persName ref="#TLOUV">Toussaint-L'Ouverture</persName>. <persName ref="#CVEL">Le capitaine-général Leclerc</persName>, beau frère de <persName ref="#NB">Napoléon</persName>, par la vaillance des troupes qu'il commandait et par les garanties personnelles qu'il offrait de la liberté des noirs, après les proclamations équivoques du premier consul, était par venu à ramener plusieurs des généraux noirs et à forcer Toussaint-L'Ouverture à capituler. Ce dernier paraissait si redoutable dans l'habitation où il s'était retiré qu'on le fit arrêter et déporter en France, où il est mort misérablement, dans <placeName ref="#FJ">le fort de Joux</placeName>, comme Napoléon lui-même à <placeName ref="#SteH">Sainte-Hélène</placeName>.</p>
 
 <p>La nouvelle de la sanction de la loi liberticide de floréal coïnci<pb facs="v1n5f19" n="20"/>dait avec le désarmement général ordonné par le capitaine-général Leclerc. <emph><persName ref="#AP">Pétion</persName></emph>, l'un des plus accrédités parmi les chefs de couleur, organe des 
 <choice>
@@ -446,7 +444,7 @@ de sa classe, qui avait vu avec indignation déporter le général <emph><persNa
 
 <p>A l'avènement de <persName ref="#CX">Charles X</persName>, le ministère <emph>Villèle</emph> résolut d'employer les loisirs de la paix à tenter une expédition. En <date>1825</date>, une petite escadre, commandée par le capitaine de vaisseau <persName ref="#MACK">Mackau</persName>, se présenta dans la rade du <placeName ref="#PtP">Port-au-Prince</placeName>, munie d'une ordonnance, en date du 18 avril, par laquelle le roi de France reconnaissait aux Haïtiens, moyennant 150 millions de francs, l'indépendance dont ils étaient en possession incontestable depuis vingt et un ans, et dont la possession contestée n'en avait pas moins été réelle de <date>1793</date> à <date>1804</date>, sous la domination de Toussaint-L'Ouverture.</p>
 
-<p>Cette ordonnance était calquée sur la charte de 1814. On faisait<pb facs="v1n5f20" n="21"/> concession à la nation haitienne de son indépendance acquise au même titre qu'on avait concédé aux Français d'<placeName ref="#EUR">Europe</placeName> les droits dont la révolution les avait mis en possession.</p>
+<p>Cette ordonnance était calquée sur la <bibl type="legal"><title ref="#Cd1814">charte de 1814</title></bibl>. On faisait<pb facs="v1n5f20" n="21"/> concession à la nation haitienne de son indépendance acquise au même titre qu'on avait concédé aux Français d'<placeName ref="#EUR">Europe</placeName> les droits dont la révolution les avait mis en possession.</p>
 
 <p>Le gouvernement d'Haïti repoussa avec fierté ces prétentions de suzeraineté et rejeta d'abord l'ordonnance. M. de Mackau donna par écrit les garanties les plus formelles qu'il n'y avait pas d'arrière pensée dans la concession d'indépendance. Haiti accepta l'ordonnance, comme la France accepta la <bibl type="legal">charte de 1814</bibl>, avec la ferme volonté de faire valoir comme un droit absolu ce qu'on daignait concéder.</p>
 
@@ -506,7 +504,7 @@ dans l'exécution par la <placeName ref="#GB">Grande-Bretagne</placeName>.</p>
  de ces deux partis lui vaudrait le mieux.</p>
 </div>
 
-<div>
+<div xml:id="société-britannique-abolition">
 <head>SOCIÉTÉ BRITANNIQUE ET ÉTRANGÈRE POUR L'ABOLITION UNIVERSELLE DE L'ESGLAVAGE.</head>
 
 <p>L'esprit d'association est surtout d'une irrésistible puissance quand il a pour mobile un principe social ou politique. Du moment qu'il prend cette direction, il purifie et exalte l'
@@ -544,7 +542,7 @@ prolongée. Les sacrifices d'argent qu'elle s'était imposés avaient pu d'aille
 
 <p>D'ailleurs ne devaient-ils point reporter sur les esclaves noirs des colonies étrangères l'intérêt qu'ils avaient dû restreindre d'abord à ceux des possessions anglaises ? Jetez les yeux sur les différentes parties du monde, ont-ils dit ; dans les seules provinces du <placeName ref="#BR">Brésil</placeName> et des <placeName ref="#USA">États-Unis</placeName>, il y a plus de quatre millions de noirs condamnés à la servitude ; un autre million d'esclaves est disséminé dans les possessions espagnoles, françaises, portugaises, danoises et hollandaises. Sous quelque ciel qu'ils se trouvent, ces infortunés n'ont-ils pas les mêmes droits que leurs frères affranchis à l'égalité politique et sociale ? L'odieuse tyrannie sous laquelle ils fléchissent, quel que soit le pays où elle s'exerce, n'est-elle pas réprouvée au même degré par les lois de la nature et de la morale ? Pouvons-nous leur refuser notre pitié quand nous les voyons vendre, exploiter et accabler comme des bêtes de somme ? Fermerons-nous les oreilles aux cris qui s'échappent de leurs bouches ou de leurs plaies, lorsque des maîtres cruels et capricieux les font déchirer à coups de fouet ou étouffer dans l'horrible nuit d'un cachot ? Dira-t-on que l'abolition universelle de l'esclavage est une pure utopie, une entreprise folle ? Qu'importe qu'on nous traite d'enthousiastes et de visionnaires ; ce sont des reproches auxquels
 
-<note>(1) Voyez ce que dit la société elle-même, au sujet des obstacles qu'on lui a suscités, dans son journal The Abolitionist, tome 1, n. 1.</note><pb facs="v1n5f25" n="26"/>
+<note>(1) Voyez ce que dit la société elle-même, au sujet des obstacles qu'on lui a suscités, dans son journal <bibl type="periodical"><title ref="#Abol">The Abolitionist</title></bibl>, tome 1, n. 1.</note><pb facs="v1n5f25" n="26"/>
 
 nous sommes accoutumés depuis 
 <choice>
@@ -586,7 +584,7 @@ authentiques, relatifs à l'esclavage et à la traite des noirs, seront recueill
 
 <p>Dans les États-Unis, les efforts de la Société répondront aux obstacles qu'elle aura à vaincre. Elle agira de concert avec la <emph>Société nationale de l'anti-esclavage</emph> établie à Philadelphie. Un petit nombre d'hommes éprouvés (<emph>lecturers</emph>), dont l'éloquence et le zèle lui ont déjà été utiles en Angleterre et en <placeName ref="#Eco">Écosse</placeName>, seront chargés de visiter les principales villes des provinces septentrionales de l'Union pour y faire un véritable <emph>cours d'humanité</emph> : leurs discours (<emph>lectures</emph>) auront pour objet de pousser à une coopération active les esprits éclairés, de combattre chez les autres les préjugés de caste et les sophismes de la mauvaise foi, et de démontrer que, considérée même sous un point de vue politique et industriel, l'émancipation des noirs serait fertile en heureux résultats pour les hommes de toutes les conditions et de toutes les couleurs. La Société évalue à quinze cents livres sterling (un peu plus de 37 mille francs) la dépense annuelle qu'elle sera obligée de faire pour l'entretien de ces missionnaires de la philantropie. Elle se flatte qu'au bout de trois années, leurs prédications auront produit des résultats assez généraux pour cesser d'étre nécessaires. Dans le
 
-<note><bibl>The abolitionist</bibl>, n. 1, pages 1-4 et 34-37.(1)</note><pb facs="v1n5f27" n="28"/>
+<note><bibl><title ref="#Abol">The abolitionist</title></bibl>, n. 1, pages 1-4 et 34-37.(1)</note><pb facs="v1n5f27" n="28"/>
 
 
 moment où nous écrivons, M. <persName ref="#GT">Georges Thompson</persName>  traverse l'Océan atlantique, honorablement désigné entre tous, par le choix de la Société, pour aller plaider le premier la cause de plusieurs millions d'opprimés.</p>
@@ -596,7 +594,7 @@ moment où nous écrivons, M. <persName ref="#GT">Georges Thompson</persName>  t
 <p>A. G.</p>
 </div>
 
-<div>
+<div xml:id="france">
 <head>France.</head>
 <head>Paris</head>
 <head>AFFAIRE <persName ref="#ART">Artaud</persName> CONTRE <persName ref="#CB">BISSETTE</persName></head>
@@ -693,7 +691,7 @@ va-nu-pieds ensemble!»</p>
 <p>Les amis de M. Bissette, parmi lesquels on remarque des hommes de lettres, des journalistes et un grand nombre d'hommes de couleur de toutes les contrées, l'entourent et le félicitent. Me Bethmont continue toujours de parler, bien que l'huissier audiencier ait appelé une autre affaire.</p>
 </div>
 
-<div>
+<div xml:id="tribunal-civil">
 <head>TRIBUNAL CIVIL DE LA SEINE (chambre des vacations)</head>
 <head>PRESIDENCE DE M. FOUQUET.</head>
 <head>AFFAIRE <persName ref="#BOI">BOITEL</persName> CONTRE <persName ref="#CIC">CICÉRON</persName></head>
@@ -716,18 +714,18 @@ qu'a soulevés contre sa personne la manifestation de ses principes d'équité e
 <p>Attendu les dispositions formelles de la loi du 26 mai 1829, le tribunal se déclare compétent et retient la cause après vacances pour en connaître au fond, et condamne M Cicéron aux dépens.</p>
 </div>
 
-<div>
-<head>RENCONTRE BISSETTE ET CICERON.</head>
+<div xml:id="bissette-cicéron">
+<head>RENCONTRE BISSETTE ET CICÉRON.</head>
 
-<p>Grossièrement offensé dans une brochure publiée par M. Ciceron, avocat à la Martinique, M. Bissette avait, dans une lettre imprimée, en réponse à cette brochure, vivement exprimé le regret de ne pouvoir en tirer satisfaction immédiatement.</p>
+<p>Grossièrement offensé dans une brochure publiée par <persName ref="#CIC">M. Cicéron</persName>, avocat à la Martinique, M. Bissette avait, dans une lettre imprimée, en réponse à cette brochure, vivement exprimé le regret de ne pouvoir en tirer satisfaction immédiatement.</p>
 
-<p>Dix-huit mois après, M. Cicéron a jugé à propos de faire dix huit cents lieues uniquement, s'est-il plu à répéter ici, pour venir se mettre à la disposition de M. Bissette ; ce qu'il a fait. M. Bissette l'a provoqué, et une rencontre au sabre s'en est suivie au <placeName ref="#BdV">bois de Vincennes</placeName>, dans laquelle M. Cicéron a été blessé au bras droit de<pb facs="v1n5f35" n="36"/> manière à ne pouvoir plus s'en servir ; sur quoi, les adversaires et les témoins se sont séparés.</p>
+<p>Dix-huit mois après, M. Cicéron a jugé à propos de faire dix huit cents lieues uniquement, s'est-il plu à répéter ici, pour venir se mettre à la disposition de <persName ref="#CB">M. Bissette</persName> ; ce qu'il a fait. M. Bissette l'a provoqué, et une rencontre au sabre s'en est suivie au <placeName>bois de Vincennes</placeName>, dans laquelle M. Cicéron a été blessé au bras droit de<pb facs="v1n5f35" n="36"/> manière à ne pouvoir plus s'en servir ; sur quoi, les adversaires et les témoins se sont séparés.</p>
 
 <p>Quelque temps après, guéri de sa blessure, M. Cicéron, par des motifs qu'il ne nous appartient pas d'apprécier ici, a envoyé deux de ses témoins auprès de M. Bissette pour lui demander la reprise du combat. Cela pouvait convenir aux intérêts de M. Cicéron, mais M. Bissette n'avait que faire de lui complaire en ceci. M. Bissette a donc formellement repoussé la demande de l'avocat colon, et déclaré à ces messieurs qu'ayant mis M. Cicéron hors de combat, il s'était trouvé parfaitement satisfait de ce résultat et était résolu à ne point donner d'autres suites à cette affaire.</p>
 
 <p>Cette réponse ayant été transmise à M. Cicéron, celui-ci a cru devoir en appeler à M. Bissette par la publicité. En conséquence, une correspondance s'est établie entre ces deux messieurs dans le seul journal de la capitale qui ait ouvert ses colonnes à M. Cicéron. M. Bissette a persisté par écrit dans la résolution qu'il avait précédemment exprimée de vive voix, ne reconnaissant à personne, comme il l'a fort bien dit, toutes choses d'ailleurs s'étant passées comme il appartient à gens de cœur et d'honneur, le droit d'estimer s'il devait ou non être satisfait, quand il se déclarait tel.</p>
 
-<p>Voici la lettre, publiée dans <bibl type="periodical">le Figaro </bibl> du 11 octobre, par laquelle M. Bissette a mis fin aux étranges prétentions de son adversaire :</p>
+<p>Voici la lettre, publiée dans le <bibl type="periodical"><title ref="#Fig">Figaro</title></bibl> du 11 octobre, par laquelle M. Bissette a mis fin aux étranges prétentions de son adversaire :</p>
 
 <q><p><emph>À M. le rédacteur du</emph> Figaro.</p>
 
@@ -748,10 +746,10 @@ qu'a soulevés contre sa personne la manifestation de ses principes d'équité e
 <p>Du reste, le directeur de ce recueil n'aurait pas entretenu le public de ce démêlé tout personnel, si son adversaire ne lui avait le premier ouvert la voie en recourant à la publicité. On a pu remarquer qu'il n'a même pas été parlé, dans le dernier numéro de la <bibl type="periodical">Revue des Colonies</bibl>, du duel où M. Cicéron a été blessé, tant cela avait paru à M. Bissette peu important pour ses lecteurs.</p>
 </div>
 
-<div>
+<div xml:id="nouvelles-diverses">
 <head>NOUVELLES DIVERSES.</head>
 
-<p>Le <bibl type="periodical">Moniteur</bibl>  publie l'ordonnance suivante, en date du 29 octobre :</p>
+<p>Le <bibl type="periodical"><title ref="#MU">Moniteur</title></bibl> publie l'ordonnance suivante, en date du 29 octobre :</p>
 
 <quote><p>"La démission donnée par M. le <persName ref="#EMG">maréchal Gérard</persName> , président du conseil, ministre secrétaire-d'état au département de la guerre, est acceptée.</p>
 
@@ -835,7 +833,7 @@ un mémoire très étendu sur les mesures à prendre pour opérer l'entière ém
 <p><persName ref="#CB">BISSETTE</persName></p><pb facs="v1n5f41" n="42"/>
 </div>
 
-<div>
+<div xml:id="colonies-françaises">
 <head>COLONIES FRANÇAISES.</head>
 <head><placeName ref="#MQ">MARTINIQUE</placeName></head>
 
@@ -855,7 +853,7 @@ un mémoire très étendu sur les mesures à prendre pour opérer l'entière ém
 que fait la haine de nos ennemis, puis<pb facs="v1n5f42" n="43"/>qu'elle gagne déjà l'église, où tous les rangs, toutes distinctions, tous les préjugés doivent être fondus dans le même creuset.</p>
 </div>
 
-<div>
+<div xml:id="guiane">
 <head><placeName ref="#GF">GUIANE</placeName>.</head>
 
 <p>Les lettres que nous recevons de <placeName ref="#Cay">Cayenne</placeName> s'accordent à donner des éloges à 
@@ -913,7 +911,7 @@ Ainsi des hommes intègres et capables sont repoussés, parce qu'ils sont de cou
    on compare ses trois mois d'administration avec les cinq années de M. Jubelin.</p></q>
 </div>
 
-<div>
+<div xml:id="colonies-étrangères">
 <head>COLONIES ÉTRANGÈRES.</head>
 <head><placeName ref="#JA">JAMAÏQUE</placeName></head>
 
@@ -931,7 +929,7 @@ Ainsi des hommes intègres et capables sont repoussés, parce qu'ils sont de cou
    très peu souffert.</p>
 </div>
 
-<div>
+<div xml:id="antigue">
 <head><placeName ref="#ANT">ANTIGUE</placeName>.</head>
 <p>Dans l'une des chapelles de cette île, le service religieux commença, le 31 juillet, à neuf heures du soir. 
    Des prédications et des chants religieux se succédèrent jusqu'à près de minuit. Quelques minutes avant cette 
@@ -946,14 +944,14 @@ Ainsi des hommes intègres et capables sont repoussés, parce qu'ils sont de cou
    sous l'influence das convictions chrétiennes, à y rendre facile le changement immense introduit dans l'état social.</p>
 </div>
 
-<div>
+<div xml:id="sainte-lucie">
 <head><placeName ref="#STL">SAINTE-LUCIE</placeName></head>
 
 <p>On nous écrit de <placeName ref="#Cas">Castries</placeName> : </p>
 <p>Le 1er août, la publication et la mise à exécution du bill d'emancipation ont eu lieu dans cette ile. A l'occasion de cet acte de régénération, une grande messe a été célébrée à l'église paroissiale. Le gouverneur y assistait, accompagné d'un détachement de 23 hommes de troupe et de la musique militaire, seul déploiement de force nécessaire pour opérer un si grand changement dans l'ordre social de cette colonie. Des <emph>hourras</emph> et des <emph>vivats</emph> 
    témoi-<pb facs="v1n5f45" n="46"/>gnaient l'allégresse de la population libre et des nouveaux affranchis. Cette journée s'est passée au milieu de la plus grande tranquillité ; il n'y a pas eu une seule rixe. Le soir la ville était illuminée.</p></div>
 
-<div>
+<div xml:id="bibliographie">
 <head>BIBLIOGRAPHIE.</head>
 <head>PROCÈS DE LA GRAND'ANSE (MARTINIQUE).</head>
 
@@ -980,7 +978,7 @@ encore organisée comme elle l'est à la Martinique. Plus peut-être qu'en tout 
 <p>Dans un prochain mémoire, M. Gatine exposera les moyens de cassation, qui sont nombreux et font concevoir l'espoir certain d'une juste admission du pourvoi : l'arrêt <emph>des juges et parties</emph> sera cassé par la justice métropolitaine. Mais quand y aura-t-il une magistrature protectrice aux colonies?</p>
 </div>
 
-<div><head>POST-SCRIPTUM.</head>
+<div xml:id="postscriptum"><head>POST-SCRIPTUM.</head>
 <head>NOUVEAU MINISTÈRE. </head>
 
 <p> <persName ref="#HBM">M. le duc de Bassano</persName> , ministre de l'intérieur et président du conseil.</p>
@@ -989,7 +987,7 @@ encore organisée comme elle l'est à la Martinique. Plus peut-être qu'en tout 
 
 <p> <persName ref="#SBe">M. le lieutenant-général Bernard</persName>, ministre de la guerre.</p>
 
-<p> <persName ref="#CD">M. Charles Dupin</persName>, ministre de la marine et des colonies.</p>
+<p> <persName ref="#CDup">M. Charles Dupin</persName>, ministre de la marine et des colonies.</p>
 
 <p> <persName ref="#JBT">M. Teste</persName>, ministre du commerce, chargé par intérim de l'instruction publique.</p>
 
@@ -997,7 +995,7 @@ encore organisée comme elle l'est à la Martinique. Plus peut-être qu'en tout 
 
 <p> <persName ref="#JCP">M. Persil</persName> conserve le portefeuille de la justice.</p>
 
-   <p>IMPRIMERIE D'HERBAN, 580, RUE SAINT-DENIS.</p><pb facs="v1n5f47" n="48"/>
+   <p>IMPRIMERIE D'HERHAN, 580, RUE SAINT-DENIS.</p><pb facs="v1n5f47" n="48"/>
 </div>
 
 </div>
