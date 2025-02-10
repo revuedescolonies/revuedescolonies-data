@@ -1002,5 +1002,8 @@ encore organisée comme elle l'est à la Martinique. Plus peut-être qu'en tout 
 
 
         </body>
+        <back>
+         <xi:include href="shared/entities.xml"/>
+      </back>
     </text>
 </TEI>

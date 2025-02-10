@@ -583,5 +583,8 @@ as much as inhumane, you dishonor the scaffold. (Page 25.)</quote></p>
 <pb facs="v1n5f47" n="48"/>
 </div>
       </body>
+      <back>
+         <xi:include href="shared/entities.xml"/>
+      </back>
    </text>
 </TEI>
