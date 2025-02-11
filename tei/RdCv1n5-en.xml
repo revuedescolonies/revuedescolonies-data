@@ -9,6 +9,7 @@
             <editor>Maria Beliaeva Solomon</editor>
             <editor>Charlotte Joublot Ferré</editor>
          </titleStmt>
+         <xi:include href="shared/editionStmt.xml"/>
          <publicationStmt>
             <p/>
          </publicationStmt>

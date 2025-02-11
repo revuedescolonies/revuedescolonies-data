@@ -9,7 +9,7 @@
             <editor>Maria Beliaeva Solomon</editor>
             <editor>Apolline Camille Floriane Lagarde</editor>
          </titleStmt>
-         <!-- <xi:include href="shared/editionStmt.xml"/> -->
+         <xi:include href="shared/editionStmt.xml"/>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>

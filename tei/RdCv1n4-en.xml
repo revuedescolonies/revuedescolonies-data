@@ -8,7 +8,7 @@
             <title>Revue des Colonies V.1 N°4 (selection in English translation)</title>
             <editor>Maria Beliaeva Solomon</editor>
          </titleStmt>
-         <!-- <xi:include href="shared/editionStmt.xml"/> -->
+         <xi:include href="shared/editionStmt.xml"/>
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
