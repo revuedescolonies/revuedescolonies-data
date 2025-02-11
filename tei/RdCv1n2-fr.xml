@@ -5,7 +5,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Revue des Colonies N°2</title>
+            <title>Revue des Colonies V.1 N°2</title>
+            <editor>Maria Beliaeva Solomon</editor>
             <editor>Charlotte Joublot Ferré</editor>
          </titleStmt>
          <!-- <xi:include href="shared/editionStmt.xml"/> -->
