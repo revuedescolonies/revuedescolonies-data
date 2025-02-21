@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n1-en">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n1-en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Revue des Colonies V.1 N°1 (selection in English translation)</title>
                 <editor>Maria Beliaeva Solomon</editor>
             </titleStmt>
-            <!-- <xi:include href="shared/editionStmt.xml"/> -->
+            <xi:include href="shared/editionStmt.xml"/>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
@@ -421,8 +423,7 @@
                         the violence exercised against him; the heirs of
                                 <persName><emph>Maurice</emph></persName>
                         <pb n="14" facs="v1n1p14"/>killed with his wife, and his daughter murdered
-                        by a volley shot through their hut; <persName><emph>Joseph
-                            Albert</emph></persName>, deported in <date>1823</date>, wounded in that
+                        by a volley shot through their hut; <persName ref="#JosA"><emph>Joseph Albert</emph></persName>, deported in <date>1823</date>, wounded in that
                         other shooting carried out on the prisoners of the Bonafon purgerie, through
                         the window gratings, etc., etc. </p>
                     <p>Admittedly, such victims, immolated not in a conflict, not in an armed
@@ -442,7 +443,7 @@
                             the majority of the plaintiffs are included in the trial currently being
                             heard in <placeName ref="#MQ">Martinique</placeName>. The <bibl type="periodical"><title ref="#MU">Moniteur</title></bibl> of
                                 <date>March 17</date> has moreover published a <emph>report
-                                emanating from <persName ref="#EH"><roleName>the
+                                emanating from <persName ref="#JHD"><roleName>the
                                     governor</roleName></persName></emph> (that is to say, the
                             person whom the plaintiffs accuse) which, given the confidence he is
                             owed, cannot be entered alongside the account of individuals compromised
@@ -1378,8 +1379,8 @@
             </div>
         </body>
         <back>
-            <!--<xi:include href="RdCv1n1-notes.xml"/>-->
-            <!-- <xi:include href="entities.xml"/> -->
+            <xi:include href="notes/RdCv1n1-notes.xml"/>
+            <xi:include href="shared/entities.xml"/>
         </back>
     </text>
 </TEI>

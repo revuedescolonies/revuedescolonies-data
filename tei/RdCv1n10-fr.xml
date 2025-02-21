@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n10-fr">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -860,7 +860,7 @@
                   <placeName ref="#MQ">la Martinique</placeName>. 
                   Cet enfant est le jeune 
                   <persName>Louis</persName> ; 
-            <!--find bio info about Louis?  -->
+               <!--find bio info about Louis?  -->
                   son acte de naissance est du
                   <pb n="20" facs="v1n10p20"/>
                   26 septembre 1830, inscrit sur le registre de l'état civil du premier arrondissement. Le voici : 
@@ -873,7 +873,7 @@
                <p>
                   Nous lisons maintenant dans 
                   <bibl type="periodical">le journal officiel</bibl> de 
-            <!--Check what journal this would be  -->
+               <!--Check what journal this would be  -->
                  <placeName ref="#MQ">la Martinique</placeName> 
                   la demande d’affranchissement suivante: 
                   <cit>
@@ -939,7 +939,7 @@
                   <bibl type="legal"><title ref="#CPen">le code pénal de 1810</title></bibl> 
                   et ceux qui l’ont précédé ont tous été conçus de manière à ce que la privation de la liberté avec violence contre une personne quelconque était mise sur la même ligne que le meurtre. 
                   <bibl type="legal"><title ref="#CPen">Les articles 341</title></bibl> 
-            <!--Not worth a full entry but maybe a bibliographic note/note within the 1810 code?  -->
+               <!--Not worth a full entry but maybe a bibliographic note/note within the 1810 code?  -->
                   et 
                   <choice>
                      <orig>suivans</orig> 
@@ -1884,148 +1884,8 @@
                <!--Check formatting for note en bas de page-->
                </p>
                <pb n="41" facs="v1n10p41"/>
-               
-
-
-
-
-
-
-
-
-
-
-                  
-
-
-
-
-
-
-               
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-                  
-
-               
-
-
-
-            
-
-               
-
-
-
-
-
-
-
-
-
-
-
-
-               
-
-
-
-
-                  
-            
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                     
-
-
-
-
-
-               
-
-
-
-
-
-               
-            
+            </div>
          </div>
-      </front>
+      </body>
    </text>
 </TEI>

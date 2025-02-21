@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n1-fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/revuedescolonies/revuedescolonies-data/main/odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n1-fr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Revue des Colonies V.1 N°1</title>
                 <editor>Maria Beliaeva Solomon</editor>
             </titleStmt>
-            <!-- <xi:include href="shared/editionStmt.xml"/> -->
+            <xi:include href="shared/editionStmt.xml"/>
             <publicationStmt>
                 <p>Publication Information</p>
             </publicationStmt>
@@ -502,13 +505,13 @@
                             <orig>plaignans</orig>
                             <reg>plaignants</reg>
                         </choice> sont, entre autres, les héritiers de l'infortuné
-                                <persName><emph>Lorville</emph></persName>, qui tomba percé de sept
+                                <persName ref="#LorFrej"><emph>Lorville</emph></persName>, qui tomba percé de sept
                         balles sous une décharge de mousqueterie commandée pour arrêter sa fuite ;
-                        les héritiers de <persName><emph>Fréjus</emph></persName>, laissé pour mort
-                        sous les coups d'un <persName>Lasserre</persName> et depuis décédé par suite
+                        les héritiers de <persName ref="#LorFrej"><emph>Fréjus</emph></persName>, laissé pour mort
+                        sous les coups d'un <persName ref="#Lass">Lasserre</persName> et depuis décédé par suite
                         des violences exercées contre lui ; les héritiers de
                                 <persName><emph>Maurice</emph></persName><pb n="14" facs="v1n1p14"/>tué avec sa femme, et sa fille assassinée par une fusillade exécutée sur
-                        eux à travers leur case ; <persName><emph>Joseph Albert</emph></persName>,
+                        eux à travers leur case ; <persName ref="#JosA"><emph>Joseph Albert</emph></persName>,
                         déporté de <date>1823</date>, blessé dans cette autre fusillade exécutée sur
                         les prisonniers de <placeName>la purgerie Bonafon</placeName>, à travers le
                         grillage des fenêtres, etc., etc.</p>
@@ -529,7 +532,7 @@
                                 <orig>plaignans</orig>
                                 <reg>plaignants</reg>
                             </choice> ont compris dans le procès qui s'instruit à <placeName ref="#MQ">la Martinique</placeName>. <bibl type="periodical"><title ref="#MU">Le Moniteur</title></bibl> du <date>17 mars</date> a
-                            d'ailleurs donné une <emph>relation émanée du <persName ref="#EH"><roleName>gouverneur</roleName></persName></emph>
+                            d'ailleurs donné une <emph>relation émanée du <persName ref="#JHD"><roleName>gouverneur</roleName></persName></emph>
                             (c'est-à-dire de celui que les <choice>
                                 <orig>plaignans</orig>
                                 <reg>plaignants</reg>
@@ -1666,9 +1669,9 @@
                 <p>IMPRIMERIE D'HERHAN, 380, RUE SAINT-DENIS.</p>
             </div>
         </body>
-        <!-- <back>
+        <back>
             <xi:include href="notes/RdCv1n1-notes.xml"/>
             <xi:include href="shared/entities.xml"/>
-        </back> -->
+        </back>
     </text>
 </TEI>
