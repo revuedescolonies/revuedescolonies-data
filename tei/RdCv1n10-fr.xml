@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n10-fr">
+<?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../odd/tei_revue.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="RdCv1n10-fr">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,19 +47,23 @@
       <body>
          <div>
             <pb n="3" facs="v1n10p3"/>
-            <head>REVUE DES COLONIES.</head>
+            <head n="Revue des colonies.">REVUE DES COLONIES.</head>
             <div xml:id="émancipation">
-               <head> DE L'ÉMANCIPATION IMMÉDIATE.</head>
+               <head n="De l'émancipation immédiate."> DE L'ÉMANCIPATION IMMÉDIATE.</head>
                <p>
                   La question de l’émancipation a marché à pas de géant. La libération des noirs est maintenant le vœu de tous les hommes d’état dignes de ce nom. Il n’est pas un esprit sérieux et élevé qui ne comprenne que la nécessité et la politique, non moins que la religion et l’humanité, commandent aujourd’hui cette grande mesure.
                </p>
                <p>
-                  Aussi ne s’agit-il pour ainsi dire plus de savoir s’il y aura un <bibl type="legal"><foreign xml:lang="en">bill</foreign></bibl> d’émancipation, mais quel en sera le mode, quelles en seront les 
+                  Aussi ne s’agit-il pour ainsi dire plus de savoir s’il y aura un 
+                  <bibl type="legal"><foreign xml:lang="en">bill</foreign></bibl> 
+                  d’émancipation, mais quel en sera le mode, quelles en seront les 
                   <choice>
                      <sic>disposition</sic>
                      <corr>dispositions</corr>
                   </choice>
-                  ; s’il lèvera toutes les difficultés en ne soumettant les esclaves émancipés à aucune des servitudes qui entachent en partie le <bibl type="legal"><foreign xml:lang="en">bill</foreign> </bibl> anglais, et qui sont plutôt, dans celles des colonies britanniques où elles n’ont pas été 
+                  ; s’il lèvera toutes les difficultés en ne soumettant les esclaves émancipés à aucune des servitudes qui entachent en partie le 
+                  <bibl type="legal"><foreign xml:lang="en">bill</foreign> </bibl> 
+                  anglais, et qui sont plutôt, dans celles des colonies britanniques où elles n’ont pas été 
                   <choice>
                      <sic>eutièrement</sic>
                      <corr>entièrement</corr>
@@ -91,14 +92,18 @@
                   Voilà ce qu’il faut proclamer bien haut en même temps que l’affranchissement absolu. Point d’entraves, point d’exceptions. Dites hardiment que 
                   <cit>
                      <quote><emph>les Hommes naissent libres et égaux en droits,</emph></quote> 
-                     <bibl type="legal"><title ref="#DDH"></title></bibl>
+                     <bibl type="legal"><title ref="#DDH"/></bibl>
                   </cit>
                   et en 
                   <pb n="4" facs="v1n10p4"/>
-                  même temps propagez l’instruction, répandez les lumières; enseignez l’économie sociale aux hommes de toutes races. Qu’importe la race! Dites à quelles conditions est soumise l’existence de l’homme en société ; quelles en sont les charges et quels les avantages ; comment on est libre, comment citoyen ; ce qu’on a droit de demander pour soi, ce qu'on doit à autrui. Expliquez sans réticence ni pusillanime réserve tout ce qu’il faut entendre, tout ce qui est admirablement résumé par ce mot sacré : <emph>Liberté!</emph> Définissez-le, s’il est mal compris : vous ferez bien ; mais proclamez-le haut et fort, car tout est là.
+                  même temps propagez l’instruction, répandez les lumières; enseignez l’économie sociale aux hommes de toutes races. Qu’importe la race! Dites à quelles conditions est soumise l’existence de l’homme en société ; quelles en sont les charges et quels les avantages ; comment on est libre, comment citoyen ; ce qu’on a droit de demander pour soi, ce qu'on doit à autrui. Expliquez sans réticence ni pusillanime réserve tout ce qu’il faut entendre, tout ce qui est admirablement résumé par ce mot sacré : 
+                  <emph>Liberté!</emph> 
+                  Définissez-le, s’il est mal compris : vous ferez bien ; mais proclamez-le haut et fort, car tout est là.
                </p>
                <p>
-                  Oh ! que nous serions tous plus avancés et plus heureux si, convenant de nos droits, nous en faisions la base respectée de toutes nos relations! Aussi, en même temps que vous promulguerez un <foreign xml:lang="en">bill</foreign> de liberté, promulguez aux colonies les vraies notions du juste et de l’injuste, les vrais principes de cette même liberté.
+                  Oh ! que nous serions tous plus avancés et plus heureux si, convenant de nos droits, nous en faisions la base respectée de toutes nos relations! Aussi, en même temps que vous promulguerez un 
+                  <foreign xml:lang="en">bill</foreign> 
+                  de liberté, promulguez aux colonies les vraies notions du juste et de l’injuste, les vrais principes de cette même liberté.
                </p>
                <p>
                   Vainement dira-t-on que c’est vouloir tout bouleverser ! Abolissez l’esclavage, et l’instruction deviendra une 
@@ -109,7 +114,9 @@
                   , un élément d’ordre et de paix. La liberté avec l’instruction est la seule garantie de stabilité pour un pays.
                </p>
                <p>
-                  Dites en bonne foi si, <emph>là où il n’y a plus d’esclavage</emph>, il peut être fait abus, par exemple, de la définition de la liberté ?
+                  Dites en bonne foi si, 
+                  <emph>là où il n’y a plus d’esclavage</emph>
+                  , il peut être fait abus, par exemple, de la définition de la liberté ?
                </p>
                <p>
                   Que tous le sachent, jetez-la partout à profusion cette définition; les maîtres seuls, et les exploiteurs d’hommes la doivent justement redouter.
@@ -117,7 +124,7 @@
                <p>
                   <cit>
                      <quote>La liberté est le pouvoir qui appartient à l’homme d’exercer à son gré toutes ses facultés; elle a la justice pour règle, les droits d’autrui pour limites, la nature pour principe, et la loi pour sauvegarde. La liberté consiste donc à pouvoir faire tout ce qui ne nuit pas à autrui ; ainsi l’exercice des droits naturels de chaque homme n’a de bornes que celles qui assurent aux autres membres de la société la jouissance de ces mêmes droits.</quote> 
-                     <bibl type="legal"><title ref="#DDH"></title></bibl>
+                     <bibl type="legal"><title ref="#DDH"/></bibl>
                   </cit>
                </p>
                <p>
@@ -130,7 +137,7 @@
                </p>
             </div>
             <div xml:id="marrons">
-               <head>NÈGRES MARRONS A <placeName ref="#GP">LA GUADELOUPE.</placeName></head>
+               <head n="Nègres marrons a la guadeloupe.">NÈGRES MARRONS A <placeName ref="#GP">LA GUADELOUPE.</placeName></head>
                <p>
                   Cet 
                   <choice>
@@ -142,7 +149,11 @@
                      <orig>habitans</orig> 
                      <reg>habitants</reg>
                   </choice>
-                  et les géreurs comme loi suprême et conservatrice, qu’il faut toujours conduire les nègres par la crainte et par la terreur, les pousse vers les bois pour la moindre faute. Ils savent que leur maître est inexorable; la fuite est donc leur seule ressource ; comment éviter autrement les éclats de ses fureurs? N’attribuons donc qu’à cette excessive sévérité qu’on déploie contre eux cette désertion d’un grand nombre de nègres qui vont peupler les bois. Presque tous se réfugient dans les forêts qui couronnent les montagnes dont la chaîne s’étend de la <placeName ref="#B-T">Basse-Terre</placeName> jusqu’au <placeName ref="#Lam">Lamentin</placeName>, à peu de distance de la <placeName ref="#PaP">Pointe-à-Pitre</placeName>. Là se trouvent des camps qui contiennent douze à quinze cents marrons. Le choix du terrain, son assiette, les aspérités qui l’environnent, les ravins qui le baignent, les vallées voisines que les marrons cultivent, tout annonce souvent un camp dressé par un chef habile, qui a tout prévu, tout préparé pour se mettre à l’abri d’une attaque, et avoir des vivres 
+                  et les géreurs comme loi suprême et conservatrice, qu’il faut toujours conduire les nègres par la crainte et par la terreur, les pousse vers les bois pour la moindre faute. Ils savent que leur maître est inexorable; la fuite est donc leur seule ressource ; comment éviter autrement les éclats de ses fureurs? N’attribuons donc qu’à cette excessive sévérité qu’on déploie contre eux cette désertion d’un grand nombre de nègres qui vont peupler les bois. Presque tous se réfugient dans les forêts qui couronnent les montagnes dont la chaîne s’étend de la 
+                  <placeName ref="#B-T">Basse-Terre</placeName> jusqu’au 
+                  <placeName ref="#Lam">Lamentin</placeName>, à peu de distance de la
+                 <placeName ref="#PaP">Pointe-à-Pitre</placeName>.
+                  Là se trouvent des camps qui contiennent douze à quinze cents marrons. Le choix du terrain, son assiette, les aspérités qui l’environnent, les ravins qui le baignent, les vallées voisines que les marrons cultivent, tout annonce souvent un camp dressé par un chef habile, qui a tout prévu, tout préparé pour se mettre à l’abri d’une attaque, et avoir des vivres 
                   <choice>
                      <orig>suffisans.</orig>  
                      <reg>suffisants.</reg> 
@@ -160,7 +171,10 @@
                      <orig>ame</orig> 
                      <reg>âme</reg> 
                   </choice>
-                  et toutes les qualités d’un homme supérieur, fait pour en commander d’autres. Il fut pris en <date>1826</date> par une patrouille du <placeName>Petit-Bourg</placeName>, et mourut dans les cachots de la <placeName>Basse-Terre</placeName>.
+                  et toutes les qualités d’un homme supérieur, fait pour en commander d’autres. Il fut pris 
+                  en <date>1826</date> 
+                  par une patrouille du <placeName>Petit-Bourg</placeName>, 
+                  et mourut dans les cachots de la <placeName ref="#B-T">Basse-Terre</placeName>.
                </p>
                <p>
                   Ces forêts produisent une grande quantité de tubercules très variés, qui forment un des articles 
@@ -181,12 +195,7 @@
                      <orig>nègres-marrons</orig> 
                      <reg>nègres marrons</reg> 
                   </choice>
-                  et ceux des habitations : il se fait entre eux un commerce d’échanges. Les marrons apportent du charbon, des poissons, des agoutis et des gommes, et reçoivent des 
-                  <choice>
-                     <orig>instrumens</orig> 
-                     <reg>instruments</reg> 
-                  </choice>
-                  , du tafia, du tabac, de la farine de manioc et des salaisons. Ils apprennent aussi souvent par cette voie quand, comment et par où les patrouilles doivent les attaquer.
+                  et ceux des habitations : il se fait entre eux un commerce d’échanges. Les marrons apportent du charbon, des poissons, des agoutis et des gommes, et reçoivent des instrumens, du tafia, du tabac, de la farine de manioc et des salaisons. Ils apprennent aussi souvent par cette voie quand, comment et par où les patrouilles doivent les attaquer.
                </p>
                <p>
                   Les 
@@ -266,7 +275,9 @@
                   nuit survient et les surprend, l’obscurité permet au nègre de s’échapper ; mais il a promis, et ne veut pas être parjure.
                </p>
                <p>
-                  Ils arrivent enfin près du camp, un grand feu y est allumé. Deux rangées de cases en forment un petit bourg. Un bruit a été entendu , l’alarme est donnée : aussitôt il se fait un cliquetis de lances et de coutelas. Le jeune créole se croit perdu. Il appuie son pistolet sur la poitrine du nègre, et le menace de le tuer, si on l’attaque. Le nègre lui répond de ne pas avoir peur, et qu'il va lui rendre sa négresse. <q>( Pas tini peu, mouché ; moi, ba vous négresse à vous. )</q> Aussitôt il s’avance, s’annonce, et d’un mot fait rentrer tous ces noirs dans leurs ajoupas. Il appelle la négresse de cet habitant qui était dans sa propre case, lui dit de le suivre ; et, à travers les mêmes sentiers et les mêmes dangers, il ramène au bord des bois ce jeune homme, qui rentre chez lui avec sa négresse, non sans s’étonner des dangers qu’il a courus, et peut-être plus encore de la générosité du nègre.
+                  Ils arrivent enfin près du camp, un grand feu y est allumé. Deux rangées de cases en forment un petit bourg. Un bruit a été entendu , l’alarme est donnée : aussitôt il se fait un cliquetis de lances et de coutelas. Le jeune créole se croit perdu. Il appuie son pistolet sur la poitrine du nègre, et le menace de le tuer, si on l’attaque. Le nègre lui répond de ne pas avoir peur, et qu'il va lui rendre sa négresse. 
+                  <q>( Pas tini peu, mouché ; moi, ba vous négresse à vous. )</q> 
+                  Aussitôt il s’avance, s’annonce, et d’un mot fait rentrer tous ces noirs dans leurs ajoupas. Il appelle la négresse de cet habitant qui était dans sa propre case, lui dit de le suivre ; et, à travers les mêmes sentiers et les mêmes dangers, il ramène au bord des bois ce jeune homme, qui rentre chez lui avec sa négresse, non sans s’étonner des dangers qu’il a courus, et peut-être plus encore de la générosité du nègre.
                </p>
                <p>
                   Un autre planteur dont je devrais citer le nom, pour le livrer à l’horreur publique puisque les lois n’ont pu l’atteindre, a éprouvé encore plus la bonté et la générosité des nègres-marrons. C’est un jeune habitant dont les regards sombres et féroces annoncent l’humeur sanguinaire. Il <emph>chassait</emph> aux 
@@ -309,26 +320,25 @@
                   </choice>
                   de quartiers est une plaie honteuse et une calamité, comme celle des magistrats créoles.
                </p>
-               <closer><persName ref="#XT">X. TANC</persName>, ancien magistrat à la <placeName>Guadeloupe</placeName>.</closer>
+               <closer><persName ref="#XT">X. TANC</persName>, ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.</closer>
             </div>
             <div xml:id="blancs">
-               <head>DES BLANCS JUGÉS PAS UN BLANC.</head>
+               <head n="Des blancs jugés pas un blanc.">DES BLANCS JUGÉS PAS UN BLANC.</head>
                <p>(<emph>Extrait des mémoires d’une créole de <placeName ref="#MQ">la Martinique</placeName>, publiés en</emph> <date>1831</date>.)</p>
                <floatingText>
                   <body>
                      <div>
                         <p>
-                           Les <emph>blancs</emph> naissent et sont élevés dans les préjugés les plus invétérés qui jamais aient été produits par l’orgueil ou par le hasard de la naissance. Ceux d’entre eux qui, en <placeName ref="#FR">France</placeName>, ont reçu une éducation libérale, n’y ont pas 
+                           Les <emph>blancs</emph> 
+                           naissent et sont élevés dans les préjugés les plus invétérés qui jamais aient été produits par l’orgueil ou par le hasard de la naissance. 
+                           Ceux d’entre eux qui, en <placeName ref="#FR">France</placeName>, ont reçu une éducation libérale, n’y ont pas 
                            <choice>
                               <sic>laisse</sic> 
                               <corr>laissé</corr> 
                            </choice>
-                           pour cela ces impressions de leur enfance, qui se réveillent au premier coup de fouet qu’ils entendent lorsqu’ils se trouvent au milieu de leurs esclaves. On voit renaître chez eux alors dans toute leur fougue ces préjugés coloniaux dont la civilisation européenne aurait dû les guérir. Tel en est l’empire que les créoles, en toute autre circonstance bons, généreux, hospitaliers, deviennent des tigres contre celui qui élève la voix en faveur des victimes de leurs privilèges. Leur haine contre la <emph>classe de couleur</emph> surtout ne connaît aucun frein; elle s’accroît à chaque pas qu’essaient les <emph>hommes de couleur</emph> hors du cercle d’ilotisme où ils sont asservis depuis si 
-                           <choice>
-                              <orig>long-temps</orig> 
-                              <reg>longtemps</reg> 
-                           </choice>
-                           ; ce qui n’empêche pas que beaucoup de personnes, nées de <emph>couleur</emph>, ont eu l’adresse de se glisser inaperçues dans la <emph>classe blanche</emph>, si jalouse de la noblesse de sa peau. Ces hommes y sont devenus les ennemis les plus 
+                           pour cela ces impressions de leur enfance, qui se réveillent au premier coup de fouet qu’ils entendent lorsqu’ils se trouvent au milieu de leurs esclaves. On voit renaître chez eux alors dans toute leur fougueces préjugés coloniaux dont la civilisation européenne aurait dû les guérir. Tel en est l’empire que les créoles, en toute autre circonstance bons, généreux, hospitaliers, deviennent des tigres contre celui qui élève la voix en faveur des victimes de leurs privilèges. 
+                           Leur haine contre la <emph>classe de couleur</emph> surtout ne connaît aucun frein; elle s’accroît à chaque pas qu’essaient les <emph>hommes de couleur</emph> hors du cercle d’ilotisme où ils sont asservis depuis si long-temps ; 
+                           ce qui n’empêche pas que beaucoup de personnes, nées de <emph>couleur</emph>, ont eu l’adresse de se glisser inaperçues dans la <emph>classe blanche</emph>, si jalouse de la noblesse de sa peau. Ces hommes y sont devenus les ennemis les plus 
                            <choice>
                               <orig>ardens</orig> 
                               <reg>ardents</reg> 
@@ -348,7 +358,7 @@
                               <reg>puissants</reg> 
                            </choice> 
                            </emph>, des séductions de mille espèces lui font bien vite ou-
-                        <pb n="10" facs="v1n10p10"/>
+                  <pb n="10" facs="v1n10p10"/>
                            blier sa mission pour partager toutes les chimères coloniales; s’il est dans les rangs ordinaires de la société, l’impunité que sa <emph>peau blanche</emph> lui promet le porte immédiatement à user, pour opprimer, du droit qu’il sait en avoir acquis.
                         </p>
                         <p>
@@ -360,16 +370,30 @@
                            surpassent les créoles eux-mêmes en vanité et en préjugés. Ils sont plus durs envers les <emph>esclaves</emph>, habitués qu’ils ont été en 
                            <placeName ref="#EUR">Europe</placeName> 
                            à un service plus soigné, et surtout plus actif que celui qu’on obtient des noirs. 
-                           Aussi le <emph>nègre esclave</emph>, dans son état d’abjection et de malheur, accorde aux créoles une préférence marquée dans ses affections, et accueille par des sobriquets de mépris <emph>ces gens qui lui arrivent de <placeName>France</placeName></emph>.
+                           Aussi le <emph>nègre esclave</emph>, dans son état d’abjection et de malheur, accorde aux créoles une préférence marquée dans ses affections, et accueille par des sobriquets de mépris 
+                           <emph>ces gens qui lui arrivent de 
+                           <placeName ref="#FR">France.</placeName></emph>
                         </p>
                         <p>
-                           On concevra aisément de quelles persécutions et de quelles injustices les classes opprimées ont pu être rendues victimes, lorsqu’on réfléchira qu’à une distance si éloignée de la métropole, avec si peu et même point de moyens d’y faire arriver des plaintes, dans un pays régi par des ordonnances et des lois aussi imparfaites que celles qui y sont en vigueur, toutes les places, tant dans l’administration que dans l’ordre judiciaire, ont toujours été exclusivement dévolues à la <emph>caste privilégiée</emph>; ajoutez à cela que <emph>l'homme de couleur</emph> libre ne pouvait être avocat, médecin, notaire, etc., enfin fonctionnaire quelconque, malgré sa bonne conduite, son instruction ou sa fortune, acquise par une laborieuse industrie; que le conseil souverain, aujourd’hui <orgName>Cour royale</orgName>, n’admettait dans son sein que des créoles, à qui on ne demandait pas les études sévères exigées pour la magistrature : il leur suffisait d’être issus de <emph>planteurs</emph>. Quelques modifications ont été apportées depuis peu à ce système, mais sans bénéfice notable pour les justiciables, surtout en matière criminelle. Une réforme complète est le seul remède.
+                           On concevra aisément de quelles persécutions et de quelles injustices les classes opprimées ont pu être rendues victimes, lorsqu’on réfléchira qu’à une distance si éloignée de la métropole, avec si peu et même point de moyens d’y faire arriver des plaintes, dans un pays régi par des ordonnances et des lois aussi imparfaites que celles qui y sont en vigueur, toutes les places, tant dans l’administration que dans l’ordre judiciaire, ont toujours été exclusivement dévolues 
+                           à la <emph>caste privilégiée</emph> ; ajoutez à cela que <emph>l'homme de couleur</emph> libre ne pouvait être avocat, médecin, notaire, etc., enfin fonctionnaire quelconque, malgré sa bonne conduite, son instruction ou sa fortune, acquise par une laborieuse industrie ; 
+                           que le conseil souverain, aujourd’hui <orgName>Cour royale</orgName>, 
+                           n’admettait dans son sein que des créoles, à qui on ne demandait pas les études sévères exigées pour la magistrature : il leur suffisait d’être issus de <emph>planteurs</emph>. 
+                           Quelques modifications ont été apportées depuis peu à ce système, mais sans bénéfice notable pour les justiciables, surtout en matière criminelle. Une réforme complète est le seul remède.
                         </p>
                         <p>
-                           Nulle part, dans les pays de la domination française, <date>la révolution de juillet</date> n’a reçu un accueil plus froid qu’à <placeName>la Martinique</placeName>, où elle est venue dissiper les illusions dans lesquelles se berçait la plus ridicule des aristocraties ; nulle part le gouvernement actuel n’a de plus grands ennemis que ceux qui là sont en place, principalement dans l’ordre judiciaire. Ils attendent et appellent de tous leurs vœux l’intervention des puissances étrangères, qui doit leur ramener la branche proscrite de la famille des<persName>Bourbons</persName>. La tranquillité troublée à l’intérieur de <placeName>la France</placeName> est pour eux un sujet de
-                  <!-- Famille Bourbon - tag? As person, organization? -->      
-                        <pb n="11" facs="v1n10p11"/>
-                           joie et d’espérance. Dans leurs rêves politiques ils ont déjà dressé leurs plans pour livrer l’île à la première attaque : <q><emph>Périssent les colonies plutôt qu’un principe!</emph></q> ont dit les orateurs de la <date>révolution de 1789</date>. <q><emph>Périsse plutôt <placeName>la France</placeName> que le système colonial</emph>, palladium <emph>de nos privilèges!</emph></q> disent 
+                           Nulle part, dans les pays de la domination française, 
+                           <date>la révolution de juillet</date>
+                           n’a reçu un accueil plus froid qu’à 
+                           <placeName ref="#MQ">la Martinique,</placeName> 
+                           où elle est venue dissiper les illusions dans lesquelles se berçait la plus ridicule des aristocraties ; nulle part le gouvernement actuel n’a de plus grands ennemis que ceux qui là sont en place, principalement dans l’ordre judiciaire. Ils attendent et appellent de tous leurs vœux l’intervention des puissances étrangères, 
+                           qui doit leur ramener la branche proscrite de la famille des<persName>Bourbons</persName>. 
+                           La tranquillité troublée à l’intérieur de <placeName>la France</placeName> est pour eux un sujet de
+                  <pb n="11" facs="v1n10p11"/>
+                           joie et d’espérance. Dans leurs rêves politiques ils ont déjà dressé leurs plans pour livrer l’île à la première attaque : 
+                           <q><emph>Périssent les colonies plutôt qu’un principe!</emph></q> ont dit les orateurs de la 
+                           <date>révolution de 1789.</date> 
+                           <q><emph>Périsse plutôt <placeName>la France</placeName> que le système colonial</emph>, palladium <emph>de nos privilèges!</emph></q> disent 
                            <choice>
                               <orig>aujourdhui</orig> 
                               <reg>aujourd'hui</reg> 
@@ -381,7 +405,7 @@
                </floatingText>
             </div>
             <div xml:id="esclaves">
-               <head>DES ESCLAVES.</head>
+               <head n="Des esclaves.">DES ESCLAVES.</head>
                <p> (<emph>Extrait des mêmes mémoires.</emph>)</p>
                <floatingText>
                   <body>
@@ -392,15 +416,24 @@
                               <orig>gémissemens</orig> 
                               <reg>gémissements</reg> 
                            </choice>
-                           à ceux qui peuvent améliorer leur sort. Tandis que les tribunes publiques retentissent partout en faveur des opprimés, tandis que les animaux eux-mêmes, dans le <orgName ref="#PA">parlement anglais</orgName>, ont trouvé protection contre la brutalité de leurs conducteurs, et que dans les colonies étrangères les législateurs se sont occupés de la condition de leurs nègres esclaves pour les mettre sous la sauvegarde des lois, croirait-on que dans nos possessions seules ils aient été oubliés ! Leurs plaintes ne sortant pas du cercle étroit où ils sont enchaînés, il ne leur reste que le désespoir, à moins qu’on ne se dépêche de mettre leur situation un peu en harmonie avec la civilisation actuelle, déjà si fortement opposée au système d’esclavage.
+                           à ceux qui peuvent améliorer leur sort. Tandis que les tribunes publiques retentissent partout en faveur des opprimés, 
+                           tandis que les animaux eux-mêmes, dans le 
+                           <orgName ref="#PA">parlement anglais</orgName>,
+                           ont trouvé protection contre la brutalité de leurs conducteurs, et que dans les colonies étrangères les législateurs se sont occupés de la condition de leurs nègres esclaves pour les mettre sous la sauvegarde des lois, croirait-on que dans nos possessions seules ils aient été oubliés ! 
+                           Leurs plaintes ne sortant pas du cercle étroit où ils sont enchaînés, il ne leur reste que le désespoir, à moins qu’on ne se dépêche de mettre leur situation un peu en harmonie avec la civilisation actuelle, déjà si fortement opposée au système d’esclavage.
                         </p>
                         <p>
-                           Aucun registre n’est tenu des naissances et des décès, ce qui ouvre un vaste champ à l’injustice et à la barbarie de certains maîtres. Combien d’esclaves ont péri dans les cachots des habitations ou sous le fouet des commandeurs, sans que jamais l’autorité s’en soit doutée, sans que le <orgName>ministère public</orgName> ait informé contre les hommes coupables de pareilles cruautés ! Heureux encore ceux qui n’ont pas succombé à des supplices dont on ne devinerait pas l’horreur !
+                           Aucun registre n’est tenu des naissances et des décès, ce qui ouvre un vaste champ à l’injustice et à la barbarie de certains maîtres. Combien d’esclaves ont péri dans les cachots des habitations ou sous le fouet des commandeurs, sans que jamais l’autorité s’en soit doutée, sans que le 
+                           <orgName>ministère public</orgName> 
+                           ait informé contre les hommes coupables de pareilles cruautés ! Heureux encore ceux qui n’ont pas succombé à des supplices dont on ne devinerait pas l’horreur !
                         </p>
                         <p>
-                           De temps en temps le nègre agite sa chaîne, expose ses griefs par des chansons, par des placards ; quelques <emph>blancs</emph> sont victimes dans les endroits écartés de la campagne ; le poison exerce d’épouvantables ravages dans un quartier de l’île, des incendies éclatent. Loin de prêter l’oreille à des douleurs si énergiquement exprimées, les ordonnances locales rivent plus fortement les anneaux de cette
-                           <pb n="12" facs="v1n10p12"/>
-                           chaîne de fer qui déjà menace de se rompre. Dieu veuille que la férocité africaine, poussée à bout par le désespoir, ne réussisse pas à s’armer contre ses oppresseurs, et à obtenir, par la ruine de la colonie entière, par le massacre de la génération blanche, une émancipation qui a déjà reçu sa première sanction dans la reconnaissance de <placeName ref="#StD">Saint-Domingue.</placeName>
+                           De temps en temps le nègre agite sa chaîne, expose ses griefs par des chansons, par des placards ; 
+                           quelques <emph>blancs</emph> sont victimes dans les endroits écartés de la campagne ; 
+                           le poison exerce d’épouvantables ravages dans un quartier de l’île, des incendies éclatent. Loin de prêter l’oreille à des douleurs si énergiquement exprimées, les ordonnances locales rivent plus fortement les anneaux de cette
+                  <pb n="12" facs="v1n10p12"/>
+                           chaîne de fer qui déjà menace de se rompre. Dieu veuille que la férocité africaine, poussée à bout par le désespoir, ne réussisse pas à s’armer contre ses oppresseurs, et à obtenir, par la ruine de la colonie entière, par le massacre de la génération blanche, une émancipation qui a déjà reçu sa première sanction dans 
+                           la reconnaissance de <placeName ref="#StD">Saint-Domingue.</placeName>
                         </p>
                         <p>
                            Rien n’égale la sévérité des 
@@ -413,16 +446,23 @@
                               <orig>châtimens</orig> 
                               <reg>châtiments</reg> 
                            </choice>
-                           les plus durs sous le contrôle d’une autorité administrative. A la vérité, malgré un grand nombre d’ordonnances cruelles et ridicules, les esclaves devaient trouver une protection dans le directeur de l’intérieur. <persName ref="#RS">M. de Rosily</persName>, à qui ce poste est confié à <placeName>la Martinique</placeName>, a vingt-quatre mille francs 
+                           les plus durs sous le contrôle d’une autorité administrative. A la vérité, malgré un grand nombre d’ordonnances cruelles et ridicules , les esclaves devaient trouver une protection dans le 
+                           directeur de l’intérieur. <persName ref="#RS">M. de Rosily</persName>, 
+                           à qui ce poste est confié à la <placeName ref="#MQ">Martinique</placeName>, 
+                           a vingt-quatre mille francs 
                            <choice>
                               <orig>d'appointemens</orig> 
                               <reg>d'appointement</reg> 
                            </choice>
-                           annuels, et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau; il faut voir comment cet administrateur <foreign xml:lang="en">dandy</foreign>, sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ? 
+                           annuels , et s’acquitte de sa fonction en véritable oisif. Impossible de passer plus agréablement son temps; tantôt en fête à la campagne, chez ses amis ; tantôt en ville, où l’on est étonné de trouver un billard monté à côté de son bureau ; 
+                           il faut voir comment cet administrateur <foreign xml:lang="en">dandy</foreign>, 
+                           sans quitter sa partie de poule ou de carambole, accueille une réclamation, dicte une lettre ou prend une mesure de police. Il est spécialement chargé de visiter les prisons, et bien rarement il y daigne pénétrer pour voir par lui-même ; comment peut-il entendre les cris des malheureux journellement fouettés dans la geôle? comment saura-t-il pour quels motifs tant de malheureux traînent la chaîne dans les rues ? 
                         </p>
                         <p>
-                           <emph>Vingt-neuf coups de fouet</emph>; telle est la conclusion obligée de tous les arrêtés locaux de police ou d’administration concernant les esclaves. Ce châtiment, maximum de la peine correctionnelle, est appliqué à la geôle on en place publique, et malgré sa violence, c’est la punition réservée aux plus petites fautes, le système colonial n’admettant pas qu’un nègre puisse avoir raison contre un blanc. Ni les femmes, ni les vieillards ne sont à l’abri de ce rude supplice. Un sexagénaire ayant par inadvertance coudoyé en passant à côté de ce chef milicien, a été, pour ce simple fait, fouetté en public, sur la <placeName>place dite Bertin</placeName>.
-                  <!-- Worth tagging somethign as specific as Place Bertin? -->
+                           <emph>Vingt-neuf coups de fouet</emph>; 
+                           telle est la conclusion obligée de tous les arrêtés locaux de police ou d’administration concernant les esclaves. Ce châtiment, maximum de la peine correctionnelle, est appliqué à la geôle on en place publique, et malgré sa violence, c’est la punition réservée aux plus petites fautes, le système colonial n’admettant pas qu’un nègre puisse avoir raison contre un blanc. Ni les femmes, ni les vieillards ne sont à l’abri de ce rude supplice. Un sexagénaire ayant par inadvertance coudoyé 
+                           en passant à côté de ce chef milicien, a été, pour ce simple fait, fouetté en public, 
+                           sur la <placeName ref="#PlB">place dite Bertin</placeName>.
                         </p>
                         <p>
                            Cet exemple, cité entre mille, prouvera jusqu’à quel point, dans nos colonies, est poussée la rigueur avec laquelle les esclaves sont traités ; le joug y est trop pesant. Il faut des améliorations, ou bien ils briseront la digue qui les retient.
@@ -433,28 +473,32 @@
             </div>
             <pb n="13" facs="v1n10p13"/>
             <div xml:id="GAnse">
-               <head>POURSUITES CONTRE <persName ref="#JHD">MONSIEUR DUPOTET</persName>, EX-GOUVERNEUR DE <placeName>LA MARTINIQUE</placeName>, ET CONTRE D’AUTRES 
-               <choice>
-                  <orig>AGENS</orig> 
-                  <reg>AGENTS</reg> 
-               </choice>
-               , A L’OCCASION DES 
-               <choice>
-                  <orig>ÉVÉNEMENS</orig> 
-                  <reg>ÉVÉNEMENTS</reg> 
-               </choice>
-               DE LA <placeName ref="#GdA">GRAND’ ANSE</placeName>.</head>
+               <head n="Poursuites contre monsieur dupotet, ex-gouverneur de la martinique, et contre d’autres agens, a l’occasion des événemens de la grand’ anse.">POURSUITES CONTRE <persName ref="#JHD">MONSIEUR DUPOTET</persName>, 
+               EX-GOUVERNEUR DE <placeName ref="#MQ">LA MARTINIQUE</placeName>, 
+               ET CONTRE D’AUTRES AGENS, A L’OCCASION DES ÉVÉNEMENS DE LA <placeName ref="#GdA">GRAND’ ANSE</placeName>.</head>
                <p>
-                  Le premier cri de douleur des victimes de <emph><placeName>la Grand’ Anse</placeName></emph> s’éleva vers le chef de l’état. Une requête fut présentée <emph>au <persName ref="#LP">roi</persName> en son conseil</emph> au nom de quatorze 
+                  Le premier cri de douleur des victimes de 
+                  <emph><placeName ref="#GdA">la Grand’ Anse</placeName></emph> 
+                  s’éleva vers le chef de l’état. Une requête fut présentée 
+                  <emph>au <persName ref="#LP">roi</persName> en son conseil</emph> 
+                  au nom de quatorze 
                   <choice>
                      <orig>plaignans</orig> 
                      <reg>plaignants</reg> 
                   </choice>
-                  , dont chacun avait eu sa grande part dans cette affreuse catastrophe, et qui tous ont été acquittés ou non compris dans les poursuites, sauf <persName>Laboulique</persName> et <persName ref="#AHav">Auguste Eugénie</persName>, ce dernier condamné par contumace; sauf aussi <persName ref="#LorFrej">Fréjus</persName> et <persName ref="#LorFrej">Lorville</persName>, morts de leurs blessures pendant l'instruction, tristes précurseurs de leurs frères, qui devaient mourir sur l’échafaud.
-           <!-- Look up Laboulique? -->   
-              </p>
+                  , dont chacun avait eu sa grande part dans cette affreuse catastrophe, et qui tous ont été acquittés ou non compris dans les poursuites, sauf 
+                  <persName>Laboulique</persName> et <persName>Auguste Eugénie</persName>, 
+                  ce dernier condamné par contumace; sauf aussi 
+                  <persName>Fréjus</persName> et <persName>Lorville</persName>, 
+                  morts de leurs blessures pendant l'instruction, tristes précurseurs de leurs frères, qui devaient mourir sur l’échafaud.
+               </p>
                <p>
-                  Bientôt la procédure des assises extraordinaires de <placeName ref="#StP">Saint-Pierre</placeName> fut envoyée à la <orgName ref="#CDC">cour de cassation</orgName>, qui rejeta le pourvoi après plusieurs jours de délibéré. <emph>Bonne procédure, détestable procès</emph>; ce fut, nous l’avons dit, la pensée des magistrats qui se crurent avec douleur 
+                  Bientôt la procédure des assises extraordinaires de 
+                  <placeName ref="#StP">Saint-Pierre</placeName> 
+                  fut envoyée à la <orgName ref="#CDC">cour de cassation</orgName>, 
+                  qui rejeta le pourvoi après plusieurs jours de délibéré.
+                  <emph>Bonne procédure, détestable procès</emph> ; 
+                  ce fut, nous l’avons dit, la pensée des magistrats qui se crurent avec douleur 
                   <choice>
                      <orig>impuissans</orig> 
                      <reg>impuissants</reg> 
@@ -462,18 +506,22 @@
                   à révoquer tant de condamnations capitales.
                </p>
                <p>
-                  Aujourd’hui le <orgName ref="#CE">conseil d’état</orgName> vient à statuer sur la requête au <persName>roi</persName> : l’ordonnance royale est ainsi conçue :
+                  Aujourd’hui le <orgName ref="#CE">conseil d’état</orgName> vient à statuer sur la requête au 
+                  <persName ref="#LP">roi</persName> : l’ordonnance royale est ainsi conçue :
                   <floatingText>
                   <body>
                      <div>
                         <p>
-                           <persName>« Louis-Philippe</persName>, roi des Français, etc. 
+                           <persName ref="#LP">« Louis-Philippe</persName>, roi des Français, etc. 
                         </p>
                         <p>   
                            « Vu la requête présentée par, etc. , vu, etc., sur la demande en autorisation de poursuivre à fins criminelles.
                         </p>
                         <p>
-                           « Considérant qu’aucune demande en autorisation de poursuivre à fins criminelles ne nous a été adressée par notre <roleName>procureur général</roleName> près la cour royale de <placeName>La Martinique</placeName>, et que les 
+                           « Considérant qu’aucune demande en autorisation de poursuivre à fins criminelles ne nous a été adressée par notre 
+                           <roleName>procureur général</roleName> 
+                           près la cour royale de <placeName ref="#MQ">La Martinique</placeName>, 
+                           et que les 
                            <choice>
                               <orig>réclamans</orig> 
                               <reg>réclamants</reg> 
@@ -489,13 +537,16 @@
                            devant les tribunaux civils; 
                         </p>
                         <p>
-                           « Notre <orgName>conseil d’état</orgName> entendu, nous avons ordonné et ordonnons ce qui suit : 
+                           « Notre <orgName ref="#CE">conseil d’état</orgName> entendu, 
+                           nous avons ordonné et ordonnons ce qui suit : 
                         </p>
                         <p>
                            « Art. 1er . Ne sont pas accordées les autorisations demandées par la requête ci-dessus visée, afin de poursuivre soit par la voie civile, soit par la voie criminelle, les personnes dénommées dans ladite requête. 
                         </p>
                         <p>
-                           « Art. 2. Notre <roleName>ministre de la justice</roleName> et notre <persName ref="#GVD">ministre de la marine</persName> sont chargés de l’exécution de la présente ordonnance. »
+                           « Art. 2. Notre <persName>ministre de la justice</persName> 
+                           et notre <persName ref="#GVD">ministre de la marine</persName> 
+                           sont chargés de l’exécution de la présente ordonnance. »
                         </p>
                      </div>
                   </body>
@@ -514,7 +565,9 @@
                      <orig>habitans</orig> 
                      <reg>habitants</reg> 
                    </choice>
-                  des tropiques n’ont que deux années à vivre, à quoi bon des plaidoyers posthumes ! Cependant l’événement de <placeName>la Grand’ Anse</placeName> n’a pas été un de ces conflits 
+                  des tropiques n’ont que deux années à vivre, à quoi bon des plaidoyers posthumes ! Cependant 
+                  l’événement de <placeName ref="#GdA">la Grand’ Anse</placeName> 
+                  n’a pas été un de ces conflits 
                   <choice>
                      <orig>sanglans</orig> 
                      <reg>sanglants</reg> 
@@ -527,33 +580,88 @@
                   ; où chacun après avoir enterré ses crimes et ses morts doit garder le silence sur leur tombe. O blancs, pas un de vous n’a péri! Les morts ne sont que d’un côté; nous pourrions réhabiliter leur mémoire; nous ferons seulement quelques observations, commentaire obligé de l’ordonnance qu’on vient de lire.
                </p>
                <p>
-                  Le <persName>roi</persName> en son conseil n’a statué <emph>que par fin de non recevoir</emph>; les 
+                  Le <persName ref="#LP">roi</persName> 
+                  en son conseil n’a statué 
+                  <emph>que par fin de non recevoir</emph>; les 
                   <choice>
                      <orig>plaignans</orig> 
                      <reg>plaignants</reg> 
                    </choice>
-                  n’ont pas régularisé leur procédure par le dépôt au parquet de <placeName>La Martinique</placeName> d’une plainte qu’aurait transmise <roleName>le procureur général</roleName> ; voilà l’unique motif du rejet de leur demande. Silence absolu quant aux faits énoncés dans la requête, dans cet acte d’accusation énergique, mais calme et modéré que les 
+                  n’ont pas régularisé leur procédure par le dépôt au parquet de 
+                  <placeName ref="#MQ">La Martinique</placeName> 
+                  d’une plainte qu’aurait transmise 
+                  le procureur général ; 
+            <!-- <!Rechercher quel procureur général -->
+                  voilà l’unique motif du rejet de leur demande. Silence absolu quant aux faits énoncés dans la requête, dans cet acte d’accusation énergique, mais calme et modéré que les 
                   <choice>
                      <orig>plaignans</orig> 
                      <reg>plaignants</reg> 
                    </choice>
-                  ont dressé contre <persName>l’ex-gouverneur</persName> et ses subordonnés. Ce silence, il est permis de le penser, est un hommage rendu au malheur. En effet les faits ont été connus, appréciés; <orgName>le conseil d’état</orgName> ne s’est pas arrêté à de vaines formes de procédure ; la requête et les pièces à l’appui ont été communiquées au <persName>ministre de la marine</persName>, celui- ci a fait aussi ses communications au gouvernement de <placeName>La Martinique</placeName>, et <persName ref="#ANog">M. le procureur général Nogues</persName> a été consulté.
+                  ont dressé contre 
+                  <persName ref="#JHD">l’ex-gouverneur</persName> 
+                  et ses subordonnés. Ce silence, il est permis de le penser, est un hommage rendu au malheur. En effet les faits ont été connus, appréciés; 
+                  <orgName ref="#CE">le conseil d’état</orgName> 
+                  ne s’est pas arrêté à de vaines formes de procédure ; la requête et les pièces à l’appui ont été communiquées au 
+                  <persName ref="#GVD">ministre de la marine</persName>, 
+                  celui- ci a fait aussi ses communications au gouvernement de 
+                  <placeName ref="#MQ">La Martinique</placeName>, 
+                  et <persName ref="#ANog">M. le procureur général Nogues</persName> a été consulté.
                </p>
                <p>
-                  Or, il faut savoir que, par une lettre en réponse, sous la date du <date>21 juillet 1854</date>, <persName>ce magistrat</persName>, parlant de la requête au <persName>roi</persName>, annonce <quote>« qu’il ne prendra pas la peine de prouver <emph>la fausseté</emph> des imputations contenues dans cet écrit; que l’arrêt et l’acte d’accusation démontrent cette fausseté. » </quote> Et en effet <persName>M. le procureur général</persName> ne démontre rien, il se borne seulement à transmettre l’arrêt et l’acte d’accusation. Ce n’est donc pas le cas d’élever ici une controverse avec lui, nous rappellerons seulement que <emph>la requête au <persName>roi</persName></emph> a rarement énoncé un <emph>fait sans indiquer à côté par son numéro d’ordre la pièce de procédure, ou le Moniteur, ou tel autre document qui en sont la preuve.</emph> L’arrêt et l’acte d’accusation devait démontrer la fausseté des imputations alléguées. Eh bien, ne prenons qu’un fait, le meurtre du malheureux <persName>Lorville</persName>, percé de balles lorsqu’il cherchait à fuir; la requête au <persName>roi</persName> l’avait allégué; l'arrêt de renvoi le
+                  Or, il faut savoir que, par une lettre en réponse, sous 
+                  la date du <date>21 juillet 1854</date>, 
+                  <persName ref="#ANog">ce magistrat</persName>, 
+                  parlant de la requête au <persName ref="#LP">roi</persName>, 
+                  annonce 
+                  <quote>« qu’il ne prendra pas la peine de prouver 
+                  <emph>la fausseté</emph>
+                  des imputations contenues dans cet écrit; que l’arrêt et l’acte d’accusation démontrent cette fausseté. » </quote>
+                  Et en effet <persName ref="#ANog">M. le procureur général</persName> 
+                  ne démontre rien, il se borne seulement à transmettre l’arrêt et l’acte d’accusation. Ce n’est donc pas le cas d’élever ici une controverse avec lui, nous rappellerons seulement que 
+                  <emph>la requête au <persName ref="#LP">roi</persName></emph> 
+                  a rarement énoncé un 
+                  <emph>fait sans indiquer à côté par son numéro d’ordre la pièce de procédure, ou le Moniteur, ou tel autre document qui en sont la preuve.</emph> 
+                  L’arrêt et l’acte d’accusation devait démontrer la fausseté des imputations alléguées. Eh bien, ne prenons qu’un fait, le meurtre 
+                  du malheureux <persName>Lorville</persName>, 
+                  percé de balles lorsqu’il cherchait à fuir; 
+                  la requête au <persName ref="#LP">roi</persName> l’avait allégué; l'arrêt de renvoi le
                   <pb n="15" facs="v1n10p15"/>
                   prouve, page 51 ! Bien mieux, il prouve un second meurtre dans la même circonstance : les 
                   <choice>
                      <orig>plaignans</orig> 
                      <reg>plaignants</reg> 
                   </choice>
-                  n’en articulaient qu’un, et on en avoue deux! Est-ce ainsi que l’arrêt et l’acte d'accusation démontrent les <emph>faussetés</emph> de la requête au <persName>roi</persName>.
+                  n’en articulaient qu’un, et on en avoue deux! Est-ce ainsi que l’arrêt et l’acte d'accusation démontrent les 
+                  <emph>faussetés</emph> de la requête au <persName ref="#LP">roi</persName>.
                </p>
                <p>
-                  Le surplus de la lettre de <persName>M. le procureur général</persName> est consacré à des explications sur l’impunité du <persName ref="#Lass">sieur Lasserre</persName>, dont les provocations ont été indiquées comme l’une des causes de la catastrophe de <placeName>la Grand’ Anse</placeName>. <persName>M. Nogues</persName> envoie une pièce pour prouver cette <emph>fausseté</emph> ; sa pièce est un extrait d’un arrêt de la <orgName>cour royale</orgName>, qui renvoie le <persName>sieur Lasserre</persName> de la plainte portée contre lui, <quote>« <emph>attendu que les faits imputés au prévenu ne sont pas suffisamment prouvés</emph>. »</quote> En procédant comme nous avons fait toujours, c’est à dire pièces en main, nous nous bornons à citer 1° l’interrogatoire du <persName>sieur Lasserre</persName>, <emph>où il avoue les faits à lui imputés</emph> (26e pièce de la procédure contre <persName ref="#Ces">Césaire</persName>); 2° les dépositions des témoins 
+                  Le surplus de la lettre de 
+                  <persName ref="#ANog">M. le procureur général</persName> 
+                  est consacré à des explications sur l’impunité du 
+                  <persName>sieur Lasserre</persName>, 
+                  dont les provocations ont été indiquées comme l’une des causes de la catastrophe de 
+                  <placeName ref="#GdA">la Grand’ Anse</placeName>. 
+                  <persName ref="#ANog">M. Nogues</persName> 
+                  envoie une pièce pour prouver cette 
+                  <emph>fausseté</emph> ; 
+                  sa pièce est un extrait d’un arrêt de la 
+                  <orgName ref="#CR">cour royale</orgName>, 
+                  qui renvoie le 
+                  <persName>sieur Lasserre</persName> 
+                  de la plainte portée contre lui, 
+                  <quote>« <emph>attendu que les faits imputés au prévenu ne sont pas suffisamment prouvés</emph>. »</quote> 
+                  En procédant comme nous avons fait toujours, c’est à dire pièces en main, nous nous bornons à citer 1° l’interrogatoire du 
+                  <persName>sieur Lasserre</persName>, 
+                  <emph>où il avoue les faits à lui imputés</emph> 
+                  (26e pièce de la procédure contre <persName>Césaire</persName>); 
+                  2° les dépositions des témoins 
                   <persName>Marcilly</persName>, <persName>Adolphe</persName>, <persName>Lorville</persName>, <persName>Olive</persName>, <persName>Ducoudray</persName>, 
-            <!-- Tag Grande Anse related people? -->
-                  qui confirment cet aveu (pièces au même dossier); 3° un certificat de médecin constatant les blessures du malheureux <persName>Fréjus</persName>, à la requête même du <roleName>procureur du roi</roleName> (sous la date du <date>19 août</date>, au même dossier).
+                  qui confirment cet aveu (pièces au même dossier); 3° un certificat de médecin constatant les blessures du malheureux 
+                  <persName>Fréjus</persName>, 
+                  à la requête même du 
+                  procureur du roi 
+               <!-- Tag or not? -->
+                  (sous la date du <date>19 août</date>, au même dossier).
                </p>
                <p>
                   <emph>Faussetés</emph>, a t-on pu dire pour qualifier dédaigneusement d’un seul mot les faits 
@@ -561,10 +669,13 @@
                      <orig>accablans</orig> 
                      <reg>accablants</reg> 
                   </choice>
-                  de la requête au roi… Les hommes d’honneur et d’impartialité jugeront. Nous nous bornons à mettre des pièces en regard des accusations de <emph>mensonge</emph> et de <emph>libelle</emph>.
+                  de la requête au roi… Les hommes d’honneur et d’impartialité jugeront. Nous nous bornons à mettre des pièces en regard des accusations de 
+                  <emph>mensonge</emph> et de <emph>libelle</emph>.
                </p>
                <p>
-                 Non certes, le <orgName>conseil d’état</orgName> n’a pas voulu s’associer à ce système de qualifications gratuitement injurieuses pour des hommes qui subissent le plus grand malheur dont l’histoire des colonies, si féconde en calamités publiques et privées, puisse peut-être fournir l’exemple. La requête au roi est rejetée <emph>uniquement</emph> 
+                 Non certes, le <orgName ref="#CE">conseil d’état</orgName> 
+                 n’a pas voulu s’associer à ce système de qualifications gratuitement injurieuses pour des hommes qui subissent le plus grand malheur dont l’histoire des colonies, si féconde en calamités publiques et privées, puisse peut-être fournir l’exemple. 
+                 La requête au roi est rejetée <emph>uniquement</emph> 
                  <choice>
                      <orig>parceque</orig> 
                      <reg>parce que</reg> 
@@ -574,27 +685,40 @@
                      <orig>plaignans</orig> 
                      <reg>plaignants</reg> 
                   </choice>
-                 ne justifient pas d’une formalité préalable <emph>d’une plainte déposée au parquet du <persName>procureur général</persName> ou d’une demande de mise en jugement par lui formée</emph>. La faute en est à l’imperfection, à l’imprévoyance des lois. Exigez donc, par exemple, que <persName>M. le procureur général Nogues</persName> reçoive plainte contre <persName ref="#EH">M. le gouverneur vice-amiral Halgan</persName>, et la transmette en <placeName>France</placeName>, ou que même il demande directement sa mise en jugement! Ces messieurs sont, nous n’en doutons pas, trop bons 
+                 ne justifient pas d’une formalité préalable 
+                 <emph>d’une plainte déposée au parquet du 
+                 <persName ref="#ANog">procureur général</persName> 
+                 ou d’une demande de mise en jugement par lui formée</emph>. 
+                 La faute en est à l’imperfection, à l’imprévoyance des lois. Exigez donc, par exemple, que 
+                 <persName ref="#ANog">M. le procureur général Nogues</persName> 
+                 reçoive plainte contre 
+                 <persName ref="#EH">M. le gouverneur vice-amiral Halgan</persName>, 
+                 et la transmette en <placeName ref="#FR">France</placeName>, ou que même il demande directement sa mise en jugement! Ces messieurs sont, nous n’en doutons pas, trop bons 
                  <choice>
                      <orig>parens</orig> 
                      <reg>parents</reg> 
                   </choice>
                  , pour en agir entre eux avec tant de stoïcisme. Et en vérité, nous ne savons si on peut justement les en blâmer; les Brutus ne sont plus guère de notre siècle, et tout ce 
                  <pb n="16" facs="v1n10p16"/>
-                 que nous autres, <emph>philantropes honnis</emph>, nous demandons aux magistrats des colonies, n'est pas de se mettre <emph>au dessus de l’humanité</emph>, mais seulement à son niveau.
+                 que nous autres, <emph>philantropes honnis</emph>, 
+                 nous demandons aux magistrats des colonies, n'est pas de se mettre 
+                 <emph>au dessus de l’humanité</emph>, 
+                 mais seulement à son niveau.
                </p>
                <p>
-                  <orgName ref ="#CHD">La chambre des députés</orgName> s’occupe en ce moment d’une loi sur la responsabilité des ministres et des autres dépositaires du pouvoir; elle peut trouver dans les tristes 
+                  <orgName ref="#CHD">La chambre des députés</orgName> 
+                  s’occupe en ce moment d’une loi sur la responsabilité des ministres et des autres dépositaires du pouvoir; elle peut trouver dans les tristes 
                   <choice>
                      <orig>évenemens</orig> 
                      <reg>évenements</reg> 
                   </choice>
-                  de <placeName>la Grand’ Anse</placeName> une immense leçon. Sachons du moins en profiter en séchant nos plaies.
+                  de <placeName ref="#GdA">la Grand’ Anse</placeName> 
+                  une immense leçon. Sachons du moins en profiter en séchant nos plaies.
                </p>
-               <closer><persName ref="#Gatine">AD. GATINE</persName>, avocat au <orgName>Conseil d'état</orgName> et à la <orgName>Cour de Cassation</orgName>.</closer>
+               <closer><persName ref="#Gatine">AD. GATINE</persName>, avocat au <orgName ref="#CE">conseil d’état</orgName> et à la <orgName ref="#CDC">Cour de Cassation</orgName>.</closer>
             </div>
             <div xml:id="gouvangl">
-               <head>DU GOUVERNEMENT ANGLAIS ET DU GOUVERNEMENT FRANÇAIS DANS LA QUESTION DES COLONIES.</head> 
+               <head n="Du gouvernement anglais et du gouvernement français dans la question des colonies.">DU GOUVERNEMENT ANGLAIS ET DU GOUVERNEMENT FRANÇAIS DANS LA QUESTION DES COLONIES.</head> 
                <p>
                   <quote>« Les nouvelles reçues des gouverneurs de nos colonies ainsi que les actes adoptés en exécution de la 
                   <bibl type="legal"><title ref="#SAA">loi d’abolition de l’esclavage</title></bibl>  
@@ -722,7 +846,7 @@
                </p>
             </div>
             <div xml:id="parisien">
-               <head>PARISIEN ESCLAVE A LA MARTINIQUE.</head>
+               <head n="Parisien esclave a la martinique.">PARISIEN ESCLAVE A LA MARTINIQUE.</head>
                <epigraph xml:lang="fr">
                   <q><emph>« Donner et retenir ne vaut. »</emph></q>
                </epigraph>
@@ -740,7 +864,7 @@
                   <cit>
                      <quote>« 26 septembre 1830, à midi et demi : Acte de naissance de <persName>Louis</persName>, né rue du Faubourg-St-Honoré, n. 10, le 24 du présent à onze heures du soir, fils de <emph><persName>Rose-Anastasie Édouard</persName></emph>, femme de chambre, demeurant rue de Surène, n. 31, <emph>native de <placeName ref="#StP">St-Pierre (Martinique)</placeName></emph> ; enfant naturel, présenté, etc. Pour copie conforme, <emph>signé</emph> <persName>Lefort.</persName> »</quote> 
                <!--find bio info about Louis, Rose-Anastasie Édouard, Lefort  -->
-                     <bibl type="legal"></bibl>
+                     <bibl type="legal"/>
                   </cit>
                </p>
                <p>
@@ -895,7 +1019,7 @@
                </p>
             </div>
             <div xml:id="libéralité">
-               <head>DE LA LIBÉRALITÉ FRANÇAISE.</head>
+               <head n="De la libéralité française.">DE LA LIBÉRALITÉ FRANÇAISE.</head>
                <p>
                   Tous les esprits généreux et élevés semblent être emportés par une sorte de silmultanéité vers un même but. La réprobation de l’esclavage, la sympathie pour les noirs se manifestent de toutes parts avec une logique et une véhémence qui sont un symptôme certain du prochain triomphe de la cause de l’abolition. En dépit de l'égoïsme et des mauvaises passions des privilégiés colons, tout concourt au grand œuvre de l’affranchissement. La question se popularise, et déjà les sophismes aussi stupides qu’inhumains à l’aide desquels on a soutenu jusqu’ici l’esclavage sont tombés dans tout le discrédit et le mépris qu’ils méritent.
                </p>
@@ -911,9 +1035,9 @@
             <!--Comment encoder les notes de bas de page? Demander -->
                   <pb n="24" facs="v1n10p24"/>
                   mille exemplaires: 
-                  <bibl type ="periodical"><emph>le Magasin Pittoresque</emph></bibl>, 
-                  <bibl type ="periodical"><emph>le Musée des Familles</emph></bibl>, 
-                  <bibl type ="periodical"><emph>la Mosaïque</emph></bibl>, 
+                  <bibl type="periodical"><emph>le Magasin Pittoresque</emph></bibl>, 
+                  <bibl type="periodical"><emph>le Musée des Familles</emph></bibl>, 
+                  <bibl type="periodical"><emph>la Mosaïque</emph></bibl>, 
             <!--Create tags? -->
                   ont vivement manifesté leur horreur pour l’esclavage, leurs vœux pour l’émancipation, dans des articles fort remarquables accompagnés de gravures sur bois d’une grande vérité, et prêté ainsi le secours de leur immense publicité aux philanthropes qui poursuivent la régénération des colonies. Tout marche, tout se presse et tend à ce grand but.
                </p>
@@ -941,9 +1065,9 @@
                   Pour nous, nous nous réjouissons dans notre cœur de ce concours actif des intelligences et de la bonne volonté de tous, comme devant singulièrement hâter les destinées nouvelles de notre pays, et nous en consignons avec plaisir ici notre sincère et patriotique gratitude.
                </p>
             </div>
-            <div xml:id ="SAE">
-               <head>FRANCE.</head>
-               <head>SOCIÉTÉ FRANÇAISE POUR L'ABOLITION DE L'ESCLAVAGE.</head>
+            <div xml:id="SAE">
+               <head n="France.">FRANCE.</head>
+               <head n="Société française pour l'abolition de l'esclavage.">SOCIÉTÉ FRANÇAISE POUR L'ABOLITION DE L'ESCLAVAGE.</head>
                <p>
                   <emph>Rapport de 
                   <persName ref="#GdL">M. de la Rochefoucauld-Liancourt</persName> 
@@ -1499,9 +1623,9 @@
                   d’une si belle œuvre.
                </p>
             </div>
-            <div xml:id ="CRP">
-               <head>
-                  <orgName>COUR ROYALE DE PARIS.</orgName>
+            <div xml:id="CRP">
+               <head n="Cour royale de paris. (première chambre.) présidence de m. miller. audience du 34 mars.">
+                  <orgName ref="#CR">COUR ROYALE DE PARIS.</orgName>
                   (Première chambre.)
                   PRÉSIDENCE DE M. MILLER.
                   <emph>Audience du <sic>34 Mars</sic>.</emph>
@@ -1547,8 +1671,8 @@
                <closer><emph>(Extrait de tous les journaux.)</emph></closer>
             </div>
             <div xml:id="ColFR">
-               <head>COLONIES FRANÇAISES.</head>
-               <head><placeName ref="#MQ">MARTINIQUE.</placeName></head>
+               <head n="Colonies françaises.">COLONIES FRANÇAISES.</head>
+               <head n="Martinique."><placeName ref="#MQ">MARTINIQUE.</placeName></head>
                <p>
                   On nous écrit du 
                   <placeName ref="#FoR">Fort-Royal</placeName>:
@@ -1562,7 +1686,7 @@
                </p>
             </div>
             <div xml:id="ColEtr">
-               <head>COLONIES ÉTRANGÈRES.</head>
+               <head n="Colonies étrangères.">COLONIES ÉTRANGÈRES.</head>
                <p>
                   <placeName ref="#BAR">BARBADE.</placeName>
                 </p>
@@ -1626,7 +1750,7 @@
             </div>
             <div xml:id="NouvDiv">
                <pb n="39" facs="v1n10p39"/>
-               <head>NOUVELLES DIVERSES.</head>
+               <head n="Nouvelles diverses.">NOUVELLES DIVERSES.</head>
                <p>
                   Dans une de ses dernières réunions la 
                   <orgName ref="#SAE">société pour l’abolition de l'esclavage</orgName> 
@@ -1675,7 +1799,7 @@
                   <placeName ref="#MQ">la Martinique</placeName>
                   , avait fait citer en police correctionnelle 
                   <persName ref="#CB">le directeur</persName> de 
-                  <bibl type ="periodical">Revue des Colonies</bibl>
+                  <bibl type="periodical">Revue des Colonies</bibl>
                   , pour un article inséré dans le premier numéro de cette revue, et intitulé: 
                   Traits de cruautés.
                <!--How to tag article from earlier edition?-->
@@ -1693,9 +1817,9 @@
                <!--worth creating tag?-->
                   , avocat du 
                   directeur 
-                  de <bibl type ="periodical">la Revue</bibl>
+                  de <bibl type="periodical">la Revue</bibl>
                   , a, conformément aux dispositions de 
-                  <bibl type ="legal">l’article 29 de la loi du 26 mai 1819</bibl>
+                  <bibl type="legal">l’article 29 de la loi du 26 mai 1819</bibl>
                   , renvoyé 
                   <persName ref="#CB">M. Bissette</persName> 
                   de la plainte, et condamné 
@@ -1709,14 +1833,14 @@
                </p>
             </div>
             <div xml:id="Corr">
-               <head>CORRESPONDANCE.</head>
+               <head n="Correspondance.">CORRESPONDANCE.</head>
                <p>
                   Nous recevons de 
                   <persName ref="#AFoi">M. Foignet</persName> 
                   une réponse, ainsi qu’il prend soin de la qualifier lui-même, au rapport de 
                  <persName ref="#RESC"> M. de Sainte-Croix</persName>
                   , sur 
-                  <bibl type ="monogr">la brochure </bibl> 
+                  <bibl type="monogr">la brochure </bibl> 
             <!--Likely "Sur le prospecturs de la société pour l'abolition de l'esclavage", 1835 -available on Gallica-->
                   que l’ ex-délégué des colons de la 
                   <placeName ref="#GP">Guadeloupe</placeName> 
@@ -1868,7 +1992,7 @@
                   <persName>« A. FOIGNET.»</persName>
                </p>
                <p>
-                  A M. le rédacteur de <bibl type ="periodical">la Revue des Colonies</bibl>.
+                  A M. le rédacteur de <bibl type="periodical">la Revue des Colonies</bibl>.
                </p>
                <p>
                   Paris, ce 27 mars 1835.
@@ -1904,14 +2028,14 @@
                </p>
             </div>
             <div xml:id="Necro">
-               <head>NÉCROLOGIE.</head>
+               <head n="Nécrologie.">NÉCROLOGIE.</head>
                <p>
                   Dans le courant du mois de mars il est mort à <placeName>Paris</placeName> deux hommes de couleur. L'un, <persName ref="#EBel">Eustache Belin</persName>, noir, était né à <placeName>Saint-Domingue</placeName>. Ce citoyen avait obtenu en 1832 le premier prix de vertu Monthyon (5,000 f.), décerné par <orgName>l'Académie française</orgName>. L'autre, <persName ref="#CBor">Charles Borno</persName>, étudiant en droit, était né à la <placeName>Pointe-à-Pitre, Guadeloupe</placeName>. Ce jeune homme avait fait de fort bonnes études, et faisait concevoir les plus belles espérances à sa famille. A son convoi funèbre assistait un grand nombre d'hommes de couleur de toutes les colonies. On y remarquait une députation de ses compatriotes du collège de Henri IV, et un professeur de ce collège, désignés par le proviseur; cette députation était ainsi composée: MM. Desbarest et Verlas, de la Guadeloupe, et MM. Eyma et <persName ref="#CJB">Charles Bissette</persName>, de <placeName>la Martinique</placeName>.
          <!--Looking up the non-Bissette men will take some time-->
                </p>
             </div>
             <div xml:id="Biblio">
-               <head>BIBLIOGRAPHIE.</head>
+               <head n="Bibliographie.">BIBLIOGRAPHIE.</head>
                <p>
                   <bibl type="monogr"><title ref="#Mar">MARIE OU L'ESCLAVAGE AUX ÉTATS-UNIS</title></bibl>, par <persName>M. Gustave de Beaumont</persName>. Paris, chez Charles Gosselin, libraire, rue Saint-Germain des Prés, n. 9; 2 vol. in-8⁰. Prix: 15 fr.
                </p>
@@ -1928,7 +2052,7 @@
                   sous la généreuse influence des premiers fondateurs de la liberté américaine, le préjugé barbare qui poursuit encore de nos jours les hommes dans les veines desquels coule le sang africain. En si petite quantité que ce soit, et fussiez-vous même, malgré ce mélange, plus blanc de teint qu'un Espagnol, quelques gouttes de ce sang suffisent là pour vous entacher d'une ignominie indélébile. C'est un péché originel que rien ne rachète, ni les vertus, ni le talent, ni même la richesse toute puissante et souveraine chez ces hommes de commerce et d'argent, avides et sordides; triste espèce qui forme malhereusement le fond de la nation américaine. Emancipés en droit et en fait, toute participation à l'œuvre nationale est cependant interdite par le préjugé aux hommes de race africaine; toutes les voies leur sont inexorablement fermées. La race de couleur est bien, d'après la loi, l'égale en tout de la race blanche, mais non dans la pratique sociale, non selon les mœurs; celles-ci la repoussent; l'égalité, quant à elle, chose monstrueuse, est encore un vain mot. 
                </p>
                <p>
-                  Cet incompréhensible préjugé, ce sentiment anormal, cet esprit d'iniquité, si étranges en un tel pays, et qui ont soulevé contre eux au sein même des villes où ils subsistent avec le plus d'intensité l'élite des hommes de cœur, ont révolté <persName>M.Gustave de Beaumont</persName> qui les a vus de près dans un assez long séjour en <placeName>Amérique</placeName>, et il a pris la plume. C'est à l'indignation qu'ils lui ont inspirée que nous devons l'excellent ouvrage dont le titre est en tête de cet article. <bibl type ="monogr">Marie, ou l'esclavage aux États-Unis</bibl>, est un tableau animé des douloureux effets de ces mœurs; une éloquente protestation contre cette étrange anomalie d'un peuple, tenu pour civilisé, dont les institutions sont en effet d'un mécanisme merveilleux, qui n'est pas sans sympathies élevées, où la religion compte des temples par 
+                  Cet incompréhensible préjugé, ce sentiment anormal, cet esprit d'iniquité, si étranges en un tel pays, et qui ont soulevé contre eux au sein même des villes où ils subsistent avec le plus d'intensité l'élite des hommes de cœur, ont révolté <persName>M.Gustave de Beaumont</persName> qui les a vus de près dans un assez long séjour en <placeName>Amérique</placeName>, et il a pris la plume. C'est à l'indignation qu'ils lui ont inspirée que nous devons l'excellent ouvrage dont le titre est en tête de cet article. <bibl type="monogr">Marie, ou l'esclavage aux États-Unis</bibl>, est un tableau animé des douloureux effets de ces mœurs; une éloquente protestation contre cette étrange anomalie d'un peuple, tenu pour civilisé, dont les institutions sont en effet d'un mécanisme merveilleux, qui n'est pas sans sympathies élevées, où la religion compte des temples par 
                </p>
                <pb n="47" facs="v1n10p47"/>
                <p>
@@ -1962,7 +2086,7 @@
                      <orig>argumens</orig> 
                      <reg>arguments</reg> 
                   </choice>
-                  irréfragables, cet ouvrage, que nous devons au zèle et aux soins de l'honorable <persName ref="#ZM">M. Z. Macaulay</persName>, si connu dans les deux mondes par ses généreux travaux en faveur des noirs, sera d'un poids décisif dans la balance. La conclusion sort des faits d'elle-même, d'une manière péremptoire, irrésistible. Il est impossible en effet, après avoir lu ces deux cent pages, de conserver encore de bonne foi le moindre doute sur les avantages de l'émancipation, la moindre appréhension de ses résultats: l'esprit est étonné et convaincu, en même temps que le cœur est frappé et entraîné. C'est ainsi qu'il faut écrire pour cete belle cause: c'est de la sorte qu'il faut approfondir la question. L'auteur ne procède point par de vagues déclamations, ce n'est pas un plaidoyer qu'il essaie en faveur des noirs: il expose les faits, rassemble les témoignages, il raconte sans exagération aucune comment l'émancipation eut lieu de fait à <placeName>Saint-Domingue</placeName>, comment elle fut sanctionnée et régularisée par le <bibl type ="legal">décret de la <orgName ref="#CNat">Convention Nationale</orgName> du 11 février 1793</bibl>; l'état de l'île avant et après l'invasion du <persName ref="#CVEL">général Leclerc</persName>, jusqu'à nos jours; pareillement l'état de la <placeName>Guadeloupe</placeName> dans la période où les noirs y furent libres; il raconte pièces en main, pour ainsi dire, au moyen des 
+                  irréfragables, cet ouvrage, que nous devons au zèle et aux soins de l'honorable <persName ref="#ZM">M. Z. Macaulay</persName>, si connu dans les deux mondes par ses généreux travaux en faveur des noirs, sera d'un poids décisif dans la balance. La conclusion sort des faits d'elle-même, d'une manière péremptoire, irrésistible. Il est impossible en effet, après avoir lu ces deux cent pages, de conserver encore de bonne foi le moindre doute sur les avantages de l'émancipation, la moindre appréhension de ses résultats: l'esprit est étonné et convaincu, en même temps que le cœur est frappé et entraîné. C'est ainsi qu'il faut écrire pour cete belle cause: c'est de la sorte qu'il faut approfondir la question. L'auteur ne procède point par de vagues déclamations, ce n'est pas un plaidoyer qu'il essaie en faveur des noirs: il expose les faits, rassemble les témoignages, il raconte sans exagération aucune comment l'émancipation eut lieu de fait à <placeName>Saint-Domingue</placeName>, comment elle fut sanctionnée et régularisée par le <bibl type="legal">décret de la <orgName ref="#CNat">Convention Nationale</orgName> du 11 février 1793</bibl>; l'état de l'île avant et après l'invasion du <persName ref="#CVEL">général Leclerc</persName>, jusqu'à nos jours; pareillement l'état de la <placeName>Guadeloupe</placeName> dans la période où les noirs y furent libres; il raconte pièces en main, pour ainsi dire, au moyen des 
                   <choice>
                      <orig>documens</orig> 
                      <reg>documents</reg> 
