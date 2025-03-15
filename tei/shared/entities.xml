@@ -65,6 +65,28 @@
                 <p>Fils du notaire blanc créole guadeloupéen, Ambroise Cicéron et de Marie Victoire Artaud, Louis Marie Ambroise Dieudonné Cicéron est né à Saint-Pierre le 25 septembre 1797 et meurt le 11 avril 1870 en la même ville. Il est qualifié de praticien en 1821, étudiant en droit bachelier ès lettres (1822), avocat et propriétaire (1825), avocat avoué près la cour royale de la Martinique et le tribunal de 1ère instance de Saint-Pierre (1827), conseiller colonial, membre du conseil municipal de Saint-Pierre et propriétaire en cette ville (1843-1844). Partisan du maintien du système esclavagiste, Louis Cicéron est opposé à Cyrille Bissette durant les années 1830-1840. Il se bat d’ailleurs en duel en octobre 1834 avec Bissette au bois de Vincennes. Leur inimitié politique est perceptible dans plusieurs articles de Cicéron publiés au journal du Havre en 1831, repris largement dans sa “Pétition au Roi, à la nation et aux chambres” (datée du 1er janvier 1832). Bissette lui répond dans une lettre du 15 mai 1833 ensuite. En 1844, Cicéron, présent à Paris, se fait le rapporteur des “Observations d’une commission spéciale du Conseil colonial de la Martinique sur le projet de loi présenté le 14 mai dernier à la Chambre des Pairs. Paris : Impr. de Bruneau, 1844”. Ces “observations, signées de Le Pelletier-Duclary, président du Conseil colonial, portaient sur le projet de loi du 14 mai 1844, visant à l’abolition de l’esclavage dans les colonies françaises, et le réfutant article après article...”. Le retournement de veste de Bissette vis-à-vis des colons esclavagistes après l’abolition de l’esclavage en mai 1848, son association avec le colon Pécoul en vue des élections législatives de 1849, le fit se rapprocher de Cicéron qu’il visita dès son arrivée en Martinique le 20 mars 1849.</p>
             </note>
         </person>
+        <person xml:id="ANog">
+            <persName xml:lang="en">Nogues, Arsène</persName>
+            <persName xml:lang="fr">Nogues, Arsène</persName>
+            <birth>1798</birth>
+            <death>1869</death>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p>Born in Redon on June 12, 1798, Arsene Nogues held various positions in Brest and Nancy and was also attorney general in Guadeloupe then in Martinique during the 1830s. Later, he was advisor to the royal court of Rouen in 1845. Married to the daughter of a coffee merchant and planter of Guadeloupean origin, Jean Joseph Albert Chaviteau, who settled in Cuba at the beginning of the 19th century, Nogues had strong ties to the planter community. Nogues represented the public prosecutor as attorney general during the Grande Anse affair in December 1833. The indictment prepared by Nogues in June 1834, recovered by the historian Armand Nicolas describes the events thusly: “It is an armed insurrection, prepared for a long time... by almost the entire colored population of a district of the colony, with whom conspirators from another district and even from several others had colluded to carry out the pillage, devastation and burning of the colony, to massacre all the whites there in order to seize their property.” The members of the Assize Court of Saint-Pierre, presided over by de Perinelle and composed of advisors Richard de Lucy, Le Pelletier, and Duclary, the same ones who condemned Bissette and his comrades, were all white Creoles. They sentenced 141 individuals of color to various punishments.</p>
+                <p>
+                </p>
+                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
+                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
+                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Né à Redon le 12 juin 1798, il occupe divers postes à Brest et à Nancy et est aussi procureur général en Guadeloupe puis en Martinique durant les années 1830. Puis, il est ensuite conseiller à la cour royale de Rouen en 1845. Marié à la fille d’un négociant et planteur de café d’origine guadeloupéenne, Jean Joseph Albert Chaviteau, qui se fixa à Cuba au début du XIXe siècle, il est donc lié fortement au milieu des colons. Arsène Nogues, est celui qui représente le ministère public en tant que procureur général lors de l’affaire de la Grande Anse (commune du Lorrain aujourd’hui) en décembre 1833. L’historien Armand Nicolas cite ainsi l’acte d’accusation en juin 1834 que Arsène Nogues dresse en notifiant que : “C’est une insurrection à main armée, préparée depuis longtemps... par la presque totalité de la population de couleur d’un quartier de la colonie, avec laquelle des conspirateurs d’un autre quartier et même de plusieurs autres s’étaient entendus pour porter le pillage, la dévastation et l’incendie de la colonie, pour y massacrer tous les Blancs afin de s’emparer de leurs biens”. Au nombre des membres de la Cour d’Assises de Saint-Pierre présidée par de Perinelle et composée de conseillers (Richard de Lucy, Le Pelletier Duclary), tous blancs créoles, les mêmes qui ont condamné Bissette et ses camarades, se trouve donc des hommes imbus de leurs pouvoirs discrétionnaires. Ils vont condamner 141 individus de couleur à diverses peines.</p>
+                <p>
+                </p>
+                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
+                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
+                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
+            </note>
+        </person>
         <person xml:id="LePell">
             <persName xml:lang="en">Jean-Baptiste François Le Pelletier-Duclary</persName>
             <persName xml:lang="fr">Jean-Baptiste François Le Pelletier-Duclary</persName>
@@ -151,28 +173,6 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#masha">
                 <p>Constantine Phipps, premier marquis de Normanby, également vicomte de Normanby et comte de Mulgrave, est une figure politique majeure du parti <emph>Whig</emph>. De 1832 à 1834, il exerce les fonctions de gouverneur de la Jamaïque, avant de devenir Lord Lieutenant d'Irlande de 1835 à 1839, puis secrétaire d'État à l'Intérieur de 1839 à 1841.</p>
-            </note>
-        </person>
-        <person xml:id="ANog">
-            <persName xml:lang="en">Nogues, Arsène</persName>
-            <persName xml:lang="fr">Nogues, Arsène</persName>
-            <birth>1798</birth>
-            <death>1869</death>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p>Born in Redon on June 12, 1798, Arsene Nogues held various positions in Brest and Nancy and was also attorney general in Guadeloupe then in Martinique during the 1830s. Later, he was advisor to the royal court of Rouen in 1845. Married to the daughter of a coffee merchant and planter of Guadeloupean origin, Jean Joseph Albert Chaviteau, who settled in Cuba at the beginning of the 19th century, Nogues had strong ties to the planter community. Nogues represented the public prosecutor as attorney general during the Grande Anse affair in December 1833. The indictment prepared by Nogues in June 1834, recovered by the historian Armand Nicolas describes the events thusly: “It is an armed insurrection, prepared for a long time... by almost the entire colored population of a district of the colony, with whom conspirators from another district and even from several others had colluded to carry out the pillage, devastation and burning of the colony, to massacre all the whites there in order to seize their property.” The members of the Assize Court of Saint-Pierre, presided over by de Perinelle and composed of advisors Richard de Lucy, Le Pelletier, and Duclary, the same ones who condemned Bissette and his comrades, were all white Creoles. They sentenced 141 individuals of color to various punishments.</p>
-                <p>
-                </p>
-                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
-                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
-                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Né à Redon le 12 juin 1798, il occupe divers postes à Brest et à Nancy et est aussi procureur général en Guadeloupe puis en Martinique durant les années 1830. Puis, il est ensuite conseiller à la cour royale de Rouen en 1845. Marié à la fille d’un négociant et planteur de café d’origine guadeloupéenne, Jean Joseph Albert Chaviteau, qui se fixa à Cuba au début du XIXe siècle, il est donc lié fortement au milieu des colons. Arsène Nogues, est celui qui représente le ministère public en tant que procureur général lors de l’affaire de la Grande Anse (commune du Lorrain aujourd’hui) en décembre 1833. L’historien Armand Nicolas cite ainsi l’acte d’accusation en juin 1834 que Arsène Nogues dresse en notifiant que : “C’est une insurrection à main armée, préparée depuis longtemps... par la presque totalité de la population de couleur d’un quartier de la colonie, avec laquelle des conspirateurs d’un autre quartier et même de plusieurs autres s’étaient entendus pour porter le pillage, la dévastation et l’incendie de la colonie, pour y massacrer tous les Blancs afin de s’emparer de leurs biens”. Au nombre des membres de la Cour d’Assises de Saint-Pierre présidée par de Perinelle et composée de conseillers (Richard de Lucy, Le Pelletier Duclary), tous blancs créoles, les mêmes qui ont condamné Bissette et ses camarades, se trouve donc des hommes imbus de leurs pouvoirs discrétionnaires. Ils vont condamner 141 individus de couleur à diverses peines.</p>
-                <p>
-                </p>
-                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
-                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
-                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
             </note>
         </person>
         <person xml:id="CBe">
@@ -277,21 +277,6 @@
                 <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
             </note>
         </person>
-        <person xml:id="LorFrej">
-            <persName xml:lang="en">Lorville and Fréjus</persName>
-            <persName xml:lang="fr">Lorville et Fréjus</persName>
-            <note xml:lang="en" type="Person" resp="#jessica">
-                <p>Lorville and Fréjus were two men of color involved in the Grand’Anse affair. Following an altercation at the end of December between the white settler Louis Hilaire Lasserre and the free man of color Salomon, known as Laboulique, Fréjus and Lorville—friends of Salomon—were tasked with seeking redress from Lasserre for the previous day's insult. Entrusted with "resolving the matter to prevent any unfortunate consequences," Fréjus went to Lasserre’s home. According to Fréjus's complaint and multiple witness statements, Lasserre responded with extreme violence. Both the lawyer Gatine and Cyrille Bissette attributed Fréjus’s death to the injuries he sustained.</p>
-                <p>In the days that followed, tensions escalated in the commune. Lorville, a prominent member of the local free-colored elite, was killed on December 27 during the crackdown at the Bonafon estate, which had become a gathering point for the insurgents.</p>
-                <bibl>Adélaïde-Merlande, Jacques, " Libres et affranchis - réformes et tensions " in  <title>Historial Antillais</title>  , Tome III, Dajani éditions, Pointe-à-Pitre, 1981 pp. 287-307</bibl>
-                <bibl>Fabien, Louis, Bissette, Cyrille, and Gatine, Adolphe,  <title>Affaire de la Grand'Anse, Martinique</title>  , Paris, Imprimerie JS Cordier, 1834</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#jessica">
-                <p>Lorville et Fréjus sont deux hommes de couleur impliqués dans l’affaire de la Grand’Anse. Après l’altercation survenue à la fin du mois de décembre dans le bourg entre le colon Louis Hilaire Lasserre et le libre de couleur Salomon dit Laboulique, Fréjus et Lorville (deux amis de Solomon) sont chargés de demander à Lasserre réparation pour l’outrage survenu la veille. En charge « d’arranger les choses afin qu’elles n’aient aucune suite fâcheuse », Fréjus se rend au domicile de Lasserre qui l’accueille, selon la déposition de plainte de Fréjus et de divers témoins, avec grande violence. L’avocat Gatine, tout comme Bissette, attribue à ces blessures la mort de Fréjus. Dans les jours qui suivent, les tensions montent dans la commune et Lorville, appartenant à l’élite de couleur de la commune, est tué le 27 décembre lors de la répression qui prend place sur l’habitation Bonafon, devenu un point de rassemblement pour les insurgés.</p>
-                <bibl>Adélaïde-Merlande, Jacques, « Libres et affranchis - réformes et tensions » dans  <title>Historial Antillais</title>  , Tome III, Dajani éditions, Pointe-à-Pitre, 1981 pp. 287-307</bibl>
-                <bibl>Fabien, Louis, Bissette, Cyrille, et Gatine, Adolphe,  <title>Affaire de la Grand'Anse, Martinique</title>  , Paris, Imprimerie JS Cordier, 1834</bibl>
-            </note>
-        </person>
         <person xml:id="AHav">
             <persName xml:lang="en">Auguste Eugénie, known as "Havre"</persName>
             <persName xml:lang="fr">Auguste Eugénie, dit « Havre »</persName>
@@ -348,18 +333,19 @@
                 <bibl>"HOWARD, George William Frederick, Visct. Morpeth (1802-1864), of Howthorpe Manor, Yorks."  <title>The History of Parliament: the House of Commons 1820-1832</title>  , ed. D.R. Fisher. Cambridge, Cambridge University Press, 2009.</bibl>
             </note>
         </person>
-        <person xml:id="Gatine">
-            <persName xml:lang="en">Gatine, Adolphe Ambroise Alexandre</persName>
-            <persName xml:lang="fr">Gatine, Adolphe Ambroise Alexandre</persName>
-            <birth>1805</birth>
-            <death>1864</death>
+        <person xml:id="LorFrej">
+            <persName xml:lang="en">Lorville and Fréjus</persName>
+            <persName xml:lang="fr">Lorville et Fréjus</persName>
             <note xml:lang="en" type="Person" resp="#jessica">
-                <p>Mr. Adolphe Ambroise Alexandre Gatine (1805–1864) was a lawyer at the Council of State and the Court of Cassation and a French abolitionist. From the 1830s, he distinguished himself by defending free people of color (e.g., the Louisy and Léonarde cases, the Grande-Anse case, and the Virginie case) as well as advocating for the rights of enslaved individuals claiming their freedom. In 1848, he was appointed General Commissioner of Guadeloupe, where he arrived on June 5th carrying the abolition decree dated April 27, 1848. However, abolition had already been proclaimed locally on May 27th.</p>
-                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
+                <p>Lorville and Fréjus were two men of color involved in the Grand’Anse affair. Following an altercation at the end of December between the white settler Louis Hilaire Lasserre and the free man of color Salomon, known as Laboulique, Fréjus and Lorville—friends of Salomon—were tasked with seeking redress from Lasserre for the previous day's insult. Entrusted with "resolving the matter to prevent any unfortunate consequences," Fréjus went to Lasserre’s home. According to Fréjus's complaint and multiple witness statements, Lasserre responded with extreme violence. Both the lawyer Gatine and Cyrille Bissette attributed Fréjus’s death to the injuries he sustained.</p>
+                <p>In the days that followed, tensions escalated in the commune. Lorville, a prominent member of the local free-colored elite, was killed on December 27 during the crackdown at the Bonafon estate, which had become a gathering point for the insurgents.</p>
+                <bibl>Adélaïde-Merlande, Jacques, " Libres et affranchis - réformes et tensions " in  <title>Historial Antillais</title>  , Tome III, Dajani éditions, Pointe-à-Pitre, 1981 pp. 287-307</bibl>
+                <bibl>Fabien, Louis, Bissette, Cyrille, and Gatine, Adolphe,  <title>Affaire de la Grand'Anse, Martinique</title>  , Paris, Imprimerie JS Cordier, 1834</bibl>
             </note>
             <note xml:lang="fr" type="Person" resp="#jessica">
-                <p>Adolphe Ambroise Alexandre Gatine (1805-1864), est un avocat du Conseil d'État et de la Cour de cassation et un abolitionniste français. Il s’illustre, dès les années 1830, dans la défense des libres de couleur (Affaires Louisy et Léonarde, affaire de la Grande-Anse, affaire Virginie) mais également dans la défense des intérêts des esclaves revendiquant leur liberté. En 1848, il est désigné commissaire général de la Guadeloupe où il débarque le 5 juin avec le décret d'abolition du 27 avril 1848. L'abolition avait néanmoins déjà été proclamée depuis le 27 mai.</p>
-                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
+                <p>Lorville et Fréjus sont deux hommes de couleur impliqués dans l’affaire de la Grand’Anse. Après l’altercation survenue à la fin du mois de décembre dans le bourg entre le colon Louis Hilaire Lasserre et le libre de couleur Salomon dit Laboulique, Fréjus et Lorville (deux amis de Solomon) sont chargés de demander à Lasserre réparation pour l’outrage survenu la veille. En charge « d’arranger les choses afin qu’elles n’aient aucune suite fâcheuse », Fréjus se rend au domicile de Lasserre qui l’accueille, selon la déposition de plainte de Fréjus et de divers témoins, avec grande violence. L’avocat Gatine, tout comme Bissette, attribue à ces blessures la mort de Fréjus. Dans les jours qui suivent, les tensions montent dans la commune et Lorville, appartenant à l’élite de couleur de la commune, est tué le 27 décembre lors de la répression qui prend place sur l’habitation Bonafon, devenu un point de rassemblement pour les insurgés.</p>
+                <bibl>Adélaïde-Merlande, Jacques, « Libres et affranchis - réformes et tensions » dans  <title>Historial Antillais</title>  , Tome III, Dajani éditions, Pointe-à-Pitre, 1981 pp. 287-307</bibl>
+                <bibl>Fabien, Louis, Bissette, Cyrille, et Gatine, Adolphe,  <title>Affaire de la Grand'Anse, Martinique</title>  , Paris, Imprimerie JS Cordier, 1834</bibl>
             </note>
         </person>
         <person xml:id="WAS">
@@ -390,6 +376,20 @@
                 <bibl>Wiencek, Henry.  <title>An Imperfect God: George Washington, His Slaves, and the Creation of America</title>  . New York: Farrar, Straus and Giroux, 2003. <p> </p></bibl>
                 <bibl>Furstenberg, François. "Atlantic Slavery, Atlantic Freedom: George Washington, Slavery, and Transatlantic Abolitionist Networks".  <emph>The William and Mary Quarterly</emph>  68.2 (2011).</bibl>
                 <bibl>Thompson, Mary V.  <title>The Only Unavoidable Subject of Regret: George Washington, Slavery, and the Enslaved Community at Mount Vernon</title>  . Charlottesville, Virginia: University of Virginia Press, 2019. <p> </p></bibl>
+            </note>
+        </person>
+        <person xml:id="Gatine">
+            <persName xml:lang="en">Gatine, Adolphe Ambroise Alexandre</persName>
+            <persName xml:lang="fr">Gatine, Adolphe Ambroise Alexandre</persName>
+            <birth>1805</birth>
+            <death>1864</death>
+            <note xml:lang="en" type="Person" resp="#jessica">
+                <p>Mr. Adolphe Ambroise Alexandre Gatine (1805–1864) was a lawyer at the Council of State and the Court of Cassation and a French abolitionist. From the 1830s, he distinguished himself by defending free people of color (e.g., the Louisy and Léonarde cases, the Grande-Anse case, and the Virginie case) as well as advocating for the rights of enslaved individuals claiming their freedom. In 1848, he was appointed General Commissioner of Guadeloupe, where he arrived on June 5th carrying the abolition decree dated April 27, 1848. However, abolition had already been proclaimed locally on May 27th.</p>
+                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#jessica">
+                <p>Adolphe Ambroise Alexandre Gatine (1805-1864), est un avocat du Conseil d'État et de la Cour de cassation et un abolitionniste français. Il s’illustre, dès les années 1830, dans la défense des libres de couleur (Affaires Louisy et Léonarde, affaire de la Grande-Anse, affaire Virginie) mais également dans la défense des intérêts des esclaves revendiquant leur liberté. En 1848, il est désigné commissaire général de la Guadeloupe où il débarque le 5 juin avec le décret d'abolition du 27 avril 1848. L'abolition avait néanmoins déjà été proclamée depuis le 27 mai.</p>
+                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
             </note>
         </person>
         <person xml:id="ADp">
@@ -505,18 +505,6 @@
                 <bibl>Adélaïde-Merlande, Jacques, « Libres et affranchis - réformes et tensions » dans  <title>Historial Antillais</title>  , Tome III, Dajani éditions, Pointe-à-Pitre, 1981 pp. 287-307</bibl>
             </note>
         </person>
-        <person xml:id="Ces">
-            <persName xml:lang="en">Césaire</persName>
-            <persName xml:lang="fr">Césaire</persName>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p>Césaire was a free man of color from the Grande Anse on the northern side of Martinique. He became involved in a dispute between the white Creole Louis Lasserre and the free man of color, Faustin Rosemond, whose home was sold, by judicial decision, to Lasserre. Rosemond is said to have shot Lasserre's horse while the latter was on his property in August 1833. He was charged with attempted assassination for being present at the scene where Rosemond and his brother-in-law committed the act. The Assize Court of Saint-Pierre, meeting on December 21, 1833, was expeditious and condemned Césaire for “complicity in an attempted assassination on the person of Lasserre, with premeditation and ambush”. On the island, the announcement of the conviction had an immediate and powerful effect, catalyzing the uprising of the free men of color of Grande Anse (December 24) within a few days. In the Revue des Colonies, Bissette would become Césaire’s most vocal defender. On April 4, 1834, lawyer Gatine presented the “means of cassation”. The Court of Cassation ruled on the following September 13 and overturned Césaire's judgment. He was retried on February 16 and 17, 1835 and was acquitted. Bissette declared himself satisfied with the outcome. </p>
-                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Césaire, homme de couleur libre de la Grande Anse, quartier, paroisse et commune du nord atlantique de la Martinique. Il est impliqué dans une affaire opposant le blanc créole Louis Lasserre à l’homme de couleur libre, Faustin Rosemond, dépossédé, par décision judiciaire d’une habitation lui appartenant et rachetée par Lasserre. Il aurait tiré sur le cheval de Lasserre alors que celui-ci se rend sur sa propriété en août 1833. Inculpé de tentative d’assassinat sur la personne de Lasserre parce qu’il se trouve sur les lieux alors que Rosemond et son beau-frère sont les vrais responsables du guet-apens. La cour d’assises de Saint-Pierre, réunie le 21 décembre 1833, est expéditive et condamne Césaire pour “complicité dans une tentative d’assassinat sur la personne de Lasserre, avec préméditation et guet-apens”. Dans l’ile, l’annonce de la condamnation fait l’effet d’un coup de tonnerre et précède le soulèvement des hommes de couleur libres de la Grande Anse (le 24 décembre) de quelques jours. Bissette se fait un artisan défenseur de Césaire en Métropole dans la Revue des Colonies. Le 4 avril 1834, l’avocat Gatine présente les “moyens de cassation”. La cour de cassation se prononce le 13 septembre suivant et casse le jugement de Césaire. Il est rejugé les 16 et 17 février 1835 et cette fois il est acquitté. Bissette se déclare satisfait du dénouement. </p>
-                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
-            </note>
-        </person>
         <person xml:id="CT">
             <persName xml:lang="en">Télèphe, Charles</persName>
             <persName xml:lang="fr">Télèphe, Charles</persName>
@@ -537,6 +525,18 @@
                 <bibl>Mauvois, Georges B.,  <emph>Un complot d’esclaves. Martinique</emph> , 1831, [s.l.], Éditions Les Pluriels de Psyché, 1998</bibl>
                 <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
                 <bibl>"Charles Héléne Victor TÉLÈPHE,"  <emph>Geneanet</emph> , https://gw.geneanet.org/sgendrot?lang=en&amp;p=charles+helene+victor&amp;n=telephe</bibl>
+            </note>
+        </person>
+        <person xml:id="Ces">
+            <persName xml:lang="en">Césaire</persName>
+            <persName xml:lang="fr">Césaire</persName>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p>Césaire was a free man of color from the Grande Anse on the northern side of Martinique. He became involved in a dispute between the white Creole Louis Lasserre and the free man of color, Faustin Rosemond, whose home was sold, by judicial decision, to Lasserre. Rosemond is said to have shot Lasserre's horse while the latter was on his property in August 1833. He was charged with attempted assassination for being present at the scene where Rosemond and his brother-in-law committed the act. The Assize Court of Saint-Pierre, meeting on December 21, 1833, was expeditious and condemned Césaire for “complicity in an attempted assassination on the person of Lasserre, with premeditation and ambush”. On the island, the announcement of the conviction had an immediate and powerful effect, catalyzing the uprising of the free men of color of Grande Anse (December 24) within a few days. In the Revue des Colonies, Bissette would become Césaire’s most vocal defender. On April 4, 1834, lawyer Gatine presented the “means of cassation”. The Court of Cassation ruled on the following September 13 and overturned Césaire's judgment. He was retried on February 16 and 17, 1835 and was acquitted. Bissette declared himself satisfied with the outcome. </p>
+                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Césaire, homme de couleur libre de la Grande Anse, quartier, paroisse et commune du nord atlantique de la Martinique. Il est impliqué dans une affaire opposant le blanc créole Louis Lasserre à l’homme de couleur libre, Faustin Rosemond, dépossédé, par décision judiciaire d’une habitation lui appartenant et rachetée par Lasserre. Il aurait tiré sur le cheval de Lasserre alors que celui-ci se rend sur sa propriété en août 1833. Inculpé de tentative d’assassinat sur la personne de Lasserre parce qu’il se trouve sur les lieux alors que Rosemond et son beau-frère sont les vrais responsables du guet-apens. La cour d’assises de Saint-Pierre, réunie le 21 décembre 1833, est expéditive et condamne Césaire pour “complicité dans une tentative d’assassinat sur la personne de Lasserre, avec préméditation et guet-apens”. Dans l’ile, l’annonce de la condamnation fait l’effet d’un coup de tonnerre et précède le soulèvement des hommes de couleur libres de la Grande Anse (le 24 décembre) de quelques jours. Bissette se fait un artisan défenseur de Césaire en Métropole dans la Revue des Colonies. Le 4 avril 1834, l’avocat Gatine présente les “moyens de cassation”. La cour de cassation se prononce le 13 septembre suivant et casse le jugement de Césaire. Il est rejugé les 16 et 17 février 1835 et cette fois il est acquitté. Bissette se déclare satisfait du dénouement. </p>
+                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
             </note>
         </person>
         <person xml:id="JosA">
