@@ -7,23 +7,6 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
-        <person xml:id="CBe">
-            <persName xml:lang="en">Belair, Charles</persName>
-            <persName xml:lang="fr">Belair, Charles</persName>
-            <birth>1760</birth>
-            <death>1802</death>
-            <note xml:lang="en" type="Person" resp="#chelsea">
-                <p>Charles Bélair was Toussaint Louverture’s nephew and a general in the revolutionary army. He was among the Chausseurs volontaires de Saint Domingue recruited to fight in the 1779 Siege of Savannah during the American Revolutionary War. During the Haitian Revolution, he served first as a lieutenant and then aide de camp for Louverture; he was promoted to colonel and then, as part of the expedition to take the eastern side of the island, was named brigadier general and commander of the district of Santo Domingo. After Louverture’s unlawful arrest and deportation in June 1802, Bélair raised the banner of revolt against the French expeditionary forces. Leclerc’s forces arrested his wife and mother, forcing Bélair out of hiding and leading ot his capture. He was executed on October 15, 1802. To the history of Charles Bélair must be added that of his wife, Sanite Bélair, a warrior in her own right who fought beside the insurgents. She was executed alongside her husband. </p>
-                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
-                <bibl>Pascal-Trouillot, Ertha and Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#chelsea">
-                <p>Charles Bélair est le neveu de Toussaint Louverture et un général de l’armée révolutionnaire. Il fait partie des Chasseurs volontaires de Saint-Domingue recrutés pour combattre lors du siège de Savannah (Géorgie) en 1779, pendant la guerre d’indépendance américaine. Au cours de la Révolution haïtienne, il sert d’abord comme lieutenant, puis comme aide de camp de Louverture. Promu colonel, il est ensuite nommé général de brigade et commandant du district de Santo Domingo dans le cadre de l’expédition visant à prendre la partie orientale de l’île.  </p>
-                <p>Après l’arrestation arbitraire et la déportation de Louverture en juin 1802, Bélair prend la tête de l’insurrection contre les forces expéditionnaires françaises. Pour le contraindre à se rendre, l’armée de Leclerc arrête sa femme et sa mère, ce qui entraîne son arrestation. Il est exécuté le 15 octobre 1802. L’histoire de Charles Bélair est indissociable de celle de son épouse, Sanité Bélair, elle-même combattante aux côtés des insurgés. Elle est exécutée le même jour que lui.</p>
-                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
-                <bibl>Pascal-Trouillot, Ertha et Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
-            </note>
-        </person>
         <person xml:id="ADA">
             <persName xml:lang="en">Adams, John</persName>
             <persName xml:lang="fr">Adams, John</persName>
@@ -364,6 +347,23 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#masha">
                 <p>Constantine Phipps, premier marquis de Normanby, également vicomte de Normanby et comte de Mulgrave, est une figure politique majeure du parti <emph>Whig</emph>. De 1832 à 1834, il exerce les fonctions de gouverneur de la Jamaïque, avant de devenir Lord Lieutenant d'Irlande de 1835 à 1839, puis secrétaire d'État à l'Intérieur de 1839 à 1841.</p>
+            </note>
+        </person>
+        <person xml:id="CBe">
+            <persName xml:lang="en">Belair, Charles</persName>
+            <persName xml:lang="fr">Belair, Charles</persName>
+            <birth>1760</birth>
+            <death>1802</death>
+            <note xml:lang="en" type="Person" resp="#chelsea">
+                <p>Charles Bélair was Toussaint Louverture’s nephew and a general in the revolutionary army. He was among the Chausseurs volontaires de Saint Domingue recruited to fight in the 1779 Siege of Savannah during the American Revolutionary War. During the Haitian Revolution, he served first as a lieutenant and then aide de camp for Louverture; he was promoted to colonel and then, as part of the expedition to take the eastern side of the island, was named brigadier general and commander of the district of Santo Domingo. After Louverture’s unlawful arrest and deportation in June 1802, Bélair raised the banner of revolt against the French expeditionary forces. Leclerc’s forces arrested his wife and mother, forcing Bélair out of hiding and leading ot his capture. He was executed on October 15, 1802. To the history of Charles Bélair must be added that of his wife, Sanite Bélair, a warrior in her own right who fought beside the insurgents. She was executed alongside her husband. </p>
+                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
+                <bibl>Pascal-Trouillot, Ertha and Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#chelsea">
+                <p>Charles Bélair est le neveu de Toussaint Louverture et un général de l’armée révolutionnaire. Il fait partie des Chasseurs volontaires de Saint-Domingue recrutés pour combattre lors du siège de Savannah (Géorgie) en 1779, pendant la guerre d’indépendance américaine. Au cours de la Révolution haïtienne, il sert d’abord comme lieutenant, puis comme aide de camp de Louverture. Promu colonel, il est ensuite nommé général de brigade et commandant du district de Santo Domingo dans le cadre de l’expédition visant à prendre la partie orientale de l’île.  </p>
+                <p>Après l’arrestation arbitraire et la déportation de Louverture en juin 1802, Bélair prend la tête de l’insurrection contre les forces expéditionnaires françaises. Pour le contraindre à se rendre, l’armée de Leclerc arrête sa femme et sa mère, ce qui entraîne son arrestation. Il est exécuté le 15 octobre 1802. L’histoire de Charles Bélair est indissociable de celle de son épouse, Sanité Bélair, elle-même combattante aux côtés des insurgés. Elle est exécutée le même jour que lui.</p>
+                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
+                <bibl>Pascal-Trouillot, Ertha et Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
             </note>
         </person>
         <person xml:id="FXD">
@@ -987,6 +987,79 @@
                 <p>Situé dans l’actuel département du Doubs, en région Bourgogne-Franche-Comté, le Fort de Joux domine les montagnes du Jura, à la frontière suisse. À l’origine, il s’agit d’un château du XIIe siècle. De 1678 à 1815, plusieurs régimes l’utilisent comme prison d’État. C’est dans ce fort que Toussaint Louverture est détenu après son arrestation arbitraire et sa déportation depuis Saint-Domingue. Durant la Révolution française, de nombreux autres déportés venus des Antilles y sont également emprisonnés.</p>
             </note>
         </place>
+        <place xml:id="Ami">
+            <placeName xml:lang="en">Amiens</placeName>
+            <placeName xml:lang="fr">Amiens</placeName>
+            <location>
+                <geo decls="#geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2957,
+          49.8941
+        ]
+      },
+      "properties": {
+        "name": "Amiens",
+        "period": "1834–1842",
+        "source": "Revue des Colonies",
+        "country": "France",
+        "wikidata": "Q1236",
+        "department": "Somme",
+        "place_type": "city"
+      }
+    }
+  ]
+}</geo>
+            </location>
+            <note xml:lang="en" type="Place" resp="#other #other">
+                <p>During the period of the <emph>Revue des Colonies</emph> (1834-1842), Amiens was a provincial French city whose significance lay less in direct colonial involvement than in its position within metropolitan political, intellectual, and administrative networks. Capital of the département of the Somme, Amiens was integrated into the circuits of print culture, education, and reform that sustained debates on slavery, colonization, and abolition in France. In the <emph>Revue</emph>, references to Amiens generally function metonymically, designating the metropolitan interior as a space of opinion formation rather than imperial action. Such mentions evoke the diffusion of colonial questions beyond Paris, underscoring how provincial cities participated in the circulation of abolitionist ideas, petitions, and moral discourse. Amiens thus appears not as a colonial site but as part of the metropolitan infrastructure through which colonial issues were debated, framed, and legitimized during the July Monarchy.</p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#other #other">
+                <p>Durant la période de publication de la <emph>Revue des Colonies</emph> (1834-1842), Amiens est une ville de province dont l’importance tient moins à une implication coloniale directe qu’à sa place au sein des réseaux politiques, intellectuels et administratifs de la métropole. Préfecture du département de la Somme, Amiens s’inscrit dans les circuits de la culture imprimée, de l’enseignement et des réformes qui alimentent en France les débats sur l’esclavage, la colonisation et l’abolition. Dans la <emph>Revue</emph>, les mentions d’Amiens relèvent le plus souvent d’un usage métonymique, désignant l’espace de l’intérieur métropolitain comme lieu de formation de l’opinion plutôt que comme théâtre de l’action impériale. Elles signalent la diffusion des enjeux coloniaux au-delà de Paris et rappellent le rôle des villes provinciales dans la circulation des idées abolitionnistes, des pétitions et des discours moraux. Amiens apparaît ainsi non comme un espace colonial, mais comme un élément de l’infrastructure métropolitaine à travers laquelle les questions coloniales sont débattues, mises en forme et légitimées sous la monarchie de Juillet.</p>
+            </note>
+        </place>
+        <place xml:id="BAS">
+            <placeName xml:lang="en">Bastia</placeName>
+            <placeName xml:lang="fr">Bastia</placeName>
+            <location>
+                <geo decls="#geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4509,
+          42.6976
+        ]
+      },
+      "properties": {
+        "name": "Bastia",
+        "period": "1834–1842",
+        "region": "Corsica",
+        "source": "Revue des Colonies",
+        "country": "France",
+        "wikidata": "Q1479",
+        "department": "Haute-Corse",
+        "place_type": "city"
+      }
+    }
+  ]
+}</geo>
+            </location>
+            <note xml:lang="en" type="Place" resp="#other">
+                <p>During the period of the <emph>Revue des Colonies</emph> (1834-1842), Bastia was a port city whose significance derived from its position at the margins of the French metropolitan territory and its historical relationship to imperial administration and maritime circulation. Located on the northeastern coast of Corsica, Bastia had served as the island’s principal administrative center under Genoese and early French rule, and it remained a key node linking Corsica to Mediterranean commercial and military routes. In the <emph>Revue</emph>, Bastia appears less as a colonial site than as a peripheral metropolitan space, emblematic of regions incorporated into the French state yet often perceived as culturally and politically distinct. References to Bastia evoke questions of integration, governance, and internal difference within France itself, implicitly situating Corsica in a continuum between the metropole and the colonies. While the journal does not frame Bastia through the language of overseas colonization, its inclusion reflects broader nineteenth-century debates about territorial incorporation, state authority, and the uneven application of republican and liberal principles within the French nation.</p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#other">
+                <p>Au cours de la période de publication de la <emph>Revue des Colonies</emph> (1834-1842), Bastia est une ville portuaire dont l’importance tient à sa situation en marge du territoire métropolitain français et à son histoire liée à l’administration impériale et aux circulations maritimes. Située sur la côte nord-est de la Corse, Bastia a longtemps été le principal centre administratif de l’île sous la domination génoise puis française, et demeure un nœud essentiel reliant la Corse aux routes commerciales et militaires de la Méditerranée. Dans la <emph>Revue</emph>, Bastia apparaît moins comme un espace colonial que comme une périphérie métropolitaine, emblématique de territoires intégrés à l’État français tout en étant perçus comme culturellement et politiquement distincts. Les mentions de Bastia renvoient ainsi aux enjeux de l’intégration, de la gouvernance et de la différence interne à la France, inscrivant implicitement la Corse dans un continuum entre métropole et colonies. Si la revue ne mobilise pas explicitement le vocabulaire de la colonisation outre-mer pour évoquer Bastia, sa présence fait écho aux débats du XIXᵉ siècle sur l’incorporation territoriale, l’autorité de l’État et l’application inégale des principes libéraux au sein de la nation française.</p>
+            </note>
+        </place>
         <place xml:id="HT">
             <placeName xml:lang="en">Haiti/République d'Haïti</placeName>
             <placeName xml:lang="fr">Haiti/République d'Haïti</placeName>
@@ -1010,6 +1083,40 @@
                 <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title> .  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
                 <bibl>Pierrot, Grégory.  <title>The Black Avenger in Atlantic Culture</title> . Athens: The University of Georgia Press, 2019.</bibl>
                 <bibl>Stieber, Chelsea.  <title>Haiti’s Paper War: Post-Independence Writing, Civil War, and the Making of the Republic, 1804-1954</title> . New York: New York University Press, 2020.</bibl>
+            </note>
+        </place>
+        <place xml:id="BAR">
+            <placeName xml:lang="en">Barbados </placeName>
+            <placeName xml:lang="fr">Barbade</placeName>
+            <location>
+                <geo decls="#geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5432,
+          13.1939
+        ]
+      },
+      "properties": {
+        "name": "Barbados",
+        "period": "1834–1842",
+        "place_type": "island"
+      }
+    }
+  ]
+}</geo>
+            </location>
+            <note xml:lang="en" type="Place" resp="#other">
+                <p>A British colony since the seventeenth century, Barbados occupied a distinctive position in Atlantic colonial discourse during the publication of the <emph>Revue des Colonies </emph>(1834 - 1842). Barbados had no recent experience of revolutionary rupture from the colonial system and was often cited as a paradigmatic “old colony,” characterized by long-established plantation slavery and a powerful white planter elite. The abolition of slavery in the British Empire in 1834, followed by the apprenticeship system until 1838, made Barbados a crucial point of reference in French debates on emancipation. In the <emph>Revue</emph>, Barbados functioned less as a concrete territory than as an experimental counterpoint: a site through which contributors evaluated the social, economic, and moral consequences of abolition without revolution. While the journal frequently mobilized Barbados to argue against planter claims that emancipation would result in economic collapse or social disorder, it tended to abstract the colony into a case study, rarely engaging in sustained analysis of local Black political agency or post-emancipation coercive labor regimes.</p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#other">
+                <p>Colonie britannique depuis le XVIIᵉ siècle, la Barbade occupait, au moment de la publication de la <emph>Revue des Colonies</emph> (1834-1842), une position singulière dans les discours coloniaux atlantiques. N’ayant pas connu de rupture révolutionnaire récente avec l’ordre colonial, elle était volontiers érigée en paradigme de la « vieille colonie », caractérisée par l’ancienneté du système plantationnaire esclavagiste et par la puissance d’une élite blanche de planteurs solidement implantée.</p>
+                <p>L’abolition de l’esclavage dans l’Empire britannique en 1834, suivie de l’instauration du système d’apprentissage jusqu’en 1838, fit de la Barbade un point d’appui essentiel dans les débats français relatifs à l’émancipation. Dans les pages de la <emph>Revue</emph>, la colonie apparaît moins comme un espace historique et socialement situé que comme un contrepoint expérimental : un lieu d’observation à partir duquel les contributeurs examinent les effets sociaux, économiques et moraux d’une abolition accomplie sans révolution.</p>
+                <p>Si la revue mobilise fréquemment l’exemple barbadien pour réfuter les arguments des planteurs, qui annonçaient l’effondrement économique ou le désordre social consécutifs à l’émancipation, elle tend néanmoins à en faire un cas d’école relativement abstrait. Rares sont les analyses approfondies des formes d’agentivité politique des populations noires locales ou des régimes de travail coercitifs mis en place dans l’après-abolition.</p>
             </note>
         </place>
         <place xml:id="PtP">
