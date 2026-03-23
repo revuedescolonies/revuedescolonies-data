@@ -671,6 +671,7 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
+                                <valItem mode="add" ident="#LBS"/>
                                 <valItem mode="add" ident="#emanc_fr"/>
                                 <valItem mode="add" ident="#CM"/>
                                 <valItem mode="add" ident="#Code_nap"/>
