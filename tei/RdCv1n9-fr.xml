@@ -81,7 +81,7 @@
                      un renfort de soixante hommes d’infanterie.
                 </p>
                 <p>
-                     (1)La peine de mort.
+                     <note xml:id="note1" type="footnote"><p>(1) La peine de mort.</p></note>
                 </p>
 
                 <p>
@@ -95,7 +95,7 @@
                      Pour les soixante hommes d'infanterie de la « Guyane, de...........44,500
                 </p>
                 <p>
-                     Outre ce crédit, par un projet de loi particulier, présenté à la chambre des députés le <date>30 janvier</date>, le ministre demande encore un 
+                     Outre ce crédit, par un projet de loi particulier, présenté à la <orgName>chambre des députés</orgName> le <date>30 janvier</date>, le ministre demande encore un 
                      crédit extraordinaire de 450,000 fr. pour la présente année <date>1855</date>, et cela par les mêmes motifs de crainte qu’il a fait valoir dans 
                      le budget de <date>1836</date>.
                 </p>
@@ -120,7 +120,7 @@
                      <pb n="5" facs="v1n9p5"/> d’airain tous ces hommes noirs qui revendiquent leur réintégration dans la grande famille humaine.
                 </p>
                 <p>
-                      La force, voilà le grand moyen du gouvernement! Hélas! nous l’avons dit : La force a ses heures et ses jours, et ses terribles alter- natives aussi! 
+                      La force, voilà le grand moyen du gouvernement! Hélas! nous l’avons dit : La force a ses heures et ses jours, et ses terribles alternatives aussi! 
                 </p>
                 <p>
                       Ainsi voilà encore sur cette question le ministère en opposition 
@@ -128,18 +128,16 @@
                 </p> 
                 <p>
                      <q> La libération des esclaves, dans les possessions anglaises,
-                      dit le Bon Sens, a dû faire pressentir à tous les hommes sensés 
+                      dit <bibl type="periodical"><title ref="#lBS">le Bon Sens</title></bibl>, a dû faire pressentir à tous les hommes sensés 
                       un « pareil événement, volontaire ou forcé, dans nos colonies ; aussi
-                        ne sont-ce pas des baïonnettes qu’il faut y envoyer, mais un 
-                        bill d'emancipation.</q> 
+                      ne sont-ce pas des baïonnettes qu’il faut y envoyer, mais un bill d'emancipation.</q> 
                 </p>
                 <p>   
                         Point, on n’en fera rien; le même entêtement qui perd les affaires ici, qui les aggrave d’inextricables difficultés, les veut perdre aux 
                         colonies; il faut se résigner à cette lutte nouvelle, et n’y point faire faute : c’est de trop haut que la question a été posée pour ne pas
                         être vidée. Cette affaire va soulever de toutes parts les objections et les réponses; il est impossible que la presse française, que l’élite 
-                        de nos publicistes et de nos hommes d’état, qui vient de fonder la société pour l’abolition de l’esclavage; il est impos - ble que la dis-
-                        cussion qui va s’ouvrir au sein même des chambres, ne préparentle triomphe contre l’esprit rétrograde de quelque part qu’il vienne.
-                        Nous avons confiance surtout aux philantropes éminens de la <orgName>société pour l'abolition de l'esclavage</orgName> : il n’ont pas fait ce pas pour reculer. 
+                        de nos publicistes et de nos hommes d’état, qui vient de fonder <orgName ref="#SDA"> société pour l'abolition de l'esclavage</orgName>; il est impossible que la discussion qui va s’ouvrir au sein même des chambres, ne préparentle triomphe contre l’esprit rétrograde de quelque part qu’il vienne.
+                        Nous avons confiance surtout aux philantropes <choice><orig>éminens</orig><reg>éminent</reg></choice> de la <orgName ref="#SDA"> société pour l'abolition de l'esclavage</orgName> : il n’ont pas fait ce pas pour reculer. 
                         Qu’il nous soit permis toutefois en finissant de déplorer la fatalité qui semble pousser les colons privilégiés : on dirait qu’ils ont pris à tâche
                         de rendre toute réconciliation impossible entre les opprimés et les oppresseurs ; qu’ils se plaisent à préparer un combat à mort 
                         entre les deux races. Insensés ! qui ne comprennent pas tout ce qu’a de puissance l’esprit de liberté; qui traitent la liberté d’illusoire pour en 
@@ -192,7 +190,9 @@
                  <p>
                  <persName>X. TANC</persName>, ancien magistrat à la <placeName ref="#GP">Guadeloupe</placeName>.
                  </p>
+
 </div>
+
 
 
 
