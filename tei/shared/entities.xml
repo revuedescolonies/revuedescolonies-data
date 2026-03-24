@@ -47,6 +47,10 @@
                 <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
             </note>
         </person>
+        <person xml:id="GAL">
+            <persName xml:lang="en">Galilée</persName>
+            <persName xml:lang="fr">Galilée</persName>
+        </person>
         <person xml:id="AHav">
             <persName xml:lang="en">Auguste Eugénie, known as "Havre"</persName>
             <persName xml:lang="fr">Auguste Eugénie, dit « Havre »</persName>
