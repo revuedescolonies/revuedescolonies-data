@@ -174,7 +174,7 @@
                     <attList>
                         <attDef ident="ref" mode="change">
                             <valList type="closed" mode="change">
-                                <valItem mode="add" ident="#Gal"/>
+                                <valItem mode="add" ident="#GAL"/>
                                 <valItem mode="add" ident="#LeCond"/>
                                 <valItem mode="add" ident="#SteC"/>
                                 <valItem mode="add" ident="#AP"/>
