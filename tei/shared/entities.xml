@@ -7,6 +7,91 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
+        <person xml:id="RS">
+            <persName xml:lang="en">Rosily, Viscount of</persName>
+            <persName xml:lang="fr">Rosily, vicomte de</persName>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p/>
+                <p>Viscount Rosily served as Director of the Interior in Martinique at the time of the Grande Anse affair in December 1833, which was later tried by the Court of Assizes in Saint-Pierre in June 1834. As such, he was responsible for the administration of the island, overseeing matters ranging from general and sanitary policing to the management of direct and indirect taxation.</p>
+                <p>He is mentioned in the <emph>Revue des Colonies</emph> because Cyrille Bissette, in 1834, directly accused the colonial authorities—Governor Dupotet, Director of the Interior Rosily, the district commander of Grande Anse, Desabaye, and the commander of the Saint-Pierre garrison, de Montigny—calling for the prosecution of these four men.</p>
+                <p>In the Pointe-à-Pitre affair described in the first issue of the <emph>Revue des Colonies</emph>, viscount Rosily advocated for the expulsion of the accused individuals who were free. However, he was more reluctant when it came to expelling enslaved individuals accused of various offenses, such as marronage or poisoning. He viewed the deportation of enslaved people as a potential danger to the colony, arguing that such measures might encourage others to commit crimes.</p>
+                <p>
+                </p>
+                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
+                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Le vicomte de Rosily est directeur de l’Intérieur en Martinique au moment de l’affaire de la Grande Anse, survenue en décembre 1833 et jugée par la Cour d’assises de Saint-Pierre en juin 1834. À ce titre, il est chargé de l’administration de l’île, ses attributions couvrant aussi bien la police générale et sanitaire que la gestion des contributions directes et indirectes.</p>
+                <p>S’il est mentionné dans la <emph>Revue des Colonies</emph>, c’est parce que Cyrille Bissette, en 1834, accuse directement les autorités coloniales de complicité et réclame la mise en accusation de quatre hauts responsables : le gouverneur Dupotet, le directeur de l’Intérieur Rosily, le commandant du quartier de la Grande Anse, Desabaye, et le commandant de la garnison de Saint-Pierre, de Montigny.</p>
+                <p>Dans l’affaire de Pointe-à-Pitre, relatée dans le premier numéro de la <emph>Revue des Colonies</emph>, le vicomte de Rosily se prononce en faveur de l’expulsion des accusés libres. Toutefois, il se montre plus réservé quant à l’exil des esclaves impliqués dans divers délits, tels que le marronnage ou l’empoisonnement. Selon lui, la déportation des esclaves constitue une menace pour la colonie, car une telle mesure pourrait les encourager à commettre d’autres crimes.</p>
+                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
+                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
+            </note>
+        </person>
+        <person xml:id="SebPC">
+            <persName xml:lang="en">Caffié, Sébastien Privat</persName>
+            <persName xml:lang="fr">Caffié, Sébastien Privat</persName>
+            <birth>1786</birth>
+            <death>1848</death>
+            <note xml:lang="en" type="Person" resp="#jessica">
+                <p>Sébastien Privat Caffié was a landowner who married Marie Rose Catherine Paret in Gros-Morne, Martinique, on June 12, 1821. A commissioner-commander, he was elected mayor of the commune of Trinité in 1847.</p>
+                <bibl>Bulletin officiel de la Martinique</bibl>
+                <bibl>"Acte de mariage, 12 juin 1821, Gros Morne." ANOM, Acte numérisé disponible en ligne :   <ref target="http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821">http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821</ref>  vue 12</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#jessica">
+                <p>Sébastien Privat Caffié est un propriétaire, marié à Marie Rose Catherien Paret au Gros-Morne (Martinique) le 12 juin 1821. Commissaire-commandant, il est élu maire de la commune de Trinité en 1847.</p>
+                <bibl>Bulletin officiel de la Martinique</bibl>
+                <bibl>"Acte de mariage, 12 juin 1821, Gros Morne." ANOM, Acte numérisé disponible en ligne :   <ref target="http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821">http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821</ref>  vue 12</bibl>
+            </note>
+        </person>
+        <person xml:id="Mul">
+            <persName xml:lang="en">Phipps, Constantine, The Earl of Mulgrave</persName>
+            <persName xml:lang="fr">Phipps, Constantine, comte de Mulgrave</persName>
+            <birth>1797</birth>
+            <death>1863</death>
+            <note xml:lang="en" type="Person" resp="#masha">
+                <p>Constantine Phipps, known successively as 1st Marquess of Normanby, Viscount Normanby, and The Earl of Mulgrave was a Whig politician who served as Governor of Jamaica from 1832-1834, Lord Lieutenant of Ireland from 1835 to 1839 and Home Secretary from 1839 to 1841.</p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#masha">
+                <p>Constantine Phipps, premier marquis de Normanby, également vicomte de Normanby et comte de Mulgrave, est une figure politique majeure du parti <emph>Whig</emph>. De 1832 à 1834, il exerce les fonctions de gouverneur de la Jamaïque, avant de devenir Lord Lieutenant d'Irlande de 1835 à 1839, puis secrétaire d'État à l'Intérieur de 1839 à 1841.</p>
+            </note>
+        </person>
+        <person xml:id="CBe">
+            <persName xml:lang="en">Belair, Charles</persName>
+            <persName xml:lang="fr">Belair, Charles</persName>
+            <birth>1760</birth>
+            <death>1802</death>
+            <note xml:lang="en" type="Person" resp="#chelsea">
+                <p>Charles Bélair was Toussaint Louverture’s nephew and a general in the revolutionary army. He was among the Chausseurs volontaires de Saint Domingue recruited to fight in the 1779 Siege of Savannah during the American Revolutionary War. During the Haitian Revolution, he served first as a lieutenant and then aide de camp for Louverture; he was promoted to colonel and then, as part of the expedition to take the eastern side of the island, was named brigadier general and commander of the district of Santo Domingo. After Louverture’s unlawful arrest and deportation in June 1802, Bélair raised the banner of revolt against the French expeditionary forces. Leclerc’s forces arrested his wife and mother, forcing Bélair out of hiding and leading ot his capture. He was executed on October 15, 1802. To the history of Charles Bélair must be added that of his wife, Sanite Bélair, a warrior in her own right who fought beside the insurgents. She was executed alongside her husband. </p>
+                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
+                <bibl>Pascal-Trouillot, Ertha and Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#chelsea">
+                <p>Charles Bélair est le neveu de Toussaint Louverture et un général de l’armée révolutionnaire. Il fait partie des Chasseurs volontaires de Saint-Domingue recrutés pour combattre lors du siège de Savannah (Géorgie) en 1779, pendant la guerre d’indépendance américaine. Au cours de la Révolution haïtienne, il sert d’abord comme lieutenant, puis comme aide de camp de Louverture. Promu colonel, il est ensuite nommé général de brigade et commandant du district de Santo Domingo dans le cadre de l’expédition visant à prendre la partie orientale de l’île.  </p>
+                <p>Après l’arrestation arbitraire et la déportation de Louverture en juin 1802, Bélair prend la tête de l’insurrection contre les forces expéditionnaires françaises. Pour le contraindre à se rendre, l’armée de Leclerc arrête sa femme et sa mère, ce qui entraîne son arrestation. Il est exécuté le 15 octobre 1802. L’histoire de Charles Bélair est indissociable de celle de son épouse, Sanité Bélair, elle-même combattante aux côtés des insurgés. Elle est exécutée le même jour que lui.</p>
+                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
+                <bibl>Pascal-Trouillot, Ertha et Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
+            </note>
+        </person>
+        <person xml:id="ADA">
+            <persName xml:lang="en">Adams, John</persName>
+            <persName xml:lang="fr">Adams, John</persName>
+            <birth>1735</birth>
+            <death>1826</death>
+            <note xml:lang="en" type="Person" resp="#masha #michaël">
+                <p>John Adams stands out among the first American presidents as a northerner who was never an enslaver. In the immediate aftermath of the American Revolution, he opposed efforts to implement large-scale emancipation in his home state of Massachusetts, but, as primary author of the state’s constitution, which included a Declaration of Rights (written after Adams served as Envoy to France), Adams has long been associated with the state’s de facto abolition in 1780. It was only after the 1781 cases of Mum Bett and Quok Walker, enslaved people who cited the language of the constitution in suing for their freedom, that the document, which does not explicitly prohibit slavery, took on this accepted meaning. </p>
+                <p>John Adams’s presidency is notably marked by the establishment of trade relations with Haiti, which was then in conflict with France.  These political positions, in combination with an 1801 letter in which he expresses “abhorrence” to the institution of slavery, claiming to have always employed free men at significant personal expense, have contributed to Adams’ enduring legacy as a committed abolitionist. Recently, historians have called attention to the ways in which his positions were more in line with contemporaries, noting both that, with regard to Haiti, agreement to continue commerce is hardly a statement of ideological sympathy, and that any actual belief in the principle of equality was never public or explicit.</p>
+                <p>
+                </p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#masha #michaël">
+                <p>John Adams est originaire du Nord des États-Unis et n’a jamais possédé d’esclaves, ce qui le distingue des premiers présidents américains. Bien qu’opposé à l’émancipation générale des esclaves dans son État natal du Massachusetts après la Révolution, il rédige pour le jeune État une constitution qui comprend une Déclaration des droits (il rentre alors d’une mission diplomatique en France) et œuvre de fait à la disparition progressive de l’esclavage dans le Massachusetts. Dans les années qui suivent l’adoption de la constitution en 1780, des personnes esclavisées telles que Mum Bett et Quok Walker n'hésitent pas à invoquer ce document pour poursuivre leur maître et réclamer leur liberté devant les tribunaux.</p>
+                <p>Le mandat de John Adams est notamment marqué par l’établissement de relations commerciales avec Haïti, alors en conflit avec la France. Ses prises de position politiques, ainsi qu’une lettre de 1801 dans laquelle il exprime sa « détestation » de l’esclavage et affirme avoir toujours employé des hommes libres, même lorsque le coût de leur travail était élevé, ont largement contribué à forger sa réputation d’abolitionniste engagé.</p>
+                <p>Cette image a toutefois été nuancée par l’historiographie récente, qui souligne la proximité d’Adams avec ses contemporains sur la question de l’esclavage. Le maintien des échanges avec Haïti, par exemple, ne traduit pas nécessairement une sympathie à l’égard de l’indépendance haïtienne, et Adams ne s’est jamais publiquement ni explicitement exprimé en faveur de l’égalité raciale.</p>
+                <p>
+                </p>
+            </note>
+        </person>
         <person xml:id="CB">
             <persName xml:lang="en">Bissette, Cyrille Charles Auguste</persName>
             <persName xml:lang="fr">Bissette, Cyrille Charles Auguste </persName>
@@ -47,9 +132,31 @@
                 <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
             </note>
         </person>
-        <person xml:id="GAL">
-            <persName xml:lang="en">Galilée</persName>
-            <persName xml:lang="fr">Galilée</persName>
+        <person xml:id="FXD">
+            <persName xml:lang="en">Donzelot, François-Xavier</persName>
+            <persName xml:lang="fr">Donzelot, François-Xavier</persName>
+            <birth>1764</birth>
+            <death>1843</death>
+            <note xml:lang="en" type="Person" resp="#greg #abel">
+                <figure>
+                    <graphic url="Donzelot_7fc4e73ceb.jpg"/>
+                </figure>
+                <p>François Xavier Donzelot was born in Mamirolle, Franche-Comté, on January 6, 1764. He entered military service in 1785 in the Royale-Marine regiment and quickly rose through the ranks. Appointed second lieutenant in 1792 in the 21st Cavalry Regiment, he distinguished himself during the campaigns of the Revolution, the Consulate, and the Empire between 1793 and 1807, earning a promotion to divisional general on December 6, 1807. In 1815, he fought at Waterloo and continued his career under the Bourbon Restoration. On October 31, 1817, Louis XVIII appointed him civil and military governor of Martinique, a position he held until 1826 before requesting to return to France.  </p>
+                <p>His administration was marked by his firm support for maintaining the slave system, which earned him the favor of the island’s white plantation owners. In October 1822, during the slave uprising in Le Carbet, he ordered a violent crackdown led by white militias and free men of color, among whom was Cyrille Bissette. Although he initially showed some willingness to listen to the grievances of Fort-Royal’s free people of color, particularly those voiced by Bissette, Donzelot gradually distanced himself from this stance. Pressured by white landowners determined to protect their privileges and exclude free people of color from any claim to equality, he became convinced that they harbored rebellious intentions and sought to incite an uprising akin to that of Saint-Domingue.  </p>
+                <p>The Bissette Affair (1823-1824) definitively aligned him with the interests of the slaveholding elite. Under his governance, more than two hundred individuals were deported without trial. In 1826, he was granted his request to return to France. He retired to Mamirolle before settling in Neuilly-sur-Marne, where he died on July 11, 1843.</p>
+                <bibl>Schloss, Rebecca Hartkopf.  <title>Sweet Liberty: The Final Days of Slavery in Martinique</title>  . Philadelphia, Pennsylvania: University of Pennsylvania Press, 2009.</bibl>
+                <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#greg #abel">
+                <figure>
+                    <graphic url="Donzelot_7fc4e73ceb.jpg"/>
+                </figure>
+                <p>François Xavier Donzelot naît à Mamirolle, en Franche-Comté, le 6 janvier 1764. Il entre au service en 1785 dans le régiment Royale-Marine et gravit rapidement les échelons militaires. Nommé sous-lieutenant en 1792 au 21ᵉ régiment de cavalerie, il se distingue lors des campagnes de la Révolution, du Consulat et de l’Empire entre 1793 et 1807, ce qui lui vaut d’être promu général de division le 6 décembre 1807. En 1815, il se distingue à Waterloo, poursuivant ensuite sa carrière sous la Restauration. Le 31 octobre 1817, Louis XVIII le nomme gouverneur civil et militaire de la Martinique, un poste qu’il occupe jusqu’en 1826, avant de demander son rappel en Métropole.</p>
+                <p>Son administration est marquée par son soutien au maintien du système esclavagiste, ce qui lui vaut l’estime des colons blancs de l’île. En octobre 1822, lors de la révolte des esclaves du Carbet, il ordonne une répression brutale menée par les milices blanches et les libres de couleur, parmi lesquels figure Cyrille Bissette. Bien qu’ayant initialement prêté une oreille attentive aux doléances des libres de couleur de Fort-Royal, notamment sous l’impulsion de Bissette, Donzelot s’éloigne progressivement de cette position. Harcelé par les propriétaires blancs, soucieux de préserver leurs privilèges et d’exclure les libres de couleur de toute prétention à l’égalité, il se laisse convaincre que ces derniers nourrissent des velléités de révolte et qu’ils aspirent à un soulèvement comparable à celui de Saint-Domingue.</p>
+                <p>L’affaire Bissette (1823-1824) scelle définitivement son alignement sur les intérêts des planteurs esclavagistes. Sous sa gouvernance, plus de deux cents personnes sont déportées sans procès. En 1826, son souhait de retourner en Métropole est exaucé. Il se retire à Mamirolle avant de s’établir à Neuilly-sur-Marne, où il meurt le 11 juillet 1843.</p>
+                <bibl>Schloss, Rebecca Hartkopf.  <title>Sweet Liberty: The Final Days of Slavery in Martinique</title>  . Philadelphia, Pennsylvania: University of Pennsylvania Press, 2009.</bibl>
+                <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
+            </note>
         </person>
         <person xml:id="AHav">
             <persName xml:lang="en">Auguste Eugénie, known as "Havre"</persName>
@@ -285,115 +392,41 @@
                 <bibl>Schmidt, Nelly.  <title>Abolitionnistes de l'esclavage et réformateurs des colonies, 1820-1851: analyses et documents</title> . Paris: Karthala, 2000.</bibl>
             </note>
         </person>
-        <person xml:id="RS">
-            <persName xml:lang="en">Rosily, Viscount of</persName>
-            <persName xml:lang="fr">Rosily, vicomte de</persName>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p/>
-                <p>Viscount Rosily served as Director of the Interior in Martinique at the time of the Grande Anse affair in December 1833, which was later tried by the Court of Assizes in Saint-Pierre in June 1834. As such, he was responsible for the administration of the island, overseeing matters ranging from general and sanitary policing to the management of direct and indirect taxation.</p>
-                <p>He is mentioned in the <emph>Revue des Colonies</emph> because Cyrille Bissette, in 1834, directly accused the colonial authorities—Governor Dupotet, Director of the Interior Rosily, the district commander of Grande Anse, Desabaye, and the commander of the Saint-Pierre garrison, de Montigny—calling for the prosecution of these four men.</p>
-                <p>In the Pointe-à-Pitre affair described in the first issue of the <emph>Revue des Colonies</emph>, viscount Rosily advocated for the expulsion of the accused individuals who were free. However, he was more reluctant when it came to expelling enslaved individuals accused of various offenses, such as marronage or poisoning. He viewed the deportation of enslaved people as a potential danger to the colony, arguing that such measures might encourage others to commit crimes.</p>
-                <p>
-                </p>
-                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
-                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Le vicomte de Rosily est directeur de l’Intérieur en Martinique au moment de l’affaire de la Grande Anse, survenue en décembre 1833 et jugée par la Cour d’assises de Saint-Pierre en juin 1834. À ce titre, il est chargé de l’administration de l’île, ses attributions couvrant aussi bien la police générale et sanitaire que la gestion des contributions directes et indirectes.</p>
-                <p>S’il est mentionné dans la <emph>Revue des Colonies</emph>, c’est parce que Cyrille Bissette, en 1834, accuse directement les autorités coloniales de complicité et réclame la mise en accusation de quatre hauts responsables : le gouverneur Dupotet, le directeur de l’Intérieur Rosily, le commandant du quartier de la Grande Anse, Desabaye, et le commandant de la garnison de Saint-Pierre, de Montigny.</p>
-                <p>Dans l’affaire de Pointe-à-Pitre, relatée dans le premier numéro de la <emph>Revue des Colonies</emph>, le vicomte de Rosily se prononce en faveur de l’expulsion des accusés libres. Toutefois, il se montre plus réservé quant à l’exil des esclaves impliqués dans divers délits, tels que le marronnage ou l’empoisonnement. Selon lui, la déportation des esclaves constitue une menace pour la colonie, car une telle mesure pourrait les encourager à commettre d’autres crimes.</p>
-                <bibl>Pâme, Stella.  <title>Cyrille Bissette: un martyr de la liberté</title> . Fort-de-France, Martinique: Editions Désormeaux, 1999.</bibl>
-                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
-            </note>
-        </person>
-        <person xml:id="SebPC">
-            <persName xml:lang="en">Caffié, Sébastien Privat</persName>
-            <persName xml:lang="fr">Caffié, Sébastien Privat</persName>
-            <birth>1786</birth>
-            <death>1848</death>
+        <person xml:id="JHD">
+            <persName xml:lang="en">Dupotet, Jean Henri Joseph</persName>
+            <persName xml:lang="fr">Dupotet, Jean Henri Joseph </persName>
+            <birth>1777</birth>
+            <death>1852</death>
             <note xml:lang="en" type="Person" resp="#jessica">
-                <p>Sébastien Privat Caffié was a landowner who married Marie Rose Catherine Paret in Gros-Morne, Martinique, on June 12, 1821. A commissioner-commander, he was elected mayor of the commune of Trinité in 1847.</p>
-                <bibl>Bulletin officiel de la Martinique</bibl>
-                <bibl>"Acte de mariage, 12 juin 1821, Gros Morne." ANOM, Acte numérisé disponible en ligne :   <ref target="http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821">http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821</ref>  vue 12</bibl>
+                <p>
+                    <div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="7a3d44ad-7ca6-4eea-803f-4f6ac8329355" data-message-model-slug="gpt-4o">
+                        <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+                            <div class="markdown prose w-full break-words dark:prose-invert light">
+                                <p>Colonial governors are high-ranking officials who represent the state in the colonies. They wield considerable power, with authority extending across legislative, judicial, military, and diplomatic domains.  </p>
+                                <p>Rear Admiral Dupotet was appointed governor by ordinance on August 11, 1830, replacing Rear Admiral Frescinet, who had been appointed in 1829 and requested to leave his post. Taking office during a period of political transition, Dupotet was granted the authority to act at his own discretion by the central government. Among his primary directives was the abolition of all distinctions against free people of color, ensuring their legal assimilation with whites. On November 12, 1830, he signed a decree eliminating certain outdated local regulations that had perpetuated discrimination. He was also tasked with implementing a gradual process of emancipation for a number of enslaved individuals.  </p>
+                                <p>However, as Dupotet gained a deeper understanding of the colonial system, he encountered the entrenched racial prejudices and violent practices of the planters, who remained oblivious—or resistant—to the changes taking place.</p>
+                            </div>
+                        </div>
+                    </div>
+                </p>
+                <p>
+                    <div class="items-center justify-start rounded-xl p-1 flex">
+                        <div class="flex items-center">
+                        </div>
+                    </div>
+                </p>
+                <bibl>Dupotet, Jean Henri Joseph, "Ordonnance du roi nommant le gouverneur de la Martinique Jean Henri Joseph Dupotet, Contre-Amiral". August 16, 1830, ANOM</bibl>
+                <bibl>Pardon, Jean-Marie,  <emph>La <title>Martinique depuis sa découverte jusqu’à nos jours</title> , </emph> Paris, Chalamel, 1877. Gallica</bibl>
+                <bibl>Chambru, C. and Viallet-Thévenin, S., "Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960".  <title>Revue d’histoire moderne &amp; contemporaine</title>  , n° 66-4(4), 2019, pp. 53-88.</bibl>
+                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
             </note>
             <note xml:lang="fr" type="Person" resp="#jessica">
-                <p>Sébastien Privat Caffié est un propriétaire, marié à Marie Rose Catherien Paret au Gros-Morne (Martinique) le 12 juin 1821. Commissaire-commandant, il est élu maire de la commune de Trinité en 1847.</p>
-                <bibl>Bulletin officiel de la Martinique</bibl>
-                <bibl>"Acte de mariage, 12 juin 1821, Gros Morne." ANOM, Acte numérisé disponible en ligne :   <ref target="http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821">http://anom.archivesnationales.culture.gouv.fr/caomec2/osd.php?territoire=MARTINIQUE&amp;commune=GROS-MORNE&amp;annee=1821</ref>  vue 12</bibl>
-            </note>
-        </person>
-        <person xml:id="Mul">
-            <persName xml:lang="en">Phipps, Constantine, The Earl of Mulgrave</persName>
-            <persName xml:lang="fr">Phipps, Constantine, comte de Mulgrave</persName>
-            <birth>1797</birth>
-            <death>1863</death>
-            <note xml:lang="en" type="Person" resp="#masha">
-                <p>Constantine Phipps, known successively as 1st Marquess of Normanby, Viscount Normanby, and The Earl of Mulgrave was a Whig politician who served as Governor of Jamaica from 1832-1834, Lord Lieutenant of Ireland from 1835 to 1839 and Home Secretary from 1839 to 1841.</p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#masha">
-                <p>Constantine Phipps, premier marquis de Normanby, également vicomte de Normanby et comte de Mulgrave, est une figure politique majeure du parti <emph>Whig</emph>. De 1832 à 1834, il exerce les fonctions de gouverneur de la Jamaïque, avant de devenir Lord Lieutenant d'Irlande de 1835 à 1839, puis secrétaire d'État à l'Intérieur de 1839 à 1841.</p>
-            </note>
-        </person>
-        <person xml:id="CBe">
-            <persName xml:lang="en">Belair, Charles</persName>
-            <persName xml:lang="fr">Belair, Charles</persName>
-            <birth>1760</birth>
-            <death>1802</death>
-            <note xml:lang="en" type="Person" resp="#chelsea">
-                <p>Charles Bélair was Toussaint Louverture’s nephew and a general in the revolutionary army. He was among the Chausseurs volontaires de Saint Domingue recruited to fight in the 1779 Siege of Savannah during the American Revolutionary War. During the Haitian Revolution, he served first as a lieutenant and then aide de camp for Louverture; he was promoted to colonel and then, as part of the expedition to take the eastern side of the island, was named brigadier general and commander of the district of Santo Domingo. After Louverture’s unlawful arrest and deportation in June 1802, Bélair raised the banner of revolt against the French expeditionary forces. Leclerc’s forces arrested his wife and mother, forcing Bélair out of hiding and leading ot his capture. He was executed on October 15, 1802. To the history of Charles Bélair must be added that of his wife, Sanite Bélair, a warrior in her own right who fought beside the insurgents. She was executed alongside her husband. </p>
-                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
-                <bibl>Pascal-Trouillot, Ertha and Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#chelsea">
-                <p>Charles Bélair est le neveu de Toussaint Louverture et un général de l’armée révolutionnaire. Il fait partie des Chasseurs volontaires de Saint-Domingue recrutés pour combattre lors du siège de Savannah (Géorgie) en 1779, pendant la guerre d’indépendance américaine. Au cours de la Révolution haïtienne, il sert d’abord comme lieutenant, puis comme aide de camp de Louverture. Promu colonel, il est ensuite nommé général de brigade et commandant du district de Santo Domingo dans le cadre de l’expédition visant à prendre la partie orientale de l’île.  </p>
-                <p>Après l’arrestation arbitraire et la déportation de Louverture en juin 1802, Bélair prend la tête de l’insurrection contre les forces expéditionnaires françaises. Pour le contraindre à se rendre, l’armée de Leclerc arrête sa femme et sa mère, ce qui entraîne son arrestation. Il est exécuté le 15 octobre 1802. L’histoire de Charles Bélair est indissociable de celle de son épouse, Sanité Bélair, elle-même combattante aux côtés des insurgés. Elle est exécutée le même jour que lui.</p>
-                <bibl>Dayan, Colin,  <title>Haiti, History, and the Gods</title>  . University of California Press, 1995.</bibl>
-                <bibl>Pascal-Trouillot, Ertha et Trouillot, Ernst, eds.,  <title>Encyclopédie biographique d'Haïti</title>  , vol. 1. Éditions SEMIS, 2001.</bibl>
-            </note>
-        </person>
-        <person xml:id="ADA">
-            <persName xml:lang="en">Adams, John</persName>
-            <persName xml:lang="fr">Adams, John</persName>
-            <birth>1735</birth>
-            <death>1826</death>
-            <note xml:lang="en" type="Person" resp="#masha #michaël">
-                <p>John Adams stands out among the first American presidents as a northerner who was never an enslaver. In the immediate aftermath of the American Revolution, he opposed efforts to implement large-scale emancipation in his home state of Massachusetts, but, as primary author of the state’s constitution, which included a Declaration of Rights (written after Adams served as Envoy to France), Adams has long been associated with the state’s de facto abolition in 1780. It was only after the 1781 cases of Mum Bett and Quok Walker, enslaved people who cited the language of the constitution in suing for their freedom, that the document, which does not explicitly prohibit slavery, took on this accepted meaning. </p>
-                <p>John Adams’s presidency is notably marked by the establishment of trade relations with Haiti, which was then in conflict with France.  These political positions, in combination with an 1801 letter in which he expresses “abhorrence” to the institution of slavery, claiming to have always employed free men at significant personal expense, have contributed to Adams’ enduring legacy as a committed abolitionist. Recently, historians have called attention to the ways in which his positions were more in line with contemporaries, noting both that, with regard to Haiti, agreement to continue commerce is hardly a statement of ideological sympathy, and that any actual belief in the principle of equality was never public or explicit.</p>
-                <p>
-                </p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#masha #michaël">
-                <p>John Adams est originaire du Nord des États-Unis et n’a jamais possédé d’esclaves, ce qui le distingue des premiers présidents américains. Bien qu’opposé à l’émancipation générale des esclaves dans son État natal du Massachusetts après la Révolution, il rédige pour le jeune État une constitution qui comprend une Déclaration des droits (il rentre alors d’une mission diplomatique en France) et œuvre de fait à la disparition progressive de l’esclavage dans le Massachusetts. Dans les années qui suivent l’adoption de la constitution en 1780, des personnes esclavisées telles que Mum Bett et Quok Walker n'hésitent pas à invoquer ce document pour poursuivre leur maître et réclamer leur liberté devant les tribunaux.</p>
-                <p>Le mandat de John Adams est notamment marqué par l’établissement de relations commerciales avec Haïti, alors en conflit avec la France. Ses prises de position politiques, ainsi qu’une lettre de 1801 dans laquelle il exprime sa « détestation » de l’esclavage et affirme avoir toujours employé des hommes libres, même lorsque le coût de leur travail était élevé, ont largement contribué à forger sa réputation d’abolitionniste engagé.</p>
-                <p>Cette image a toutefois été nuancée par l’historiographie récente, qui souligne la proximité d’Adams avec ses contemporains sur la question de l’esclavage. Le maintien des échanges avec Haïti, par exemple, ne traduit pas nécessairement une sympathie à l’égard de l’indépendance haïtienne, et Adams ne s’est jamais publiquement ni explicitement exprimé en faveur de l’égalité raciale.</p>
-                <p>
-                </p>
-            </note>
-        </person>
-        <person xml:id="FXD">
-            <persName xml:lang="en">Donzelot, François-Xavier</persName>
-            <persName xml:lang="fr">Donzelot, François-Xavier</persName>
-            <birth>1764</birth>
-            <death>1843</death>
-            <note xml:lang="en" type="Person" resp="#greg #abel">
-                <figure>
-                    <graphic url="Donzelot_7fc4e73ceb.jpg"/>
-                </figure>
-                <p>François Xavier Donzelot was born in Mamirolle, Franche-Comté, on January 6, 1764. He entered military service in 1785 in the Royale-Marine regiment and quickly rose through the ranks. Appointed second lieutenant in 1792 in the 21st Cavalry Regiment, he distinguished himself during the campaigns of the Revolution, the Consulate, and the Empire between 1793 and 1807, earning a promotion to divisional general on December 6, 1807. In 1815, he fought at Waterloo and continued his career under the Bourbon Restoration. On October 31, 1817, Louis XVIII appointed him civil and military governor of Martinique, a position he held until 1826 before requesting to return to France.  </p>
-                <p>His administration was marked by his firm support for maintaining the slave system, which earned him the favor of the island’s white plantation owners. In October 1822, during the slave uprising in Le Carbet, he ordered a violent crackdown led by white militias and free men of color, among whom was Cyrille Bissette. Although he initially showed some willingness to listen to the grievances of Fort-Royal’s free people of color, particularly those voiced by Bissette, Donzelot gradually distanced himself from this stance. Pressured by white landowners determined to protect their privileges and exclude free people of color from any claim to equality, he became convinced that they harbored rebellious intentions and sought to incite an uprising akin to that of Saint-Domingue.  </p>
-                <p>The Bissette Affair (1823-1824) definitively aligned him with the interests of the slaveholding elite. Under his governance, more than two hundred individuals were deported without trial. In 1826, he was granted his request to return to France. He retired to Mamirolle before settling in Neuilly-sur-Marne, where he died on July 11, 1843.</p>
-                <bibl>Schloss, Rebecca Hartkopf.  <title>Sweet Liberty: The Final Days of Slavery in Martinique</title>  . Philadelphia, Pennsylvania: University of Pennsylvania Press, 2009.</bibl>
-                <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#greg #abel">
-                <figure>
-                    <graphic url="Donzelot_7fc4e73ceb.jpg"/>
-                </figure>
-                <p>François Xavier Donzelot naît à Mamirolle, en Franche-Comté, le 6 janvier 1764. Il entre au service en 1785 dans le régiment Royale-Marine et gravit rapidement les échelons militaires. Nommé sous-lieutenant en 1792 au 21ᵉ régiment de cavalerie, il se distingue lors des campagnes de la Révolution, du Consulat et de l’Empire entre 1793 et 1807, ce qui lui vaut d’être promu général de division le 6 décembre 1807. En 1815, il se distingue à Waterloo, poursuivant ensuite sa carrière sous la Restauration. Le 31 octobre 1817, Louis XVIII le nomme gouverneur civil et militaire de la Martinique, un poste qu’il occupe jusqu’en 1826, avant de demander son rappel en Métropole.</p>
-                <p>Son administration est marquée par son soutien au maintien du système esclavagiste, ce qui lui vaut l’estime des colons blancs de l’île. En octobre 1822, lors de la révolte des esclaves du Carbet, il ordonne une répression brutale menée par les milices blanches et les libres de couleur, parmi lesquels figure Cyrille Bissette. Bien qu’ayant initialement prêté une oreille attentive aux doléances des libres de couleur de Fort-Royal, notamment sous l’impulsion de Bissette, Donzelot s’éloigne progressivement de cette position. Harcelé par les propriétaires blancs, soucieux de préserver leurs privilèges et d’exclure les libres de couleur de toute prétention à l’égalité, il se laisse convaincre que ces derniers nourrissent des velléités de révolte et qu’ils aspirent à un soulèvement comparable à celui de Saint-Domingue.</p>
-                <p>L’affaire Bissette (1823-1824) scelle définitivement son alignement sur les intérêts des planteurs esclavagistes. Sous sa gouvernance, plus de deux cents personnes sont déportées sans procès. En 1826, son souhait de retourner en Métropole est exaucé. Il se retire à Mamirolle avant de s’établir à Neuilly-sur-Marne, où il meurt le 11 juillet 1843.</p>
-                <bibl>Schloss, Rebecca Hartkopf.  <title>Sweet Liberty: The Final Days of Slavery in Martinique</title>  . Philadelphia, Pennsylvania: University of Pennsylvania Press, 2009.</bibl>
-                <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
+                <p>Les gouverneurs coloniaux sont de hauts fonctionnaires qui représentent l’État dans les<br/>colonies. Ils sont investis d’un pouvoir considérable, leurs attributions couvrant l’ensemble<br/>des domaines législatifs, judiciaires, militaire et de représentation.</p>
+                <p><br/>Le contre-amiral Dupotet est nommé gouverneur, par ordonnance du 11 août 1830, en<br/>remplacement du contre-amiral Frescinet, nommé en 1829, lequel demanda à quitter ce<br/>commandement. Nommé en pleine période de changement de régime, le gouverneur Dupotet<br/>- à qui le pouvoir central autorise d’agir sous sa propre responsabilité - a notamment pour<br/>ordre de faire disparaître toutes distinctions à l’égard des libres de couleur et les assimiler aux<br/>blancs. Le 12 novembre 1830, il signe un arrêté faisant disparaître certains règlements locaux<br/>discriminants et tombés en désuétude. Il a également pour objectif d’affranchir,<br/>progressivement, un certain nombre d’esclaves. Or Dupotet découvre peu à peu la réalité du<br/>système colonial et se heurte aux préjugés raciaux et aux pratiques violentes des colons,<br/>aveugles aux changements alors à l’œuvre.</p>
+                <bibl>Dupotet, Jean Henri Joseph, « Ordonnance du roi nommant le gouverneur de la Martinique Jean Henri Joseph Dupotet, Contre-Amiral ». 16 août 1830, ANOM</bibl>
+                <bibl>Pardon, Jean-Marie,  <emph>La <title>Martinique depuis sa découverte jusqu’à nos jours</title> , </emph> Paris, Chalamel, 1877. Gallica</bibl>
+                <bibl>Chambru, C. et Viallet-Thévenin, S., "Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960".  <title>Revue d’histoire moderne &amp; contemporaine</title>  , n° 66-4(4), 2019, pp. 53-88.</bibl>
+                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
             </note>
         </person>
         <person xml:id="ADp">
@@ -438,43 +471,6 @@
                 <p>Avocat au parlement de Paris à la veille de la Révolution, Léger-Félicité Sonthonax fréquente le club des Jacobins où il fait la connaissance d’Étienne Polverel et de Jacques Pierre Brissot, créateur de la <title>Société des Amis des Noirs</title>, en 1788. Nommé commissaire civil, il est envoyé avec Polverel à Saint-Domingue pour faire appliquer la loi du 4 avril 1792 reconnaissant les droits politiques des « libres de couleur ». Face aux importantes insurrections antiesclavagistes et à l’alliance hispano-britannique contre la France, les deux commissaires civils accordent de manière ponctuelle la liberté à tous les Africains et descendants d’Africains acceptant de combattre sous les drapeaux de la République. La proclamation de Sonthonax, le 29 août 1793, officialise l’émancipation générale dans la partie Nord de l’île.</p>
                 <bibl>Dorigny, Marcel, éd.  <title>Les Abolitions de l’esclavage: de L.F. Sonthonax à V. Schoelcher, 1793, 1794, 1848</title> . Paris: Presses universitaires de Vincennes, UNESCO, 1995.</bibl>
                 <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title> .  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
-            </note>
-        </person>
-        <person xml:id="JHD">
-            <persName xml:lang="en">Dupotet, Jean Henri Joseph</persName>
-            <persName xml:lang="fr">Dupotet, Jean Henri Joseph </persName>
-            <birth>1777</birth>
-            <death>1852</death>
-            <note xml:lang="en" type="Person" resp="#jessica">
-                <p>
-                    <div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="7a3d44ad-7ca6-4eea-803f-4f6ac8329355" data-message-model-slug="gpt-4o">
-                        <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
-                            <div class="markdown prose w-full break-words dark:prose-invert light">
-                                <p>Colonial governors are high-ranking officials who represent the state in the colonies. They wield considerable power, with authority extending across legislative, judicial, military, and diplomatic domains.  </p>
-                                <p>Rear Admiral Dupotet was appointed governor by ordinance on August 11, 1830, replacing Rear Admiral Frescinet, who had been appointed in 1829 and requested to leave his post. Taking office during a period of political transition, Dupotet was granted the authority to act at his own discretion by the central government. Among his primary directives was the abolition of all distinctions against free people of color, ensuring their legal assimilation with whites. On November 12, 1830, he signed a decree eliminating certain outdated local regulations that had perpetuated discrimination. He was also tasked with implementing a gradual process of emancipation for a number of enslaved individuals.  </p>
-                                <p>However, as Dupotet gained a deeper understanding of the colonial system, he encountered the entrenched racial prejudices and violent practices of the planters, who remained oblivious—or resistant—to the changes taking place.</p>
-                            </div>
-                        </div>
-                    </div>
-                </p>
-                <p>
-                    <div class="items-center justify-start rounded-xl p-1 flex">
-                        <div class="flex items-center">
-                        </div>
-                    </div>
-                </p>
-                <bibl>Dupotet, Jean Henri Joseph, "Ordonnance du roi nommant le gouverneur de la Martinique Jean Henri Joseph Dupotet, Contre-Amiral". August 16, 1830, ANOM</bibl>
-                <bibl>Pardon, Jean-Marie,  <emph>La <title>Martinique depuis sa découverte jusqu’à nos jours</title> , </emph> Paris, Chalamel, 1877. Gallica</bibl>
-                <bibl>Chambru, C. and Viallet-Thévenin, S., "Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960".  <title>Revue d’histoire moderne &amp; contemporaine</title>  , n° 66-4(4), 2019, pp. 53-88.</bibl>
-                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#jessica">
-                <p>Les gouverneurs coloniaux sont de hauts fonctionnaires qui représentent l’État dans les<br/>colonies. Ils sont investis d’un pouvoir considérable, leurs attributions couvrant l’ensemble<br/>des domaines législatifs, judiciaires, militaire et de représentation.</p>
-                <p><br/>Le contre-amiral Dupotet est nommé gouverneur, par ordonnance du 11 août 1830, en<br/>remplacement du contre-amiral Frescinet, nommé en 1829, lequel demanda à quitter ce<br/>commandement. Nommé en pleine période de changement de régime, le gouverneur Dupotet<br/>- à qui le pouvoir central autorise d’agir sous sa propre responsabilité - a notamment pour<br/>ordre de faire disparaître toutes distinctions à l’égard des libres de couleur et les assimiler aux<br/>blancs. Le 12 novembre 1830, il signe un arrêté faisant disparaître certains règlements locaux<br/>discriminants et tombés en désuétude. Il a également pour objectif d’affranchir,<br/>progressivement, un certain nombre d’esclaves. Or Dupotet découvre peu à peu la réalité du<br/>système colonial et se heurte aux préjugés raciaux et aux pratiques violentes des colons,<br/>aveugles aux changements alors à l’œuvre.</p>
-                <bibl>Dupotet, Jean Henri Joseph, « Ordonnance du roi nommant le gouverneur de la Martinique Jean Henri Joseph Dupotet, Contre-Amiral ». 16 août 1830, ANOM</bibl>
-                <bibl>Pardon, Jean-Marie,  <emph>La <title>Martinique depuis sa découverte jusqu’à nos jours</title> , </emph> Paris, Chalamel, 1877. Gallica</bibl>
-                <bibl>Chambru, C. et Viallet-Thévenin, S., "Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960".  <title>Revue d’histoire moderne &amp; contemporaine</title>  , n° 66-4(4), 2019, pp. 53-88.</bibl>
-                <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
             </note>
         </person>
         <person xml:id="Lass">
@@ -889,6 +885,38 @@
         </person>
     </listPerson>
     <listPlace>
+        <place xml:id="Alg">
+            <placeName xml:lang="en">Alger</placeName>
+            <placeName xml:lang="fr">Alger</placeName>
+            <location>
+                <geo decls="#geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0570861863501477,
+          36.77849021580727
+        ]
+      },
+      "properties": {}
+    }
+  ]
+}</geo>
+            </location>
+            <note xml:lang="en" type="Place" resp="#masha">
+                <p>French forces first entered the city of Algiers in July, 1830, in the closing days of the reign of Charles X, with formal military annexation beginning in 1834. At the time of the <title>Revue</title>’s initial publication, Algiers was metonymic of all the conquests carried out during the “pacification” operations, constituting a territory too restricted to be perceived distinctly from the city. It was in 1847, when the conquest took a definitive turn with the surrender of Abd el-Kader, that the territory of colonial Algeria began to expand in a precipitous manner. Although it generally opposes the violence of the occupying forces, the <title>Revue </title>is never explicitly critical of the colonization of Algeria.</p>
+                <bibl>Bouchène, Abderrahmane, Jean-Pierre Peyroulou, Ouanassa Siari Tengour, Sylvie Thénault, eds.  <title>Histoire de l’Algérie à la période coloniale, 1830-1962. </title> Paris: La Découverte, 2014.</bibl>
+                <bibl>Sessions, Jennifer E.  <title>By Sword and Plow: France and the Conquest of Algeria</title> . Ithaca: Cornell University Press, 2014.</bibl>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#masha">
+                <p>Les forces françaises entrent pour la première fois dans la ville d’Alger en juillet 1830, dans les derniers jours du règne de Charles X, avec une annexion militaire formelle commençant en 1834. Au moment de la première livraison de la <title>Revue</title>, Alger est métonymique de l’ensemble des conquêtes effectuées au cours des opérations de « pacification », constituant un territoire trop restreint pour être perçu différemment de la ville. C’est en 1847, lorsque la conquête amorce un tournant définitif avec la reddition d’Abd el-Kader, que le territoire de l’Algérie coloniale commence à s’étendre de manière précipitée. Bien qu’elle soit généralement opposée à la violence des forces d’occupation, la <title>Revue </title>ne se montre jamais explicitement hostile à la colonisation de l’Algérie.</p>
+                <bibl>Bouchène, Abderrahmane, Jean-Pierre Peyroulou, Ouanassa Siari Tengour, Sylvie Thénault, eds.  <title>Histoire de l’Algérie à la période coloniale, 1830-1962. </title> Paris: La Découverte, 2014.</bibl>
+                <bibl>Sessions, Jennifer E.  <title>By Sword and Plow: France and the Conquest of Algeria</title> . Ithaca: Cornell University Press, 2014.</bibl>
+            </note>
+        </place>
         <place xml:id="ANT">
             <placeName xml:lang="en">Antigua</placeName>
             <placeName xml:lang="fr">Antigues</placeName>
@@ -1657,38 +1685,6 @@
                 <bibl>Anglade, Georges,  <title>Atlas critique d’Haïti</title>  . ERCE et CRC, 1982. </bibl>
             </note>
         </place>
-        <place xml:id="Alg">
-            <placeName xml:lang="en">Alger</placeName>
-            <placeName xml:lang="fr">Alger</placeName>
-            <location>
-                <geo decls="#geojson">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.0570861863501477,
-          36.77849021580727
-        ]
-      },
-      "properties": {}
-    }
-  ]
-}</geo>
-            </location>
-            <note xml:lang="en" type="Place" resp="#masha">
-                <p>French forces first entered the city of Algiers in July, 1830, in the closing days of the reign of Charles X, with formal military annexation beginning in 1834. At the time of the <title>Revue</title>’s initial publication, Algiers was metonymic of all the conquests carried out during the “pacification” operations, constituting a territory too restricted to be perceived distinctly from the city. It was in 1847, when the conquest took a definitive turn with the surrender of Abd el-Kader, that the territory of colonial Algeria began to expand in a precipitous manner. Although it generally opposes the violence of the occupying forces, the <title>Revue </title>is never explicitly critical of the colonization of Algeria.</p>
-                <bibl>Bouchène, Abderrahmane, Jean-Pierre Peyroulou, Ouanassa Siari Tengour, Sylvie Thénault, eds.  <title>Histoire de l’Algérie à la période coloniale, 1830-1962. </title> Paris: La Découverte, 2014.</bibl>
-                <bibl>Sessions, Jennifer E.  <title>By Sword and Plow: France and the Conquest of Algeria</title> . Ithaca: Cornell University Press, 2014.</bibl>
-            </note>
-            <note xml:lang="fr" type="Place" resp="#masha">
-                <p>Les forces françaises entrent pour la première fois dans la ville d’Alger en juillet 1830, dans les derniers jours du règne de Charles X, avec une annexion militaire formelle commençant en 1834. Au moment de la première livraison de la <title>Revue</title>, Alger est métonymique de l’ensemble des conquêtes effectuées au cours des opérations de « pacification », constituant un territoire trop restreint pour être perçu différemment de la ville. C’est en 1847, lorsque la conquête amorce un tournant définitif avec la reddition d’Abd el-Kader, que le territoire de l’Algérie coloniale commence à s’étendre de manière précipitée. Bien qu’elle soit généralement opposée à la violence des forces d’occupation, la <title>Revue </title>ne se montre jamais explicitement hostile à la colonisation de l’Algérie.</p>
-                <bibl>Bouchène, Abderrahmane, Jean-Pierre Peyroulou, Ouanassa Siari Tengour, Sylvie Thénault, eds.  <title>Histoire de l’Algérie à la période coloniale, 1830-1962. </title> Paris: La Découverte, 2014.</bibl>
-                <bibl>Sessions, Jennifer E.  <title>By Sword and Plow: France and the Conquest of Algeria</title> . Ithaca: Cornell University Press, 2014.</bibl>
-            </note>
-        </place>
         <place xml:id="TRI">
             <placeName xml:lang="en">La Trinité</placeName>
             <placeName xml:lang="fr">La Trinité</placeName>
@@ -2049,6 +2045,36 @@
         </org>
     </listOrg>
     <listBibl>
+        <bibl xml:id="ldf10" type="legal">
+            <title xml:lang="en">Law of Floréal, Year 10</title>
+            <title xml:lang="fr">Loi de floréal, an 10</title>
+            <note xml:lang="en" type="Publication" resp="#chelsea">
+                <p>The <emph>loi de floréal an 10 </emph>refers to the decree-law (or statuary law) authorizing the slave trade and slavery in the colonies restored by the Treaty of Amiens (<emph>Décret-loi autorisant la traite et l'esclavage dans les colonies restituées par le traité d’Amiens</emph>). The law, proposed by First Consul Bonaparte and debated by the assemblies, was adopted on May 20, 1802 (30 floréal an 10).</p>
+                <p>The pertinent text of the law is as follows:</p>
+                <p>Article 1: “Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieures à 1789.”<br/>Article 3: “La traite des noirs et leur importation des lesdites colonies, auront lieu, conformément aux lois et règlemens existans avant ladite époque de 1789.”</p>
+                <p>Slavery had been abolished first in Saint Domingue in 1793 by civil commissioners Leger-Félicité Sonthonax and Étienne Polverel. A committee from Saint-Domingue then sailed to France to urge the government to ratify the 1793 proclamations for all French colonies. On February 4, 1794 the Convention proclaimed slavery abolished throughout the Republic. Though applied in Guadeloupe and, eventually, Guyana, the 1794 decree was not applied in Martinique, Saint Lucia or Tobago (then under British occupation) or in the Indian Ocean colonies (which essentially delayed and refused). The Treaty of Amiens signed March 15, 1802 with Great Britain thus restored to France those colonies that had maintained slavery and the slave trade throughout the period of occupation. The May 20 law did not reestablish slavery throughout the French colonies but was nevertheless a stark retreat from the values of 1789: slavery and the slave trade was now legal in the French Republic. A consular order from July 16, 1802 (27 messidor an X) reestablished slavery in Guadeloupe. </p>
+                <p>There is a lack of clarity, both in contemporary scholarship and in the <emph>Revue</emph>, on the nature of the May 20 decree-law. Scholars often incorrectly cite the law as the date that marks Bonaparte’s reestablishment of slavery throughout the French colonies. Bissette’s exaggerated claim, “Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue” reveals that this confusion was in place even in 1830s. It also confirms the effectiveness of Bonaparte’s attempts to reestablish slavery under the radar and without fanfare. Nevertheless, Bissette is correct about the consequences of Bonaparte and the Consulate’s pro-slavery machinations in contributing to the anticolonial, antislavery act of Haitian independence. </p>
+                <bibl>Niort, Jean-François and Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
+                <bibl>Bénot, Yves and Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#chelsea">
+                <p>La loi de floréal an 10 désigne le décret rétablissant officiellement la traite et l’esclavage dans les colonies restituées à la France par le traité d’Amiens. Proposée par le Premier Consul Bonaparte et débattue par les assemblées, elle fut adoptée le 20 mai 1802 (30 floréal an 10).</p>
+                <p>Les articles les plus significatifs en sont les suivants :</p>
+                <ul>
+                    <li>Article 1 : « Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieurs à 1789. »</li>
+                    <li>Article 3 : « La traite des Noirs et leur importation dans lesdites colonies auront lieu, conformément aux lois et réglemens existants avant ladite époque de 1789. »</li>
+                </ul>
+                <p>L’abolition de l’esclavage avait été proclamée pour la première fois à Saint-Domingue en 1793 par les commissaires civils Léger-Félicité Sonthonax et Étienne Polverel. Un comité mandaté par la colonie s’était alors rendu en France pour plaider en faveur d’une généralisation de cette mesure. Le 4 février 1794, la Convention nationale décréta l’abolition de l’esclavage dans l’ensemble de la République. Ce décret fut appliqué en Guadeloupe et, plus tard, en Guyane, mais resta sans effet en Martinique, à Sainte-Lucie et à Tobago, alors sous occupation britannique, ainsi que dans les colonies de l’océan Indien, où son application fut délibérément différée.</p>
+                <p>Le traité d’Amiens, signé avec la Grande-Bretagne le 15 mars 1802, permit à la France de récupérer plusieurs colonies où l’esclavage et la traite avaient été maintenus sous administration britannique. La loi du 20 mai 1802 ne rétablissait pas formellement l’esclavage dans l’ensemble des territoires français, mais elle marquait une rupture avec les principes de 1789 en entérinant la légalité de l’esclavage et de la traite dans certaines colonies. Quelques mois plus tard, un arrêté consulaire du 16 juillet 1802 (27 messidor an X) confirma explicitement le rétablissement de l’esclavage en Guadeloupe.</p>
+                <p>Tant l’historiographie contemporaine que la <emph>Revue des Colonies</emph> entretiennent une certaine confusion quant à la portée exacte du décret du 20 mai. Nombre d’historiens citent à tort cette loi comme l’acte fondateur du rétablissement de l’esclavage dans toutes les colonies françaises. L’affirmation de Cyrille Bissette—« Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue »—illustre bien que cette lecture erronée existait déjà dans les années 1830. Elle témoigne également du succès de la stratégie de Bonaparte, qui chercha à rétablir l’esclavage de manière discrète, sans déclaration officielle retentissante. Pourtant, Bissette ne se trompe pas sur les effets des politiques du Consulat : les manœuvres pro-esclavagistes de Bonaparte contribuèrent directement à l’acte d’indépendance haïtien, dont la portée fut à la fois anticoloniale et antiesclavagiste.</p>
+                <p>
+                </p>
+                <p>https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/lessentiel-dossier-<br/>napoleon-et-le-retablissement-de</p>
+                <p><br/>https://www.portail-esclavage-reunion.fr/documentaires/abolition-de-l-esclavage/l-abolition-de-l-<br/>esclavage-a-la-reunion/la-premiere-abolition-de-lesclavage-par-la-france-et-sa-non-application-<br/>a-la-reunion/</p>
+                <bibl>Niort, Jean-François et Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
+                <bibl>Bénot, Yves et Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
+            </note>
+        </bibl>
         <bibl xml:id="Cd1814" type="legal">
             <title xml:lang="en">Charter of 1814</title>
             <title xml:lang="fr">Charte de 1814</title>
@@ -2092,36 +2118,6 @@
                 <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; et Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
                 <bibl>Gaffield, Julia, “The Racialization of International Law after the Haitian Revolution: The Holy See and National Sovereignty,”  <title>The American Historical Review</title>   125, no. 3 (2020). 841–868. https://doi.org/10.1093/ahr/rhz1226</bibl>
                 <bibl>Porter, Catherine; Méhout, Constan; Apuzzo, Matt; and Gebrekidan, Selam, “The Ransom,”  <title>The New York Times</title>  , May 20, 2022.</bibl>
-            </note>
-        </bibl>
-        <bibl xml:id="ldf10" type="legal">
-            <title xml:lang="en">Law of Floréal, Year 10</title>
-            <title xml:lang="fr">Loi de floréal, an 10</title>
-            <note xml:lang="en" type="Publication" resp="#chelsea">
-                <p>The <emph>loi de floréal an 10 </emph>refers to the decree-law (or statuary law) authorizing the slave trade and slavery in the colonies restored by the Treaty of Amiens (<emph>Décret-loi autorisant la traite et l'esclavage dans les colonies restituées par le traité d’Amiens</emph>). The law, proposed by First Consul Bonaparte and debated by the assemblies, was adopted on May 20, 1802 (30 floréal an 10).</p>
-                <p>The pertinent text of the law is as follows:</p>
-                <p>Article 1: “Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieures à 1789.”<br/>Article 3: “La traite des noirs et leur importation des lesdites colonies, auront lieu, conformément aux lois et règlemens existans avant ladite époque de 1789.”</p>
-                <p>Slavery had been abolished first in Saint Domingue in 1793 by civil commissioners Leger-Félicité Sonthonax and Étienne Polverel. A committee from Saint-Domingue then sailed to France to urge the government to ratify the 1793 proclamations for all French colonies. On February 4, 1794 the Convention proclaimed slavery abolished throughout the Republic. Though applied in Guadeloupe and, eventually, Guyana, the 1794 decree was not applied in Martinique, Saint Lucia or Tobago (then under British occupation) or in the Indian Ocean colonies (which essentially delayed and refused). The Treaty of Amiens signed March 15, 1802 with Great Britain thus restored to France those colonies that had maintained slavery and the slave trade throughout the period of occupation. The May 20 law did not reestablish slavery throughout the French colonies but was nevertheless a stark retreat from the values of 1789: slavery and the slave trade was now legal in the French Republic. A consular order from July 16, 1802 (27 messidor an X) reestablished slavery in Guadeloupe. </p>
-                <p>There is a lack of clarity, both in contemporary scholarship and in the <emph>Revue</emph>, on the nature of the May 20 decree-law. Scholars often incorrectly cite the law as the date that marks Bonaparte’s reestablishment of slavery throughout the French colonies. Bissette’s exaggerated claim, “Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue” reveals that this confusion was in place even in 1830s. It also confirms the effectiveness of Bonaparte’s attempts to reestablish slavery under the radar and without fanfare. Nevertheless, Bissette is correct about the consequences of Bonaparte and the Consulate’s pro-slavery machinations in contributing to the anticolonial, antislavery act of Haitian independence. </p>
-                <bibl>Niort, Jean-François and Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
-                <bibl>Bénot, Yves and Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
-            </note>
-            <note xml:lang="fr" type="Publication" resp="#chelsea">
-                <p>La loi de floréal an 10 désigne le décret rétablissant officiellement la traite et l’esclavage dans les colonies restituées à la France par le traité d’Amiens. Proposée par le Premier Consul Bonaparte et débattue par les assemblées, elle fut adoptée le 20 mai 1802 (30 floréal an 10).</p>
-                <p>Les articles les plus significatifs en sont les suivants :</p>
-                <ul>
-                    <li>Article 1 : « Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieurs à 1789. »</li>
-                    <li>Article 3 : « La traite des Noirs et leur importation dans lesdites colonies auront lieu, conformément aux lois et réglemens existants avant ladite époque de 1789. »</li>
-                </ul>
-                <p>L’abolition de l’esclavage avait été proclamée pour la première fois à Saint-Domingue en 1793 par les commissaires civils Léger-Félicité Sonthonax et Étienne Polverel. Un comité mandaté par la colonie s’était alors rendu en France pour plaider en faveur d’une généralisation de cette mesure. Le 4 février 1794, la Convention nationale décréta l’abolition de l’esclavage dans l’ensemble de la République. Ce décret fut appliqué en Guadeloupe et, plus tard, en Guyane, mais resta sans effet en Martinique, à Sainte-Lucie et à Tobago, alors sous occupation britannique, ainsi que dans les colonies de l’océan Indien, où son application fut délibérément différée.</p>
-                <p>Le traité d’Amiens, signé avec la Grande-Bretagne le 15 mars 1802, permit à la France de récupérer plusieurs colonies où l’esclavage et la traite avaient été maintenus sous administration britannique. La loi du 20 mai 1802 ne rétablissait pas formellement l’esclavage dans l’ensemble des territoires français, mais elle marquait une rupture avec les principes de 1789 en entérinant la légalité de l’esclavage et de la traite dans certaines colonies. Quelques mois plus tard, un arrêté consulaire du 16 juillet 1802 (27 messidor an X) confirma explicitement le rétablissement de l’esclavage en Guadeloupe.</p>
-                <p>Tant l’historiographie contemporaine que la <emph>Revue des Colonies</emph> entretiennent une certaine confusion quant à la portée exacte du décret du 20 mai. Nombre d’historiens citent à tort cette loi comme l’acte fondateur du rétablissement de l’esclavage dans toutes les colonies françaises. L’affirmation de Cyrille Bissette—« Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue »—illustre bien que cette lecture erronée existait déjà dans les années 1830. Elle témoigne également du succès de la stratégie de Bonaparte, qui chercha à rétablir l’esclavage de manière discrète, sans déclaration officielle retentissante. Pourtant, Bissette ne se trompe pas sur les effets des politiques du Consulat : les manœuvres pro-esclavagistes de Bonaparte contribuèrent directement à l’acte d’indépendance haïtien, dont la portée fut à la fois anticoloniale et antiesclavagiste.</p>
-                <p>
-                </p>
-                <p>https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/lessentiel-dossier-<br/>napoleon-et-le-retablissement-de</p>
-                <p><br/>https://www.portail-esclavage-reunion.fr/documentaires/abolition-de-l-esclavage/l-abolition-de-l-<br/>esclavage-a-la-reunion/la-premiere-abolition-de-lesclavage-par-la-france-et-sa-non-application-<br/>a-la-reunion/</p>
-                <bibl>Niort, Jean-François et Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
-                <bibl>Bénot, Yves et Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
             </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">
