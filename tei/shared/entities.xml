@@ -7,6 +7,67 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
+        <person xml:id="ANog">
+            <persName xml:lang="en">Nogues, Arsène</persName>
+            <persName xml:lang="fr">Nogues, Arsène</persName>
+            <birth>1798</birth>
+            <death>1869</death>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p>Born in Redon on June 12, 1798, Arsene Nogues held various positions in Brest and Nancy and was also attorney general in Guadeloupe then in Martinique during the 1830s. Later, he was advisor to the royal court of Rouen in 1845. Married to the daughter of a coffee merchant and planter of Guadeloupean origin, Jean Joseph Albert Chaviteau, who settled in Cuba at the beginning of the 19th century, Nogues had strong ties to the planter community. Nogues represented the public prosecutor as attorney general during the Grande Anse affair in December 1833. The indictment prepared by Nogues in June 1834, recovered by the historian Armand Nicolas describes the events thusly: “It is an armed insurrection, prepared for a long time... by almost the entire colored population of a district of the colony, with whom conspirators from another district and even from several others had colluded to carry out the pillage, devastation and burning of the colony, to massacre all the whites there in order to seize their property.” The members of the Assize Court of Saint-Pierre, presided over by de Perinelle and composed of advisors Richard de Lucy, Le Pelletier, and Duclary, the same ones who condemned Bissette and his comrades, were all white Creoles. They sentenced 141 individuals of color to various punishments.</p>
+                <p>
+                </p>
+                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
+                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
+                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Né à Redon le 12 juin 1798, il occupe divers postes à Brest et à Nancy et est aussi procureur général en Guadeloupe puis en Martinique durant les années 1830. Puis, il est ensuite conseiller à la cour royale de Rouen en 1845. Marié à la fille d’un négociant et planteur de café d’origine guadeloupéenne, Jean Joseph Albert Chaviteau, qui se fixa à Cuba au début du XIXe siècle, il est donc lié fortement au milieu des colons. Arsène Nogues, est celui qui représente le ministère public en tant que procureur général lors de l’affaire de la Grande Anse (commune du Lorrain aujourd’hui) en décembre 1833. L’historien Armand Nicolas cite ainsi l’acte d’accusation en juin 1834 que Arsène Nogues dresse en notifiant que : “C’est une insurrection à main armée, préparée depuis longtemps... par la presque totalité de la population de couleur d’un quartier de la colonie, avec laquelle des conspirateurs d’un autre quartier et même de plusieurs autres s’étaient entendus pour porter le pillage, la dévastation et l’incendie de la colonie, pour y massacrer tous les Blancs afin de s’emparer de leurs biens”. Au nombre des membres de la Cour d’Assises de Saint-Pierre présidée par de Perinelle et composée de conseillers (Richard de Lucy, Le Pelletier Duclary), tous blancs créoles, les mêmes qui ont condamné Bissette et ses camarades, se trouve donc des hommes imbus de leurs pouvoirs discrétionnaires. Ils vont condamner 141 individus de couleur à diverses peines.</p>
+                <p>
+                </p>
+                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
+                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
+                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
+            </note>
+        </person>
+        <person xml:id="LePell">
+            <persName xml:lang="en">Jean-Baptiste François Le Pelletier-Duclary</persName>
+            <persName xml:lang="fr">Jean-Baptiste François Le Pelletier-Duclary</persName>
+            <birth>1791 or 1793</birth>
+            <death>1865</death>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p>Lawyer at the court of Paris, assessor to the Superior Council of Martinique (took offic 1819), councilor to the Royal Court of Martinique (May 9, 1821, confirmed October 5 1828), of which he became president in January 1835, knight of the Legion of Honor (January 16, 1836), president of the Colonial Council of Martinique from 1834 to 1838 and from 1839 to 1847. He married Marie Elisabeth Nelly Cornette de Saint-Cyr, a white Creole woman on June 11, 1821 in Case Pilote. Like many white settlers, he refused any reformation of the slave system, particularly in favor of equality for free people of color. He was one of the members of the Assize Court of Saint-Pierre chaired by de Perinelle who judged the 173 individuals accused during the Grande Anse affair (Lorrain) of December 1833. He shared quite naturally the prejudices and principles inherent in the mentality and social group of the powerful white families of the colony who made up the colonial judiciary between the decades of 1820 and 1840. </p>
+                <p>
+                </p>
+                <p>https://www.patrimoines-martinique.org/ark:/35569/w6lcx297j5p0/c1f43fd7-b3e2-4d32-b04f-d620bbbbf54e</p>
+                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Né le 26 décembre 1791 ou le 28 janvier 1793 à Case-Pilote en Martinique selon les sources consultées, décédé le 12 juillet 1865 à Case-Pilote, habitant propriétaire domicilié dans cette paroisse et quartier, avocat à la cour de Paris, assesseur au Conseil supérieur de la Martinique en fonctions en 1819, conseiller à la Cour royale de la Martinique (9 mai 1821, confirmé le 5 octobre 1828) dont il est président en janvier 1835, chevalier de la légion d’honneur (16 janvier 1836), président du Conseil colonial de la Martinique de 1834 à 1838 et de 1839 à 1847. Il épouse à Case-Pilote, Marie Elisabeth Nelly Cornette de Saint-Cyr, blanche créole, le 11 juin 1821. Il est l’incarnation même des colons, blancs créoles, refusant toute évolution du système esclavagiste notamment en faveur de l’égalité pour les libres de couleur. Il fait partie des membres de la Cour d’assises de Saint-Pierre présidée par de Perinelle qui juge au début du mois de juin 1834 les 173 individus accusés lors de l’affaire de la Grande Anse (Lorrain) en décembre 1833. Il partage tout naturellement les préjugés et les principes inhérents à la mentalité et au groupe social des grandes familles blanches de la colonie qui composent la magistrature coloniale entre les décennies 1820 et 1840.</p>
+                <p>
+                </p>
+                <p>https://www.patrimoines-martinique.org/ark:/35569/w6lcx297j5p0/c1f43fd7-b3e2-4d32-b04f-d620bbbbf54e</p>
+                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
+                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
+            </note>
+        </person>
+        <person xml:id="MACK">
+            <persName xml:lang="en">Ange René Armand, baron de Mackau</persName>
+            <persName xml:lang="fr">Ange René Armand, baron de Mackau</persName>
+            <birth>1788</birth>
+            <death>1855</death>
+            <note xml:lang="en" type="Person" resp="#chelsea">
+                <p>Baron Ange-René-Armand de Mackau had a long career in the navy in various French colonies. He was chosen as Charles X’s envoy to Haiti to deliver—backed by a fleet of 14 warships—the 1825 ordonnance to Haitian president Jean-Pierre Boyer. He later became minister of the navy and colonies. In his new role, he proposed set of gradualist laws in anticipation of the abolition of slavery in the French colonies. The 1845 Mackau laws, as they came to be known, improved conditions for the enslaved, promoted their access to religious instruction, and allowed for the practice of buying one’s freedom or the freedom of one’s kin (<emph>rachat</emph>). Though many lauded the laws, Bissette attacked the laws swiftly and vehemently in his writings for their gradualist approach. </p>
+                <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; and Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
+                <bibl>Jennings, Lawrence C.  <title>French Anti-Slavery: The Movement for the Abolition of Slavery in France, 1802-1848</title> . Cambridge: Cambridge University Press, 2000. 29-37, 49-50, 71-73, 266-69.</bibl>
+                <bibl>Schmidt, Nelly.  <title>Abolitionnistes de l'esclavage et réformateurs des colonies, 1820-1851: analyses et documents</title> . Paris: Karthala, 2000.</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#chelsea">
+                <p>Le baron Ange-René-Armand de Mackau fait carrière dans la marine et exerce diverses fonctions dans les colonies françaises. Il est choisi comme émissaire de Charles X auprès d’Haïti pour remettre, à la tête d’une flotte de quatorze navires de guerre, l’ordonnance de 1825 au président haïtien Jean-Pierre Boyer. Par la suite, il devient ministre de la Marine et des Colonies. À ce poste, il propose une série de lois réformistes en prévision de l’abolition de l’esclavage dans les colonies françaises. Les lois Mackau de 1845, comme elles seront appelées, visent à améliorer les conditions de vie des personnes réduites en esclavage, à favoriser leur accès à l’instruction religieuse et à encadrer la possibilité de rachat, leur permettant ainsi d’acheter leur liberté ou celle de leurs proches. Si ces mesures sont largement saluées, Bissette les condamne avec vigueur dans ses écrits, dénonçant leur gradualisme.</p>
+                <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; et Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
+                <bibl>Jennings, Lawrence C.  <title>French Anti-Slavery: The Movement for the Abolition of Slavery in France, 1802-1848</title> . Cambridge: Cambridge University Press, 2000. 29-37, 49-50, 71-73, 266-69.</bibl>
+                <bibl>Schmidt, Nelly.  <title>Abolitionnistes de l'esclavage et réformateurs des colonies, 1820-1851: analyses et documents</title> . Paris: Karthala, 2000.</bibl>
+            </note>
+        </person>
         <person xml:id="RS">
             <persName xml:lang="en">Rosily, Viscount of</persName>
             <persName xml:lang="fr">Rosily, vicomte de</persName>
@@ -158,6 +219,20 @@
                 <bibl>Kaufmann, William W.  <title>British Policy and the Independence of Latin America, 1804-1828.</title>  Vol. 52. New Haven, Connecticut: Yale University Press, 1951.</bibl>
             </note>
         </person>
+        <person xml:id="Gatine">
+            <persName xml:lang="en">Gatine, Adolphe Ambroise Alexandre</persName>
+            <persName xml:lang="fr">Gatine, Adolphe Ambroise Alexandre</persName>
+            <birth>1805</birth>
+            <death>1864</death>
+            <note xml:lang="en" type="Person" resp="#jessica">
+                <p>Mr. Adolphe Ambroise Alexandre Gatine (1805–1864) was a lawyer at the Council of State and the Court of Cassation and a French abolitionist. From the 1830s, he distinguished himself by defending free people of color (e.g., the Louisy and Léonarde cases, the Grande-Anse case, and the Virginie case) as well as advocating for the rights of enslaved individuals claiming their freedom. In 1848, he was appointed General Commissioner of Guadeloupe, where he arrived on June 5th carrying the abolition decree dated April 27, 1848. However, abolition had already been proclaimed locally on May 27th.</p>
+                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#jessica">
+                <p>Adolphe Ambroise Alexandre Gatine (1805-1864), est un avocat du Conseil d'État et de la Cour de cassation et un abolitionniste français. Il s’illustre, dès les années 1830, dans la défense des libres de couleur (Affaires Louisy et Léonarde, affaire de la Grande-Anse, affaire Virginie) mais également dans la défense des intérêts des esclaves revendiquant leur liberté. En 1848, il est désigné commissaire général de la Guadeloupe où il débarque le 5 juin avec le décret d'abolition du 27 avril 1848. L'abolition avait néanmoins déjà été proclamée depuis le 27 mai.</p>
+                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
+            </note>
+        </person>
         <person xml:id="AHav">
             <persName xml:lang="en">Auguste Eugénie, known as "Havre"</persName>
             <persName xml:lang="fr">Auguste Eugénie, dit « Havre »</persName>
@@ -259,20 +334,6 @@
                 <bibl>Thompson, Mary V.  <title>The Only Unavoidable Subject of Regret: George Washington, Slavery, and the Enslaved Community at Mount Vernon</title>  . Charlottesville, Virginia: University of Virginia Press, 2019. <p> </p></bibl>
             </note>
         </person>
-        <person xml:id="Gatine">
-            <persName xml:lang="en">Gatine, Adolphe Ambroise Alexandre</persName>
-            <persName xml:lang="fr">Gatine, Adolphe Ambroise Alexandre</persName>
-            <birth>1805</birth>
-            <death>1864</death>
-            <note xml:lang="en" type="Person" resp="#jessica">
-                <p>Mr. Adolphe Ambroise Alexandre Gatine (1805–1864) was a lawyer at the Council of State and the Court of Cassation and a French abolitionist. From the 1830s, he distinguished himself by defending free people of color (e.g., the Louisy and Léonarde cases, the Grande-Anse case, and the Virginie case) as well as advocating for the rights of enslaved individuals claiming their freedom. In 1848, he was appointed General Commissioner of Guadeloupe, where he arrived on June 5th carrying the abolition decree dated April 27, 1848. However, abolition had already been proclaimed locally on May 27th.</p>
-                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#jessica">
-                <p>Adolphe Ambroise Alexandre Gatine (1805-1864), est un avocat du Conseil d'État et de la Cour de cassation et un abolitionniste français. Il s’illustre, dès les années 1830, dans la défense des libres de couleur (Affaires Louisy et Léonarde, affaire de la Grande-Anse, affaire Virginie) mais également dans la défense des intérêts des esclaves revendiquant leur liberté. En 1848, il est désigné commissaire général de la Guadeloupe où il débarque le 5 juin avec le décret d'abolition du 27 avril 1848. L'abolition avait néanmoins déjà été proclamée depuis le 27 mai.</p>
-                <bibl>Gatine, Adolphe,  <emph>Abolition de l'esclavage à la Guadeloupe : quatre mois de gouvernement dans cette colonie, </emph> Paris, Chez France, 1849</bibl>
-            </note>
-        </person>
         <person xml:id="MEL">
             <persName xml:lang="en">William Lamb, 2nd Viscount Melbourne</persName>
             <persName xml:lang="fr">William Lamb, deuxième vicomte de Melbourne</persName>
@@ -329,67 +390,6 @@
             </note>
             <note xml:lang="fr" type="Person" resp="#abel">
                 <p>Fils du notaire blanc créole guadeloupéen, Ambroise Cicéron et de Marie Victoire Artaud, Louis Marie Ambroise Dieudonné Cicéron est né à Saint-Pierre le 25 septembre 1797 et meurt le 11 avril 1870 en la même ville. Il est qualifié de praticien en 1821, étudiant en droit bachelier ès lettres (1822), avocat et propriétaire (1825), avocat avoué près la cour royale de la Martinique et le tribunal de 1ère instance de Saint-Pierre (1827), conseiller colonial, membre du conseil municipal de Saint-Pierre et propriétaire en cette ville (1843-1844). Partisan du maintien du système esclavagiste, Louis Cicéron est opposé à Cyrille Bissette durant les années 1830-1840. Il se bat d’ailleurs en duel en octobre 1834 avec Bissette au bois de Vincennes. Leur inimitié politique est perceptible dans plusieurs articles de Cicéron publiés au journal du Havre en 1831, repris largement dans sa “Pétition au Roi, à la nation et aux chambres” (datée du 1er janvier 1832). Bissette lui répond dans une lettre du 15 mai 1833 ensuite. En 1844, Cicéron, présent à Paris, se fait le rapporteur des “Observations d’une commission spéciale du Conseil colonial de la Martinique sur le projet de loi présenté le 14 mai dernier à la Chambre des Pairs. Paris : Impr. de Bruneau, 1844”. Ces “observations, signées de Le Pelletier-Duclary, président du Conseil colonial, portaient sur le projet de loi du 14 mai 1844, visant à l’abolition de l’esclavage dans les colonies françaises, et le réfutant article après article...”. Le retournement de veste de Bissette vis-à-vis des colons esclavagistes après l’abolition de l’esclavage en mai 1848, son association avec le colon Pécoul en vue des élections législatives de 1849, le fit se rapprocher de Cicéron qu’il visita dès son arrivée en Martinique le 20 mars 1849.</p>
-            </note>
-        </person>
-        <person xml:id="ANog">
-            <persName xml:lang="en">Nogues, Arsène</persName>
-            <persName xml:lang="fr">Nogues, Arsène</persName>
-            <birth>1798</birth>
-            <death>1869</death>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p>Born in Redon on June 12, 1798, Arsene Nogues held various positions in Brest and Nancy and was also attorney general in Guadeloupe then in Martinique during the 1830s. Later, he was advisor to the royal court of Rouen in 1845. Married to the daughter of a coffee merchant and planter of Guadeloupean origin, Jean Joseph Albert Chaviteau, who settled in Cuba at the beginning of the 19th century, Nogues had strong ties to the planter community. Nogues represented the public prosecutor as attorney general during the Grande Anse affair in December 1833. The indictment prepared by Nogues in June 1834, recovered by the historian Armand Nicolas describes the events thusly: “It is an armed insurrection, prepared for a long time... by almost the entire colored population of a district of the colony, with whom conspirators from another district and even from several others had colluded to carry out the pillage, devastation and burning of the colony, to massacre all the whites there in order to seize their property.” The members of the Assize Court of Saint-Pierre, presided over by de Perinelle and composed of advisors Richard de Lucy, Le Pelletier, and Duclary, the same ones who condemned Bissette and his comrades, were all white Creoles. They sentenced 141 individuals of color to various punishments.</p>
-                <p>
-                </p>
-                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
-                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
-                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Né à Redon le 12 juin 1798, il occupe divers postes à Brest et à Nancy et est aussi procureur général en Guadeloupe puis en Martinique durant les années 1830. Puis, il est ensuite conseiller à la cour royale de Rouen en 1845. Marié à la fille d’un négociant et planteur de café d’origine guadeloupéenne, Jean Joseph Albert Chaviteau, qui se fixa à Cuba au début du XIXe siècle, il est donc lié fortement au milieu des colons. Arsène Nogues, est celui qui représente le ministère public en tant que procureur général lors de l’affaire de la Grande Anse (commune du Lorrain aujourd’hui) en décembre 1833. L’historien Armand Nicolas cite ainsi l’acte d’accusation en juin 1834 que Arsène Nogues dresse en notifiant que : “C’est une insurrection à main armée, préparée depuis longtemps... par la presque totalité de la population de couleur d’un quartier de la colonie, avec laquelle des conspirateurs d’un autre quartier et même de plusieurs autres s’étaient entendus pour porter le pillage, la dévastation et l’incendie de la colonie, pour y massacrer tous les Blancs afin de s’emparer de leurs biens”. Au nombre des membres de la Cour d’Assises de Saint-Pierre présidée par de Perinelle et composée de conseillers (Richard de Lucy, Le Pelletier Duclary), tous blancs créoles, les mêmes qui ont condamné Bissette et ses camarades, se trouve donc des hommes imbus de leurs pouvoirs discrétionnaires. Ils vont condamner 141 individus de couleur à diverses peines.</p>
-                <p>
-                </p>
-                <bibl>Nicolas, Armand,  <emph>Histoire de la Martinique, Des Arawaks à 1848</emph> , Paris, L’Harmattan, 1996</bibl>
-                <bibl>"Arsène Nogues,"  <emph>Man8rove.</emph>  https://man8rove.com/fr/profile/a1r52vc3-arsene-nogues</bibl>
-                <bibl>"CHAUVITEAU Jean Joseph Albert (1775-1823),"  <emph>Cimetière du Père-Lachaise</emph> , 3 septembre 2023, https://www.appl-lachaise.net/chauviteau-jean-joseph-albert-1775-1823/</bibl>
-            </note>
-        </person>
-        <person xml:id="LePell">
-            <persName xml:lang="en">Jean-Baptiste François Le Pelletier-Duclary</persName>
-            <persName xml:lang="fr">Jean-Baptiste François Le Pelletier-Duclary</persName>
-            <birth>1791 or 1793</birth>
-            <death>1865</death>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p>Lawyer at the court of Paris, assessor to the Superior Council of Martinique (took offic 1819), councilor to the Royal Court of Martinique (May 9, 1821, confirmed October 5 1828), of which he became president in January 1835, knight of the Legion of Honor (January 16, 1836), president of the Colonial Council of Martinique from 1834 to 1838 and from 1839 to 1847. He married Marie Elisabeth Nelly Cornette de Saint-Cyr, a white Creole woman on June 11, 1821 in Case Pilote. Like many white settlers, he refused any reformation of the slave system, particularly in favor of equality for free people of color. He was one of the members of the Assize Court of Saint-Pierre chaired by de Perinelle who judged the 173 individuals accused during the Grande Anse affair (Lorrain) of December 1833. He shared quite naturally the prejudices and principles inherent in the mentality and social group of the powerful white families of the colony who made up the colonial judiciary between the decades of 1820 and 1840. </p>
-                <p>
-                </p>
-                <p>https://www.patrimoines-martinique.org/ark:/35569/w6lcx297j5p0/c1f43fd7-b3e2-4d32-b04f-d620bbbbf54e</p>
-                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Né le 26 décembre 1791 ou le 28 janvier 1793 à Case-Pilote en Martinique selon les sources consultées, décédé le 12 juillet 1865 à Case-Pilote, habitant propriétaire domicilié dans cette paroisse et quartier, avocat à la cour de Paris, assesseur au Conseil supérieur de la Martinique en fonctions en 1819, conseiller à la Cour royale de la Martinique (9 mai 1821, confirmé le 5 octobre 1828) dont il est président en janvier 1835, chevalier de la légion d’honneur (16 janvier 1836), président du Conseil colonial de la Martinique de 1834 à 1838 et de 1839 à 1847. Il épouse à Case-Pilote, Marie Elisabeth Nelly Cornette de Saint-Cyr, blanche créole, le 11 juin 1821. Il est l’incarnation même des colons, blancs créoles, refusant toute évolution du système esclavagiste notamment en faveur de l’égalité pour les libres de couleur. Il fait partie des membres de la Cour d’assises de Saint-Pierre présidée par de Perinelle qui juge au début du mois de juin 1834 les 173 individus accusés lors de l’affaire de la Grande Anse (Lorrain) en décembre 1833. Il partage tout naturellement les préjugés et les principes inhérents à la mentalité et au groupe social des grandes familles blanches de la colonie qui composent la magistrature coloniale entre les décennies 1820 et 1840.</p>
-                <p>
-                </p>
-                <p>https://www.patrimoines-martinique.org/ark:/35569/w6lcx297j5p0/c1f43fd7-b3e2-4d32-b04f-d620bbbbf54e</p>
-                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
-                <p>https://man8rove.com/en/profile/eql4p4vv1-jean-baptiste-francois-le-pelletier-du-clary</p>
-            </note>
-        </person>
-        <person xml:id="MACK">
-            <persName xml:lang="en">Ange René Armand, baron de Mackau</persName>
-            <persName xml:lang="fr">Ange René Armand, baron de Mackau</persName>
-            <birth>1788</birth>
-            <death>1855</death>
-            <note xml:lang="en" type="Person" resp="#chelsea">
-                <p>Baron Ange-René-Armand de Mackau had a long career in the navy in various French colonies. He was chosen as Charles X’s envoy to Haiti to deliver—backed by a fleet of 14 warships—the 1825 ordonnance to Haitian president Jean-Pierre Boyer. He later became minister of the navy and colonies. In his new role, he proposed set of gradualist laws in anticipation of the abolition of slavery in the French colonies. The 1845 Mackau laws, as they came to be known, improved conditions for the enslaved, promoted their access to religious instruction, and allowed for the practice of buying one’s freedom or the freedom of one’s kin (<emph>rachat</emph>). Though many lauded the laws, Bissette attacked the laws swiftly and vehemently in his writings for their gradualist approach. </p>
-                <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; and Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
-                <bibl>Jennings, Lawrence C.  <title>French Anti-Slavery: The Movement for the Abolition of Slavery in France, 1802-1848</title> . Cambridge: Cambridge University Press, 2000. 29-37, 49-50, 71-73, 266-69.</bibl>
-                <bibl>Schmidt, Nelly.  <title>Abolitionnistes de l'esclavage et réformateurs des colonies, 1820-1851: analyses et documents</title> . Paris: Karthala, 2000.</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#chelsea">
-                <p>Le baron Ange-René-Armand de Mackau fait carrière dans la marine et exerce diverses fonctions dans les colonies françaises. Il est choisi comme émissaire de Charles X auprès d’Haïti pour remettre, à la tête d’une flotte de quatorze navires de guerre, l’ordonnance de 1825 au président haïtien Jean-Pierre Boyer. Par la suite, il devient ministre de la Marine et des Colonies. À ce poste, il propose une série de lois réformistes en prévision de l’abolition de l’esclavage dans les colonies françaises. Les lois Mackau de 1845, comme elles seront appelées, visent à améliorer les conditions de vie des personnes réduites en esclavage, à favoriser leur accès à l’instruction religieuse et à encadrer la possibilité de rachat, leur permettant ainsi d’acheter leur liberté ou celle de leurs proches. Si ces mesures sont largement saluées, Bissette les condamne avec vigueur dans ses écrits, dénonçant leur gradualisme.</p>
-                <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; et Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
-                <bibl>Jennings, Lawrence C.  <title>French Anti-Slavery: The Movement for the Abolition of Slavery in France, 1802-1848</title> . Cambridge: Cambridge University Press, 2000. 29-37, 49-50, 71-73, 266-69.</bibl>
-                <bibl>Schmidt, Nelly.  <title>Abolitionnistes de l'esclavage et réformateurs des colonies, 1820-1851: analyses et documents</title> . Paris: Karthala, 2000.</bibl>
             </note>
         </person>
         <person xml:id="JHD">
@@ -2045,36 +2045,6 @@
         </org>
     </listOrg>
     <listBibl>
-        <bibl xml:id="ldf10" type="legal">
-            <title xml:lang="en">Law of Floréal, Year 10</title>
-            <title xml:lang="fr">Loi de floréal, an 10</title>
-            <note xml:lang="en" type="Publication" resp="#chelsea">
-                <p>The <emph>loi de floréal an 10 </emph>refers to the decree-law (or statuary law) authorizing the slave trade and slavery in the colonies restored by the Treaty of Amiens (<emph>Décret-loi autorisant la traite et l'esclavage dans les colonies restituées par le traité d’Amiens</emph>). The law, proposed by First Consul Bonaparte and debated by the assemblies, was adopted on May 20, 1802 (30 floréal an 10).</p>
-                <p>The pertinent text of the law is as follows:</p>
-                <p>Article 1: “Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieures à 1789.”<br/>Article 3: “La traite des noirs et leur importation des lesdites colonies, auront lieu, conformément aux lois et règlemens existans avant ladite époque de 1789.”</p>
-                <p>Slavery had been abolished first in Saint Domingue in 1793 by civil commissioners Leger-Félicité Sonthonax and Étienne Polverel. A committee from Saint-Domingue then sailed to France to urge the government to ratify the 1793 proclamations for all French colonies. On February 4, 1794 the Convention proclaimed slavery abolished throughout the Republic. Though applied in Guadeloupe and, eventually, Guyana, the 1794 decree was not applied in Martinique, Saint Lucia or Tobago (then under British occupation) or in the Indian Ocean colonies (which essentially delayed and refused). The Treaty of Amiens signed March 15, 1802 with Great Britain thus restored to France those colonies that had maintained slavery and the slave trade throughout the period of occupation. The May 20 law did not reestablish slavery throughout the French colonies but was nevertheless a stark retreat from the values of 1789: slavery and the slave trade was now legal in the French Republic. A consular order from July 16, 1802 (27 messidor an X) reestablished slavery in Guadeloupe. </p>
-                <p>There is a lack of clarity, both in contemporary scholarship and in the <emph>Revue</emph>, on the nature of the May 20 decree-law. Scholars often incorrectly cite the law as the date that marks Bonaparte’s reestablishment of slavery throughout the French colonies. Bissette’s exaggerated claim, “Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue” reveals that this confusion was in place even in 1830s. It also confirms the effectiveness of Bonaparte’s attempts to reestablish slavery under the radar and without fanfare. Nevertheless, Bissette is correct about the consequences of Bonaparte and the Consulate’s pro-slavery machinations in contributing to the anticolonial, antislavery act of Haitian independence. </p>
-                <bibl>Niort, Jean-François and Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
-                <bibl>Bénot, Yves and Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
-            </note>
-            <note xml:lang="fr" type="Publication" resp="#chelsea">
-                <p>La loi de floréal an 10 désigne le décret rétablissant officiellement la traite et l’esclavage dans les colonies restituées à la France par le traité d’Amiens. Proposée par le Premier Consul Bonaparte et débattue par les assemblées, elle fut adoptée le 20 mai 1802 (30 floréal an 10).</p>
-                <p>Les articles les plus significatifs en sont les suivants :</p>
-                <ul>
-                    <li>Article 1 : « Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieurs à 1789. »</li>
-                    <li>Article 3 : « La traite des Noirs et leur importation dans lesdites colonies auront lieu, conformément aux lois et réglemens existants avant ladite époque de 1789. »</li>
-                </ul>
-                <p>L’abolition de l’esclavage avait été proclamée pour la première fois à Saint-Domingue en 1793 par les commissaires civils Léger-Félicité Sonthonax et Étienne Polverel. Un comité mandaté par la colonie s’était alors rendu en France pour plaider en faveur d’une généralisation de cette mesure. Le 4 février 1794, la Convention nationale décréta l’abolition de l’esclavage dans l’ensemble de la République. Ce décret fut appliqué en Guadeloupe et, plus tard, en Guyane, mais resta sans effet en Martinique, à Sainte-Lucie et à Tobago, alors sous occupation britannique, ainsi que dans les colonies de l’océan Indien, où son application fut délibérément différée.</p>
-                <p>Le traité d’Amiens, signé avec la Grande-Bretagne le 15 mars 1802, permit à la France de récupérer plusieurs colonies où l’esclavage et la traite avaient été maintenus sous administration britannique. La loi du 20 mai 1802 ne rétablissait pas formellement l’esclavage dans l’ensemble des territoires français, mais elle marquait une rupture avec les principes de 1789 en entérinant la légalité de l’esclavage et de la traite dans certaines colonies. Quelques mois plus tard, un arrêté consulaire du 16 juillet 1802 (27 messidor an X) confirma explicitement le rétablissement de l’esclavage en Guadeloupe.</p>
-                <p>Tant l’historiographie contemporaine que la <emph>Revue des Colonies</emph> entretiennent une certaine confusion quant à la portée exacte du décret du 20 mai. Nombre d’historiens citent à tort cette loi comme l’acte fondateur du rétablissement de l’esclavage dans toutes les colonies françaises. L’affirmation de Cyrille Bissette—« Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue »—illustre bien que cette lecture erronée existait déjà dans les années 1830. Elle témoigne également du succès de la stratégie de Bonaparte, qui chercha à rétablir l’esclavage de manière discrète, sans déclaration officielle retentissante. Pourtant, Bissette ne se trompe pas sur les effets des politiques du Consulat : les manœuvres pro-esclavagistes de Bonaparte contribuèrent directement à l’acte d’indépendance haïtien, dont la portée fut à la fois anticoloniale et antiesclavagiste.</p>
-                <p>
-                </p>
-                <p>https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/lessentiel-dossier-<br/>napoleon-et-le-retablissement-de</p>
-                <p><br/>https://www.portail-esclavage-reunion.fr/documentaires/abolition-de-l-esclavage/l-abolition-de-l-<br/>esclavage-a-la-reunion/la-premiere-abolition-de-lesclavage-par-la-france-et-sa-non-application-<br/>a-la-reunion/</p>
-                <bibl>Niort, Jean-François et Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
-                <bibl>Bénot, Yves et Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
-            </note>
-        </bibl>
         <bibl xml:id="Cd1814" type="legal">
             <title xml:lang="en">Charter of 1814</title>
             <title xml:lang="fr">Charte de 1814</title>
@@ -2118,6 +2088,36 @@
                 <bibl>Dorigny, Marcel; Bruffaerts, Jean-Claude; Gaillard, Gusti-Klara; et Théodat, Jean-Marie, eds.,  <title>Haïti-France. Les chaînes de la dette. Le rapport Mackau (1825)</title>  . Hémisphères Éditions, 2022.</bibl>
                 <bibl>Gaffield, Julia, “The Racialization of International Law after the Haitian Revolution: The Holy See and National Sovereignty,”  <title>The American Historical Review</title>   125, no. 3 (2020). 841–868. https://doi.org/10.1093/ahr/rhz1226</bibl>
                 <bibl>Porter, Catherine; Méhout, Constan; Apuzzo, Matt; and Gebrekidan, Selam, “The Ransom,”  <title>The New York Times</title>  , May 20, 2022.</bibl>
+            </note>
+        </bibl>
+        <bibl xml:id="ldf10" type="legal">
+            <title xml:lang="en">Law of Floréal, Year 10</title>
+            <title xml:lang="fr">Loi de floréal, an 10</title>
+            <note xml:lang="en" type="Publication" resp="#chelsea">
+                <p>The <emph>loi de floréal an 10 </emph>refers to the decree-law (or statuary law) authorizing the slave trade and slavery in the colonies restored by the Treaty of Amiens (<emph>Décret-loi autorisant la traite et l'esclavage dans les colonies restituées par le traité d’Amiens</emph>). The law, proposed by First Consul Bonaparte and debated by the assemblies, was adopted on May 20, 1802 (30 floréal an 10).</p>
+                <p>The pertinent text of the law is as follows:</p>
+                <p>Article 1: “Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieures à 1789.”<br/>Article 3: “La traite des noirs et leur importation des lesdites colonies, auront lieu, conformément aux lois et règlemens existans avant ladite époque de 1789.”</p>
+                <p>Slavery had been abolished first in Saint Domingue in 1793 by civil commissioners Leger-Félicité Sonthonax and Étienne Polverel. A committee from Saint-Domingue then sailed to France to urge the government to ratify the 1793 proclamations for all French colonies. On February 4, 1794 the Convention proclaimed slavery abolished throughout the Republic. Though applied in Guadeloupe and, eventually, Guyana, the 1794 decree was not applied in Martinique, Saint Lucia or Tobago (then under British occupation) or in the Indian Ocean colonies (which essentially delayed and refused). The Treaty of Amiens signed March 15, 1802 with Great Britain thus restored to France those colonies that had maintained slavery and the slave trade throughout the period of occupation. The May 20 law did not reestablish slavery throughout the French colonies but was nevertheless a stark retreat from the values of 1789: slavery and the slave trade was now legal in the French Republic. A consular order from July 16, 1802 (27 messidor an X) reestablished slavery in Guadeloupe. </p>
+                <p>There is a lack of clarity, both in contemporary scholarship and in the <emph>Revue</emph>, on the nature of the May 20 decree-law. Scholars often incorrectly cite the law as the date that marks Bonaparte’s reestablishment of slavery throughout the French colonies. Bissette’s exaggerated claim, “Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue” reveals that this confusion was in place even in 1830s. It also confirms the effectiveness of Bonaparte’s attempts to reestablish slavery under the radar and without fanfare. Nevertheless, Bissette is correct about the consequences of Bonaparte and the Consulate’s pro-slavery machinations in contributing to the anticolonial, antislavery act of Haitian independence. </p>
+                <bibl>Niort, Jean-François and Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
+                <bibl>Bénot, Yves and Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
+            </note>
+            <note xml:lang="fr" type="Publication" resp="#chelsea">
+                <p>La loi de floréal an 10 désigne le décret rétablissant officiellement la traite et l’esclavage dans les colonies restituées à la France par le traité d’Amiens. Proposée par le Premier Consul Bonaparte et débattue par les assemblées, elle fut adoptée le 20 mai 1802 (30 floréal an 10).</p>
+                <p>Les articles les plus significatifs en sont les suivants :</p>
+                <ul>
+                    <li>Article 1 : « Dans les colonies restituées à la France en exécution du traité d’Amiens, du 6 germinal an X, l’esclavage sera maintenu conformément aux lois et réglemens antérieurs à 1789. »</li>
+                    <li>Article 3 : « La traite des Noirs et leur importation dans lesdites colonies auront lieu, conformément aux lois et réglemens existants avant ladite époque de 1789. »</li>
+                </ul>
+                <p>L’abolition de l’esclavage avait été proclamée pour la première fois à Saint-Domingue en 1793 par les commissaires civils Léger-Félicité Sonthonax et Étienne Polverel. Un comité mandaté par la colonie s’était alors rendu en France pour plaider en faveur d’une généralisation de cette mesure. Le 4 février 1794, la Convention nationale décréta l’abolition de l’esclavage dans l’ensemble de la République. Ce décret fut appliqué en Guadeloupe et, plus tard, en Guyane, mais resta sans effet en Martinique, à Sainte-Lucie et à Tobago, alors sous occupation britannique, ainsi que dans les colonies de l’océan Indien, où son application fut délibérément différée.</p>
+                <p>Le traité d’Amiens, signé avec la Grande-Bretagne le 15 mars 1802, permit à la France de récupérer plusieurs colonies où l’esclavage et la traite avaient été maintenus sous administration britannique. La loi du 20 mai 1802 ne rétablissait pas formellement l’esclavage dans l’ensemble des territoires français, mais elle marquait une rupture avec les principes de 1789 en entérinant la légalité de l’esclavage et de la traite dans certaines colonies. Quelques mois plus tard, un arrêté consulaire du 16 juillet 1802 (27 messidor an X) confirma explicitement le rétablissement de l’esclavage en Guadeloupe.</p>
+                <p>Tant l’historiographie contemporaine que la <emph>Revue des Colonies</emph> entretiennent une certaine confusion quant à la portée exacte du décret du 20 mai. Nombre d’historiens citent à tort cette loi comme l’acte fondateur du rétablissement de l’esclavage dans toutes les colonies françaises. L’affirmation de Cyrille Bissette—« Tout le monde sait que la loi de floréal an 10, qui rétablit l’esclavage dans les colonies, fut le signal de la défection de tous les chefs de Saint-Domingue »—illustre bien que cette lecture erronée existait déjà dans les années 1830. Elle témoigne également du succès de la stratégie de Bonaparte, qui chercha à rétablir l’esclavage de manière discrète, sans déclaration officielle retentissante. Pourtant, Bissette ne se trompe pas sur les effets des politiques du Consulat : les manœuvres pro-esclavagistes de Bonaparte contribuèrent directement à l’acte d’indépendance haïtien, dont la portée fut à la fois anticoloniale et antiesclavagiste.</p>
+                <p>
+                </p>
+                <p>https://memoire-esclavage.org/napoleon-et-le-retablissement-de-lesclavage/lessentiel-dossier-<br/>napoleon-et-le-retablissement-de</p>
+                <p><br/>https://www.portail-esclavage-reunion.fr/documentaires/abolition-de-l-esclavage/l-abolition-de-l-<br/>esclavage-a-la-reunion/la-premiere-abolition-de-lesclavage-par-la-france-et-sa-non-application-<br/>a-la-reunion/</p>
+                <bibl>Niort, Jean-François et Richard, Jérémie, “ A propos de la découverte de l’arrêté consulaire du 16 juillet 1802 et du rétablissement de l’ancien ordre colonial (spécialement de l’esclavage) à la Guadeloupe,”  <emph>Bulletin de la Société d’Histoire de la Guadeloupe</emph>  no. 152 (2009). 31–59. https://doi.org/10.7202/1036868ar</bibl>
+                <bibl>Bénot, Yves et Dorigny, Marcel, eds.,  <emph>Rétablissement de l’esclavage dans les colonies françaises. </emph> <emph>Aux origines de Haïti</emph>   . Maisonneuve et Larose, 2003.</bibl>
             </note>
         </bibl>
         <bibl xml:id="RC" type="periodical">
