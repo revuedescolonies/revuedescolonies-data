@@ -885,6 +885,55 @@
         </person>
     </listPerson>
     <listPlace>
+        <place xml:id="BAR">
+            <placeName xml:lang="en">Barbados </placeName>
+            <placeName xml:lang="fr">Barbade</placeName>
+            <location>
+                <geo decls="#geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5432,
+          13.1939
+        ]
+      },
+      "properties": {
+        "name": "Barbados",
+        "period": "1834–1842",
+        "place_type": "island"
+      }
+    }
+  ]
+}</geo>
+            </location>
+            <note xml:lang="en" type="Place" resp="#other">
+                <p>A British colony since the seventeenth century, Barbados occupied a distinctive position in Atlantic colonial discourse during the publication of the <emph>Revue des Colonies </emph>(1834 - 1842). Barbados had no recent experience of revolutionary rupture from the colonial system and was often cited as a paradigmatic “old colony,” characterized by long-established plantation slavery and a powerful white planter elite. The abolition of slavery in the British Empire in 1834, followed by the apprenticeship system until 1838, made Barbados a crucial point of reference in French debates on emancipation. In the <emph>Revue</emph>, Barbados functioned less as a concrete territory than as an experimental counterpoint: a site through which contributors evaluated the social, economic, and moral consequences of abolition without revolution. While the journal frequently mobilized Barbados to argue against planter claims that emancipation would result in economic collapse or social disorder, it tended to abstract the colony into a case study, rarely engaging in sustained analysis of local Black political agency or post-emancipation coercive labor regimes.</p>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#other">
+                <p>Colonie britannique depuis le XVIIᵉ siècle, la Barbade occupait, au moment de la publication de la <emph>Revue des Colonies</emph> (1834-1842), une position singulière dans les discours coloniaux atlantiques. N’ayant pas connu de rupture révolutionnaire récente avec l’ordre colonial, elle était volontiers érigée en paradigme de la « vieille colonie », caractérisée par l’ancienneté du système plantationnaire esclavagiste et par la puissance d’une élite blanche de planteurs solidement implantée.</p>
+                <p>L’abolition de l’esclavage dans l’Empire britannique en 1834, suivie de l’instauration du système d’apprentissage jusqu’en 1838, fit de la Barbade un point d’appui essentiel dans les débats français relatifs à l’émancipation. Dans les pages de la <emph>Revue</emph>, la colonie apparaît moins comme un espace historique et socialement situé que comme un contrepoint expérimental : un lieu d’observation à partir duquel les contributeurs examinent les effets sociaux, économiques et moraux d’une abolition accomplie sans révolution.</p>
+                <p>Si la revue mobilise fréquemment l’exemple barbadien pour réfuter les arguments des planteurs, qui annonçaient l’effondrement économique ou le désordre social consécutifs à l’émancipation, elle tend néanmoins à en faire un cas d’école relativement abstrait. Rares sont les analyses approfondies des formes d’agentivité politique des populations noires locales ou des régimes de travail coercitifs mis en place dans l’après-abolition.</p>
+            </note>
+        </place>
+        <place xml:id="PtP">
+            <placeName xml:lang="en"> Port-au-Prince</placeName>
+            <placeName xml:lang="fr"> Port-au-Prince</placeName>
+            <note xml:lang="en" type="Place" resp="#chelsea">
+                <p>Port-au-Prince is the capital of Haiti. The port city sits deep in the Gulf of Gonâve, between the northern mountains and southern peninsula. It was not always the capital: during the colonial period, the northern port city of Cap Français (now Cap-Haïtien) served as the colony’s center of power until 1770. It was not always called Port-au-Prince, either: during the first French Republic in Saint-Domingue it was renamed “Port Républicain,” and returned briefly to that name once again after the 1843 revolution in Haiti. It earned another nickname “Port-aux-Crimes,” after a republican faction assassinated Jean-Jacques Dessalines in 1806. Indeed, Dessalines had not kept the seat of power in the port capital but rather in Marchand-Dessalines, located north and inland in the Artibonite Valley. Alexandre Pétion returned the capital of the Haitian Republic to Port-au-Prince during the civil war with Henry Christophe’s state-turned-monarchy in the north. Jean-Pierre Boyer unified the two regions under his republic in Port-au-Prince after Christophe’s death in 1820, though separatist regimes and even presidencies challenged the dominance of Port-au-Prince throughout the nineteenth century. </p>
+                <bibl>Corvington, Georges,  <title>Port-au-Prince au cours des ans</title>  , vols. 1–3. Impr. H. Deschamps, 1972.</bibl>
+                <bibl>Anglade, Georges,  <title>Atlas critique d’Haïti</title>  . ERCE and CRC, 1982. </bibl>
+            </note>
+            <note xml:lang="fr" type="Place" resp="#chelsea">
+                <p>Port-au-Prince est la capitale d’Haïti. Nichée au fond du golfe de la Gonâve, entre les montagnes du nord et la péninsule sud, cette ville portuaire n’a pas toujours occupé cette position. Durant la période coloniale, le centre du pouvoir se trouvait au nord, à Cap-Français (aujourd’hui Cap-Haïtien), jusqu’en 1770. Son nom a également changé au fil des régimes : sous la première République française à Saint-Domingue, elle devient Port-Républicain, un nom qu’elle reprend brièvement après la révolution de 1843. Elle est aussi surnommée « Port-aux-Crimes » après l’assassinat de Jean-Jacques Dessalines en 1806 par une faction républicaine.  </p>
+                <p>Dessalines lui-même n’y installe pas le siège du pouvoir, lui préférant Marchand-Dessalines, une ville située plus au nord, dans la vallée de l’Artibonite. Alexandre Pétion ramène la capitale à Port-au-Prince durant la guerre civile contre le royaume d’Henri Christophe dans le nord. Après la mort de Christophe en 1820, Jean-Pierre Boyer unifie les deux régions sous une seule république, avec Port-au-Prince pour capitale. Tout au long du XIXe siècle, des régimes séparatistes et plusieurs présidences contestent cependant cette centralité.</p>
+                <bibl>Corvington, Georges,  <title>Port-au-Prince au cours des ans</title>  , vols. 1–3. Impr. H. Deschamps, 1972. </bibl>
+                <bibl>Anglade, Georges,  <title>Atlas critique d’Haïti</title>  . ERCE et CRC, 1982. </bibl>
+            </note>
+        </place>
         <place xml:id="Alg">
             <placeName xml:lang="en">Alger</placeName>
             <placeName xml:lang="fr">Alger</placeName>
@@ -1634,55 +1683,6 @@
                 <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title> .  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
                 <bibl>Pierrot, Grégory.  <title>The Black Avenger in Atlantic Culture</title> . Athens: The University of Georgia Press, 2019.</bibl>
                 <bibl>Stieber, Chelsea.  <title>Haiti’s Paper War: Post-Independence Writing, Civil War, and the Making of the Republic, 1804-1954</title> . New York: New York University Press, 2020.</bibl>
-            </note>
-        </place>
-        <place xml:id="BAR">
-            <placeName xml:lang="en">Barbados </placeName>
-            <placeName xml:lang="fr">Barbade</placeName>
-            <location>
-                <geo decls="#geojson">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.5432,
-          13.1939
-        ]
-      },
-      "properties": {
-        "name": "Barbados",
-        "period": "1834–1842",
-        "place_type": "island"
-      }
-    }
-  ]
-}</geo>
-            </location>
-            <note xml:lang="en" type="Place" resp="#other">
-                <p>A British colony since the seventeenth century, Barbados occupied a distinctive position in Atlantic colonial discourse during the publication of the <emph>Revue des Colonies </emph>(1834 - 1842). Barbados had no recent experience of revolutionary rupture from the colonial system and was often cited as a paradigmatic “old colony,” characterized by long-established plantation slavery and a powerful white planter elite. The abolition of slavery in the British Empire in 1834, followed by the apprenticeship system until 1838, made Barbados a crucial point of reference in French debates on emancipation. In the <emph>Revue</emph>, Barbados functioned less as a concrete territory than as an experimental counterpoint: a site through which contributors evaluated the social, economic, and moral consequences of abolition without revolution. While the journal frequently mobilized Barbados to argue against planter claims that emancipation would result in economic collapse or social disorder, it tended to abstract the colony into a case study, rarely engaging in sustained analysis of local Black political agency or post-emancipation coercive labor regimes.</p>
-            </note>
-            <note xml:lang="fr" type="Place" resp="#other">
-                <p>Colonie britannique depuis le XVIIᵉ siècle, la Barbade occupait, au moment de la publication de la <emph>Revue des Colonies</emph> (1834-1842), une position singulière dans les discours coloniaux atlantiques. N’ayant pas connu de rupture révolutionnaire récente avec l’ordre colonial, elle était volontiers érigée en paradigme de la « vieille colonie », caractérisée par l’ancienneté du système plantationnaire esclavagiste et par la puissance d’une élite blanche de planteurs solidement implantée.</p>
-                <p>L’abolition de l’esclavage dans l’Empire britannique en 1834, suivie de l’instauration du système d’apprentissage jusqu’en 1838, fit de la Barbade un point d’appui essentiel dans les débats français relatifs à l’émancipation. Dans les pages de la <emph>Revue</emph>, la colonie apparaît moins comme un espace historique et socialement situé que comme un contrepoint expérimental : un lieu d’observation à partir duquel les contributeurs examinent les effets sociaux, économiques et moraux d’une abolition accomplie sans révolution.</p>
-                <p>Si la revue mobilise fréquemment l’exemple barbadien pour réfuter les arguments des planteurs, qui annonçaient l’effondrement économique ou le désordre social consécutifs à l’émancipation, elle tend néanmoins à en faire un cas d’école relativement abstrait. Rares sont les analyses approfondies des formes d’agentivité politique des populations noires locales ou des régimes de travail coercitifs mis en place dans l’après-abolition.</p>
-            </note>
-        </place>
-        <place xml:id="PtP">
-            <placeName xml:lang="en"> Port-au-Prince</placeName>
-            <placeName xml:lang="fr"> Port-au-Prince</placeName>
-            <note xml:lang="en" type="Place" resp="#chelsea">
-                <p>Port-au-Prince is the capital of Haiti. The port city sits deep in the Gulf of Gonâve, between the northern mountains and southern peninsula. It was not always the capital: during the colonial period, the northern port city of Cap Français (now Cap-Haïtien) served as the colony’s center of power until 1770. It was not always called Port-au-Prince, either: during the first French Republic in Saint-Domingue it was renamed “Port Républicain,” and returned briefly to that name once again after the 1843 revolution in Haiti. It earned another nickname “Port-aux-Crimes,” after a republican faction assassinated Jean-Jacques Dessalines in 1806. Indeed, Dessalines had not kept the seat of power in the port capital but rather in Marchand-Dessalines, located north and inland in the Artibonite Valley. Alexandre Pétion returned the capital of the Haitian Republic to Port-au-Prince during the civil war with Henry Christophe’s state-turned-monarchy in the north. Jean-Pierre Boyer unified the two regions under his republic in Port-au-Prince after Christophe’s death in 1820, though separatist regimes and even presidencies challenged the dominance of Port-au-Prince throughout the nineteenth century. </p>
-                <bibl>Corvington, Georges,  <title>Port-au-Prince au cours des ans</title>  , vols. 1–3. Impr. H. Deschamps, 1972.</bibl>
-                <bibl>Anglade, Georges,  <title>Atlas critique d’Haïti</title>  . ERCE and CRC, 1982. </bibl>
-            </note>
-            <note xml:lang="fr" type="Place" resp="#chelsea">
-                <p>Port-au-Prince est la capitale d’Haïti. Nichée au fond du golfe de la Gonâve, entre les montagnes du nord et la péninsule sud, cette ville portuaire n’a pas toujours occupé cette position. Durant la période coloniale, le centre du pouvoir se trouvait au nord, à Cap-Français (aujourd’hui Cap-Haïtien), jusqu’en 1770. Son nom a également changé au fil des régimes : sous la première République française à Saint-Domingue, elle devient Port-Républicain, un nom qu’elle reprend brièvement après la révolution de 1843. Elle est aussi surnommée « Port-aux-Crimes » après l’assassinat de Jean-Jacques Dessalines en 1806 par une faction républicaine.  </p>
-                <p>Dessalines lui-même n’y installe pas le siège du pouvoir, lui préférant Marchand-Dessalines, une ville située plus au nord, dans la vallée de l’Artibonite. Alexandre Pétion ramène la capitale à Port-au-Prince durant la guerre civile contre le royaume d’Henri Christophe dans le nord. Après la mort de Christophe en 1820, Jean-Pierre Boyer unifie les deux régions sous une seule république, avec Port-au-Prince pour capitale. Tout au long du XIXe siècle, des régimes séparatistes et plusieurs présidences contestent cependant cette centralité.</p>
-                <bibl>Corvington, Georges,  <title>Port-au-Prince au cours des ans</title>  , vols. 1–3. Impr. H. Deschamps, 1972. </bibl>
-                <bibl>Anglade, Georges,  <title>Atlas critique d’Haïti</title>  . ERCE et CRC, 1982. </bibl>
             </note>
         </place>
         <place xml:id="TRI">
