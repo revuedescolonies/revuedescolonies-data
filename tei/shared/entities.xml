@@ -7,6 +7,13 @@
 -->
 <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="entities">
     <listPerson>
+        <person xml:id="CDejean">
+            <persName xml:lang="en">Charles Frederick Dejean</persName>
+            <persName xml:lang="fr">Charles Frederick Dejean</persName>
+            <note xml:lang="fr" type="Person">
+                <p>Charles Frédéric Dejean, procureur du roi près le tribunal de 1ère instance de Cayenne.</p>
+            </note>
+        </person>
         <person xml:id="ANog">
             <persName xml:lang="en">Nogues, Arsène</persName>
             <persName xml:lang="fr">Nogues, Arsène</persName>
@@ -392,6 +399,22 @@
                 <p>Fils du notaire blanc créole guadeloupéen, Ambroise Cicéron et de Marie Victoire Artaud, Louis Marie Ambroise Dieudonné Cicéron est né à Saint-Pierre le 25 septembre 1797 et meurt le 11 avril 1870 en la même ville. Il est qualifié de praticien en 1821, étudiant en droit bachelier ès lettres (1822), avocat et propriétaire (1825), avocat avoué près la cour royale de la Martinique et le tribunal de 1ère instance de Saint-Pierre (1827), conseiller colonial, membre du conseil municipal de Saint-Pierre et propriétaire en cette ville (1843-1844). Partisan du maintien du système esclavagiste, Louis Cicéron est opposé à Cyrille Bissette durant les années 1830-1840. Il se bat d’ailleurs en duel en octobre 1834 avec Bissette au bois de Vincennes. Leur inimitié politique est perceptible dans plusieurs articles de Cicéron publiés au journal du Havre en 1831, repris largement dans sa “Pétition au Roi, à la nation et aux chambres” (datée du 1er janvier 1832). Bissette lui répond dans une lettre du 15 mai 1833 ensuite. En 1844, Cicéron, présent à Paris, se fait le rapporteur des “Observations d’une commission spéciale du Conseil colonial de la Martinique sur le projet de loi présenté le 14 mai dernier à la Chambre des Pairs. Paris : Impr. de Bruneau, 1844”. Ces “observations, signées de Le Pelletier-Duclary, président du Conseil colonial, portaient sur le projet de loi du 14 mai 1844, visant à l’abolition de l’esclavage dans les colonies françaises, et le réfutant article après article...”. Le retournement de veste de Bissette vis-à-vis des colons esclavagistes après l’abolition de l’esclavage en mai 1848, son association avec le colon Pécoul en vue des élections législatives de 1849, le fit se rapprocher de Cicéron qu’il visita dès son arrivée en Martinique le 20 mars 1849.</p>
             </note>
         </person>
+        <person xml:id="Stx">
+            <persName xml:lang="en">Sonthonax, Léger-Félicité</persName>
+            <persName xml:lang="fr">Sonthonax, Léger-Félicité</persName>
+            <birth>1763</birth>
+            <death>1813</death>
+            <note xml:lang="en" type="Person" resp="#masha">
+                <p>A lawyer in the <title>Parlement</title> of Paris (the regional appellate court) on the eve of the Revolution, Léger-Félicité Sonthonax frequented the Jacobin Club where he associated with Étienne Polverel and Jacques Pierre Brissot, founder of the <title>Société des Amis des Noirs</title>. He was sent with Polverel as part of the Civil Commission to Saint-Domingue to enforce the law of April 4, 1792 recognizing the political rights of free people of color. Faced with major anti-slavery insurgencies and the Spanish-British alliance against France, the two civil commissioners gradually granted freedom to all Africans and descendants of Africans who agreed to fight for the Republic. Sonthonax’s August 29, 1793 proclamation formalized the general emancipation in the Northern Province.</p>
+                <bibl>Dorigny, Marcel, ed.  <title>The Abolitions of Slavery: From Leger Felicite Sonthonax to Victor Schoelcher, 1793, 1794, 1848</title> . Paris: UNESCO, 2003.</bibl>
+                <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title>  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#masha">
+                <p>Avocat au parlement de Paris à la veille de la Révolution, Léger-Félicité Sonthonax fréquente le club des Jacobins où il fait la connaissance d’Étienne Polverel et de Jacques Pierre Brissot, créateur de la <title>Société des Amis des Noirs</title>, en 1788. Nommé commissaire civil, il est envoyé avec Polverel à Saint-Domingue pour faire appliquer la loi du 4 avril 1792 reconnaissant les droits politiques des « libres de couleur ». Face aux importantes insurrections antiesclavagistes et à l’alliance hispano-britannique contre la France, les deux commissaires civils accordent de manière ponctuelle la liberté à tous les Africains et descendants d’Africains acceptant de combattre sous les drapeaux de la République. La proclamation de Sonthonax, le 29 août 1793, officialise l’émancipation générale dans la partie Nord de l’île.</p>
+                <bibl>Dorigny, Marcel, éd.  <title>Les Abolitions de l’esclavage: de L.F. Sonthonax à V. Schoelcher, 1793, 1794, 1848</title> . Paris: Presses universitaires de Vincennes, UNESCO, 1995.</bibl>
+                <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title> .  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
+            </note>
+        </person>
         <person xml:id="JHD">
             <persName xml:lang="en">Dupotet, Jean Henri Joseph</persName>
             <persName xml:lang="fr">Dupotet, Jean Henri Joseph </persName>
@@ -429,6 +452,24 @@
                 <bibl>Oudin Bastide, Caroline,  <title>Des nègres et des juges : La scandaleuse affaire Spoutourne (1831-1834)</title>   <emph>, </emph> Paris, Editions Complexe, 2008</bibl>
             </note>
         </person>
+        <person xml:id="AuA">
+            <persName xml:lang="en">Aubert-Armand, Pierre Daniel</persName>
+            <persName xml:lang="fr">Aubert-Armand, Pierre Daniel</persName>
+            <birth>1795</birth>
+            <death>1854</death>
+            <note xml:lang="en" type="Person" resp="#abel">
+                <p>Employed in the management of the King's buildings, Aubert-Armand became counselor to the royal court of Martinique, succeeding Durand-Molard in the compilation of the <emph>Code de la Martinique</emph>, containing the legislative acts relating to the colony in the 19th century.</p>
+                <p>
+                </p>
+                <bibl>"Pierre, Daniel AUBERT-ARMAND."  <emph>Geneanet</emph> , https://gw.geneanet.org/pfouchard2?lang=en&amp;n=aubert+armand&amp;p=pierre+daniel</bibl>
+            </note>
+            <note xml:lang="fr" type="Person" resp="#abel">
+                <p>Employé à l’intendance des bâtiments du Roi, il est ensuite conseiller la cour royale de la Martinique. C’est à ce titre sans doute qu’il est le continuateur du Code de la Martinique après Durand-Molard, contenant les actes législatifs portant sur cette colonie au XIXe siècle.</p>
+                <p>
+                </p>
+                <bibl>"Pierre, Daniel AUBERT-ARMAND."  <emph>Geneanet</emph> , https://gw.geneanet.org/pfouchard2?lang=en&amp;n=aubert+armand&amp;p=pierre+daniel</bibl>
+            </note>
+        </person>
         <person xml:id="ADp">
             <persName xml:lang="en">Dumas, Alexandre</persName>
             <persName xml:lang="fr">Dumas, Alexandre</persName>
@@ -455,22 +496,6 @@
                 <bibl>Daut, Marlene L. “Haiti and the Black Romantics: Enlightenment and Color Prejudice after the Haitian Revolution in Alexandre Dumas’s Georges (1843).”  <title>Studies in Romanticism</title> , vol. 56, no. 1 (2017): 73–92.</bibl>
                 <bibl>Desormeaux, Daniel. “L’amour Nègre Chez Alexandre Dumas.” In  <title>Dumas Amoureux : Formes et Imaginaires de l’Éros Dumasien</title> , edited by Julie Anselmini and Claude Schopp, 373–87. Presses universitaires de Caen, 2021.</bibl>
                 <bibl>Martone, Eric, ed.  <title>Alexandre Dumas as a French Symbol Since 1870</title> . Cambridge Scholars Publishing, 2021.</bibl>
-            </note>
-        </person>
-        <person xml:id="Stx">
-            <persName xml:lang="en">Sonthonax, Léger-Félicité</persName>
-            <persName xml:lang="fr">Sonthonax, Léger-Félicité</persName>
-            <birth>1763</birth>
-            <death>1813</death>
-            <note xml:lang="en" type="Person" resp="#masha">
-                <p>A lawyer in the <title>Parlement</title> of Paris (the regional appellate court) on the eve of the Revolution, Léger-Félicité Sonthonax frequented the Jacobin Club where he associated with Étienne Polverel and Jacques Pierre Brissot, founder of the <title>Société des Amis des Noirs</title>. He was sent with Polverel as part of the Civil Commission to Saint-Domingue to enforce the law of April 4, 1792 recognizing the political rights of free people of color. Faced with major anti-slavery insurgencies and the Spanish-British alliance against France, the two civil commissioners gradually granted freedom to all Africans and descendants of Africans who agreed to fight for the Republic. Sonthonax’s August 29, 1793 proclamation formalized the general emancipation in the Northern Province.</p>
-                <bibl>Dorigny, Marcel, ed.  <title>The Abolitions of Slavery: From Leger Felicite Sonthonax to Victor Schoelcher, 1793, 1794, 1848</title> . Paris: UNESCO, 2003.</bibl>
-                <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title>  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#masha">
-                <p>Avocat au parlement de Paris à la veille de la Révolution, Léger-Félicité Sonthonax fréquente le club des Jacobins où il fait la connaissance d’Étienne Polverel et de Jacques Pierre Brissot, créateur de la <title>Société des Amis des Noirs</title>, en 1788. Nommé commissaire civil, il est envoyé avec Polverel à Saint-Domingue pour faire appliquer la loi du 4 avril 1792 reconnaissant les droits politiques des « libres de couleur ». Face aux importantes insurrections antiesclavagistes et à l’alliance hispano-britannique contre la France, les deux commissaires civils accordent de manière ponctuelle la liberté à tous les Africains et descendants d’Africains acceptant de combattre sous les drapeaux de la République. La proclamation de Sonthonax, le 29 août 1793, officialise l’émancipation générale dans la partie Nord de l’île.</p>
-                <bibl>Dorigny, Marcel, éd.  <title>Les Abolitions de l’esclavage: de L.F. Sonthonax à V. Schoelcher, 1793, 1794, 1848</title> . Paris: Presses universitaires de Vincennes, UNESCO, 1995.</bibl>
-                <bibl>Dubois, Laurent.  <title>Avengers of the New World: The Story of the Haitian Revolution</title> .  (Cambridge, Mass: Belknap Press of Harvard University Press, 2004).</bibl>
             </note>
         </person>
         <person xml:id="Lass">
@@ -863,24 +888,6 @@
                 </p>
                 <bibl>Louis, Abel Alexis,  <emph>Les libres de couleur en Martinique. De septembre 1802 aux débuts de la Restauration</emph> , Paris, L’Harmattan, 2012</bibl>
                 <bibl>Delaporte Arnal, Patrick, "Louis FABIEN."  <emph>Geneanet</emph> , https://gw.geneanet.org/softloft?lang=fr&amp;n=fabien&amp;p=louis</bibl>
-            </note>
-        </person>
-        <person xml:id="AuA">
-            <persName xml:lang="en">Aubert-Armand, Pierre Daniel</persName>
-            <persName xml:lang="fr">Aubert-Armand, Pierre Daniel</persName>
-            <birth>1795</birth>
-            <death>1854</death>
-            <note xml:lang="en" type="Person" resp="#abel">
-                <p>Employed in the management of the King's buildings, Aubert-Armand became counselor to the royal court of Martinique, succeeding Durand-Molard in the compilation of the <emph>Code de la Martinique</emph>, containing the legislative acts relating to the colony in the 19th century.</p>
-                <p>
-                </p>
-                <bibl>"Pierre, Daniel AUBERT-ARMAND."  <emph>Geneanet</emph> , https://gw.geneanet.org/pfouchard2?lang=en&amp;n=aubert+armand&amp;p=pierre+daniel</bibl>
-            </note>
-            <note xml:lang="fr" type="Person" resp="#abel">
-                <p>Employé à l’intendance des bâtiments du Roi, il est ensuite conseiller la cour royale de la Martinique. C’est à ce titre sans doute qu’il est le continuateur du Code de la Martinique après Durand-Molard, contenant les actes législatifs portant sur cette colonie au XIXe siècle.</p>
-                <p>
-                </p>
-                <bibl>"Pierre, Daniel AUBERT-ARMAND."  <emph>Geneanet</emph> , https://gw.geneanet.org/pfouchard2?lang=en&amp;n=aubert+armand&amp;p=pierre+daniel</bibl>
             </note>
         </person>
     </listPerson>
