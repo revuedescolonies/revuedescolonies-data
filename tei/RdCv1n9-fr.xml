@@ -46,87 +46,74 @@
         </front>
         <body>
             <div>
-<pb n="3" facs="v1n9p3"/>
-                <head n="Revue des colonies.">REVUE DES COLONIES.</head>
+<pb n="3" facs="v1n9p3"/><head n="Revue des colonies.">REVUE DES COLONIES.</head>
                 <!--syntaxe pour le trait de séparation?-->
-<div xml:id="budget">
-                    <head n="Du budget de la marine et des colonies.">
-                        DU BUDGET DE LA MARINE ET DES COLONIES.
-                    </head>
-                     <p>
-                     Le budget de la marine pour 1856, service des <placeName ref="#clns">colonies</placeName>, contient la demande d'une somme de 598,600 fr. en sus de la somme votée pour 1835, afin de pouvoir augmenter le personnel des troupes dans les <placeName ref="#clns">colonies</placeName>, se fondant sur les demandes réitérées, des gouverneurs et des conseils coloniaux,  <emph>lesquels représentent</emph> dit le rapport du ministre au roi: <q><emph>que la mise à exécution, dans les colonies britanniques, du <bibl ref="legal">bil d'émancipation des esclaves</bibl> sera probablement pour les agitateurs des <placeName ref="#clns">colonies</placeName> française le signal de nombreuses entreprises contre la paix publique, et que ces entreprises seront effectuées avec d'autant plus d'audace que les moyens de répression seraient reconnus plus faible (1).</emph> Le ministre ajoute : Je dois déclarer à votre majesté que je considérerais nos <placeName ref="#clns">colonies</placeName> comme étant exposées de toutes parts, si ces diverses <choice><sic>représenatations</sic><corr>représentations</corr></choice> restaient sans effet.</q>
-                     </p>
-
-                    <p>
-                     En consequence le ministre demande cent gendarmes pour la <placeName ref="#MQ">Martinique</placeName> et de la <placeName ref="#GP">Guadeloupe</placeName>. Il y a actuellement dans chaque <placeName ref="#clns">colonies</placeName> une compagnie de cinquante gendarme environ.
-                     </p> 
-
-                     <p>
-                     <q> La gendarmerie, dit le ministre, est aux <placeName ref="#ANTE">Antille</placeName> d'une telle <choice><sic>utitlité</sic><corr>utilité</corr></choice> que cet accroissement 
-                     permettra d’ajourner l'augmentation de l’effectif des régimens d’infanterie qui y tiennent garnison. Pour l’île de <placeName ref="#BrB">Bourbon</placeName>, un renfort de deux cent quarante « hommes d’infanterie; la garnison sera ainsi forte de trois cent quarante hommes : le voisinage de <placeName ref="#IM">l’île anglaise Maurice</placeName> n’est pas moins inquiétant que celui des <placeName ref="#clns-angl">possessions anglaises des Antilles</placeName>. </q>
-                </p>
-                <p>
-                     Pour la <placeName ref="#GF">Guyane</placeName>, qui doit se prémunir contre les effets du <q>voisinage de <placeName ref="#DEMRA">Démérary</placeName>et qui a toujours à exercer une surveillance armée à l’égard des noirs marrons de <placeName ref="#SU">Surinam</placeName>, 
-                     un renfort de soixante hommes d’infanterie.
-                </p>
-                <p>
-                     <note xml:id="note1" type="footnote"><p>(1) La peine de mort.</p></note>
-                </p>
-
-                <p>
-<pb n="4" facs="v1n9p4"/> <q> La dépense à laquelle il faudra subvenir pour les deux compagnies de gendarmerie, traitement d’<placeName ref="#EUR">Europe</persName>, 
-                    sera de 256,788 f. </q>
-                </p>
-                <p>
-                     Pour les deux cent quarante hommes d’infanterie de <placeName ref="#BrB">Bourbon</placeName> , de...........164,000
+<div xml:id="budget"> <head n="Du budget de la marine et des colonies.">DU BUDGET DE LA MARINE ET DES COLONIES.</head>
+                 <p>
+                 Le budget de la marine pour 1856, service des <placeName ref="#clns">colonies</placeName>, contient la demande d'une somme de 598,600 fr. en sus de la somme votée pour 1835, afin de pouvoir augmenter le personnel des troupes dans les <placeName ref="#clns">colonies</placeName>, se fondant sur les demandes réitérées, des gouverneurs et des conseils coloniaux,  <emph>lesquels représentent</emph> dit le rapport du ministre au roi: <q><emph>que la mise à exécution, dans les colonies britanniques, du <bibl ref="legal">bil d'émancipation des esclaves</bibl> sera probablement pour les agitateurs des <placeName ref="#clns">colonies</placeName> française le signal de nombreuses entreprises contre la paix publique, et que ces entreprises seront effectuées avec d'autant plus d'audace que les moyens de répression seraient reconnus plus faible (1).</emph> Le ministre ajoute : Je dois déclarer à votre majesté que je considérerais nos <placeName ref="#clns">colonies</placeName> comme étant exposées de toutes parts, si ces diverses <choice><sic>représenatations</sic><corr>représentations</corr></choice> restaient sans effet.</q>
                  </p>
-                <p>
-                     Pour les soixante hommes d'infanterie de la « <placeName ref="#GF">Guyane</placeName>, de...........44,500
-                </p>
-                <p>
-                     Outre ce crédit, par un projet de loi particulier, présenté à la <orgName ref="#CHD">chambre des députés</orgName> le <date>30 janvier</date>, le ministre demande encore un 
-                     crédit extraordinaire de 450,000 fr. pour la présente année <date>1855</date>, et cela par les mêmes motifs de crainte qu’il a fait valoir dans 
-                     le budget de <date>1836</date>.
-                </p>
-                <p>
-                     Telles sont sans plus de considérations les raisons alléguées par l’amiral ministre en faveur de ce surcroît de crédit demandé sur le budget 
-                     des <placeName ref="#clns">colonies</placeName>. Préoccupé comme il l’est qu’il ne se fasse point d’entreprise contre la <emph>paix publique</emph>, qui est celle d’un très petit 
-                     nombre de privilégiés, <persName ref="GVD">M. Duperré</persName> semble ne pas prévoir l'émancipation prochaine des esclaves. Pour lui cette question est comme 
-                     si elle n’était pas ; en revanche tout ce qui est de nature à comprimer les malheureux noirs lui paraît fort opportun. Les hommes à qui l’esclavage profite 
-                     directement, que l’esclavage fait riches et heureux, se sont émus en apprenant qu’à leurs portesl’émancipation avait été proclamée en principe et que 
-                     toutes les forces d’une grande nation en poursuivaient glorieusement la réalisation; et ces propriétaires d'hommes ont senti je ne sais quel effroi vague les saisir: 
-                     ils ont douté de Dieu, qui permettait cet horrible affranchissement; de la Providence , qui prêtait la main à ce qu’il s’accomplit sans tous ces troubles dont 
-                     on s’était fait de sanglans fantômes ; et ils se sont senti chanceler sur le terrain de leurs vieilles et hideuses prérogatives ; et au lieu de se confesser 
-                     coupables de <choice><sic>lèze-humanité</sic><corr>lèse-humanité</corr><choice> et de demander d’eux-mêmes qu’on imite le généreux exemple de l’<placeName ref="#ANG">Angleterre</placeName>, ils ont comme tiré le canon d’alarme, 
-                     et les voilà qui appellent les soldats français à leur aide.
-                </p> 
-                <p>
-                     L’admirable politique du ministère actuel, de ce ministère si apprécié dans la <placeName ref="#METFR">métropole</placeName>, a parfaitement compris ce langage de la peur ;
-                      à l’intérieur, il doit tout à cette bonne déesse, et il était naturel qu’il s’empressât de lui faire droit aux <placeName ref="#clns">colonies</placeName>. Aussi voyez , c’est un véritable cordon 
-                      sanitaire contre ce funeste esprit de liberté qui tourmente le siècle, dont on veut entourer comme d’un cercle
-                </p>
-                <p>
+
+                 <p>
+                 En consequence le ministre demande cent gendarmes pour la <placeName ref="#MQ">Martinique</placeName> et de la <placeName ref="#GP">Guadeloupe</placeName>. Il y a actuellement dans chaque <placeName ref="#clns">colonies</placeName> une compagnie de cinquante gendarme environ.
+                 </p> 
+
+                 <p>
+                 <q> La gendarmerie, dit le ministre, est aux <placeName ref="#ANTE">Antille</placeName> d'une telle <choice><sic>utitlité</sic><corr>utilité</corr></choice> que cet accroissement permettra d’ajourner l'augmentation de l’effectif des régimens d’infanterie qui y tiennent garnison. Pour l’île de <placeName ref="#BrB">Bourbon</placeName>, un renfort de deux cent quarante « hommes d’infanterie; la garnison sera ainsi forte de trois cent quarante hommes : le voisinage de <placeName ref="#IM">l’île anglaise Maurice</placeName> n’est pas moins inquiétant que celui des <placeName ref="#clns-angl">possessions anglaises des Antilles</placeName>. </q>
+                 </p>
+
+                 <p>
+                 <q> Pour la <placeName ref="#GF">Guyane</placeName>, qui doit se prémunir contre les effets du voisinage de <placeName ref="#DEMRA">Démérary</placeName>et qui a toujours à exercer une surveillance armée à l’égard des noirs marrons de <placeName ref="#SU">Surinam</placeName>, un renfort de soixante hommes d’infanterie.</q>
+                 </p>
+
+                 <p>
+                     <note xml:id="note1" type="footnote">(1) La peine de mort.</note>
+                 </p>
+
+<pb n="4" facs="v1n9p4"/> 
+                 <p>
+                 <q> La dépense à laquelle il faudra subvenir pour les deux compagnies de gendarmerie, traitement d’<placeName ref="#EUR">Europe</placeName>, sera de 256,788 f. </q>
+                 </p>
+
+                 <p>
+                 <q>Pour les deux cent quarante hommes d’infanterie de <placeName ref="#BrB">Bourbon</placeName> , de...........164,000</q>
+                 </p>
+
+                 <p>
+                 <q>Pour les soixante hommes d'infanterie de la « <placeName ref="#GF">Guyane</placeName>, de...........44,500</q>
+                 </p>
+
+                 <p>
+                 Outre ce crédit, par un projet de loi particulier, présenté à la <orgName ref="#CHD">chambre des députés</orgName> le <date>30 janvier</date>, le ministre demande encore un crédit extraordinaire de 450,000 fr. pour la présente année <date>1855</date>, et cela par les mêmes motifs de crainte qu’il a fait valoir dans le budget de <date>1836</date>.
+                 </p>
+
+                 <p>
+                 Telles sont sans plus de considérations les raisons alléguées par l’amiral ministre en faveur de ce surcroît de crédit demandé sur le budget des <placeName ref="#clns">colonies</placeName>. Préoccupé comme il l’est qu’il ne se fasse point d’entreprise contre la <emph>paix publique</emph>, qui est celle d’un très petit nombre de privilégiés, <persName ref="GVD">M. Duperré</persName> semble ne pas prévoir l'émancipation prochaine des esclaves. Pour lui cette question est comme si elle n’éta pas ; en revanche tout ce qui est de nature à comprimer les malheureux noirs lui paraît fort opportun. Les hommes à qui l’esclavage profite directement, que l’esclavage fait riches et heureux, se sont émus en apprenant qu’à leurs portesl’émancipation avait été proclamée en principe et que toutes les forces d’une grande nation en poursuivaient glorieusement la réalisation; et ces propriétaires d'hommes ont senti je ne sais quel effroi vague les saisir: ils ont douté de Dieu, qui permettait cet horrible affranchissement; de la Providence , qui prêtait la main à ce qu’il s’accomplit sans tous ces troubles dont on s’était fait de <choice><orig>sanglans</orig><reg>sanglants</reg></choice> fantômes ; et ils se sont senti chanceler sur le terrain de leurs vieilles et hideuses prérogatives ; et au lieu de se confesser coupables de <choice><sic>lèze-humanité</sic><corr>lèse-humanité</corr><choice> et de demander d’eux-mêmes qu’on imite le généreux exemple de l’<placeName ref="#ANG">Angleterre</placeName>, ils ont comme tiré le canon d’alarme, et les voilà qui appellent les soldats français à leur aide.
+                 </p> 
+
+                 <p>
+                 L’admirable politique du ministère actuel, de ce ministère si apprécié dans la <placeName ref="#METFR">métropole</placeName>, a parfaitement compris ce langage de la peur ; à l’intérieur, il doit tout à cette bonne déesse, et il était naturel qu’il s’empressât de lui faire droit aux <placeName ref="#clns">colonies</placeName>. Aussi voyez , c’est un véritable cordon sanitaire contre ce funeste esprit de liberté qui tourmente le siècle, dont on veut entourer comme d’un cercle
+                     </p>
+                     <p>
 <pb n="5" facs="v1n9p5"/> d’airain tous ces hommes noirs qui revendiquent leur réintégration dans la grande famille humaine.
-                </p>
-                <p>
-                      La force, voilà le grand moyen du gouvernement! Hélas! nous l’avons dit : La force a ses heures et ses jours, et ses terribles alternatives aussi! 
-                </p>
-                <p>
-                      Ainsi voilà encore sur cette question le ministère en opposition 
-                      avec les principes de l’avenir; le voilà qui, contre toute raison, veut contrarier la marche ascendante du siècle ! 
-                </p> 
-                <p>
-                     <q>  La libération des esclaves, dans les <placeName ref="#clns">possessions anglaises</placeName>,
-                      dit <bibl type="periodical"><title ref="#lBS">le Bon Sens</title></bibl>, a dû faire pressentir à tous les hommes sensés 
-                      un « pareil événement, volontaire ou forcé, dans nos <placeName ref="#clns">colonies</placeName> ; aussi
-                      ne sont-ce pas des baïonnettes qu’il faut y envoyer, mais un bill d'emancipation. </q> 
-                </p>
+                 </p>
+                  
+                 <p>
+                 La force, voilà le grand moyen du gouvernement! Hélas! nous l’avons dit : La force a ses heures et ses jours, et ses terribles alternatives aussi! 
+                 </p>
+
+                 <p>
+                 Ainsi voilà encore sur cette question le ministère en opposition avec les principes de l’avenir; le voilà qui, contre toute raison, veut contrarier la marche ascendante du siècle ! 
+                 </p> 
+
+                 <p>
+                 <q> La libération des esclaves, dans les <placeName ref="#clns">possessions anglaises</placeName>, dit <bibl type="periodical"><title ref="#lBS">le Bon Sens</title></bibl>, a dû faire pressentir à tous les hommes sensés un « pareil événement, volontaire ou forcé, dans nos <placeName ref="#clns">colonies</placeName> ; aussi ne sont-ce pas des baïonnettes qu’il faut y envoyer, mais un bill d'emancipation. </q> 
+                 </p>
+
                  <p>   
                  Point, on n'en fera rien ; le même entêtement qui perd les affaires ici, qui les aggrave d'inextricables difficultés, les veut perdre aux <placeName ref="#clns">colonies</placeName> ; il faut se résigner à cette lutte nouvelle, et n'y point faire faute : c'est de trop haut que la question a été posée pour ne pas être vidée. Cette affaire va soulever de toutes parts les objections et les réponses ; il est impossible que la presse française, que l'élite de nos publicistes et de nos hommes d'état, qui vient de fonder l'<orgName ref="#SAE">société pour l'abolition de l'esclavage</orgName> ; il est impossible que la discussion qui va s'ouvrir au sein même des <orgName ref="#CHD">chambres</orgName>, ne préparent le triomphe contre l'esprit rétrograde de quelque part qu'il vienne. Nous avons confiance surtout aux <choice><orig>philantropes</orig><reg>philanthropes</reg></choice> <choice><orig>éminens</orig><reg>éminents</reg></choice> de la <orgName ref="#SAE">société pour l'abolition de l'esclavage</orgName> : ils n'ont pas fait ce pas pour reculer. Qu'il nous soit permis toutefois en finissant de déplorer la fatalité qui semble pousser les colons privilégiés : on dirait qu'ils ont pris à tâche de rendre toute réconciliation impossible entre les opprimés et les oppresseurs ; qu'ils se plaisent à préparer un combat à mort entre les deux races. Insensés ! qui ne comprennent pas tout ce qu'a de puissance l'esprit de liberté ; qui traitent la liberté d'illusoire pour en conserver le monopole, et se fient aux <choice><sic>baillonette</sic><corr>baïonnettes</corr></choice> comme si ces mêmes baïonnettes ne pouvaient être providentiellement là toutes prêtes pour leur imposer un jour la libération des noirs de par le peuple français, pour prêter main forte à cette expropriation forcée d'une nature nouvelle, pour cause d'utilité publique et humanitaire. La civilisation a de ces retours imprévus, et à la longue ils ne manquent pas à la cause du bon droit et de la raison.
                  </p>
 
 <pb n="6" facs="v1n9p6"/>
-</div>
 
 <div xml:id= "habitations">
     
@@ -188,8 +175,6 @@
 <pb n="8" facs="v1n9p8"/>
 
 
-                 </div>
-
 <div xml:id="justice-criminelle"><head n="De la justice criminelle.(premier article.)"><seg>DE LA JUSTICE CRIMINELLE.</seg> (Second article.)</head>
                  
                  <p>
@@ -209,11 +194,11 @@
                  </p> 
                  
                  <p>
-                    <q>  Je pars de la supposition que les jugemens doivent toujours être pris à la majorité des suffrages, et je dis que lorsqu’on va aux voix sans que le fait soit constaté <emph>il est très commun que celui qui a la majorité en sa faveur soit condamné.</emph> En effet chaque juge en donnant son avis peut être déterminé soit par la vérité des allégations, c’est à dire par le fait, soit par la force des principes, c’est à dire par la loi. Un certain nombre de juges peut être déterminé par la première de ces considérations, les autres par la seconde ; et cependant lors de la collecte des voix ils sont obligés de se réunir à deux avis, sans quoi la majorité relative ou la minorité réelle déciderait la question. Alors le juge qui croit le fait sur et la loi douteuse, et celui qui croit la loi claire et le fait douteux, sont comptés ensemble pour la même opinion, quoiqu’ils diffèrent d’avis du blanc au noir, et l’accusé, qui aurait en sa faveur la majorité sur le droit et la majorité sur le fait, serait cependant condamné. </q>
+                    <q> Je pars de la supposition que les jugemens doivent toujours être pris à la majorité des suffrages, et je dis que lorsqu’on va aux voix sans que le fait soit constaté <emph>il est très commun que celui qui a la majorité en sa faveur soit condamné.</emph> En effet chaque juge en donnant son avis peut être déterminé soit par la vérité des allégations, c’est à dire par le fait, soit par la force des principes, c’est à dire par la loi. Un certain nombre de juges peut être déterminé par la première de ces considérations, les autres par la seconde ; et cependant lors de la collecte des voix ils sont obligés de se réunir à deux avis, sans quoi la majorité relative ou la minorité réelle déciderait la question. Alors le juge qui croit le fait sur et la loi douteuse, et celui qui croit la loi claire et le fait douteux, sont comptés ensemble pour la même opinion, quoiqu’ils diffèrent d’avis du blanc au noir, et l’accusé, qui aurait en sa faveur la majorité sur le droit et la majorité sur le fait, serait cependant condamné. </q>
                  </p>
 
                  <p>
-                    <q>  Pierre se plaint de termes injurieux proférés contre lui par Paul. Ilen apporte la preuve, ou bien cette preuve aura été ordonnée par les premiers juges. Il y a quinze juges; sur ces quinze, neuf sont d’avis que la preuve est concluante, mais sur ces neuf, cinq pensent que les termes n’expriment pas une véritable injure. Les six autres juges trouvent les termes injurieux, mais qu’il n’est pas prouvé qu’ils aient été dits. Pierre avait donc pour lui le fait, neuf juges contre six ; sur le droit, dix juges contre cinq : cependant les cinq qui ne voient pas d'injures, quoiqu’ils voient la preuve, et les six qui voient l’injure et non la preuve sont comptés ensemble. Cela fait onze contre quatre ; il est condamné. </q>
+                 <q>  Pierre se plaint de termes injurieux proférés contre lui par Paul. Ilen apporte la preuve, ou bien cette preuve aura été ordonnée par les premiers juges. Il y a quinze juges; sur ces quinze, neuf sont d’avis que la preuve est concluante, mais sur ces neuf, cinq pensent que les termes n’expriment pas une véritable injure. Les six autres juges trouvent les termes injurieux, mais qu’il n’est pas prouvé qu’ils aient été dits. Pierre avait donc pour lui le fait, neuf juges contre six ; sur le droit, dix juges contre cinq : cependant les cinq qui ne voient pas d'injures, quoiqu’ils voient la preuve, et les six qui voient l’injure et non la preuve sont comptés ensemble. Cela fait onze contre quatre ; il est condamné. </q>
                  </p> 
 
                  <p>
@@ -221,21 +206,26 @@
 
 <pb n="10" facs="v1n9p10"/>
 
-                    vent témoin </emph> , et l’habitude peut seule nous familiariser avec lui. <q>  
+                 vent témoin </emph> , et l’habitude peut seule nous familiariser avec lui. <q>  
                  
-                 <p> On sait en effet que <persName ref="#Dprt">Duport</persName> avait appartenu au parlement. Il connaissait mieux que personne les abus de l'ancien pouvoir judiciaire, car il joignait une longue expérience pratique aux vastes spéculations d’un génie élevé. Aussi le vertueux législateur parlait avec autorité ; la démonstration fut complète, saisissante pour tous ses auditeurs; néanmoins, comme elle était nouvelle, avant de la présenter à l’<orgName ref="#AN">assemblée nationale</orgName> <persName ref="#Dprt">Duport</persName>, dans une défiance de lui- même qui n’appartient qu’au vrai mérite, <emph>consulta le plus fameux géomètre de celle époque, dit-il, <persName ref="#LeCond">M. le marquis de Condorcet</persName>, qui eut la bonté d’assurer quelle était parfaitement exacte</emph>. Ainsi c’est, comme nous le disions, la certitude mathématique elle-même qui s’attache à cette démonstration.
+                 <p> 
+                 On sait en effet que <persName ref="#Dprt">Duport</persName> avait appartenu au parlement. Il connaissait mieux que personne les abus de l'ancien pouvoir judiciaire, car il joignait une longue expérience pratique aux vastes spéculations d’un génie élevé. Aussi le vertueux législateur parlait avec autorité ; la démonstration fut complète, saisissante pour tous ses auditeurs; néanmoins, comme elle était nouvelle, avant de la présenter à l’<orgName ref="#AN">assemblée nationale</orgName> <persName ref="#Dprt">Duport</persName>, dans une défiance de lui- même qui n’appartient qu’au vrai mérite, <emph>consulta le plus fameux géomètre de celle époque, dit-il, <persName ref="#LeCond">M. le marquis de Condorcet</persName>, qui eut la bonté d’assurer quelle était parfaitement exacte</emph>. Ainsi c’est, comme nous le disions, la certitude mathématique elle-même qui s’attache à cette démonstration.
                  </p> 
                  
-                 <p> Voilà ce qui existait dans la <placeName ref="#FR">France</placeName> continentale avant l’établissement du jury. Voilà ce qui existe dans la <placeName ref="#FR">France</placeName> d’<sic>outremer</sic>, puisque les <emph>assesseurs</emph> et les <emph>juges</emph> y prononcent en commun sur le fait et sur la peine. Effrayant abus, bien plus encore que surprenant et bizarre! <q>  Peut-on sans frémir, s’écrie encore ce citoyen « vertueux dont nous aimons à rappeler la mémoire, <emph>peut-on sans « frémir penser un moment que tous les arrêts de mort auraient pu « avoir été rendus à la minorité des voix</emph>, et QU'UN GRAND NOMBRE L'A ÉTÉ CERTAINEMENT!  </q>
+                 <p> 
+                 Voilà ce qui existait dans la <placeName ref="#FR">France</placeName> continentale avant l’établissement du jury. Voilà ce qui existe dans la <placeName ref="#FR">France</placeName> d’<sic>outremer</sic>, puisque les <emph>assesseurs</emph> et les <emph>juges</emph> y prononcent en commun sur le fait et sur la peine. Effrayant abus, bien plus encore que surprenant et bizarre! <q>  Peut-on sans frémir, s’écrie encore ce citoyen « vertueux dont nous aimons à rappeler la mémoire, <emph>peut-on sans « frémir penser un moment que tous les arrêts de mort auraient pu « avoir été rendus à la minorité des voix</emph>, et QU'UN GRAND NOMBRE L'A ÉTÉ CERTAINEMENT!  </q>
                  </p>
                  
-                 <p>Cette terreur de l’honnête homme, c’est aux <placeName ref="#clns">colonies</placeName> surtout qu’elle serre le cœur. Là VINGT-SIX accusés sont pendus en exécution d’un même arrêt ! à QUATRE-VINGT-SEPT autres un seul et même arrêt inflige la mort, le bagne, l’exil perpétuel ! Nous l’avons déjà dit vingt fois peut-être, mais de pareilles calamités publiques seront-elles jamais assez déplorées!
+                 <p>
+                 Cette terreur de l’honnête homme, c’est aux <placeName ref="#clns">colonies</placeName> surtout qu’elle serre le cœur. Là VINGT-SIX accusés sont pendus en exécution d’un même arrêt ! à QUATRE-VINGT-SEPT autres un seul et même arrêt inflige la mort, le bagne, l’exil perpétuel ! Nous l’avons déjà dit vingt fois peut-être, mais de pareilles calamités publiques seront-elles jamais assez déplorées!
                  </p> 
                  
-                 <p> Le sang qui coule ne permet pas de retard; il faut à nos <placeName ref="#clns">colonies</placeName> leur réforme judiciaire, avant toute autre. Il faut que l’institution des assesseurs vienne à la vérité; il faut qu’elle s’élargisse, quelle prenne base sur les principes essentiels du jugement criminel, qu’en un mot elle ne se ressemble plus à elle-même et devienne le <emph>jury</emph>. Il n’est pas une affaire arrivant des cours d’assises coloniales à la <orgName ref="#CDC">cour de cassation</orgName> qui ne provoque ce vœu de tous les hommes sages et éclairés.
+                 <p>
+                 Le sang qui coule ne permet pas de retard; il faut à nos <placeName ref="#clns">colonies</placeName> leur réforme judiciaire, avant toute autre. Il faut que l’institution des assesseurs vienne à la vérité; il faut qu’elle s’élargisse, quelle prenne base sur les principes essentiels du jugement criminel, qu’en un mot elle ne se ressemble plus à elle-même et devienne le <emph>jury</emph>. Il n’est pas une affaire arrivant des cours d’assises coloniales à la <orgName ref="#CDC">cour de cassation</orgName> qui ne provoque ce vœu de tous les hommes sages et éclairés.
                  </p> 
                  
-                 <p> Sans doute des objections peuvent être fai tes; quelle mesure de politique ou d’administration manque jamais de contradicteurs,
+                 <p>
+                 Sans doute des objections peuvent être fai tes; quelle mesure de politique ou d’administration manque jamais de contradicteurs,
 
 <pb n="11" facs="v1n9p11"/>
 
@@ -257,9 +247,8 @@
                  AD.<persName ref="#Gatine">GATINE</persName>, avocat à la <orgName>Cour royale</orgName>.
                  </p>
 
-                 </div>          
- 
-            <div xml:id="colonie-d-alger"><head n="colonie d'alger">COLONIE D'<placeName ref="#Alg">ALGER</placeName>.</head>
+                         
+ <div xml:id="colonie-d-alger"><head n="colonie d'alger">COLONIE D'<placeName ref="#Alg">ALGER</placeName>.</head>
 
                  <p>
                  L’idée première que ce mot <emph>colonie</emph> a voulu d’abord exprimer s’est compliquée tellement sous l’influence des phénomènes sociaux qu’il devient de plus en plus difficile de s'entendre sur mille questions très graves, soulevées par le temps à l’occasion des <placeName ref="#clns">colonies</placeName> ; le temps, ou plutôt la nécessité, selon toute apparence, et non la sagesse des hommes, se chargera de les résoudre. 
@@ -376,8 +365,6 @@
              <p>
              En vérité, nos adversaires ont encore beaucoup à faire pour nous démontrer les dangers de l’émancipation pour la paix publique, aussi bien que les conséquences ruineuses pour les esclaves eux- mêmes, qui accompagneraient un acte delà législature, lequel donnerait la liberté aux esclaves, leur assurerait les bénéfices de leur industrie, les éleverait de la condition de meubles ou de bêtes de somme, à celle d’hommes libres d’employer leur temps, leur vigueur, leurs veilles, leur corps et leur esprit, non pas au profit de quelques-uns, mais au leur propre, sous la protection de lois justes et égales pour tout le monde.
 
-</div>
-
 <pb n="20" facs="v1n9p20"/>
 
 <div type="section" xml:id="Mauguin"><head>M. <persName ref="#FMaug">MAUGUIN</persName>.</head>
@@ -431,8 +418,6 @@
                  <p>
                  Que fera-t-il, l'homme? Il n’y a que deux partis pour lui : quitter sa place ou se taire. Nous espérons que M. <persName ref="#FMaug">Mauguin</persName> parlera.
                  </p>
-
-</div>
 
 <pb n="23" facs="v1n9p23"/>
 
@@ -502,7 +487,7 @@
                  </p> 
 
                  <p>
-                 Comparons, messieurs, la condition actuelle des esclaves avec leur situation primitive. Le peuple de <placeName ref="#suma">Sumatra</placeName> vit dans une indépendance complète. Ceux d’entre les <persName ref="#ba-1">Bastas</persName> qui avoisinent la mer ont quelquefois des relations avec les Hollandais ; mais les <persName ref="#ba-1">Bastas</persName> de l’intérieur, qui n’ont jamais vu un blanc, vivent dans l’état sauvage, se battent continuellement entre eux, et mangent leurs prisonniers. Les oreilles et l’intérieur des mains des hommes sont considérés chez eux comme un met très délicat ; aussi le destine-t- on au roi, qui s’en régale avec un assaisonnement de sel et de poivre.
+                 Comparons, messieurs, la condition actuelle des esclaves avec leur situation primitive. Le peuple de <placeName ref="#suma">Sumatra</placeName> vit dans une indépendance complète. Ceux d’entre les <persName ref="#ba-1">Bastas</persName> qui avoisinent la mer ont quelquefois des relations avec les Hollandais ; mais les <persName ref="#ba-1">Bastas</persName> de l’intérieur, qui n’ont jamais vu un blanc, vivent dans l’état sauvage, se battent continuellement entre eux, et mangent leurs prisonniers. Les oreilles et l’intérieur des mains des hommes sont considérés chez eux comme un met très délicat ; aussi le destine-t-on au roi, qui s’en régale avec un assaisonnement de sel et de poivre.
                  </p>
 
                  <p>
@@ -581,8 +566,6 @@
                  <p>
                  La <orgName ref="#CHD">chambre</orgName> consultée rejette l’ordre du jour, et se prononce pour le renvoi, à une grande majorité.
                  </p>
-                 
-</div>
 
 <div xml:id="societe-fr-abolition-esclavage"><head n="societe-fr-abolition-esclavage"> <orgName ref="#SAE">SOCIÉTÉ FRANÇAISE POUK L’ABOLITION DE L’ESCLAVAGE</orgName>.</head>
 
@@ -814,7 +797,7 @@
 
 <div xml:id="colonies-etrangeres"><head n="colonies-etrangeres">COLONIES ÉTRANGÈRES.</head>
 
-    <div xml:id="antigue"><head n="antigue">ANTIGUE.</head>
+<div xml:id="antigue"><head n="antigue">ANTIGUE.</head>
  
                  <p>
                  La question si controversée de l’émancipation immédiate des esclaves ou de l’apprentissage à temps pour se racheter, a été pour la colonie d'<placeName ref="#ANT">Antigue</placeName> entièrement résolue dans le premier sens, le plus libéral à la fois et le plus rationnel. Plus de deux cents barriques de sucre ont été embarquées de cette île pour l'<placeName ref="#ANG">Angleterre</placeName>; ces sucres sont d’une qualité si supérieure à ceux provenant précédemment du travail des esclaves, qu’il a été offert pour une partie 62 <emph>shellings</emph> par quintal.
@@ -831,7 +814,7 @@
                  libre est meilleur marché pour lui que le travail de l’esclave; et qu’en consentant à l’émancipation immédiate et absolue des noirs, il a non seulement agi dans l’intérêt de ceux-ci, mais encore augmenté ses propres revenus.
                  </p>
 
-    <div xml:id="jamaique"><head n="jamaique">JAMAÏQUE.</head> 
+<div xml:id="jamaique"><head n="jamaique">JAMAÏQUE.</head> 
 
                  <p>
                  Une enquête minutieuse a eu lieu sur la question de savoir si l’apprentissage des noirs émancipés était pratiquable ou non. Un grand nombre de planteurs ont été entendus à cet égard, leur dépositions isolées offrent de grandes contradictions; mais en les résumant toutes dans son rapport au <persName ref="#willi-IV">le roi d’Angleterre</persName>, le gouverneur- général delà <placeName ref="#JA">Jamaïque</placeName> annonce que :  <q> Les noirs sont parfaitement tranquilles ; qu’il n’a pas eu aucun acte insurrectionnel à leur reprocher et que leur conduite dément le témoignage des planteurs sur leur lui bulence ; qu’au contraire ils travaillent sur les habitations le nombre d’heures fixé par la loi, qu’ils ont manifesté leur intention de continuer ainsi, mais qu’ils ne veulent travailler à aucun prix pendant le temps qui leur est laissé. » Le gouverneur ajoute, « qu’il lui paraît évident que les noirs savent parfaitement distinguer leurs amis de leurs ennemis; ceux qui ont eu soin d’eux en des temps qi ine sont plus, de ceux qui ne les ont considérés que comme des bêtes de somme ; ceux qui ont résolu de rendre l’apprentissage aussi léger que possible de ceux qui veulent le rendre aussi intolérable que l’esclavage lui-même. </q>
@@ -843,7 +826,7 @@
                  <p>
                  Le gouverneur en prorogeant le 28 janvier l’assemblée législative a déclaré que <q> suivant les rapports qu’il recevait de tous côtés il y avait les plus fortes raisons de croire que la tranquillité ne serait troublée nulle part, et que les mesures de précaution que son devoir lui avait commandé d’adopter avaient été exécutées sans le moindre danger. Il a ajouté que les noirs étaient revenus au sentiment de leurs devoirs et qu’ils étaient partout disposés à travailler. </q> 
 
-    <div xml:id="trinidad"><head n="trinidad">TRINIDAD.</head>
+<div xml:id="trinidad"><head n="trinidad">TRINIDAD.</head>
                  <p>    
                  Une lettre qui nous a été communiquée d’un négociant français établi au <placeName ref="#PE">port d’Espagne</placeName> et écrite au mois de novembre dernier, contient le passage suivant : <quote> Les apparences de la nouvelle récolte
 
@@ -851,7 +834,7 @@
                  sont brillantes, les apprentis sont très assidus à leurs devoirs et la colonie jouit d’une parfaite tranquillité.</quote>
                  </p> 
 
-    <div xml:id="cap-de-bonne-esperance"><head n="cap-de-bonne-esperance">CAP DE BONNE-ESPÉRANCE.</head>
+<div xml:id="cap-de-bonne-esperance"><head n="cap-de-bonne-esperance">CAP DE BONNE-ESPÉRANCE.</head>
 
                  <p>
                  Le 1 er décembre 1854, jour de la mise à exécution du bill dans cette partie des possessions britanniques, l’abolition de l’esclavage et le commenc ement de l’apprentissage ont été célébrés dans un banquet public par les principaux habitans de la ville du Cap. Les esclaves nouvellement affranchis ont rédigé ce même jour une adresse fort remarquable où ils manifestent un esprit d’ordre et de sagesse vraiment admirable.
@@ -907,11 +890,11 @@
                  </p> 
 
                  <p>
-                 <<persName ref="#LePell">M. Lepelletier Duclary</persName>, conseiller à la cour royale de la <placeName ref="#MQ">Martinique</placeName>, a été nommé président de ladite cour en remplacement de M. Perrinelle-Dumay. M. Le Royer Dubisson, <emph>lieutenant de juge</emph> au <placeName ref="#FoR">Fort-Royal</placeName>, a été nommé procureur du roi à <placeName ref="#StP">Saint-Pierre</placeName>, en remplacement de <persName ref="#AuA">M. Aubert-Armand</persName>. M. Transnon, conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, a été nommé aux mêmes fonctions à la <placeName ref="#MQ">Martinique</placeName> en remplacement de M. Olivier. 
+                 <persName ref="#LePell">M. Lepelletier Duclary</persName>, conseiller à la cour royale de la <placeName ref="#MQ">Martinique</placeName>, a été nommé président de ladite cour en remplacement de M. Perrinelle-Dumay. M. Le Royer Dubisson, <emph>lieutenant de juge</emph> au <placeName ref="#FoR">Fort-Royal</placeName>, a été nommé procureur du roi à <placeName ref="#StP">Saint-Pierre</placeName>, en remplacement de <persName ref="#AuA">M. Aubert-Armand</persName>. M. Transnon, conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, a été nommé aux mêmes fonctions à la <placeName ref="#MQ">Martinique</placeName> en remplacement de M. Olivier. 
                  </p>
 
                  <p>
-                 <persName ref="#Gib">M. Gibelin</persName>, conseiller à la cour royale de la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName> a été nommé président de la dite cour en remplacement de M. Persezol, dont la démission a été forcée. <persName ref="#CDejean">M. Dejean</persName>, procureur du roi, près le tribunal de première instance de <placeName ref="#Cay">Cayenne</placeName>, a été nommé conseiller à la cour royale en remplacement de <persName>M. Gibelin</persName>. <persName ref="#Dal">M. Dalican</persName>, conseiller auditeur à la Cour royale a été nommé procureur du roi, en remplacement de <persName ref="#CDejean">M. Dejean</persName>. M Pujo, juge auditeur à <placeName ref="#StP">Saint-Pierre</placeName> <placeName ref="#MQ">Martinique</placeName>, a été nommé conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, en remplacement de M. Transnon. M. Cheveux, juge auditeur à la <placeName ref="#B-T">Basse-Terre</placeName> <placeName ref="#GP">Guadeloupe</placeName>, a été nommé conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, en remplacement de <persName ref="#Dal">M. Dalican</persName>.
+                 <persName ref="#Gib">M. Gibelin</persName>, conseiller à la cour royale de la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName> a été nommé président de la dite cour en remplacement de M. Persezol, dont la démission a été forcée. <persName ref="#CDejean">M. Dejean</persName>, procureur du roi, près le tribunal de première instance de <placeName ref="#Cay">Cayenne</placeName>, a été nommé conseiller à la cour royale en remplacement de M. Gibelin. <persName ref="#Dal">M. Dalican</persName>, conseiller auditeur à la Cour royale a été nommé procureur du roi, en remplacement de <persName ref="#CDejean">M. Dejean</persName>. M Pujo, juge auditeur à <placeName ref="#StP">Saint-Pierre</placeName> <placeName ref="#MQ">Martinique</placeName>, a été nommé conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, en remplacement de M. Transnon. M. Cheveux, juge auditeur à la <placeName ref="#B-T">Basse-Terre</placeName> <placeName ref="#GP">Guadeloupe</placeName>, a été nommé conseiller auditeur à la <placeName ref="#GF"><choice><orig>Guiane</orig><reg>Guyane</reg></choice></placeName>, en remplacement de <persName ref="#Dal">M. Dalican</persName>.
                  </p>
 
                  <p>
@@ -984,27 +967,7 @@
                  <p>
                  Notre première feuille venait d’être tirée lorsque nous nous sommes aperçus d’une faute grave commise à la page 12 à la suite du nom de I honorable <persName ref="#Gatine">M. Gatine</persName> ; lisez : AVOCAT A <orgName ref="#CDC">LA COUR DE CASSATION</orgName>, au lieu de : <emph>Avocat à la cour royale </emph>.
                  </p>
-
-
-
-
-
-
-
-
-
-
-                
-
-
-
-
 </div>
-
-
-
-
-
     </div>
     </body>
     </text>
